@@ -1,0 +1,31 @@
++++
+title = "Schedule"
+draft = false
+author = false
+toc = false
+[menu.main]
+  weight = 3002
+  identifier = "schedule"
++++
+
+This is a tentative schedule. Check the [assignments](http://phil871.colinmclear.net/assignments) page for the most current
+information.
+
+| Week &nbsp;&nbsp; | Date&nbsp;&nbsp;&nbsp; | Material                                     |
+|-------------------|------------------------|----------------------------------------------|
+| 1                 | 8.21                   | Kant&rsquo;s Critical Project                |
+| 2                 | 8.28                   | The Ideality of Space and Time               |
+| 3                 | 9.4                    | No Class                                     |
+| 4                 | 9.11                   | Which A Priori Concepts are Fundamental?     |
+| 5                 | 9.18                   | The Transcendental Deduction I               |
+| 6                 | 9.25                   | The Transcendental Deduction II              |
+| 7                 | 10.2                   | The Deduction & Transition to the Principles |
+| 8                 | 10.9                   | Defending Causation                          |
+| 9                 | 10.16                  | No Class - Fall Break                        |
+| 10                | 10.23                  | The Dialectic of Reason                      |
+| 11                | 10.30                  | The Paralogisms                              |
+| 12                | 11.6                   | Freedom in the Third Antinomy                |
+| 13                | 11.13                  | Groundwork I                                 |
+| 14                | 11.20                  | Groundwork II                                |
+| 15                | 11.27                  | Groundwork III                               |
+| 16                | 12.4                   | The Unity of Reason                          |
