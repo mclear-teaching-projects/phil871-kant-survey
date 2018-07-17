@@ -1,6 +1,6 @@
 # Homepage
 
-This repository contains the source for the course website  [phil871.colinmclear.net](phil871.colinmclear.net).
+This repository contains the source for the course website [phil871.colinmclear.net](https://phil871.colinmclear.net).
 
 ## License
 
