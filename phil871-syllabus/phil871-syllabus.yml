@@ -121,5 +121,5 @@ sansfont: Optima
 fontsize: 11pt
 lang: English
 geometry: letterpaper, textwidth=6in, textheight=8.5in, marginparsep=7pt, marginparwidth=.6in
-header-color: \#0099ff
+header-color: \#FF6600
 ---

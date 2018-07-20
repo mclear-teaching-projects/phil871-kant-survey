@@ -2,6 +2,7 @@
 title = "Week 2 - The Ideality of Space & Time"
 publishDate = 2018-08-28T00:00:00-04:00
 draft = true
+weight = -100
 author = false
 toc = false
 type = "post"

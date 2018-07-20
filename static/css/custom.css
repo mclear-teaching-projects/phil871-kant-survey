@@ -33,6 +33,45 @@ h3 {
   font-variant: small-caps;
 }
 
+a.label.label-primary  {
+    background-color: #c9c9c9;
+}
+
+a.label.label-primary:hover {
+    background-color: black;
+}
+
+/* links */
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    /* color: #afaeae; */
+    border-bottom: 0px #000;
+    text-decoration: none;
+}
+
+a:active {color: #afaeae;}
+
+.col-sm-9 a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+#tag-cloud a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+/* .fa  { */
+/*     color: black; */
+/*     text-decoration: none; */
+/* } */
+
+/* .fa:a {border-bottom: 0px;} */
+
 .footer {
     font-size: 14px;
     position:absolute;
@@ -49,9 +88,70 @@ body > .container {
   padding-bottom:90px;   /* Height of the footer */
 }
 
+.content  a {
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+}
+
+.content a:hover {
+    color: black;
+    border-bottom: 1px solid #000;
+    text-decoration: none;
+}
+
+nav > ul > li {
+  list-style: none;
+}
+
+
+.footer a:hover {
+    color: black;
+    border-bottom: 1px solid #000;
+    text-decoration: none;
+}
+
+.panel a {
+    border-bottom: 0px #000;
+    text-decoration: none;
+
+}
+
 /* avoid padding for page title on the simple content pages */
 header.hat {
   padding: 0px;
+}
+
+/* navbar */
+nav.navbar.navbar-default.navbar-fixed-top {
+    background-color: #FF6600; 
+    border-color: #FF6600;
+}
+
+/* nav.navbar.navbar-default.navbar-fixed-top  a { */
+/*     padding: 15px; */
+/* } */
+
+nav.navbar.navbar-default.navbar-fixed-top .active a {
+    background-color: #e55b00; 
+}
+
+nav.navbar.navbar-default.navbar-fixed-top a:hover {
+    background-color: #e55b00; 
+
+}
+
+#navbar.navbar-collapse.collapse.in .active a {
+    background-color: #e55b00; 
+}
+
+#navbar.navbar-collapse.collapse.in a:hover {
+    background-color: #e55b00; 
+
+}
+
+.navbar-default .navbar-toggle:hover {
+    background-color: #e55b00; 
+
 }
 
 .navbar-title {
@@ -128,17 +228,23 @@ code.has-jax {font: inherit;
   background: inherit;
   border: inherit;}
 
-/* navbar */
 
-/* /\* Change navbar color *\/ */
-/* .navbar-default .navbar-nav { */
-/*     /\* orange *\/ */
-/*     background-color: #FF6600 !important; */
-/*     border-color: #FF6600; */
+/*   nav.navbar.navbar-default.navbar-fixed-top { */
+/*   background-color: #FF0000; */
 /* } */
 
-/* /\* Change list items color *\/ */
-/* .navbar-default .navbar-nav > li > a { */
-/* color: #000000;/\* CHANGE COLOR HERE*\/ */
+/* /\* Change navbar color *\/ */
+
+/*     /\* light blue *\/ */
+/*     /\* background-color: #39B3DD;  *\/ */
+/*     /\* border-color: #39B3DD; *\/ */
+
+/*     /\* Yellow *\/ */
+/*     /\* background-color: #F7D708; *\/ */
+/*     /\* border-color: #F7D708: *\/ */
+
+/*     /\* Green *\/ */
+/*     /\* background-color: #21B6A8; *\/ */
+/*     /\* border-color: #21B6A8; *\/ */
 /* } */
 

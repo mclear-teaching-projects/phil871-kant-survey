@@ -26,7 +26,7 @@ toc = false
 
 -   [Jim Pryor&rsquo;s](http://www.jimpryor.net) guides to [reading](http://www.jimpryor.net/teaching/guidelines/reading.html) and [writing](http://www.jimpryor.net/teaching/guidelines/writing.html) philosophy
 -   [Purdue Online Writing Lab](http://owl.english.purdue.edu/owl/)
--   [A Guide to Philosophical Writing](http://writingproject.fas.harvard.edu/files/hwp/files/philosophical_writing.pdf)
+-   [A Guide to Philosophical Writing](http://writingproject.fas.harvard.edu/files/hwp/files/philosophical%5Fwriting.pdf)
 -   [Writing a Thesis Statement](https://www.dropbox.com/s/lyods0bt22x8u6l/ThesisOverview.pdf?dl=0)
 -   [Philosophy Paper Structure](https://www.dropbox.com/s/eaggc570nfu6nqa/PaperStructure.pdf?dl=0)
 

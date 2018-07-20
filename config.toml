@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://phil871.colinmclear.net/"
 title           = "PHIL 871"
 theme           = "bootstrap-premium"
 paginate        = 10
@@ -36,15 +36,20 @@ customCSS = [ "/css/custom.css" ]
   # default, flatly, journal,  lumen, paper, readable, sandstone, simplex,
   # slate, spacelab, superhero, united, yeti.
 name = "cosmo"  # default, flatly, united, cosmo
-inverse = "navbar-inverse"  # choose between navbar-inverse and navbar-default
+inverse = "navbar-default"  # choose between navbar-inverse and navbar-default
 
 [menu]
   [[menu.main]]
   identifier = "Assignments"
   name       = "Assignments"
   url        = "/assignments/"
-  weight     = 1
+  weight     = -100
 
+  [[menu.main]]
+  identifier = "Notes"
+  name       = "Notes"
+  url        = "/Notes/"
+  weight     = 1
 
   [[menu.main]]
   identifier = "rss"

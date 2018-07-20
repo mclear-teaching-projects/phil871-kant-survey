@@ -2,8 +2,8 @@
     {{ if and .IsPage (and (ne .Params.toc false) .TableOfContents) }}
     <section class="panel panel-default">
         <div class="panel-heading"><b>Table of contents</b></div>
-        <div style="padding: 5px 0px">
-            {{ .TableOfContents }}
+        <div id="toc" style="padding: 5px 0px">
+            {{ .TableOfContents | replaceRE "<ul>[[:space:]]*<li>[[:space:]]*<ul>" "<ul>" | replaceRE "</ul>[[:space:]]*</li>[[:space:]]*</ul>" "</ul>" |  safeHTML }}
         </div>
     </section>
     {{ end }}
