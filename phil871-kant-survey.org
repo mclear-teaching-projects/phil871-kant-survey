@@ -4310,9 +4310,10 @@ particular, the issue of "synthetic a priori" judgment.
 - Preface (Second Edition), Bxii-xliv (Guyer & Wood, 106-124) &
   Introduction (Second Edition), B1-30 (Guyer & Wood, 136-52) to the
   /Critique of Pure Reason/
-- (Optional) Van Cleve, "[[https://www.dropbox.com/s/xkwnhakotbmeuop/vancleve1999_necessity%2C_analyticity%2C_and_the_a_priori.pdf?dl=0][Necessity, Analyticity, and the A Priori]]"
+- Hogan, "[[https://www.dropbox.com/s/k0na1riar2eyxez/hogan2013_metaphysical_motives_of_kant%2527s_analytic%25E2%2580%2593synthetic_distinction.pdf?dl=0][Metaphysical Motives of Kant's Analytic/Synthetic Distinction]]"
+- (Recommended) Van Cleve, "[[https://www.dropbox.com/s/xkwnhakotbmeuop/vancleve1999_necessity%2C_analyticity%2C_and_the_a_priori.pdf?dl=0][Necessity, Analyticity, and the A Priori]]"
 - (Optional) SEP entry on [[http://plato.stanford.edu/entries/kant-development/][Kant's Philosophical Development]]
-- [[file:static/materials/handouts/handout1.pdf][Handout]]
+# - [[file:static/materials/handouts/handout1.pdf][Handout]]
   
 
 **** Questions
