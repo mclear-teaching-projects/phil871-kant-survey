@@ -5,6 +5,7 @@ paginate        = 10
 copyright       = "Colin McLear"
 DisqusShortname = ""
 enableRobotsTXT = true
+googleAnalytics = "UA-30497236-1"
 
 [permalinks]
   post = "/:section/:year/:month/:title/"
@@ -55,3 +56,5 @@ inverse = "navbar-default"  # choose between navbar-inverse and navbar-default
   identifier = "rss"
   name       = "RSS"
   url        = "/assignments/index.xml"
+
+
