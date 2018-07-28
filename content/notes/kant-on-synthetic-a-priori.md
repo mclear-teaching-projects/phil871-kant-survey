@@ -340,7 +340,7 @@ judgment isn't analytically true.
 
 ## References {#references}
 
-<div id="refs .references">
+<div id="refs" class="references">
   <div></div>
 
 
@@ -365,7 +365,7 @@ New Haven: Yale University Press.
 
 Anderson, R Lanier. 2005. "The Wolffian Paradigm and Its Discontents:
 Kants Containment Definition of Analyticity in Historical Context."
-*Archiv Für Geschichte Der Philosophie* 87 (7): 22--74.
+*Archiv für Geschichte der Philosophie* 87 (7): 22--74.
 
 </div>
 
@@ -427,5 +427,4 @@ and Phenomenological Research* 70 (3): 588--612.
 
 </div>
 
-
-</div> <!-- ending references -->
+</div>
