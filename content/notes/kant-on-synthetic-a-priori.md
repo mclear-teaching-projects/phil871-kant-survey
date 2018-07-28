@@ -26,7 +26,7 @@ Reason*, as well as the moral philosophy of the *Groundwork for the
 Metaphysics of Morals* and the *Critique of Practical Reason*. There are
 certain aspects of Kant's project in the *Critique of Pure Reason* that
 should be very familiar to those with knowledge of prominent European
-philosophers of the 17\^th and 18\^th centuries. For example, like
+philosophers of the 17th and 18th centuries. For example, like
 Descartes, Locke, and Hume, Kant wishes to articulate the nature and
 extent of human knowledge, and to do so in a manner which proceeds from
 an analysis of the nature of human cognitive capacities. Kant believes
@@ -360,12 +360,12 @@ New Haven: Yale University Press.
 
 </div>
 
-<div id="ref-anderson2005a">
+<div id="ref-anderson2005">
   <div></div>
 
-Anderson, R Lanier. 2005. "Neo-Kantianism and the Roots of
-Anti-Psychologism." *British Journal for the History of Philosophy* 13
-(2): 287--323.
+Anderson, R Lanier. 2005. "The Wolffian Paradigm and Its Discontents:
+Kants Containment Definition of Analyticity in Historical Context."
+*Archiv Für Geschichte Der Philosophie* 87 (7): 22--74.
 
 </div>
 
@@ -373,7 +373,15 @@ Anti-Psychologism." *British Journal for the History of Philosophy* 13
   <div></div>
 
 Beck, Lewis White. 1955. "Can Kant's Synthetic Judgments Be Made
-Analytic?" *Kant-Studien* 47 (1-4): 168--81.
+Analytic." *Kant-Studien* 47 (1-4): 168--81.
+
+</div>
+
+<div id="ref-beck1956">
+  <div></div>
+
+---------. 1956. "Kant's Theory of Definition." *The Philosophical
+Review* 65 (2): 179--91.
 
 </div>
 
@@ -385,26 +393,11 @@ Harvard University Press.
 
 </div>
 
-<div id="ref-beck1972">
+<div id="ref-beck1978d">
   <div></div>
 
----------. 1972. "Lovejoy as A Critic of Kant." *Journal of the History
-of Ideas* 33 (3): 471.
-
-</div>
-
-<div id="ref-beck1978c">
-  <div></div>
-
----------. 1978a. "Did the Sage of Königsberg Have No Dreams?" In
-*Essays on Kant and Hume*, 38--60. New Haven: Yale University Press.
-
-</div>
-
-<div id="ref-beck1978">
-  <div></div>
-
----------. 1978b. *Essays on Kant and Hume*. New Haven: Yale University
+---------. 1978. "Analytic and Synthetic Judgments Before Kant." In
+*Essays on Kant and Hume*, 82--100. New Haven, CT: Yale University
 Press.
 
 </div>
@@ -414,6 +407,15 @@ Press.
 
 Gardner, Sebastian. 1999. *Kant and the Critique of Pure Reason*.
 London: Routledge.
+
+</div>
+
+<div id="ref-hogan2013">
+  <div></div>
+
+Hogan, Desmond. 2013. "Metaphysical Motives of Kant's
+Analytic--Synthetic Distinction." *Journal of the History of Philosophy*
+51 (2): 267--307.
 
 </div>
 

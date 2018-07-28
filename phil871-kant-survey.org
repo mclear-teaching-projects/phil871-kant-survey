@@ -9,7 +9,7 @@
 
 
 * Handouts                                                                      :noexport:
-** DONE Handout Week 1 Kant's Project                                         :ignore:
+** DRAFT Handout Week 1 Kant's Project                                        
 :PROPERTIES:
 :EXPORT_TITLE: Kant's Project
 :EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/handout1.pdf
@@ -49,7 +49,6 @@
 
 - Kant's strategy is answer (1) and (2) by means of (3)
     
-  
 *** Cognition & Judgment
 
 - Cognition (/Erkenntnis/): :: A conscious representation of an object that is
@@ -94,11 +93,20 @@ general. (Prolegomena §22, 4:304)
    :END:
 
 - Leibniz/Wolff conception of truth as `containment'
-- Empiricist theory of truth (Locke & Hume)[fn:4]
+- Empiricist theory of truth (e.g. Locke & Hume)[fn:4][fn:28]
   - agreement between ideas
     - universal/necessary/a priori
   - correspondence of ideas to facts
     - contingent, local, a posteriori
+
+[fn:28] All the objects of human reason or enquiry may naturally be divided
+into two kinds, to wit, relations of ideas and matters of fact. Of the first
+kind are the sciences of geometry, algebra, and arithmetic; and in short,
+every affirmation which is either intuitively or demonstratively
+certain...Matters of fact, which are the second objects of human reason, are not
+ascertained in the same manner; nor is our evidence of their truth, however
+great, of a like nature with the foregoing. The contrary of every matter of
+fact is still possible [@hume2007, 28]. 
 
 *** Kant on the A Priori
   :PROPERTIES:
@@ -109,6 +117,7 @@ general. (Prolegomena §22, 4:304)
   - we need experience in order for our cognitive faculties to develop
   - experience is necessary for concept acquisition
 - All a priori knowledge is characterized by its universality and necessity
+- A priori knowledge is knowledge of a thing from its ground or cause
 
 *** Kant on the Analytic/Synthetic Distinction
   :PROPERTIES:
@@ -129,38 +138,6 @@ Kant characterizes the analyticity of judgment in four different ways:
 4. Analytic judgments are those knowable by means of application of the
    principle of non-contradiction (A151/B190)
 
-**** Containment Analyticity
-   :PROPERTIES:
-   :CUSTOM_ID: containment-analyticity
-   :END:
-
-- Logical division by /differentia/ in terms of species/genus
-  distinction\footnote{\textbf{Logical Division}:
-  \includegraphics{/Users/Roambot/Pictures/ConceptDivision.jpg}}
-  1. The division of a genus is /complete/ --- the various species of a
-     genus, taken together, /exhaust/ the genus
-  2. Membership in a species is /exclusive/ --- no species may be
-     predicated of another
-- Intensional conception of logical containment
-  - /Content/: the group of intensional concepts (marks) that a concept
-    "contains in" itself as components
-  - /Extension/: the group of lower, or more specific, concepts a
-    concept "contains under" itself
-  - content & extension are related to one another /reciprocally/[fn:7]
-- For one concept to 'contain' another is to have that concept as a
-  member of its extension in a strict hierarchical ordering of
-  genus/species relationships where concepts are distinguished according
-  to their (non-overlapping) /differentia/
-
-**** Analyticity & Definition
-   :PROPERTIES:
-   :CUSTOM_ID: analyticity-definition
-   :END:
-
-- Are analytic truths true by definition?
-- Can a synthetic judgment be converted to an analytic judgment by
-  modification of a definition?[fn:8]
-
 **** The Problem of Synthetic A Priori Knowledge
    :PROPERTIES:
    :CUSTOM_ID: the-problem-of-synthetic-a-priori-knowledge
@@ -171,14 +148,45 @@ Kant characterizes the analyticity of judgment in four different ways:
   analysis[fn:9]
   - propositions of mathematics (physics & arithmetic)
   - propositions of natural science (Newtonian mechanics)
-- How are synthetic a priori judgments so much as possible?
 
 
-**** Two Questions
-1. How are synthetic a priori judgments possible?
+1. How are synthetic a priori judgments so much as /possible/?
 2. What is the extent of our synthetic a priori knowledge? 
    * Must we have synthetic a priori knowledge to explain knowledge of even
      the most basic relationships between elements of reality?[fn:10]
+
+     
+*** Questions & Problems for Kant
+
+**** Analyticity & Definition
+   :PROPERTIES:
+   :CUSTOM_ID: analyticity-definition
+   :END:
+
+- Are analytic truths true by definition?
+- Can a synthetic judgment be converted to an analytic judgment by
+  modification of a definition?[fn:8]
+
+     
+**** Containment -- Subjective or Objective? 
+   :PROPERTIES:
+   :CUSTOM_ID: containment-analyticity
+   :END:
+
+- Maass's challenge -- what non-subjective criteria can we give for "what is
+  thought" in a subject concept?[fn:29]
+  - If no non-subjective criteria can be given then it is possible that there
+    are no fundamentally or irreducibly synthetic judgments
+- Possible replies from Kant
+  - Distinguish analytic from synthetic based on /logical features/ of concepts
+    - Logical division by /differentia/ in terms of species/genus
+      distinction\footnote{\textbf{Logical Division}: \includegraphics{/Users/Roambot/Pictures/ConceptDivision.jpg}}
+  - Distinguish analytic from synthetic based on proof of "objective reality"
+    of concept
+      
+
+[fn:29] the judgment in question, analytic for me, may be synthetic for another; insofar as one thinks this, another that, one more, another less, in a given concept (@maass1789, 188–89)
+
 
 *** The 'Copernican Revolution' & Transcendental Idealism
   :PROPERTIES:
@@ -198,7 +206,7 @@ Kant characterizes the analyticity of judgment in four different ways:
   :CUSTOM_ID: further-references
   :CLASS: unnumbered
   :END:
-#+nocite: @allison1973; @allison2004; @beck1955; @beck1969; @beck1972; @beck1978; @beck1978c; @gardner1999; lovejoy1906a; @van-cleve1999 
+  #+nocite: @allison1973; @allison2004; @beck1955; @beck1969; @beck1972; @beck1978; @beck1978c; @gardner1999; lovejoy1906a; @vancleve1999; @hogan2013
 
 \setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
 \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
@@ -236,8 +244,11 @@ Kant characterizes the analyticity of judgment in four different ways:
        that fundamental material until long practice has made us
        attentive to it and skilled in separating it out. (B1-2)
 
-[fn:6] the predicate B belongs to the subject A as something that is
-       (covertly) contained in this concept A (A6/B10)
+[fn:6] In all judgments in which the relation of a subject to the predicate is
+thought...this relation is possible in two different ways. Either the predicate
+/B/ belongs to the subject /A/ as something that is (covertly) contained in this
+concept /A/; or /B/ lies entirely outside the concept /A/, though to be sure it
+stands in connection with it. (A6/B10)
 
 [fn:7] *Logical Reciprocity*:
 
@@ -4311,6 +4322,7 @@ particular, the issue of "synthetic a priori" judgment.
   Introduction (Second Edition), B1-30 (Guyer & Wood, 136-52) to the
   /Critique of Pure Reason/
 - Hogan, "[[https://www.dropbox.com/s/k0na1riar2eyxez/hogan2013_metaphysical_motives_of_kant%2527s_analytic%25E2%2580%2593synthetic_distinction.pdf?dl=0][Metaphysical Motives of Kant's Analytic/Synthetic Distinction]]"
+  (especially §§1-4)
 - (Recommended) Van Cleve, "[[https://www.dropbox.com/s/xkwnhakotbmeuop/vancleve1999_necessity%2C_analyticity%2C_and_the_a_priori.pdf?dl=0][Necessity, Analyticity, and the A Priori]]"
 - (Optional) SEP entry on [[http://plato.stanford.edu/entries/kant-development/][Kant's Philosophical Development]]
 # - [[file:static/materials/handouts/handout1.pdf][Handout]]
@@ -4679,7 +4691,7 @@ theoretical reason.
 :EXPORT_HUGO_SECTION: notes
 :EXPORT_HUGO_PANDOC_CITATIONS: t
 :EXPORT_HUGO_PAIRED_SHORTCODES: %mdshortcode myshortcode
-:EXPORT_BIBLIOGRAPHY: /Users/roambot/Dropbox/Work/master.bib
+:EXPORT_BIBLIOGRAPHY: /Users/roambot/Dropbox/Work/All.bib
 :EXPORT_HUGO_WEIGHT: 0
 :END:
 
@@ -4691,9 +4703,9 @@ SCHEDULED: <2018-08-21 Tue>
 :PROPERTIES:
 :EXPORT_HUGO_TAGS: modern kant a-priori
 :EXPORT_FILE_NAME: kant-on-synthetic-a-priori
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type post :nocite '(@allison1973 @allison2004 @beck1955 @beck1969 @beck1972 @beck1978 @beck1978c @gardner1999 lovejoy1906a @van-cleve1999) 
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type post :nocite '(@allison1973 @allison2004 @beck1955 @beck1956 @beck1978d @beck1969 @gardner1999 lovejoy1906a @van-cleve1999 @proops2005 @hogan2013)
 :END:
-
+ 
 #  1.  The distinction between pure and empirical knowledge
 #  2.  We have some items of a priori knowledge, and even the common
 #      understanding is never without them
@@ -4720,7 +4732,7 @@ We'll be primarily focusing on Kant's project in the /Critique of Pure Reason/,
 as well as the moral philosophy of the /Groundwork for the Metaphysics of
 Morals/ and the /Critique of Practical Reason/. There are certain aspects of
 Kant's project in the /Critique of Pure Reason/ that should be very familiar to
-those with knowledge of prominent European philosophers of the 17^th and 18^th
+those with knowledge of prominent European philosophers of the 17th and 18th
 centuries. For example, like Descartes, Locke, and Hume, Kant wishes to
 articulate the nature and extent of human knowledge, and to do so in a manner
 which proceeds from an analysis of the nature of human cognitive capacities.
@@ -4896,7 +4908,7 @@ analytic judgment the predicate is
    principle of non-contradiction
 
 Which, if any of these markers is best thought of as the main characteristic
-of an analytic judgment? This is a disputed issue (cf. @anderson2005a;
+of an analytic judgment? This is a disputed issue (cf. @anderson2005;
 @proops2005), though certainly, in all cases Kant is thinking of ‘atomic'
 judgments of subject-predicate form.
 
@@ -5866,7 +5878,7 @@ against Hume's argument.
 #+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufteII.tex
 #+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
 #+EXCLUDE_TAGS: notes scrap todo
-#+BIBLIOGRAPHY: ~/Dropbox/Work/Master.bib
+#+BIBLIOGRAPHY: ~/Dropbox/Work/All.bib
 
 
 ** COMMENT Local Variables                                                    :ARCHIVE:
