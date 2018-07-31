@@ -5050,14 +5050,18 @@ This certainly doesn't reflect our experience when calculating such sums,
 which may yield further evidence that the judgment isn't analytically true.
 
 *** DRAFT Kant's 'Copernican Revolution'
+SCHEDULED: <2018-08-28 Tue>
 :PROPERTIES:
 :EXPORT_HUGO_TAGS: modern kant a-priori
 :EXPORT_FILE_NAME: kant-copernican-revolution
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type post 
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type post :nocite '(@guyer2014 @allison2004 @gardner1999 @van-cleve1999 @hogan2010)
 :END:
 
-In a famous passage Kant compares his critical philosophy to the central
-contribution on Nicolas Copernicus.
+**** The Copernican Turn
+
+In a famous passage in the second edition of the /Critique of Pure Reason/ Kant
+makes an analogy between the strategy pursued by his critical philosophy and
+the central contribution of Nicolas Copernicus.
 
 #+BEGIN_QUOTE
   Up to now it has been assumed that all our cognition must conform to
@@ -5082,7 +5086,7 @@ in the heavens in terms of the movement of the earthbound observer, so
 too Kant attempts to account for the apparent characteristics of objects
 in terms of our cognitive faculties and the cognitive conditions under
 which we know the objective world. In Kantian phrase, instead of
-assuming that our knowledge of the object must conform it /it/, we
+assuming that our knowledge of the object must conform to /it/, we
 assume that it conforms to /our knowledge/.
 
 **** Transcendental Idealism
@@ -5096,17 +5100,18 @@ it.
 First, according to Transcendental Idealism, space and time are neither
 independent subsisting entities (as was suggested by Newton), nor
 object-dependent orders of relations between entities (as was argued by
-Leibniz). Instead, they are mind-dependent ‘forms of intuition.' They
-are the characteristic ways in which we experience things rather than
-either being independent things that we experience, or relations between
-things that we experience. Space and time are ‘empirically real' ---
-they are fundamental features of the empirical world that we experience.
-But they are not real ‘in themselves.' They have no ultimate reality
-apart from our capacity for experience.
+Leibniz). Instead, they are mind-dependent 'forms of intuition.' They are thus
+understood in terms of the characteristic ways in which we experience things
+rather than either being mind-independent things that we experience, or
+relations between mind-independent things that we experience. Kant argues that
+space and time are nevertheless 'empirically real' --- they are fundamental
+features of the empirical world that we experience. But they are not real ‘in
+themselves.' They have no ultimate reality apart from our capacity for
+experience.
 
 Second, in addition to the transcendental ideality of space and time, to
 which all experienced objects must conform, Kant argues that empirical
-reality is itself structured by a privileged set of a priori concepts.
+reality is itself further structured by a privileged set of a priori concepts.
 
 #+BEGIN_QUOTE
   experience itself is a kind of cognition requiring the understanding,

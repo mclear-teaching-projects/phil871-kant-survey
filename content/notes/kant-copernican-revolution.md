@@ -1,13 +1,18 @@
 +++
 title = "Kant's 'Copernican Revolution'"
+publishDate = 2018-08-28T00:00:00-04:00
 tags = ["modern", "kant", "a-priori"]
 draft = true
+weight = 0
 toc = true
 type = "post"
 +++
 
-In a famous passage Kant compares his critical philosophy to the central
-contribution on Nicolas Copernicus.
+## The Copernican Turn
+
+In a famous passage in the second edition of the *Critique of Pure
+Reason* Kant makes an analogy between the strategy pursued by his
+critical philosophy and the central contribution of Nicolas Copernicus.
 
 > Up to now it has been assumed that all our cognition must conform to
 > the objects; but all attempts to find out something about them a
@@ -30,7 +35,7 @@ in the heavens in terms of the movement of the earthbound observer, so
 too Kant attempts to account for the apparent characteristics of objects
 in terms of our cognitive faculties and the cognitive conditions under
 which we know the objective world. In Kantian phrase, instead of
-assuming that our knowledge of the object must conform it *it*, we
+assuming that our knowledge of the object must conform to *it*, we
 assume that it conforms to *our knowledge*.
 
 ## Transcendental Idealism
@@ -45,16 +50,18 @@ First, according to Transcendental Idealism, space and time are neither
 independent subsisting entities (as was suggested by Newton), nor
 object-dependent orders of relations between entities (as was argued by
 Leibniz). Instead, they are mind-dependent 'forms of intuition.' They
-are the characteristic ways in which we experience things rather than
-either being independent things that we experience, or relations between
-things that we experience. Space and time are 'empirically real' ---
-they are fundamental features of the empirical world that we experience.
-But they are not real 'in themselves.' They have no ultimate reality
-apart from our capacity for experience.
+are thus understood in terms of the characteristic ways in which we
+experience things rather than either being mind-independent things that
+we experience, or relations between mind-independent things that we
+experience. Kant argues that space and time are nevertheless
+'empirically real' --- they are fundamental features of the empirical
+world that we experience. But they are not real 'in themselves.' They
+have no ultimate reality apart from our capacity for experience.
 
 Second, in addition to the transcendental ideality of space and time, to
 which all experienced objects must conform, Kant argues that empirical
-reality is itself structured by a privileged set of a priori concepts.
+reality is itself further structured by a privileged set of a priori
+concepts.
 
 > experience itself is a kind of cognition requiring the understanding,
 > whose rule I have to presuppose in myself before any object is given
@@ -85,3 +92,44 @@ concerning objects encountered in experience. What's more, Kant argues
 that because a priori concepts are necessary for experience in general,
 we can know that those concepts are applied legitimately, since he is
 taking it as obvious that we have experience.
+
+## References {#references}
+
+<div id="refs" class="references">
+  <div></div>
+
+
+<div id="ref-allison2004">
+  <div></div>
+
+Allison, Henry E. 2004. *Kant's Transcendental Idealism: Revised and
+Enlarged*. New Haven: Yale University Press.
+
+</div>
+
+<div id="ref-gardner1999">
+  <div></div>
+
+Gardner, Sebastian. 1999. *Kant and the Critique of Pure Reason*.
+London: Routledge.
+
+</div>
+
+<div id="ref-guyer2014">
+  <div></div>
+
+Guyer, Paul. 2014. *Kant*. London: Routledge.
+
+</div>
+
+<div id="ref-hogan2010">
+  <div></div>
+
+Hogan, Desmond. 2010. "Kant's Copernican Turn and the Rationalist
+Tradition." In *The Cambridge Companion to Kant's Critique of Pure
+Reason*, edited by Paul Guyer, 21--40. Cambridge: Cambridge University
+Press.
+
+</div>
+
+</div>
