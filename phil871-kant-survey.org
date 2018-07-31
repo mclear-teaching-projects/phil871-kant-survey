@@ -5146,7 +5146,7 @@ we can know that those concepts are applied legitimately, since he is
 taking it as obvious that we have experience.
 
 
-*** DRAFT The Ideality of Space (and Time)
+*** TODO The Ideality of Space (and Time)
   :PROPERTIES:
   :CUSTOM_ID: the-problem-with-space
   :END:
@@ -5201,7 +5201,7 @@ concerned with the content or nature of the representation of space. Is
 it a fundamentally intellectual (conceptual) kind of representation?
 
 Kant's first two arguments (EMT 29) run as follows:
-
+# TODO: Fix texts
 #+BEGIN_QUOTE
 
   1) Space is not an empirical concept that has been derived from outer
@@ -5545,8 +5545,8 @@ be, nor how the fact of such incongruent counterparts could entail three
 such different conclusions.
 
 
-*** DRAFT The Metaphysical Deduction of the Categories
-*** DRAFT The Transcendental Deduction of the Categories
+*** TODO The Metaphysical Deduction of the Categories
+*** TODO The Transcendental Deduction of the Categories
 **** The Problem with A Priori Concepts
   :PROPERTIES:
   :CUSTOM_ID: the-problem-with-a-priori-concepts
@@ -5683,9 +5683,10 @@ with Kant's answer to Hume regarding the objective legtimacy of the
 concept /cause/.
 
 
-*** DRAFT The Schematism
-*** DRAFT Principles of Experience
-*** DRAFT The Analogies & Kant's Defense of Causation
+
+*** TODO The Schematism
+*** TODO Principles of Experience
+*** TODO The Analogies & Kant's Defense of Causation
 **** The Second Analogy
   :PROPERTIES:
   :CUSTOM_ID: the-second-analogy
@@ -5859,14 +5860,14 @@ cognitive grasp of objective succession, it nevertheless seems effective
 against Hume's argument.
 
 
-*** DRAFT Reason & Transcendental Illusion
-*** DRAFT The Paralogisms of the Soul
-*** DRAFT The Antinomies & Transcendental Freedom
-*** DRAFT The Project of the /Groundwork/ 
-*** DRAFT The Will & Acting from Maxims
-*** DRAFT The Formulations of the Categorical Imperative
-*** DRAFT Autonomy & Freedom
-*** DRAFT Reason's Unity
+*** TODO Reason & Transcendental Illusion
+*** TODO The Paralogisms of the Soul
+*** TODO The Antinomies & Transcendental Freedom
+*** TODO The Project of the /Groundwork/ 
+*** TODO The Will & Acting from Maxims
+*** TODO The Formulations of the Categorical Imperative
+*** TODO Autonomy & Freedom
+*** TODO Reason's Unity
 
 
 * Configuration                                                                 :noexport:
