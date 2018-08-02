@@ -4230,7 +4230,7 @@ information.
 |---------+---------+----------------------------------------------|
 | Week \nbsp\nbsp | Date\nbsp\nbsp\nbsp | Material                                     |
 |---------+---------+----------------------------------------------|
-|       1 |    8.21 | Kant's Critical Project                      |
+|       1 |    8.21 | [[https://phil871.colinmclear.net/assignments/week1/][Kant's Critical Project]]                      |
 |       2 |    8.28 | The Ideality of Space and Time               |
 |       3 |     9.4 | No Class                                     |
 |       4 |    9.11 | Which A Priori Concepts are Fundamental?     |

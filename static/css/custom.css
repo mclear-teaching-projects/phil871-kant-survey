@@ -33,6 +33,7 @@ h3 {
   font-variant: small-caps;
 }
 
+/* links */
 a.label.label-primary  {
     background-color: #c9c9c9;
 }
@@ -41,7 +42,6 @@ a.label.label-primary:hover {
     background-color: black;
 }
 
-/* links */
 a {
     color: black;
     text-decoration: none;
@@ -64,6 +64,8 @@ a:active {color: #afaeae;}
     color: black;
     text-decoration: underline;
 }
+
+
 
 /* .fa  { */
 /*     color: black; */
@@ -97,6 +99,12 @@ body > .container {
     color: black;
     border-bottom: 1px solid #000;
     text-decoration: none;
+}
+
+.content .table a {
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+
 }
 
 nav > ul > li {
