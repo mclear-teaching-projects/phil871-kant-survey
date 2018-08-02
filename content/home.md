@@ -11,7 +11,7 @@ This course provides an intensive study of the metaphysical, epistemological,
 and moral doctrines of Kant&rsquo;s mature &ldquo;critical&rdquo; philosophy. Our discussion
 covers three central themes of Kant&rsquo;s work: his conception of the nature and
 limits of the rational mind; his critique of traditional metaphysics; and his
-positive conception of morality as the expression of rational agency. Specific
+conception of morality as the expression of one&rsquo;s rational agency. Specific
 topics covered include: the limits of human knowledge; the role of the mind in
 the production of experience; the reality of space and time; the nature of
 matter; reason and its ability to critique itself; knowledge of the self;
