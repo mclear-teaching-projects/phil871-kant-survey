@@ -44,3 +44,4 @@ hugo*
 
 # End of https://www.gitignore.io/api/hugo
 /phil871-kant-survey.archive.org
+*.bak

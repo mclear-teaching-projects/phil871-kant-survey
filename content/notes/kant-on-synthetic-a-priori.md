@@ -1,7 +1,7 @@
 +++
 title = "Kant on the Synthetic A Priori"
 publishDate = 2018-08-21T00:00:00-04:00
-tags = ["modern", "kant", "a-priori"]
+tags = ["judgment", "analytic-synthetic", "truth", "a-priori"]
 draft = false
 weight = 0
 toc = true
@@ -424,6 +424,14 @@ Analytic--Synthetic Distinction." *Journal of the History of Philosophy*
 
 Proops, Ian. 2005. "Kant's Conception of Analytic Judgment." *Philosophy
 and Phenomenological Research* 70 (3): 588--612.
+
+</div>
+
+<div id="ref-vancleve1999">
+  <div></div>
+
+Van Cleve, James. 1999. *Problems from Kant*. Oxford: Oxford University
+Press.
 
 </div>
 

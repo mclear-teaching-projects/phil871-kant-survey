@@ -1,7 +1,7 @@
 +++
 title = "Kant's 'Copernican Revolution'"
 publishDate = 2018-08-28T00:00:00-04:00
-tags = ["modern", "kant", "a-priori"]
+tags = ["idealism", "cognition"]
 draft = true
 weight = 0
 toc = true
@@ -128,6 +128,14 @@ Guyer, Paul. 2014. *Kant*. London: Routledge.
 Hogan, Desmond. 2010. "Kant's Copernican Turn and the Rationalist
 Tradition." In *The Cambridge Companion to Kant's Critique of Pure
 Reason*, edited by Paul Guyer, 21--40. Cambridge: Cambridge University
+Press.
+
+</div>
+
+<div id="ref-vancleve1999">
+  <div></div>
+
+Van Cleve, James. 1999. *Problems from Kant*. Oxford: Oxford University
 Press.
 
 </div>
