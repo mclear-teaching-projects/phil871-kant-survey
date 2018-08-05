@@ -58,6 +58,22 @@ a:hover {
 
 a:active {color: #afaeae;}
 
+.content  a {
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+}
+
+.content .table a {
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+}
+
+.content .table a:hover {
+    color: black;
+    border-bottom: 1px solid #000;
+    text-decoration: none;
+}
+
 .col-sm-9 a:hover {
     color: black;
     text-decoration: underline;
@@ -99,17 +115,6 @@ body > .container {
   padding-bottom:90px;   /* Height of the footer */
 }
 
-.content .table a {
-    border-bottom: 1px dotted #000;
-    text-decoration: none;
-}
-
-.content .table a:hover {
-    color: black;
-    border-bottom: 1px solid #000;
-    text-decoration: none;
-}
-
 nav > ul > li {
   list-style: none;
 }
@@ -118,6 +123,12 @@ nav > ul > li {
 .footer a:hover {
     color: black;
     border-bottom: 1px solid #000;
+    text-decoration: none;
+}
+
+#sidebar a {
+    color: black;
+    border-bottom: 0px; 
     text-decoration: none;
 }
 
