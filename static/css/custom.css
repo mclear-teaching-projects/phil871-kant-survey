@@ -58,21 +58,6 @@ a:hover {
 
 a:active {color: #afaeae;}
 
-.content  a {
-    border-bottom: 1px dotted #000;
-    text-decoration: none;
-}
-
-.content .table a {
-    border-bottom: 1px dotted #000;
-    text-decoration: none;
-}
-
-.content .table a:hover {
-    color: black;
-    border-bottom: 1px solid #000;
-    text-decoration: none;
-}
 
 .col-sm-9 a:hover {
     color: black;
@@ -90,6 +75,29 @@ a:active {color: #afaeae;}
   display: block;
   height: 60px; /* fixed header height*/
   margin: -60px 0 0; /* negative fixed header height */
+}
+
+.content  a {
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+}
+
+.content a:hover {
+    color: black;
+    border-bottom: 1px solid #000;
+    text-decoration: none;
+}
+
+
+.content .table a {
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+}
+
+.content .table a:hover {
+    color: black;
+    border-bottom: 1px solid #000;
+    text-decoration: none;
 }
 
 /* .fa  { */
