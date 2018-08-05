@@ -11,8 +11,8 @@
 {{ if eq .Site.Params.switchlang true }}
 <script src="{{ "js/js.cookie.js" | absURL }}"></script>
 {{ end }}
-<script src="{{ "js/angular.min.js" | absURL }}"></script>
-<script src="/js/popover/angular-storage.min.js"></script>
+<!-- <script src="{{ "js/angular.min.js" | absURL }}"></script>
+     <script src="/js/popover/angular-storage.min.js"></script> -->
 <script src="{{ "js/highlight.pack.js" | absURL }}"></script>
 <script src="{{ "js/site.js" | absURL }}"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -47,10 +47,10 @@ CONTENTLANGUAGE = {{ .Site.Params.DefaultContentLanguage }}; // used in pathname
 {{ if eq .Site.Params.switchlang true }}
 <script src="{{ "js/pathnamereplace.js" | absURL }}"></script>
 {{ end }}
-<script src="/js/popover/angular-modal-service.min.js"></script>
-<script src="/js/angular-ismobile.min.js"></script>
-<script src="/js/popover/popover.min.js"></script>
-
+<!-- <script src="/js/popover/angular-modal-service.min.js"></script>
+     <script src="/js/angular-ismobile.min.js"></script>
+     <script src="/js/popover/popover.min.js"></script>
+-->
 {{ if ne .Site.Params.mathjax "" }}
 <script type="text/javascript"
         src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/{{.Site.Params.mathjax}}/MathJax.js"></script>
@@ -72,14 +72,24 @@ MathJax.Hub.Config({
 </script>
 
 <script type="text/x-mathjax-config">
-  MathJax.Hub.Queue(function() {
-    for(var all in MathJax.Hub.getAllJax()) {
-        all.SourceElement().parentNode.className += ' has-jax';
+ MathJax.Hub.Queue(function() {
+     for(var all in MathJax.Hub.getAllJax()) {
+         all.SourceElement().parentNode.className += ' has-jax';
 
-    }
-});
+     }
+ });
 </script>
 {{ end }}
 {{ range .Site.Params.customJS }}
 <script type="text/javascript" src="{{ . | absURL}}"></script>
+{{ end }}
+
+<!-- Bigfoot footnotes -->
+{{ if ne .Site.Params.bigfootnotes "" }}
+<link rel="stylesheet" type="text/css" href="/css/bigfoot-number.css">
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/bigfoot.js"></script>
+<script type="text/javascript">
+    $.bigfoot();
+</script>
 {{ end }}

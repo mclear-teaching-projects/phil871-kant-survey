@@ -1,8 +1,8 @@
 +++
 title = "Kant's 'Copernican Revolution'"
-publishDate = 2018-08-28T00:00:00-04:00
+publishDate = 2018-08-21T00:00:00-04:00
 tags = ["idealism", "cognition"]
-draft = true
+draft = false
 weight = 0
 toc = true
 type = "post"
@@ -82,8 +82,8 @@ basic conceptual scheme. He explains what he means here in the last
 sentence: objects must conform to our conceptual scheme because that
 scheme makes possible the experience of such objects.
 
-Though basic elements of Kant's 'Copernican' strategy remain unclear,
-the basic idea is that Kant argues that what makes synthetic a priori
+Though elements of Kant's 'Copernican' strategy remain unclear, the
+basic idea is that Kant argues that what makes synthetic a priori
 knowledge possible is the structure of our cognitive faculties,
 including the pure forms of intuition and a privileged set of a priori
 concepts. These forms and concepts jointly make experience possible and

@@ -1,5 +1,6 @@
 +++
 title = "The Ideality of Space (and Time)"
+publishDate = 2018-08-28T00:00:00-04:00
 tags = ["idealism", "space", "time", "intuition", "incongruent-counterparts"]
 draft = true
 weight = 0

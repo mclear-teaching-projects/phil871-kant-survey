@@ -1,7 +1,7 @@
 +++
 title = "Week 1 - The Critical Project"
 publishDate = 2018-08-21T00:00:00-04:00
-tags = ["idealism", "a-priori", "metaphysics"]
+tags = ["judgment", "a priori", "analytic/synthetic", "metaphysics"]
 draft = false
 weight = -100
 author = false

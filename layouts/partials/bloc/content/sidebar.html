@@ -1,19 +1,19 @@
-<div>
+<div id="sidebar">
     {{ if and .IsPage (and (ne .Params.toc false) .TableOfContents) }}
     <section class="panel panel-default">
-        <div class="panel-heading"><b>Table of contents</b></div>
-        <div id="toc" style="padding: 5px 0px">
+        <div class="panel-heading"><b>Table of Contents</b></div>
+        <div id="toc" style="padding: 10px 2.5px 0px 0px">
             {{ .TableOfContents | replaceRE "<ul>[[:space:]]*<li>[[:space:]]*<ul>" "<ul>" | replaceRE "</ul>[[:space:]]*</li>[[:space:]]*</ul>" "</ul>" |  safeHTML }}
         </div>
     </section>
     {{ end }}
     
-  <section class="panel panel-default">
-    <div class="panel-heading">
-    <b>Recently Posted</b>
-    <div style="float: right"><a href="{{ "/assignments/" | relLangURL }}"></a></div>
-    </div>
-    <div style="padding: 5px 5px">
+    <section class="panel panel-default">
+        <div class="panel-heading">
+            <b>Recently Posted</b>
+            <div style="float: right"><a href="{{ "/assignments/" | relLangURL }}"></a></div>
+        </div>
+        <div style="padding: 10px 2.5px 0px 0px">
     <div class="content">
       <ul>
       {{ range first 10 (where (where .Site.Pages "Type" "post") "IsPage" true) }}

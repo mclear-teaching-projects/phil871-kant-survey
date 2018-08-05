@@ -1,7 +1,7 @@
 +++
 title = "Kant on the Synthetic A Priori"
 publishDate = 2018-08-21T00:00:00-04:00
-tags = ["judgment", "analytic-synthetic", "truth", "a-priori"]
+tags = ["judgment", "analytic/synthetic", "truth", "a priori"]
 draft = false
 weight = 0
 toc = true

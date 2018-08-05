@@ -18,7 +18,6 @@ tag = "tags"
 
 [params]
 canonifyURLs = true 
-
 hello = ""
 description = ""
 paginate_sections = 20
@@ -32,6 +31,12 @@ mathjax = ""
 googleplus = ""
 twitter = ""
 customCSS = [ "/css/custom.css" ]
+bigfootnotes = true
+
+[params.popover]
+# This is a highly configurable popover form.
+enablepopover = false #enable or disable popover: true/false.
+
 
 [params.theme]
 # bootswatch theme name, select one: cerulean, cosmo, cyborg, darkly,
