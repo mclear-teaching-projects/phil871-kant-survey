@@ -121,17 +121,6 @@ nav > ul > li {
     text-decoration: none;
 }
 
-.panel {
-    width:120%;
-}
-
-.panel a:hover {
-    border-bottom: 0px #000;
-    text-decoration: none;
-
-}
-
-
 #sidebar a:hover {
     color: black;
     border-bottom: 1px solid #000;
