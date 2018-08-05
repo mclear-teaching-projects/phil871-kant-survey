@@ -138,10 +138,6 @@ nav.navbar.navbar-default.navbar-fixed-top {
     border-color: #FF6600;
 }
 
-/* nav.navbar.navbar-default.navbar-fixed-top  a { */
-/*     padding: 15px; */
-/* } */
-
 nav.navbar.navbar-default.navbar-fixed-top .active a {
     background-color: #e55b00; 
 }
@@ -149,6 +145,11 @@ nav.navbar.navbar-default.navbar-fixed-top .active a {
 nav.navbar.navbar-default.navbar-fixed-top a:hover {
     background-color: #e55b00; 
 
+}
+
+/* navbar collapse colors */
+#navbar {
+    border-color: #e55b00; 
 }
 
 #navbar.navbar-collapse.collapse.in .active a {
