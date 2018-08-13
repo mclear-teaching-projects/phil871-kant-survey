@@ -4224,26 +4224,26 @@ The course syllabus is available here: [[file:static/materials/phil871-syllabus.
 This is a tentative schedule. Check the [[http://phil871.colinmclear.net/assignments][assignments]] page for the most current
 information.
 
-|---------+---------+----------------------------------------------|
-| Week \nbsp\nbsp | Date\nbsp\nbsp\nbsp | Material                                     |
-|---------+---------+----------------------------------------------|
-|       1 |    8.21 | [[https://phil871.colinmclear.net/assignments/week1/][Kant's Critical Project]]                      |
-|       2 |    8.28 | The Ideality of Space and Time               |
-|       3 |     9.4 | No Class                                     |
-|       4 |    9.11 | Which A Priori Concepts are Fundamental?     |
-|       5 |    9.18 | The Transcendental Deduction I               |
-|       6 |    9.25 | The Transcendental Deduction II              |
-|       7 |    10.2 | The Deduction & Transition to the Principles |
-|       8 |    10.9 | Defending Causation                          |
-|       9 |   10.16 | No Class - Fall Break                        |
-|      10 |   10.23 | The Dialectic of Reason                      |
-|      11 |   10.30 | The Paralogisms                              |
-|      12 |    11.6 | Freedom in the Third Antinomy                |
-|      13 |   11.13 | Groundwork I                                 |
-|      14 |   11.20 | Groundwork II                                |
-|      15 |   11.27 | Groundwork III                               |
-|      16 |    12.4 | The Unity of Reason                          |
-|---------+---------+----------------------------------------------|
+|---------+---------+-------------------------------------------------------------------------|
+| Week \nbsp\nbsp | Date\nbsp\nbsp\nbsp | Material                                                                |
+|---------+---------+-------------------------------------------------------------------------|
+|       1 |    8.21 | [[https://phil871.colinmclear.net/assignments/week1/][Kant's Critical Project]]                                                 |
+|       2 |    8.28 | The Ideality of Space and Time                                          |
+|       3 |     9.4 | No Class <br> *First* passage analysis due Friday                         |
+|       4 |    9.11 | Which A Priori Concepts are Fundamental?                                |
+|       5 |    9.18 | The Transcendental Deduction I                                          |
+|       6 |    9.25 | The Transcendental Deduction II <br> *Second* passage analysis due Friday |
+|       7 |    10.2 | The Deduction & Transition to the Principles                            |
+|       8 |    10.9 | Defending Causation                                                     |
+|       9 |   10.16 | No Class - Fall Break <br> *Third* passage analysis due Friday            |
+|      10 |   10.23 | The Dialectic of Reason                                                 |
+|      11 |   10.30 | The Paralogisms                                                         |
+|      12 |    11.6 | Freedom in the Third Antinomy <br> *Fourth* passage analysis due Friday   |
+|      13 |   11.13 | Groundwork I                                                            |
+|      14 |   11.20 | Groundwork II                                                           |
+|      15 |   11.27 | Groundwork III                                                          |
+|      16 |    12.4 | The Unity of Reason <br> *Final Papers due Friday*                        |
+|---------+---------+-------------------------------------------------------------------------|
 
 
 *** DRAFT Paper Topics
@@ -4318,7 +4318,7 @@ particular, the issue of "synthetic a priori" judgment.
 - Preface (Second Edition), Bxii-xliv (Guyer & Wood, 106-124) &
   Introduction (Second Edition), B1-30 (Guyer & Wood, 136-52) to the
   /[[file:static/materials/readings/kant1998-preface-and-introduction.pdf][Critique of Pure Reason]]/
-- Hogan, "[[https://www.dropbox.com/s/k0na1riar2eyxez/hogan2013_metaphysical_motives_of_kant%2527s_analytic%25E2%2580%2593synthetic_distinction.pdf?dl=0][Metaphysical Motives of Kant's Analytic/Synthetic Distinction]]"
+- (Recommended) Hogan, "[[https://www.dropbox.com/s/k0na1riar2eyxez/hogan2013_metaphysical_motives_of_kant%2527s_analytic%25E2%2580%2593synthetic_distinction.pdf?dl=0][Metaphysical Motives of Kant's Analytic/Synthetic Distinction]]"
   (especially §§1-4)
 - (Recommended) Van Cleve, "[[https://www.dropbox.com/s/xkwnhakotbmeuop/vancleve1999_necessity%2C_analyticity%2C_and_the_a_priori.pdf?dl=0][Necessity, Analyticity, and the A Priori]]"
 - (Optional) SEP entry on [[http://plato.stanford.edu/entries/kant-development/][Kant's Philosophical Development]]
