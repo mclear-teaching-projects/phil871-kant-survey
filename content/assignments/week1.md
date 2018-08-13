@@ -22,6 +22,7 @@ particular, the issue of &ldquo;synthetic a priori&rdquo; judgment.
     (especially §§1-4)
 -   (Recommended) Van Cleve, &ldquo;[Necessity, Analyticity, and the A Priori](https://www.dropbox.com/s/xkwnhakotbmeuop/vancleve1999%5Fnecessity%2C%5Fanalyticity%2C%5Fand%5Fthe%5Fa%5Fpriori.pdf?dl=0)&rdquo;
 -   (Optional) SEP entry on [Kant&rsquo;s Philosophical Development](http://plato.stanford.edu/entries/kant-development/)
+-   [Handout](/materials/handouts/handout1.pdf)
 
 
 ## Questions {#questions}
