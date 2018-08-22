@@ -9,7 +9,7 @@
 
 
 * Handouts                                                                      :noexport:
-** DRAFT Handout Week 1 Kant's Project                                        
+** DONE Handout Week 1 Kant's Project                                        
 :PROPERTIES:
 :EXPORT_TITLE: Kant's Project
 :EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/handout1.pdf
@@ -70,7 +70,7 @@
 
 - Cognition (/Erkenntnis/): :: A conscious representation of an object that is
      (i) determinate with respect to which object it is a representation of
-     and (ii) puts one in a position to know the real (i.e. metaphysical)
+     and (ii) puts one in a position to know the "real" (i.e. metaphysical)
      possibility of the object[fn:2]
 
 
@@ -4332,9 +4332,10 @@ particular, the issue of "synthetic a priori" judgment.
 - What problem does Kant think metaphysics faces?
 
 
-*** DRAFT Week 2 - The Ideality of Space & Time
+*** DONE Week 2 - The Ideality of Space & Time
 SCHEDULED: <2018-08-28 Tue>
 :PROPERTIES:
+:EXPORT_HUGO_TAGS: geometry idealism intuition mathematics sensibility space time 
 :EXPORT_FILE_NAME: week2
 :END:
 
@@ -4344,13 +4345,15 @@ intuition, the arguments for the view, and how it stands up to relevant
 alternatives. 
 
 **** Readings
-- CPR: Transcendental Aesthetic (B33-73; Guyer & Wood, 172-92) 
+- CPR: Transcendental Aesthetic (B33-73; [[https://www.dropbox.com/s/62c67l858hwrmeg/kant1998b_the_transcendental_aesthetic_%2528b-edition%2529.pdf?dl=0][Guyer & Wood, 172-92]]) 
   - We'll focus primarily on Kant's discussion of /space/
-- Prolegomena: §§6-10 (Hatfield 32-5), §13 (Hatfield 37-8)
+- Prolegomena: §§6-10, §13 ([[file:static/materials/readings 1/kant-prolegomena-6-10-13.pdf][Hatfield 32-5, 37-8]])
 - Optional: Parsons, [[https://www.dropbox.com/s/pqu2fhedpn22e3c/parsons1992.pdf?dl=0][The Transcendental Aesthetic]] 
 - Optional: Janiak, [[http://plato.stanford.edu/entries/kant-spacetime/][Kant's Views on Space and Time]] 
 - Optional: Shabel, [[https://www.dropbox.com/s/dgnpaacw4fez7ct/shabel2004.pdf?dl=0][Kant's Argument from Geometry]]
-- [[file:static/materials/handouts/2_KantSpace.pdf][Handout]]
+- Optional: Einstein, [[http://pascal.iseg.utl.pt/~ncrato/Math/Einstein.htm][Geometry and Experience]]
+- Optional: Allais, [[https://www.dropbox.com/s/ogdrn3tp3s1par7/allais2010a_kant%27s_argument_for_transcendental_idealism_in_the_transcendental_aesthetic.pdf?dl=0][Kant’s Argument for Transcendental Idealism in the Transcendental Aesthetic]]
+# - [[file:static/materials/handouts/2_KantSpace.pdf][Handout]]
   
 
 **** Questions
