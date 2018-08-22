@@ -4292,7 +4292,7 @@ Describe paper topics for both undergrads and grads.
 
 Dr. Colin McLear\\
 Office: 1003 Oldfather Hall\\
-Office Hours: T 1:00-3:20 and by appointment\\
+Office Hours: T 1:00-3:00 and by appointment\\
 Email: [[mailto:mclear@unl.edu][mclear@unl.edu]]
 
 Email is the best way to reach me. I answer emails as soon as I can, but
