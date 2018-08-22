@@ -6332,7 +6332,6 @@ against Hume's argument.
 
 ** COMMENT Local Variables                                                    :ARCHIVE:
 # Local Variables:
-# eval: (add-hook 'after-save-hook #'org-hugo-export-wim-to-md-after-save :append :local)
-# eval: (setq org-export-initial-scope 'subtree)
+# org-hugo-auto-export-on-save: t
 # End:
 
