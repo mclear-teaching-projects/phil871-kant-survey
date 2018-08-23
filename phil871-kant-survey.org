@@ -4269,6 +4269,8 @@ Describe paper topics for both undergrads and grads.
 - [[http://staffweb.hkbu.edu.hk/ppp/Kant.html][Kant on the Web]]
 - [[http://www.kant.uni-mainz.de/Welcome.html][Kant-Forschungsstelle]]
 - [[https://korpora.zim.uni-duisburg-essen.de/Kant/verzeichnisse-gesamt.html][Kant Akademieausgabe (Courtesy of Universität Bonn)]]
+- A handy [[http://nebula.wsimg.com/f812ac8f2593c570c9df12068d2dbd80?AccessKeyId=A9004B8B795F6CE7B9FA&disposition=0&alloworigin=1][map]] of Kant's system (in PDF format) by [[http://www.acstephenson.com/home.html][Andrew Stephenson]]
+  
   
 **** Reading & Writing Philosophy
 - [[http://www.jimpryor.net][Jim Pryor's]] guides to [[http://www.jimpryor.net/teaching/guidelines/reading.html][reading]] and [[http://www.jimpryor.net/teaching/guidelines/writing.html][writing]] philosophy
