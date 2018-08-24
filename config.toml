@@ -67,3 +67,4 @@ inverse = "navbar-default"  # choose between navbar-inverse and navbar-default
 [blackfriday]
   plainIDAnchors = true
   hrefTargetBlank = true
+  fractions = false
