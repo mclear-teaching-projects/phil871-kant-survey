@@ -4169,7 +4169,20 @@ straightforwardly hypothetical
 * Grades
 * Course Outline
 ** The Critical Project
+- Introduction of material
+- Discussion of Kant/background
+- Discussion of basic jargon
+  - judgment/cognition/knowledge
+- Difference between a priori/a posteriori
+- Difference between analytic & synthetic
+- Aim of Kant's project to explain synthetic a priori
 ** The Ideality of Space & Time 
+- Structure of the CPR
+  - Discuss the different parts, how they are supposed to fit together, and issues to keep an eye on as we progress in our reading
+- Discuss what "transcendental" means
+- Discuss what "aesthetic" means
+- Introduce notion of sensibility, intuition, sensation, space and time as "forms"
+- Discuss Args of the ME of space
 ** Which A Priori Concepts?
 ** The Transcendental Deduction I
 ** The Transcendental Deduction II
