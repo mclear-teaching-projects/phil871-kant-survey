@@ -659,17 +659,17 @@ Routledge.
   <div></div>
 
 Van Cleve, James. 1991a. "Incongruent Counterparts and Things in
-Themselves." In, edited by James Van Cleve and Robert E Frederick,
-341--51. Springer Netherlands.
+Themselves." In *The Philosophy of Right and Left*, edited by James Van
+Cleve and Robert E Frederick, 341--51. Springer Netherlands.
 
 </div>
 
 <div id="ref-vancleve1991a">
   <div></div>
 
----------. 1991b. "Introduction to the Arguments of 1770 and 1783." In,
-edited by James Van Cleve and Robert E Frederick, 15--26. Springer
-Netherlands.
+---------. 1991b. "Introduction to the Arguments of 1770 and 1783." In
+*The Philosophy of Right and Left*, edited by James Van Cleve and Robert
+E Frederick, 15--26. Springer Netherlands.
 
 </div>
 
