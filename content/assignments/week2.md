@@ -30,6 +30,7 @@ alternatives.
     -   Einstein&rsquo;s classic repudiation of a Kantian conception of space. The first sentence of the third paragraph is widely quoted and succictly states Einstein&rsquo;s differnce from Kant.
 -   Optional: Allais, [Kant’s Argument for Transcendental Idealism in the Transcendental Aesthetic](https://www.dropbox.com/s/ogdrn3tp3s1par7/allais2010a%5Fkant%27s%5Fargument%5Ffor%5Ftranscendental%5Fidealism%5Fin%5Fthe%5Ftranscendental%5Faesthetic.pdf?dl=0)
     -   Helpful way of thinking about Kant&rsquo;s argument for Transcendental Idealism as deriving from his conception of the role of intuition in cognition.
+-   Optional: [Notes on the Transcendental Aesthetic](https://phil871.colinmclear.net/notes/transcendental-aesthetic/)
 
 
 ## Questions {#questions}

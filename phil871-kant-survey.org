@@ -4373,6 +4373,8 @@ alternatives.
   - Einstein's classic repudiation of a Kantian conception of space. The first sentence of the third paragraph is widely quoted and succictly states Einstein's differnce from Kant. 
 - Optional: Allais, [[https://www.dropbox.com/s/ogdrn3tp3s1par7/allais2010a_kant%27s_argument_for_transcendental_idealism_in_the_transcendental_aesthetic.pdf?dl=0][Kant’s Argument for Transcendental Idealism in the Transcendental Aesthetic]]
   - Helpful way of thinking about Kant's argument for Transcendental Idealism as deriving from his conception of the role of intuition in cognition. 
+- Optional: [[https://phil871.colinmclear.net/notes/transcendental-aesthetic/][Notes on the Transcendental Aesthetic]]
+
 # - [[file:static/materials/handouts/2_KantSpace.pdf][Handout]]
   
 
