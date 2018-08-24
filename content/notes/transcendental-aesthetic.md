@@ -1,25 +1,27 @@
 +++
-title = "The Ideality of Space (and Time)"
-publishDate = 2018-08-28T00:00:00-04:00
+title = "The Transcendental Aesthetic & the Nature of Space (and Time)"
+publishDate = 2018-08-28T00:00:00-05:00
 tags = ["idealism", "space", "time", "intuition", "incongruent-counterparts"]
-draft = true
+draft = false
 weight = 0
 toc = true
 type = "post"
 +++
 
 One of the major philosophical disputes in the seventeenth and
-eighteenth centuries concerned the issue of space. What is space? By the
-mid-eighteenth century there were two major competing positions. On the
-one hand, following Newton, many philosophers and scientists construed
-space as a kind of *subsisting entity*. On this view space (and
-correspondingly time) exists independently of any possible *object* that
-may occupy space, and independently of any possible *relations* between
-such space-occupying objects. Space is, on this view, a kind of
-container in which objects are placed. Spatial relations (e.g. position,
-relative motion) are determined by the relations which objects have to
-this container space, and the relations of this spaces (or spatial
-regions) to one another. Call this the '*absolute*' conception of space.
+eighteenth centuries concerned the issue of space (and, also,
+time---though I'm mostly going to talk about space in what follows).
+What is space? By the mid-eighteenth century there were two major
+competing positions. On the one hand, following Newton, many
+philosophers and scientists construed space as a kind of *subsisting
+entity*. On this view space (and correspondingly time) exists
+independently of any possible *object* that may occupy space, and
+independently of any possible *relations* between such space-occupying
+objects. Space is, on this view, a kind of container in which objects
+are placed. Spatial relations (e.g. position, relative motion) are
+determined by the relations which objects have to this container space,
+and the relations of these spaces (or spatial regions) to one another.
+Call this the '*absolute*' conception of space.
 
 In contrast to the conception of space as absolute, Leibniz proposed
 that space is merely a set of relations that hold between independently
@@ -29,14 +31,15 @@ which occupy it. It is merely the order of possible relations between
 distinct existing substances. So while we could, on the relationalist
 view, conceive of empty space, insofar as we conceive of the possible
 relations which substances might enter into, space could not exist as
-something independent of any such possible objects.
+something independent of any such set of possible objects and their
+(possible) relations.
 
 In the *Critique of Pure Reason* Kant argues against *both* of these
 theories of the metaphysics of space. His suggestion is that space is
 neither a subsisting container entity nor a set of relations between
-independent objects, but rather a product of our subjective apprehension
-of objects that are distinct from us. It is, in Kant's phrase, a 'form
-of intuition'.
+independent objects, but rather something else---a product of our
+subjective apprehension of objects that are distinct from us. It is, in
+Kant's phrase, a 'form of intuition'.
 
 ## The Metaphysical Exposition of Space
 
@@ -52,12 +55,13 @@ concerning the ontological status of space---is space a subsisting thing
 is concerned with answering the question as to the origin of our
 *representation* of space. Space is different from the objects that are
 in it, and in some ways seems to be a condition of representing spatial
-objects. So where does this representation of space come from? Third,
-Kant is concerned with the content or nature of the representation of
-space. Is it a fundamentally intellectual (conceptual) kind of
-representation or is it a sensible one?
+objects. So where does this representation of space come from? How could
+it come (if we endorsed empiricism) from an experience of objects?
+Third, Kant is concerned with the content or nature of the
+representation of space. Is it a fundamentally intellectual (conceptual)
+kind of representation or is it a sensible one?
 
-Kant's first two arguments (A23-4/B38-9) run as follows:
+Kant's first two arguments (at A23-4/B38-9) run as follows:
 
 > 1.) Space is not an empirical concept that has been drawn from outer
 > experiences. For in order for certain sensations to be related to
@@ -85,16 +89,23 @@ the claim that the representation of space is drawn from the content of
 our experience. This is particularly clear from the first argument, as
 Kant seems there to be denying the Lockean claim (*Essay*, II.xiii.2-4)
 that the representation of space is derived from the representation of
-the distances between objects. Kant's point (or a point) in the first
-argument is that we cannot represent one object as *distant* from
-another without already representing them as being in one space in which
-they may be related. Kant's second argument is perhaps less persuasive,
-for it argues that we cannot represent a lack of space. Certainly, this
-fact would seem to go against the empiricist view of space as something
-we learn from experience. But it seems that the empiricist might counter
-that once the representation of space is gained via experience, we
-cannot part with it psychologically, and so cannot represent its
-absence.
+the distances between objects. Kant's point (or a point) in the argument
+(1) is that we cannot represent one object as *distant* from another
+without already representing them as being in one space in which they
+are related. More generally, Kant's claim seems to be that we cannot
+represent to object as spatially *related* without presupossing a more
+general (and distinct) capacity to represent the space in which those
+relations stand (on this, see especially Warren (1998)).
+
+Kant's second argument is perhaps less persuasive, for it argues that we
+cannot represent a lack of space. Certainly, this fact would seem to go
+against the empiricist view of space as something we learn from
+experience. But it seems that the empiricist might counter that once the
+representation of space is gained via experience, we cannot part with it
+psychologically, and so cannot represent its absence. Kant's "cannot"
+needs to be more than just a psychological "cannot", and I don't see
+that he provides the argument necessary to show that the empiricist
+position founders.
 
 Thus, with these first two arguments Kant attempts to refute a
 particular position concerning the *source* of our representation of
@@ -140,25 +151,26 @@ Kant's third and fourth arguments (B39-40) run as follows:
 
 Kant's interest in these two arguments is with our third question, and
 his aim (or one aim) is to deny the view that the content or nature of
-the representation of space is intellectual. According to Kant, spatial
+the representation of space is fundamentally intellectual (in the sense
+of originating in the intellect). According to Kant, spatial
 representation is not fundamentally intellectual or conceptual, but
 rather 'intuitive'. This is not to say that spatial representation is
 *sensory*. We do not have a sensory representation of an infinite space!
 Kant is trying to carve out room for a position according to which we
-have a non-sensory but also non-conceptual/intellectual representation
-of an infinite space, which makes possible our representation of
-particular spatial expanses. There are similarities here between Kant's
-argument and previous rationalist arguments concerning the priority of
-the infinite over the finite. Kant's third argument above is that the
-single infinite expanse of space is prior to, in the sense of being
-presupposed by, the existence of any particular spatial region. Kant's
-fourth argument reinforces this by arguing that *if* spatial
-representation were conceptual (on Kant's understanding of conceptual
-representation) then we would have to represent an infinite number of
-spaces or spatial regions. This would present us with an infinite task,
-which we would obviously be unable to accomplish. Since Kant thinks we
-clearly do represent space as an infinite expanse, we must be doing so
-*non-conceptually*.
+have a non-sensory but also non-conceptual/non-intellectual
+representation of an infinite space, which makes possible our
+representation of particular spatial expanses. There are similarities
+here between Kant's argument and previous rationalist arguments
+concerning the priority of the infinite over the finite. Kant's third
+argument above is that the single infinite expanse of space is prior to,
+in the sense of being presupposed by, the existence of any particular
+spatial region. Kant's fourth argument reinforces this by arguing that
+*if* spatial representation were conceptual (on Kant's understanding of
+conceptual representation) then we would have to represent an infinite
+number of spaces or spatial regions. This would present us with an
+infinite task, which we would obviously be unable to accomplish. Since
+Kant thinks we clearly do represent space as an infinite expanse, we
+must be doing so *non-conceptually*.
 
 ## The Transcendental Exposition of Space
 
@@ -166,11 +178,10 @@ The central argument of the TE, the so-called 'argument from geometry'
 was originally part of the ME, located between the two pairs of
 arguments discussed above. Kant moves this argument to its own section
 in the second or "B-edition" of 1787. It is not clear, however, what the
-significance of the argument actually is. Is it an argument concerning
-the status of the representation of space as ultimately an a priori
-intuition? Is it an argument concerning the dependence of the science of
-geometry on space so understood? Is it an argument concerning something
-else entirely?
+argument actually is. Is it an argument concerning the status of the
+representation of space as ultimately an a priori intuition? Is it an
+argument concerning the dependence of the science of geometry on space
+so understood? Is it an argument concerning something else entirely?
 
 ### The Argument from Geometry
 
@@ -210,10 +221,10 @@ logic lectures:
 > or from the simple to the composite. The former could also be called
 > '*regressive*' and the latter '*progressive*' (JL 9:149)
 
-With the synthetic method one sets out from first principles and derives
-from them what one can. With the analytic method, one starts from some
-given claim and from it proceeds via a regressive analysis to its
-conditions. The synthetic method is constructive while the analytic
+With the synthetic method one sets out from first principles/conditions
+and derives from them what one can. With the analytic method, one starts
+from some given claim and from it proceeds via a regressive analysis to
+its conditions. The synthetic method is constructive while the analytic
 method is deconstructive. Kant take the CPR to be arguing from first
 principles regarding cognition to the existence of particular kinds of
 synthetic a priori knowledge. In the *Prolegomena* Kant is starting from
@@ -361,22 +372,23 @@ According to Kant, intuition is an 'immediate' and 'singular' awareness
 of an object. This contrasts with the conceptual representation of an
 object, which is 'mediate' and 'general'. The role of intuition, Kant
 says, is to present us with objects, while concepts allow for thought of
-such objects (EMT 28). Kant's argument for the ideality of space
-proceeds from this definition of intuition (cf. Allais (2010))
+such objects (A320/B377; see also A19 and A50/B74). Kant's argument for
+the ideality of space proceeds from this definition of intuition (see
+*Prolegomena* §§8-10; cf. Allais (2010))
 
-1.  Intuition necessarily involves the presentation of an object
+1.  Intuition necessarily involves relation to an object
 2.  We have an a priori intuition of space (and time)
-3.  A priori intuition cannot, by definition, involve the presence of an
-    actual object
+3.  A priori intuition cannot, by definition, be a relation to an
+    existing object
 4.  ∴ Space is nothing other than a 'pure' a priori intuition
 
 Kant's thinking here is that the role of intuition is to present its
 subject with an object. Intuition is what makes the difference between
 merely thinking or daydreaming about something and actually having it
-*present* to one. But, if this is right then there cannot be some
-*actual* thing which is present to one in an a priori intuition, since
+*present* to one's mind. But, if this is right then there cannot be some
+*existing* thing that is present to one in an a priori intuition, since
 the definition of the a priori requires that the intuition be
-independent of experience and thus of any actual object.
+independent of experience and thus of any existing object.
 
 Thus, (1) follows from Kant's definition of intuition. (2) follows from
 the arguments of the Metaphysical exposition concerning the a priority
@@ -421,22 +433,23 @@ their relation to some absolute space which contains them.
 
 Kant's 1770 argument takes up this point and applies it to our
 representation of space. If, Kant argues, our representation of space
-were ultimately purely conceptual (as the Leibnizian argues), then we
-should be able, by means of concepts alone, to distinguish incongruent
-counterparts. But, he argues, conceptual representation of (e.g.) a left
-and a right hand will not differ since such counterparts do not differ
-(let us suppose) in any qualitatively intrinsic way (e.g. neither figure
-nor internal angles would differ), nor in any quantitative way (they
-differ not according to size, etc.). So since there is no intrinsic
-difference between the two hands, there is nothing conceptually to
-distinguish one as the left and the other as the right. We must
-represent their difference by some other means, which Kant argue is by
-means of intuition.
+were ultimately purely intellectual/conceptual (as Kant construes the
+Leibnizian to argue), then we should be able, by means of concepts
+alone, to distinguish incongruent counterparts. But, he argues,
+conceptual representation of (e.g.) a left and a right hand will not
+differ since such counterparts do not differ (let us suppose) in any
+qualitatively intrinsic way (e.g. neither figure nor internal angles
+would differ), nor in any quantitative way (they differ not according to
+size, etc.). So since there is no intrinsic difference between the two
+hands, there is nothing conceptually to distinguish one as the left and
+the other as the right. We must represent their difference by some other
+means, which Kant argue is by means of intuition.
 
-The *Prolegomena*'s conclusion that consideration of incongruent
-counterparts demonstrates that space is ideal is deeply contested. The
-conclusion is not the only thing that is contested, unfortunately, for
-it is not at all clear how the argument goes. The passage is below:
+The *Prolegomena*'s use of the argument to conclude that consideration
+of incongruent counterparts demonstrates that space is ideal is deeply
+contested. The conclusion is not the only thing that is contested,
+unfortunately, for it is not at all clear how the argument for it goes.
+The relevant passage is below:
 
 > If two things are fully the same (in all determinations belonging to
 > magnitude and quality) in all the parts of each that can always be
@@ -481,7 +494,7 @@ it is not at all clear how the argument goes. The passage is below:
 > between similar and equal but nonetheless incongruent things (e.g.,
 > oppositely spiralled snails) intelligible through no concept alone,
 > but only through the relation to right-hand and left-hand, which
-> refers immediately to intuition. (Pr §13, 37-8)
+> refers immediately to intuition. (Pr §13, 4:285-6)
 
 One possible reading of the argument (cf. Van Cleve (1999), 47) goes as
 follows:
@@ -497,12 +510,12 @@ follows:
     things in themselves.
 
 According to this interpretation of Kant's argument, Kant's key move is
-with premise (2), which we might call the 'reducibility premise'. The
+with premise (2), which we might call the 'Reducibility premise'. The
 idea here is that, according to many philosophers with whose views Kant
 was engaged (such as Leibniz), differences between distinct objects (or
 substances) were supposed to be grounded in differences between the
-intrinsic features of those substances. Here we see a connection to
-Kant's 1698 argument. The Reducibility premise requires that spatial
+intrinsic features of those objects. Here we see a connection to Kant's
+1698 argument. The Reducibility premise requires that spatial
 differences like left-handedness ground out in intrinsic differences
 between left and right hands. But there are no such differences (and the
 same goes for other kinds of incongruent counterparts) so space and the
@@ -535,12 +548,12 @@ ideal.
   <div></div>
 
 
-<div id="ref-allais2010">
+<div id="ref-allais2010a">
   <div></div>
 
-Allais, Lucy. 2010. "Transcendental Idealism and Metaphysics: Kant's
-Commitment to Things as They Are in Themselves." In, edited by Dietmar
-H. Heidemann, 1--32. Berlin: Walter de Gruyter.
+Allais, Lucy. 2010. "Kant's Argument for Transcendental Idealism in the
+Transcendental Aesthetic." *Proceedings of the Aristotelian Society* 110
+(1/1): 47--75.
 
 </div>
 
@@ -664,6 +677,14 @@ Netherlands.
   <div></div>
 
 ---------. 1999. *Problems from Kant*. Oxford: Oxford University Press.
+
+</div>
+
+<div id="ref-warren1998">
+  <div></div>
+
+Warren, Daniel. 1998. "Kant and the Apriority of Space." *The
+Philosophical Review* 107 (2): 179.
 
 </div>
 
