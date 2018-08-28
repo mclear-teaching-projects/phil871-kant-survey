@@ -1,37 +1,50 @@
 +++
 title = "The Metaphysical Deduction of the Categories"
-publishDate = 2018-09-11T00:00:00-04:00
-tags = ["categories", "metaphysics", "judgment", "logic", "understanding"]
+publishDate = 2018-09-11T00:00:00-05:00
+tags = ["categories", "judgment", "logic", "metaphysics", "understanding"]
 draft = true
 weight = 0
 toc = true
 type = "post"
 +++
 
-Kant's aim in the so-called "Metaphysical Deduction" (see B159) is to
-argue that, of the a priori concepts we have available to us some are
-more fundamental than others. These are the concepts Kant calls the
-"categories." Thus, the basic question that Kant seeks to answer is the
-question of *which* a priori concepts serve as the fundamental concepts
-of metaphysical theorizing. The MD provides what Kant calls a "clue" (or
-more literally a "*Leitfaden*" or "guiding thread") to the discovery of
-these concepts. The MD has three sections. These consist of (i) an
-introduction where the notion of a "logical use" of the faculty of
-concepts or the "understanding" is set out; (ii) an elaboration of the
-different logical forms of judgment and a corresponding table of those
-forms; (iii) an explication of the categories as a priori concepts that
-correspond to the various logical forms of the table as set out in (ii).
+Sections 9-12 of the first chapter of the Analytic of Concepts form what
+is typically called the "Metaphysical Deduction"---a name which Kant
+applies only later in the *Critique* (see B159). The purpose of this
+section is to argue that of the a priori concepts we have available to
+us some are more fundamental than others. These are the concepts Kant
+calls the "categories." Thus, the basic question that Kant seeks to
+answer is the question of *which* a priori concepts serve as the
+fundamental concepts of metaphysical theorizing. The MD provides what
+Kant calls a "clue" (or more literally a "*Leitfaden*" or "guiding
+thread") to the discovery of these concepts. The MD has three sections.
+These consist of (i) an introduction where the notion of a "logical use"
+of the faculty of concepts or the "understanding" is set out; (ii) an
+elaboration of the different logical forms of judgment and a
+corresponding table of those forms; (iii) an explication of the
+categories as a priori concepts that correspond to the various logical
+forms of the table as set out in (ii).
+
+Kant's strategy in the ME is to argue that the categories are the most
+fundamental concepts in our thought of objects because they are the
+concepts that are directly linked to the various basic operations of
+which the understanding (the faculty of concepts) is capable. Such
+operations are all forms of "judgment", and Kant construes such forms as
+providing the basis for determining the categories. In order that we
+properly appreciate why Kant chooses this strategy for butressing his
+choice of categories it helps to look at a prior attempt Kant makes for
+determining the basic concepts of metaphysics.
 
 ## The Pre-Critical Strategy
 
 In Kant's "Inaugural Dissertation" of 1770 (whose formal title is "On
 the Forms and Principles of the Sensible and Intelligible World") he
 lays out a theory of the manner in which the structure of the rational
-human mind governs the kinds of things it can know of reality. In many
-ways this work anticipates positions and arguments Kant provides in the
-*Critique of Pure Reason*. And like that latter work, in the ID Kant
-seeks to delimit the fundamental concepts of metaphysics (though he does
-not call them categories) via an analysis of the faculty of
+human mind determines what it can know of reality. In many ways this
+work anticipates positions and arguments Kant provides in the *Critique
+of Pure Reason*. And like that latter work, in the ID Kant seeks to
+delimit the fundamental concepts of metaphysics (though he does not in
+the ID call them categories) via an analysis of the faculty of
 understanding (or "intellect" more broadly). He says,
 
 > the concepts met with in metaphysics are not to be sought in the
@@ -51,29 +64,31 @@ acquisition of the concepts of metaphysics not run afoul of his
 characterization of those concepts as "intellectual" rather than
 "empirical" or "sensitive."[^fn:1] For this reason they cannot be
 concepts abstracted from sensible intuition, in the manner that our
-concepts of space and time are. In such a case those concepts would be
-(merely) empirical or "sensitive on account of their genesis" (ID §5,
-2:393). Instead, the concepts of metaphysics are supposed to be "given
-in a fundamental fashion by the pure understanding itself" (ID §23,
-2:411). There is, however, some question as to whether, in the
-*Dissertation* or in lectures immediately subsequent to its publication,
-Kant in fact succeeds in providing an account of the acquisition of such
-concepts consistent with his stricture on their intellectual provenance.
+concepts of space and time are. If they *were* abstracted from
+experience such concepts would be (merely) empirical or "sensitive on
+account of their genesis" (ID §5, 2:393). Instead, the concepts of
+metaphysics are supposed to be "given in a fundamental fashion by the
+pure understanding itself" (ID §23, 2:411). There is, however, some
+question as to whether, in the *Dissertation* or even in lectures
+immediately subsequent to its publication, Kant in fact succeeds in
+providing an account of the acquisition of the fundamental concepts of
+metaphysics consistent with his stricture on their intellectual
+provenance.
 
-The account of the *Dissertation* puts pressure on Kant to provide some
-story as to how we can come to be aware of the mind and its acts, and on
-what basis this awareness constitutes the acquisition of a non-sensory
+The account of the *Dissertation* requires that Kant provide some story
+as to how we can come to be aware of the mind and its acts, and on what
+basis this awareness constitutes the acquisition of a non-sensory
 concept. At this point in his career, Kant has not yet articulated his
 doctrine of "pure" apperception as distinct from inner sense (more on
 this in the next set of notes). So it looks as if, given his distinction
 between intuition and concept and their related faculties, that it must
-be an inner intuition that accounts for the acquisition of the concepts
-of metaphysics. However, if it *is* inner intuition that is the basis
-for such acquisition, it looks like Kant will run afoul of his
+be an *inner intuition* that accounts for the acquisition of the
+concepts of metaphysics. However, if it *is* inner intuition that is the
+basis for such acquisition, it looks like Kant will run afoul of his
 requirement that the concepts of metaphysics be intellectual as opposed
 to empirical (for even the "pure" concepts of space and time, though
-free of sensation, are nevertheless sensitive on this account (ID §5,
-2:393)).
+free of sensation, are nevertheless sensitive on account of being
+derived from intuition (see, e.g., ID §5, 2:393)).
 
 Perhaps Kant thinks we have a special *intellectual* intuition of the
 mind and its acts? One recent commentator (Dyck 2016) has argued that
@@ -85,30 +100,30 @@ requisite basis for acquiring metaphysical concepts. Dyck's argument
 concerning Kant's position in the *Dissertation* hinges on two claims.
 First, that there are clear texts showing that Kant denies that sensible
 laws (i.e. of time and space) apply to immaterial substances, including
-the mind/soul (2016, 330). Second, that Kant's conception of the
-acquisition of the pure concepts of metaphysics depends on the existence
-of intellectual intuition of the mind or soul itself (2016, 330--1).
-However, neither of these interpretive points are particularly
-compelling. Against the first, it is relatively clear from the context
-of Kant's statements regarding immaterial substance that he denies that
-the principles of the *corporeal* world apply to such substances (ID
-§27, 2:414). That would mean that principles belonging to substances
-understood as *bodies* do not apply to the mind. But this is compatible
-with the conception of the mind as nevertheless governed by other
-sensible principles, and in particular, by time. Against Dyck's second
-point, in the *Dissertation* Kant explicitly states that finite beings
-lack intellectual intuition (ID §10, 2:396-7) and that "the accidents
-which are not included in the relations of space, such as the thoughts
-of the mind" are in time (ID Corollary, 2:406). It thus seems unlikely
-that Kant holds in the *Dissertation* that metaphysical concepts are
-acquired via intellectual intuition, on pain of explicitly contradicting
-himself at multiple points.[^fn:2]
+the mind/soul (see Dyck 2016, 330). Second, that Kant's conception of
+the acquisition of the pure concepts of metaphysics depends on the
+existence of intellectual intuition of the mind or soul itself (see Dyck
+2016, 330--1). However, neither of these interpretive points are
+particularly compelling. Against the first, it is relatively clear from
+the context of Kant's statements regarding immaterial substance that he
+denies that the principles of the *corporeal* world apply to such
+substances (ID §27, 2:414). That would mean that principles belonging to
+substances understood as *bodies* do not apply to the mind. But this is
+compatible with the conception of the mind as nevertheless governed by
+other sensible principles, and in particular, by time. Against Dyck's
+second point, in the *Dissertation* Kant explicitly states that finite
+beings lack intellectual intuition (ID §10, 2:396-7) and that "the
+accidents which are not included in the relations of space, such as the
+thoughts of the mind" are in time (ID Corollary, 2:406). It thus seems
+unlikely that Kant holds in the *Dissertation* that metaphysical
+concepts are acquired via intellectual intuition, on pain of explicitly
+contradicting himself at multiple points.[^fn:2]
 
 But even if Kant does not directly contradict himself in the
 *Dissertation*, Dyck's discussion helps point us to a clear tension and
 perhaps fatal ambiguity in Kant's pre-critical view. One might,
 therefore, have hope that Kant's remarks in lectures and notes
-subsequent to the publication of the *Dissertation* might clarify his
+subsequent to the publication of the *Dissertation* clarify his
 position. However, the lecture texts we have from the 1770s only make
 matters more complicated. For example, in lectures shortly after the
 *Dissertation* Kant says, "We have no intuition in the whole world
@@ -167,15 +182,15 @@ is via this acquaintance that we can then form by analogy the
 representations of objects (construed as metaphysical subjects of
 properties) distinct from us. But how this position is ultimately
 supposed to cohere with Kant's other commitments in the 70s is, at best,
-unclear. It in facts seems a reasonably suspicion that Kant's various
+unclear. It in facts seems a reasonable suspicion that Kant's various
 commitments in the 70s *don't* cohere, and that this resulting tension
 in his view is part of what pushes him towards the critical distinction
 between inner intuition and pure apperception. We'll talk about this
 distinction further when we discuss the argument of the Transcendental
 Deduction. In the next section I talk about Kant's revision of his
-*Dissertation* strategy in then argument of the MD.
+*Dissertation* strategy in the *Critique* for the argument of the MD.
 
-## The Logical & Real Uses of the Understanding {#the-logical-and-real-uses-of-the-understanding}
+## The Critical Strategy
 
 In the *Dissertation* Kant distinguishes between what he terms the
 "logical" and the "real" uses of the understanding (ID §23, 2:410--11).
@@ -257,9 +272,50 @@ forms of judgment; second, he must show that the metaphysical concepts
 derived from these logical forms (i.e. the categories) really provide
 the complete basis for doing metaphysics; third, he must show that the
 content of the categories does not include material absent from the
-purely logical forms -- if there were such "extra" content in the
+purely logical forms---if there were such "extra" content in the
 categories, then it is not clear how they are supposed to be "identical"
 with the logical forms, as Kant sometimes indicates that they are.
+
+Unfortunately Kant fails to meet any of these requirements in the MD.
+There is no formal demonstration of the completeness of either the table
+of judgment or, correspondingly, the categories. There is likewise no
+demonstration provided that shows that all and only these categories
+provide the basic materials for metaphysics. Finally, it is not obvious
+that the content of the categories is simply "identical" with that of
+the forms of judgment.
+
+To take just one example, Kant construes the category of substance as
+related to the form of categorical (i.e. subject/predicate) judgment.
+The purely logical or grammatical notion is thus of a term or concept
+that can only occupy subject position and never predicate position.
+However, this notion does not adequately capture central ways in which
+Kant uses the concept <substance>. More specifically, Kant construes a
+substance as substanding and subsisting. This means that (i) substance
+is a being in which things "*inhere*" and (ii) substance does not itself
+inhere in anything else (in this circumscribed sense substance is an
+independent being). Kant construes inherence as a real (that is,
+non-logical) asymmetric dependence relation between a subject of
+inherence (the substance) and its properties or modes (i.e. the way or
+ways in which the subject exists). The purely logical or grammatical
+conception of substance as a subject term that is never a predicate term
+fails to properly capture this dependence relation, for it fails to show
+how a predicate term might asymmetrically depend on a subject term in a
+manner that models the metaphysical relation between substance and mode.
+
+In the end then, while Kant's strategy in the MD is a clear improvement
+over his prior attempt in the *Dissertation*, it is not at all clear
+that he successfully defends his claim to have provided a principled and
+a priori basis for exhaustively determining which are the fundamental
+concepts. Kant wants an argument that,
+
+> has not arisen rhapsodically from a haphazard search for pure
+> concepts, of the completeness of which one could never be certain,
+> since one would only infer it through induction, without reﬂecting
+> that in this way one would never see why just these and not other
+> concepts should inhabit the pure understanding. (A81/B106-7)
+
+Kant does not provide convincing proof of this position in the MD.
+Whether such a proof could be given is, perhaps, another story.[^fn:6]
 
 ## References {#references}
 
@@ -271,8 +327,8 @@ with the logical forms, as Kant sometimes indicates that they are.
   <div></div>
 
 Allison, Henry E. 2004. "The Intellectual Conditions of Human Cognition:
-Kant's Metaphysical Deduction." In, 133--56. New Haven: Yale University
-Press.
+Kant's Metaphysical Deduction." In *Kant's Transcendental Idealism:
+Revised and Enlarged*, 133--56. New Haven: Yale University Press.
 
 </div>
 
@@ -281,6 +337,14 @@ Press.
 
 ---------. 2015. *Kant's Transcendental Deduction: An
 Analytical-Historical Commentary*. New York: Oxford University Press.
+
+</div>
+
+<div id="ref-brandt1995">
+  <div></div>
+
+Brandt, Reinhard. 1995. *The Table of Judgments: Critique of Pure Reason
+A67-76; B92-101*. Edited by Eric Watkins. Atascadero, CA: Ridgeview.
 
 </div>
 
@@ -412,7 +476,8 @@ Princeton: Princeton University Press.
   <div></div>
 
 ---------. 2006. "Kant on a Priori Concepts: The Metaphysical Deduction
-of the Categories." In, edited by Paul Guyer, 129--68.
+of the Categories." In *The Cambridge Companion to Kant and Modern
+Philosophy*, edited by Paul Guyer, 129--68.
 
 </div>
 
@@ -436,8 +501,9 @@ McLear, Colin. 2017. "Motion and the Affection Argument." *Synthese*,
   <div></div>
 
 Mohr, Georg. 1995. "Freedom and the Self: From Introspection to
-Intersubjectivity: Wolff, Kant, and Fichte." In, edited by Karl Ameriks
-and Dieter Sturma, 31--45. Albany, NY: SUNY Press.
+Intersubjectivity: Wolff, Kant, and Fichte." In *The Modern Subject:
+Conceptions of the Self in Classical German Philosophy*, edited by Karl
+Ameriks and Dieter Sturma, 31--45. Albany, NY: SUNY Press.
 
 </div>
 
@@ -481,6 +547,14 @@ Stanford University Press.
 Serck-Hanssen, Camilla. 2001. "Apperception and Deduction in the
 Duisburgischer Nachlass." *Kant und die Berliner Aufklärung: Akten des
 IX. Internationalen Kant-Kongresses* 2: 59--68.
+
+</div>
+
+<div id="ref-wolff1995">
+  <div></div>
+
+Wolff, Michael. 1995. *Die Vollständigkeit der kantischen Urteilstafel:
+mit einem Essay über Freges Begriffsschrift*. Vittorio Klostermann.
 
 </div>
 
@@ -531,3 +605,7 @@ University Press.
     Kitcher 2011, 73--74; Wuerth 2014, 104; Dyck 2016, 335--8). For
     criticism of Carl's, and to a lesser degree Laywine's, position see
     (Allison 2015, 121--30).
+
+[^fn:6]: There are a variety of prominent attempts to defend Kant's
+    position here. See (Reich 1992; Brandt 1995; Wolff 1995; Longuenesse
+    1998).
