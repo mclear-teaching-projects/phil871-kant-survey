@@ -25,7 +25,7 @@ information.
 | 10                | 10.23                  | The Dialectic of Reason                                                             |
 | 11                | 10.30                  | The Paralogisms                                                                     |
 | 12                | 11.6                   | Freedom in the Third Antinomy <br> **Fourth** passage analysis due Friday           |
-| 13                | 11.13                  | Groundwork I                                                                        |
+| 13                | 11.13                  | Groundwork I <br> **Paper Draft** due Friday                                        |
 | 14                | 11.20                  | Groundwork II                                                                       |
 | 15                | 11.27                  | Groundwork III                                                                      |
 | 16                | 12.4                   | The Unity of Reason <br> **Final Papers due Friday**                                |
