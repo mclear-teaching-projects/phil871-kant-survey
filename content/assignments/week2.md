@@ -19,7 +19,7 @@ alternatives.
 
 -   CPR: Transcendental Aesthetic (B33-73; [Guyer & Wood, 172-92](https://www.dropbox.com/s/62c67l858hwrmeg/kant1998b%5Fthe%5Ftranscendental%5Faesthetic%5F%2528b-edition%2529.pdf?dl=0))
     -   We&rsquo;ll focus primarily on Kant&rsquo;s discussion of _space_
--   Prolegomena: §§6-10, §13 ([Hatfield 32-5, 37-8](static/materials/readings 1/kant-prolegomena-6-10-13.pdf))
+-   Prolegomena: §§6-10, §13 ([Hatfield 32-5, 37-8](/materials/readings/kant-prolegomena-6-10-13.pdf))
 -   Optional: Parsons, [The Transcendental Aesthetic](https://www.dropbox.com/s/pqu2fhedpn22e3c/parsons1992.pdf?dl=0)
     -   This is a class and helpful overview of the whole section, with a focus on space.
 -   Optional: Janiak, [Kant&rsquo;s Views on Space and Time](http://plato.stanford.edu/entries/kant-spacetime/)
