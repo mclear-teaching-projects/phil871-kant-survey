@@ -4116,23 +4116,112 @@ straightforwardly hypothetical
 
 * Grades
 ** Reponses
-** Precís
-** Paper
-** Passage Analysis
-** Participation
+|----------------------+-----+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
+| Student              | wk2 | wk3 | wk 4 | wk5 | wk6 | wk7 | wk8 | wk9 | wk10 | wk11 | wk12 | wk13 | wk14 | wk15 | wk16 |
+|----------------------+-----+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
+| Edward Acuna Quintan |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Steve Byerly         | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Vy Doan              | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Cale  Harms          | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Samuel Hobbs         | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Tate Kollar          | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Antony Larrick       | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Isabel Reynolds      | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Jeffrey Schade       | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Lauren Sweetland     |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Ryan Turner          |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Zachariah Wrublewski | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+|----------------------+-----+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
 
-Edward Acuna Quintana
-Steve Byerly
-Vy Doan
-Cale Harms
-Samuel Hobbs
-Tate Kollar
-Antony Larrick
-Isabel Reynolds
-Jeffrey Schade
-Lauren Sweetland
-Ryan Turner
-Zachariah Wrublewski
+** Precís
+|----------------------+-----+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
+| Student              | wk2 | wk3 | wk 4 | wk5 | wk6 | wk7 | wk8 | wk9 | wk10 | wk11 | wk12 | wk13 | wk14 | wk15 | wk16 |
+|----------------------+-----+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
+| Edward Acuna Quintan |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Steve Byerly         | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Vy Doan              |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Cale  Harms          |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Samuel Hobbs         |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Tate Kollar          |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Antony Larrick       |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Isabel Reynolds      |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Jeffrey Schade       |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Lauren Sweetland     |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Ryan Turner          |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Zachariah Wrublewski |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+|----------------------+-----+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
+
+** Paper
+|----------------------+-------+-------+
+| Student              | Draft | Final |
+|----------------------+-------+-------+
+| Edward Acuna Quintan |       |       |
+| Steve Byerly         |       |       |
+| Vy Doan              |       |       |
+| Cale  Harms          |       |       |
+| Samuel Hobbs         |       |       |
+| Tate Kollar          |       |       |
+| Antony Larrick       |       |       |
+| Isabel Reynolds      |       |       |
+| Jeffrey Schade       |       |       |
+| Lauren Sweetland     |       |       |
+| Ryan Turner          |       |       |
+| Zachariah Wrublewski |       |       |
+|----------------------+-------+-------+
+
+** Passage Analysis
+|----------------------+---+---+---+---+
+| Student              | 1 | 2 | 3 | 4 |
+|----------------------+---+---+---+---+
+| Edward Acuna Quintan |   |   |   |   |
+| Steve Byerly         |   |   |   |   |
+| Vy Doan              |   |   |   |   |
+| Cale  Harms          |   |   |   |   |
+| Samuel Hobbs         |   |   |   |   |
+| Tate Kollar          |   |   |   |   |
+| Antony Larrick       |   |   |   |   |
+| Isabel Reynolds      |   |   |   |   |
+| Jeffrey Schade       |   |   |   |   |
+| Lauren Sweetland     |   |   |   |   |
+| Ryan Turner          |   |   |   |   |
+| Zachariah Wrublewski |   |   |   |   |
+|----------------------+---+---+---+---+
+
+** Participation
+|----------------------+-----+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
+| Student              | wk2 | wk3 | wk 4 | wk5 | wk6 | wk7 | wk8 | wk9 | wk10 | wk11 | wk12 | wk13 | wk14 | wk15 | wk16 |
+|----------------------+-----+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
+| Edward Acuna Quintan |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Steve Byerly         |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Vy Doan              |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Cale  Harms          |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Samuel Hobbs         |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Tate Kollar          |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Antony Larrick       |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Isabel Reynolds      |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Jeffrey Schade       |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Lauren Sweetland     |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Ryan Turner          |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Zachariah Wrublewski |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+|----------------------+-----+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
+
+** Final Grade
+|----------------------+-------+--------+-----------+---------------+------------------+-------|
+| Student              | Paper | Precis | Responses | Participation | Passage Analysis | Final |
+|----------------------+-------+--------+-----------+---------------+------------------+-------|
+| Edward Acuna Quintan |       |        |           |               |                  |       |
+| Steve Byerly         |       |        |           |               |                  |       |
+| Vy Doan              |       |        |           |               |                  |       |
+| Cale  Harms          |       |        |           |               |                  |       |
+| Samuel Hobbs         |       |        |           |               |                  |       |
+| Tate Kollar          |       |        |           |               |                  |       |
+| Antony Larrick       |       |        |           |               |                  |       |
+| Isabel Reynolds      |       |        |           |               |                  |       |
+| Jeffrey Schade       |       |        |           |               |                  |       |
+| Lauren Sweetland     |       |        |           |               |                  |       |
+| Ryan Turner          |       |        |           |               |                  |       |
+| Zachariah Wrublewski |       |        |           |               |                  |       |
+|----------------------+-------+--------+-----------+---------------+------------------+-------|
 * Course Outline
 ** The Critical Project
 - Introduction of material
@@ -4149,6 +4238,29 @@ Zachariah Wrublewski
 - Discuss what "aesthetic" means
 - Introduce notion of sensibility, intuition, sensation, space and time as "forms"
 - Discuss Args of the ME of space
+
+
+*** ME 1
+- Standard interpretation is that the argument concerns individuation or
+  differentiation of one object from another
+  - Problem: Kant thinks we can conceptually individuate one object from
+    another, intuition isn't necessary, though it is sufficient
+- Warren's interpretation: Any representation of a spatial relation (e.g.
+  "distant from") presupposes a representation of the space in which that
+  relation is or could obtain. This differs from other kinds of representation
+  of relations (e.g. "brighter than"), which don't require or presuppose the
+  representation of some "space" (e.g. the "brightness line" constituting a
+  one-dimensional "brightness space") in which those relations obtain.
+  #+BEGIN_QUOTE
+  what is crucial to bear in mind here is that the notion of a brightness-line
+  is formed from an independently available concept, that is, the relational
+  concept "brighter than." In order to form and apply this concept we need not
+  presuppose any representation of a brightness-line. In order to represent
+  one object as brighter than another, we do not need to represent, in
+  addition, something that is different from these objects, namely, regions of
+  brightness-space, which these objects are regarded as occupying. (warren 201)
+  #+END_QUOTE
+  
 ** Which A Priori Concepts?
 ** The Transcendental Deduction I
 ** The Transcendental Deduction II
@@ -4328,7 +4440,7 @@ alternatives.
 **** Readings
 - CPR: Transcendental Aesthetic (B33-73; [[https://www.dropbox.com/s/62c67l858hwrmeg/kant1998b_the_transcendental_aesthetic_%2528b-edition%2529.pdf?dl=0][Guyer & Wood, 172-92]]) 
   - We'll focus primarily on Kant's discussion of /space/
-- Prolegomena: §§6-10, §13 ([[file:static/materials/readings 1/kant-prolegomena-6-10-13.pdf][Hatfield 32-5, 37-8]])
+- Prolegomena: §§6-10, §13 ([[file:static/materials/readings/kant-prolegomena-6-10-13.pdf][Hatfield 32-5, 37-8]])
 - Optional: Parsons, [[https://www.dropbox.com/s/pqu2fhedpn22e3c/parsons1992.pdf?dl=0][The Transcendental Aesthetic]] 
   - This is a class and helpful overview of the whole section, with a focus on space. 
 - Optional: Janiak, [[http://plato.stanford.edu/entries/kant-spacetime/][Kant's Views on Space and Time]] 
@@ -5687,7 +5799,352 @@ nor how the fact of such incongruent counterparts could entail three such
 different conclusions---viz. that space is absolute, intuitive, and ideal.
 
 
-*** DRAFT The Metaphysical Deduction of the Categories
+* Reponses
+** Responses Week 2
+*** Steve Byerly
+**** First worry
+#+BEGIN_QUOTE
+although it seems that space is a presupposition that underlies our spatial thinking and experience, this does not necessitate that it comes from the mind’s conditioning, as it could be the case that the structure of reality itself has imposed itself on us
+#+END_QUOTE
+
+This is a classic worry, sometimes called the "neglected altertive". In other words, why not think that we both have to represent objects distinct from us as being in space /and/ that distinct objects /really are/ in space? If Kant is inferring from a fact about how we have to represent things to some fact as to how reality is really structured, it seems like we have the makings of a bad inference. 
+
+There are two considerations that might help Kant out here. First, he defines intuition as a relational state that depends on the presence of its object. In the 1783 /Prolegomena/ he says
+
+#+BEGIN_QUOTE
+How is it possible to intuit something a priori? An intuition is a representation of the sort which would depend immediately on the presence of an object. It therefore seems impossible originally to  intuit a priori, since then the intuition would have to occur without an object being present, either previously or now, to which it could refer, and so it could not be an intuition. (4:481-2)
+#+END_QUOTE
+
+Kant's inference would then be something like: we have a priori intuitions of space; we couldn't have such intuition if space were an independently existing thing; so space is just the most formal feature of all we intuit and not some independent thing.
+
+A second consideration is that Kant thinks we know necessary truths about (euclidean) geometry. If space were as the neglected alternative suggests then we could not move from cognition or knowledge of how things are in our representation of space to how things are with space itself. But then we wouldn't have cognition or knowledge of necessary truths. But, Kant thinks, we /do/ have such cognition/knowledge. So space must just be a feature of our apprehension of things and not some independently existing thing itself.  
+
+**** Second Worry
+We shouldn't "conflate the thinkability of spatiality, with the actual experience of spatiality" or more broadly, that we shouldn't jump from "thinkability to possibility, and ‘what is thinkable’ to ‘what actually is and could be’." 
+
+Indeed, Kant agrees with this. One might worry that this undermines his view that space is the form that all our outer intuitions must take (i.e. they all intuit spatial objects). But Kant thinks this is a contingent fact about us. Perhaps we could have had some other form of sensibility. He entertains the possibility of such other forms at the end of the Aesthetic (B72). 
+
+Much of the rest of Kant's discussion of space (and time) proceeds in what we can call a "regressive" way. How must (the representation of) space be to explain how we have the kind of cognition and knowledge of it (e.g in geometry) that we do? 
+
+*** Vy Doan
+#+BEGIN_QUOTE
+Could it be that he was saying: Sensibility and intuition direct us to the object that needed to be analyze and allow us to take information from that object; then thought allows us to sort through the empirical data and looks for a definition of the object?
+#+END_QUOTE
+Yes - this definitely captures one aspect of Kant's thinking about the relation between intuition and concept (and thought). 
+
+Kant calls intuition "representation which can be given prior to all thinking" (B132) and Kant famously says that conceptual thought without intuition is "empty" while intuition without the capacity for conceptual thought is "blind" (A51/B75). What exactly he means by this is something we'll discuss further. 
+
+*** Cale Harms
+
+#+BEGIN_QUOTE
+Why is it not possible for Kant to have both some conception of space, while also there being the intuition of Space? 
+#+END_QUOTE
+
+In fact Kant agrees that this is possible. He agrees that we have a concept of space and can also think of individual spaces. What he is concerned to deny is the position that these concepts are the most fundamental mode in which we represent space or spaces.
+
+#+BEGIN_QUOTE
+[intuition] is much stronger than a “gut feeling”. Instead his intuition is a sort of “flash” of knowledge that it beyond doubt, or something we could not conceive of without.
+#+END_QUOTE
+
+Right - intuition, for Kant, is not a kind of feeling, in the way that we tend in English to say things like, "I had a weird intuition that you would be here", etc. Intuitions also aren't knowledge, or at least, aren't knowledge of the propositional kind. The are close to what Bertrand Russell called "knowledge by acquaintance." They are non-propositional conscious apprehensions of things in space or in time.  
+
+*** Samuel Hobbs
+#+BEGIN_QUOTE
+The last paragraph of Kant’s opening remarks concerning the science of transcendental aesthetic, Kant lays forth his methodological principles
+#+END_QUOTE
+
+I'm not sure which paragraph is meant - perhaps the one at A22/B36?
+
+#+BEGIN_QUOTE
+This principles involve, so it seems to me, a principle which Hume also accepted. This principle says, basically, whatever is separable and distinguishable at all, is, at least in principle, separable and distinguishable in thought.
+#+END_QUOTE
+
+Kant mentions first "isolating" sensibility from understanding and then second, "detaching" from sensibility everything that belongs to sensation. There's a question as what warrants these two moves, but I don't see Kant appealing to the principle you mention. Indeed, and as we'll see, it seems plausible that Kant rejects the general principle. 
+
+But this /does/ raise the issue of why Kant thinks we have some special access to "sensibility" or to faculties of the mind more generally. He might think that in the case of our own mental faculties, to the extent that they differ, we can think of, or more broadly represent, these differences. What warrants /that/ claim? That's a difficult issue, and one we should keep an eye on as we progress through the book. 
+
+
+*** Tate Kollar
+#+BEGIN_QUOTE
+ By a priori Kant means that it is not learned through experience.
+#+END_QUOTE
+
+Well, he means at least that, though there may be more to being a priori as well.
+
+#+BEGIN_QUOTE
+By intuition I take Kant to mean that our cognition relates directly to a real object
+#+END_QUOTE
+
+Yes, as I mentioned above in discussion of Steve's question, Kant construes intuition as relating to some present entity. It's controversial what this is supposed to mean. Must the entity exist? Can it be present in some other sense? It's clear that Kant thinks we have an intuition of space (and time), and that neither space nor time "exist" in the manner that we or other objects in space and time do. So we'll try and sort out how this position could work. 
+
+#+BEGIN_QUOTE
+Nonetheless, I still must conceive of all three of these images as outside of myself; I cannot understand the things I see (whether real or not) as part of myself.
+#+END_QUOTE
+
+It is possible that Kant is making a kind of conceivability claim in the first two arguments of the Metaphysical Exposition. And he seems to make an appeal conceivability at B5 and in a related way to imagination at A20-1/B35. We'll talk about this more tomorrow.
+
+*** Antony Larrick
+#+BEGIN_QUOTE
+We can intuitively know rain if we see it, but we cannot possess rain. We can catch raindrops, but once we catch and collect raindrops they are no longer raindrops, it simply becomes collected water. This seems like an intuitive concept of a transcendental object.
+#+END_QUOTE
+
+Kant uses the rain/rainbow example to illustrate an important element of his idealism---viz. the difference between an appearance and a thing as it is in itself. The empirical world (i.e. the world of possible experience) is such that "rainbows" are not independent existing things, but merely the appearance of raindrops under certain conditions. But Kant, in idealizing space, wants to push things further:
+
+#+BEGIN_QUOTE
+not only these drops are mere appearances, but even their round form, indeed even the space through which they fall are nothing in themselves, but only mere modifications or foundations of our sensible intuition; the transcendental object,' however, remains unknown to us. (A46/B63)
+#+END_QUOTE
+
+Now the raindrops themselves (and all empirical objects more generally) are considered as mere appearances, and the thing as it is in itself is some unknown entity that Kant calls here the "transcendental object." 
+
+*** Isabel Reynolds
+#+BEGIN_QUOTE
+I don’t understand how spatial representation isn’t conceptual. 
+#+END_QUOTE
+
+Kant agrees that we can represent space conceptually. The question is whether our most /fundamental/ representation of space is conceptual. This is what the first two arguments of the Metaphysical Exposition are trying to argue against.
+
+#+BEGIN_QUOTE
+And if it’s intuitive, how is it not sensory?
+#+END_QUOTE
+
+If by "sensory" one means, having sensation present, then Kant presents some seemingly conceivability type arguments to motivate the view that there is a non-sensational element or "form" to our experience. If by "sensory" one means, more broadly, having to do with the faculty of "sensibility" (as Kant calls it) then the pure intuitions are "sensory" in that sense. But Kant typically uses "sensory" in the former sense, as having to do with sensation. 
+
+#+BEGIN_QUOTE
+I feel as if I have a mental concept of inﬁnite space even though I have no idea how much space that actually is. Or is space intuitive because I can’t fathom the speciﬁcs of space(representation of inﬁnite space) ?
+#+END_QUOTE
+
+In the 4th argument of the ME Kant has a very specific picture in mind of what conceptual thought is and why it would be impossible to acquire or possess a fundamental representation of space as an "infiinte given magnitude" if we had only conceptual resources to draw upon. We'll talk about this more tomorrow, but the basic idea is that our representation of space cannot be fundamentally conceptual, for if it were, we would need to grasp the totality of conceptual parts that constitute its content or "intension". Since this would mean grasping an infinite set of concepts (conceptual representations of each individual space or location), it would be psychologically impossible for any finite being. But Kant asserts that we /do/ have such a representation (of course, one might deny this point...). Hence, space is not something originally grasped conceptually.
+
+*** Jeffrey Schade
+#+BEGIN_QUOTE
+It seems to be a plausible argument that Kant moved this section [i.e. the Transcendental Exposition] from the Metaphysical Exposition to its own section because it reversed the prevailing methodology of the Critique in order to make the same argument as the ME, and this may have disrupted the flow of the argument and been confusing. In other words, it is a parallel or alternative argument to the same conclusion. This seems to me to be a plausible reason to accept the common interpretation of the TE. Kant reversed his methodology in the TE to provide a supporting argument to the ME.
+#+END_QUOTE
+
+There seems to be at least two worries about the "analysis" reading. First, it doesn't explain /how/ the representation of space affords us a priori cognition of the unique subject matter of thee science of geometry. Second, if, as the analysis reading suggests, Kant's aim is to establish the ideality of space via appeal to our knowledge of geometry then, as P.F. Strawson put it, Kant's theory of geometry "is no longer tenable as a theory of 'the mathematics of space' and has no force to establish the thesis of transcendental idealism as regards space."
+
+*** Zachariah Wrublewski
+
+#+BEGIN_QUOTE
+I wonder what Kant must assert regarding the space that one represents when thinking of different possible worlds, for example. Essentially, I wonder whether Kant is tied to the idea that there is one singular space, per se, or merely that space (with all of the properties he asserts it has) is of one kind, such that it might be the case that the space represented in our considerations of non-actual possible worlds is, in some sense, a different space
+#+END_QUOTE
+
+When /thinking/ (i.e. conceptually representing) possible worlds, we might be able, on Kant's view, to represent them as spatially extended in ways such that the phrase "you can't get there from here" would really be true, but there would nevertheless be distinct spaces. 
+
+I think this raises a good question as to how "represent" in "one can only represent a single space" (A24/B38) is to be interpreted. If "represent" means conceptually represent, then I think there is no contradiction in conceptually representing non-continguous spaces. So I think Kant means something like, there is no intuition we could have such that we could represent non-continguous or disjoint spaces. Such intuitive representation would presuppose, in his view, some further space in which the spaces were placed, located, or otherwise a part of. 
+** Responses Week 3
+
+*** Edward Acuna Quintana
+*** Steve Byerly
+*** Vy Doan
+*** Cale Harms
+*** Samuel Hobbs
+*** Tate Kollar
+*** Antony Larrick
+*** Isabel Reynolds
+*** Jeffrey Schade
+*** Lauren Sweetland
+*** Ryan Turner
+*** Zachariah Wrublewski
+
+
+** Responses Week 4
+
+*** Edward Acuna Quintana
+*** Steve Byerly
+*** Vy Doan
+*** Cale Harms
+*** Samuel Hobbs
+*** Tate Kollar
+*** Antony Larrick
+*** Isabel Reynolds
+*** Jeffrey Schade
+*** Lauren Sweetland
+*** Ryan Turner
+*** Zachariah Wrublewski
+
+
+** Responses Week 5
+
+*** Edward Acuna Quintana
+*** Steve Byerly
+*** Vy Doan
+*** Cale Harms
+*** Samuel Hobbs
+*** Tate Kollar
+*** Antony Larrick
+*** Isabel Reynolds
+*** Jeffrey Schade
+*** Lauren Sweetland
+*** Ryan Turner
+*** Zachariah Wrublewski
+
+
+** Responses Week 6
+
+*** Edward Acuna Quintana
+*** Steve Byerly
+*** Vy Doan
+*** Cale Harms
+*** Samuel Hobbs
+*** Tate Kollar
+*** Antony Larrick
+*** Isabel Reynolds
+*** Jeffrey Schade
+*** Lauren Sweetland
+*** Ryan Turner
+*** Zachariah Wrublewski
+
+** Responses Week 7
+
+*** Edward Acuna Quintana
+*** Steve Byerly
+*** Vy Doan
+*** Cale Harms
+*** Samuel Hobbs
+*** Tate Kollar
+*** Antony Larrick
+*** Isabel Reynolds
+*** Jeffrey Schade
+*** Lauren Sweetland
+*** Ryan Turner
+*** Zachariah Wrublewski
+
+** Responses Week 8
+
+*** Edward Acuna Quintana
+*** Steve Byerly
+*** Vy Doan
+*** Cale Harms
+*** Samuel Hobbs
+*** Tate Kollar
+*** Antony Larrick
+*** Isabel Reynolds
+*** Jeffrey Schade
+*** Lauren Sweetland
+*** Ryan Turner
+*** Zachariah Wrublewski
+
+** Responses Week 9
+
+*** Edward Acuna Quintana
+*** Steve Byerly
+*** Vy Doan
+*** Cale Harms
+*** Samuel Hobbs
+*** Tate Kollar
+*** Antony Larrick
+*** Isabel Reynolds
+*** Jeffrey Schade
+*** Lauren Sweetland
+*** Ryan Turner
+*** Zachariah Wrublewski
+
+** Responses Week 10
+
+*** Edward Acuna Quintana
+*** Steve Byerly
+*** Vy Doan
+*** Cale Harms
+*** Samuel Hobbs
+*** Tate Kollar
+*** Antony Larrick
+*** Isabel Reynolds
+*** Jeffrey Schade
+*** Lauren Sweetland
+*** Ryan Turner
+*** Zachariah Wrublewski
+
+** Responses Week 11
+
+*** Edward Acuna Quintana
+*** Steve Byerly
+*** Vy Doan
+*** Cale Harms
+*** Samuel Hobbs
+*** Tate Kollar
+*** Antony Larrick
+*** Isabel Reynolds
+*** Jeffrey Schade
+*** Lauren Sweetland
+*** Ryan Turner
+*** Zachariah Wrublewski
+
+** Responses Week 12
+
+*** Edward Acuna Quintana
+*** Steve Byerly
+*** Vy Doan
+*** Cale Harms
+*** Samuel Hobbs
+*** Tate Kollar
+*** Antony Larrick
+*** Isabel Reynolds
+*** Jeffrey Schade
+*** Lauren Sweetland
+*** Ryan Turner
+*** Zachariah Wrublewski
+
+** Responses Week 13
+
+*** Edward Acuna Quintana
+*** Steve Byerly
+*** Vy Doan
+*** Cale Harms
+*** Samuel Hobbs
+*** Tate Kollar
+*** Antony Larrick
+*** Isabel Reynolds
+*** Jeffrey Schade
+*** Lauren Sweetland
+*** Ryan Turner
+*** Zachariah Wrublewski
+
+** Responses Week 14
+
+*** Edward Acuna Quintana
+*** Steve Byerly
+*** Vy Doan
+*** Cale Harms
+*** Samuel Hobbs
+*** Tate Kollar
+*** Antony Larrick
+*** Isabel Reynolds
+*** Jeffrey Schade
+*** Lauren Sweetland
+*** Ryan Turner
+*** Zachariah Wrublewski
+
+** Responses Week 15
+
+*** Edward Acuna Quintana
+*** Steve Byerly
+*** Vy Doan
+*** Cale Harms
+*** Samuel Hobbs
+*** Tate Kollar
+*** Antony Larrick
+*** Isabel Reynolds
+*** Jeffrey Schade
+*** Lauren Sweetland
+*** Ryan Turner
+*** Zachariah Wrublewski
+
+** Responses Week 16
+
+*** Edward Acuna Quintana
+*** Steve Byerly
+*** Vy Doan
+*** Cale Harms
+*** Samuel Hobbs
+*** Tate Kollar
+*** Antony Larrick
+*** Isabel Reynolds
+*** Jeffrey Schade
+*** Lauren Sweetland
+*** Ryan Turner
+*** Zachariah Wrublewski
+* Drafts
+** DRAFT The Metaphysical Deduction of the Categories
 SCHEDULED: <2018-09-11 Tue>
 :PROPERTIES:
   :EXPORT_HUGO_TAGS: categories judgment logic metaphysics understanding
@@ -5722,7 +6179,7 @@ chooses this strategy for butressing his choice of categories it helps to look
 at a prior attempt Kant makes for determining the basic concepts of
 metaphysics.
 
-**** The Pre-Critical Strategy 
+*** The Pre-Critical Strategy 
 
 In Kant's "Inaugural Dissertation" of 1770 (whose formal title is "On the
 Forms and Principles of the Sensible and Intelligible World") he lays out a
@@ -5906,7 +6363,7 @@ of the MD.
         [@allison2015, 121-30].
 
 
-**** The Critical Strategy
+*** The Critical Strategy
 
 In the /Dissertation/ Kant distinguishes between what he terms the "logical" and
 the "real" uses of the understanding (ID §23, 2:410–11). He says,
@@ -6034,8 +6491,8 @@ Kant does not provide convincing proof of this position in the MD. Whether such 
 [fn:39] There are a variety of prominent attempts to defend Kant's position
 here. See [@reich1992; @brandt1995; @wolff1995; @longuenesse1998].
 
-*** TODO The Transcendental Deduction of the Categories
-**** The Problem with A Priori Concepts
+** TODO The Transcendental Deduction of the Categories
+*** The Problem with A Priori Concepts
 
 Kant's mature philosophical system is notable for the strictures it sets on the kind of knowledge human beings (or finite rational beings more generally) can achieve through reason alone. Importantly, Kant thinks that pure reason can achieve relatively little on its own. All of our ampliative knowledge that is also necessary and universal consists in what Kant calls ‘synthetic a priori' judgments or propositions. The central question he then pursues concerns how knowledge of such synthetic a priori propositions is possible. [[https://phil871.colinmclear.net/notes/transcendental-aesthetic][We previously discussed]] Kant's arguments concerning the role (the representations of) space and time play in grounding necessary and universal mathematical knowledge. On Kant's view, mathematical knowledge is synthetic because it goes beyond mere conceptual analysis to deal with the structure of (our representation of) space itself. It is a priori because the structure of (our representation of) space is a priori accessible to us, being merely the form of our intuition and not a real mind independent thing (i.e. a ‘thing in itself').
 
@@ -6072,7 +6529,7 @@ I'm mostly going to set this issue to the side in what follows. But the issue
 of idealism is important to consider, insofar as Kant takes himself to be replying to Hume's arguments about the nature of the empirical world and the nature and extent of our knowledge of it.
 
 
-**** What Is a Transcendental Deduction?
+*** What Is a Transcendental Deduction?
 
 In order to prove that there are a priori concepts which legitimately apply to the objects of experience, Kant articulates [[http://plato.stanford.edu/entries/kant-transcendental/][a special sort of argument]] which he calls a 'transcendental deduction'. As @henrich1989 points out, the notion of a 'deduction' that Kant uses, is a legal one intended to provide a historical justification for the legitimacy of a property claim. In Kant's case however, it is transformed into a justification of the applicability (in the sense discussed above) of the a priori concepts Kant calls the 'categories'. These are the concepts given in Kant's 'Table of Categories' (A80/B106); they are Unity, Plurality, and Totality (the Categories of Quantity); Reality, Negation, and Limitation (the Categories of Quality); Inherence and Subsistence, Causality and Dependence, and Community (the Categories of Relation), and Possibility-Impossibility, Existence-Nonexistence, Necessity-Contingency (the Categories of Modality).
 
@@ -6091,9 +6548,9 @@ For Kant then a 'transcendental deduction' starts from a premise concerning some
 
 
 
-**** Experience and the Deduction
+*** Experience and the Deduction
 
-**** Structure of the Deduction
+*** Structure of the Deduction
 I take the structure of the deduction to consist of two steps; the first starts at §15 and concludes with §20 (§21 being essentially a recap of the preceding argument). The second step begins with §22 and concludes with §26 (with §27 also being a recapitulation). This "two-step" interpretation is not new, though interpretation of the content of each step and their relations to one another differs widely.[fn:40]
 
 The first step of the deduction (§§15-21) is an argument concerning the conditions for the possibility of structured complex unities. The unities most relevant to Kant's argument are states of affairs (e.g. /a/ is /F/) and propositions (e.g. /that a is F/). Kant begins from the assumption that we an awareness of such complexes. He then claims that such complexes cannot be given in intuition so some other explanation of our awareness of their existence is needed. Kant then appeals to the activity of the Understanding in bringing structural unity to such a complex. Call this determination of structural unity /discursive determination/. His claim concerning perception is that our awareness of perceptual appearances as being discursively determined depends on the capacity to freely connect these appearances in certain ways. The modes of activity by which the Understanding discursively determines the structural unity of a complex (be it a state of affairs or a proposition) are, Kant argues, the categories. Hence, Kant's argument in the first step is a conditional one. He argues that /if/ we are aware of structured complex unities /then/ the discursive determination of such complexes must rest on the categories, understood as the modes of the Understanding's activity.[fn:41]
@@ -6105,11 +6562,11 @@ The second step of the Deduction (§§22-7) concerns both positive and negative 
 
 [fn:41] A virtue of this reading is that it presents a clear germ of the issues that find full flower in the work of the German idealists. I interpret Kant as arguing that the subject's own activity forms the basis for cognition. In the 'absolute' idealisms of Schelling and Hegel this activity becomes the ultimate basis for the distinction between subject and object itself. See Ameriks 2000; Beiser 2002. Also important is the fact that a reading of the Deduction that emphasizes the source of discursive determination in the activity of the subject helps makes sense of Hegel's subsequent criticisms of Kant's supposed 'subjective' idealism. See Bristow 2007 for discussion. However, I believe Hegel's criticisms of Kant, specifically regarding the purported 'subjectivism' of his logic, fail to find their mark. I hope to pursue this issue in future work.
 
-**** Commentary on the Argument
+*** Commentary on the Argument
 Below I discuss the various sections of the argument of the Deduction, as well as raise questions concerning its various parts. This commentary is by no means complete, nor do I avoid making entirely uncontroversial assumptions. The aim of the commentary is simply to provide /one/ way of getting through the thicket of Kant's argument.
 
 
-***** The Nature of a Transcendental Deduction and Transition to the Argument (§§13-14)
+**** The Nature of a Transcendental Deduction and Transition to the Argument (§§13-14)
 
 Kant states the task of the Transcendental Deduction in §13. He says that a transcendental deduction is an explanation of "the way in which concepts may relate [/sich beziehen/] a priori to objects" (A85/B117). The reason why such a relation is a problem concerns Kant's account of how concepts are generated. For Kant, as for empiricists like Locke and Hume, empirical concepts are derived via reflection upon similarities and differences present in a subject's sensory states, from which a concept is then generated via abstraction.[fn:42] Such concepts thereby get their content from experience and their legitimate use is governed by their content. Hence, for any empirical concept, showing the kind of experience from which it derived (though not necessarily the actual experience) is sufficient to demonstrate the legitimacy [/Rechtsmäßigkeit/] of the content, and thus of the use of the concept (A85/B117).[fn:43]
 
@@ -6128,7 +6585,7 @@ So Kant faces a problem---viz. how is it that the categories are legitimately ap
 
 [fn:43] This form of /empirical deduction/ would be insufficient for a priori concepts (A85-6/B118). So too would a demonstration of how rational beings were caused to possess the conceptual capacities in question. This would be a merely /physiological derivation/ (A86-7/B118-19).
 
-***** Experience & the Aims of the Deduction
+**** Experience & the Aims of the Deduction
 Our problem is that the notion of “experience," both in German and in English, is ambiguous and can mean any number of a variety of things---anything from the mere occurrence of sensation all the way to empirical judgment.[fn:44]
 
 For Kant, "experience" is a technical term that is closely related to /empirical cognition/ [/empirische Erkenntniss/]. He makes this clear at several points, both in the Deduction and elsewhere in the first /Critique/. However, in what exactly the relation between the two notions consists is somewhat problematic. For example, Kant says that
@@ -6190,14 +6647,14 @@ now turn.
 [fn:44] For a helpful discussion of different ways "experience" might be
         interpreted see Van Cleve 1999, pp. 73-6.
 
-***** The First Step (§§15-21)
+**** The First Step (§§15-21)
 
-***** The Second Step (§§22-27)
+**** The Second Step (§§22-27)
 
-*** TODO The Schematism
-*** TODO Principles of Experience
-*** TODO The Analogies & Kant's Defense of Causation
-**** The Second Analogy
+** TODO The Schematism
+** TODO Principles of Experience
+** TODO The Analogies & Kant's Defense of Causation
+*** The Second Analogy
   :PROPERTIES:
   :CUSTOM_ID: the-second-analogy
   :END:
@@ -6234,7 +6691,7 @@ causation /presupposes/ the application in experience of the concept
 legitimacy of the concept to be a ‘transcendental' as opposed to a
 merely ‘empirical' deduction of the concept.
 
-***** The Argument
+**** The Argument
    :PROPERTIES:
    :CUSTOM_ID: the-argument
    :END:
@@ -6370,16 +6827,15 @@ cognitive grasp of objective succession, it nevertheless seems effective
 against Hume's argument.
 
 
-*** TODO Reason & Transcendental Illusion
-*** TODO The Paralogisms of the Soul
-*** TODO The Antinomies & Transcendental Freedom
-*** TODO The Project of the /Groundwork/ 
-*** TODO The Will & Acting from Maxims
-*** TODO The Formulations of the Categorical Imperative
-*** TODO Autonomy & Freedom
-*** TODO Reason's Unity
-* Reponses
-** Responses Week 2
+** TODO Reason & Transcendental Illusion
+** TODO The Paralogisms of the Soul
+** TODO The Antinomies & Transcendental Freedom
+** TODO The Project of the /Groundwork/ 
+** TODO The Will & Acting from Maxims
+** TODO The Formulations of the Categorical Imperative
+** TODO Autonomy & Freedom
+** TODO Reason's Unity
+
 
 * Configuration                                                                 :noexport:
 #+HUGO_BASE_DIR: ./ 
