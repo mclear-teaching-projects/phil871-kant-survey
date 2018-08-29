@@ -6400,7 +6400,8 @@ against Hume's argument.
 
 ** COMMENT Local Variables                                                    :ARCHIVE:
 # Local Variables:
-# org-hugo-auto-export-on-save: nil
+# org-hugo-auto-export-on-save: t
 # org-export-initial-scope: subtree
 # End:
+
 
