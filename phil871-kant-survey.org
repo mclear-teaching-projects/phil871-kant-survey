@@ -5,7 +5,8 @@
 #+EXCLUDE_TAGS: noexport archive nohugo
 #+TODO: TODO DRAFT | DONE CANCELED
 #+LANGUAGE: en
-#+OPTIONS: ':t
+#+LATEX_HEADER: \usepackage[English]{babel}
+#+OPTIONS: '":t
 
 
 * Handouts                                                                      :noexport:
@@ -4139,16 +4140,16 @@ straightforwardly hypothetical
 |----------------------+-----+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
 | Edward Acuna Quintan |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
 | Steve Byerly         | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Vy Doan              |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Cale  Harms          |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Samuel Hobbs         |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Tate Kollar          |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Antony Larrick       |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Isabel Reynolds      |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Jeffrey Schade       |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Vy Doan              | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Cale  Harms          | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Samuel Hobbs         | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Tate Kollar          | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Antony Larrick       | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Isabel Reynolds      | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Jeffrey Schade       | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
 | Lauren Sweetland     |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
 | Ryan Turner          |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Zachariah Wrublewski |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Zachariah Wrublewski | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
 |----------------------+-----+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
 
 ** Paper
@@ -4452,8 +4453,7 @@ alternatives.
 - Optional: Allais, [[https://www.dropbox.com/s/ogdrn3tp3s1par7/allais2010a_kant%27s_argument_for_transcendental_idealism_in_the_transcendental_aesthetic.pdf?dl=0][Kant’s Argument for Transcendental Idealism in the Transcendental Aesthetic]]
   - Helpful way of thinking about Kant's argument for Transcendental Idealism as deriving from his conception of the role of intuition in cognition. 
 - Optional: [[https://phil871.colinmclear.net/notes/transcendental-aesthetic/][Notes on the Transcendental Aesthetic]]
-
-# - [[file:static/materials/handouts/2_KantSpace.pdf][Handout]]
+- [[file:static/materials/handouts/handout2-aesthetic.pdf][Handout]]
   
 
 **** Questions
@@ -4464,31 +4464,35 @@ alternatives.
 - What is the relationship between pure intuition and mathematics?
 
   
-*** DRAFT Week 3 - No Class
+*** DONE Week 3 - No Class
+SCHEDULED: <2018-09-04 Tue>
 :PROPERTIES:
 :EXPORT_FILE_NAME: week3
 :END:
 
 No class this week. 
 
-*** DRAFT Week 4 - Which A Priori Concepts Are Fundamental?
+*** DONE Week 4 - Which A Priori Concepts Are Fundamental?
+SCHEDULED: <2018-09-11 Tue>
 :PROPERTIES:
+:EXPORT_HUGO_TAGS: "a priori" categories concepts deduction idealism judgment logic metaphysics 
 :EXPORT_FILE_NAME: week4
 :END:
 
 Kant's project of defending our knowledge of true synthetic a priori judgments
 in metaphysics requires a defense of the legitimacy of the basic concepts of
-metaphysics. But which concepts are the most basic? This week we'll look at
-the section of the /Critique of Pure Reason/ called the "Metaphysical
-Deduction", in which Kant gives us an argument for determining which concepts
-are fundamental to metaphysics, and how they could be cognized a priori. 
+metaphysics. But which concepts are the most basic? This week we start our
+discussion of the Transcendental Analytic with a look at the section of the
+/Critique of Pure Reason/ called the "Metaphysical Deduction", in which Kant
+gives us an argument for determining which concepts are fundamental to
+metaphysics, and how they could be cognized a priori.
 
 **** Readings
 - CPR: Transcendental Logic & Analytic (the Clue), B91-116 (Guyer & Wood, 201-18)
-- CPR: Analytic ch. 2, §13 & 'Transition', B116-29 (Guyer & Wood, 219-26) 
-- Optional: Longuenesse, [[https://www.dropbox.com/s/kyrzl9gf8lma18c/longuenesse2006a_kant_on_a_priori_concepts.pdf?dl=0]['Kant on A Priori Concepts']]
-- Optional: Allison, [[https://www.dropbox.com/s/76hf2dh2rwf3dur/allison2004-ch6_the_intellectual_conditions_of_human_cognition.pdf?dl=0]['The Intellectual Conditions of Human Cognition']]
-- [[file:content/materials/handouts/4_KantMD.pdf][Handout]]
+- CPR: Analytic ch. 2, §13 & Transition, B116-29 (Guyer & Wood, 219-26) 
+- Optional: Longuenesse, [[https://www.dropbox.com/s/kyrzl9gf8lma18c/longuenesse2006a_kant_on_a_priori_concepts.pdf?dl=0]["Kant on A Priori Concepts"]]
+- Optional: Allison, [[https://www.dropbox.com/s/76hf2dh2rwf3dur/allison2004-ch6_the_intellectual_conditions_of_human_cognition.pdf?dl=0]["The Intellectual Conditions of Human Cognition"]]
+# - [[file:content/materials/handouts/4_KantMD.pdf][Handout]]
   
 
 **** Questions
