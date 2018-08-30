@@ -8,4 +8,4 @@ toc = false
 type = "post"
 +++
 
-No class this week.
+No class this week. Your [first passage analysis](https://phil871.colinmclear.net/analysis-1) is due Friday by 5 p.m ([email me](mailto:mclear@unl.edu)).
