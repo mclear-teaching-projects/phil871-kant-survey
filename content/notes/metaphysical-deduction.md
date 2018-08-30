@@ -2,7 +2,7 @@
 title = "The Metaphysical Deduction of the Categories"
 publishDate = 2018-09-11T00:00:00-05:00
 tags = ["categories", "judgment", "logic", "metaphysics", "understanding"]
-draft = true
+draft = false
 weight = 0
 toc = true
 type = "post"
