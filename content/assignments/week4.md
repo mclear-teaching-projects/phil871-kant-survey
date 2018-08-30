@@ -24,6 +24,7 @@ metaphysics, and how they could be cognized a priori.
 -   CPR: Analytic ch. 2, §13 & Transition, B116-29 (Guyer & Wood, 219-26)
 -   Optional: Longuenesse, [&ldquo;Kant on A Priori Concepts&rdquo;](https://www.dropbox.com/s/kyrzl9gf8lma18c/longuenesse2006a%5Fkant%5Fon%5Fa%5Fpriori%5Fconcepts.pdf?dl=0)
 -   Optional: Allison, [&ldquo;The Intellectual Conditions of Human Cognition&rdquo;](https://www.dropbox.com/s/76hf2dh2rwf3dur/allison2004-ch6%5Fthe%5Fintellectual%5Fconditions%5Fof%5Fhuman%5Fcognition.pdf?dl=0)
+-   Optional: [Notes on the Metaphysical Deduction](https://phil871.colinmclear.net/notes/metaphysical-deduction/)
 
 
 ## Questions {#questions}
