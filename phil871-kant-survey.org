@@ -4397,8 +4397,10 @@ primarily only on /weekdays/.
 :PROPERTIES:
 :EXPORT_FILE_NAME: analysis-1
 :END:
-Choose from *one* of the two provided passages. In no more than 500 words describe Kant's
-argument or point in the passage in as plain English as possible.
+Choose from *one* of the two provided passages. In no more than 500 words
+describe Kant's argument or point in the passage in as plain English as
+possible. The is due via [[mailto:mclear@unl.edu][email]] Friday, September 7
+by 5 p.m.
 
 ***** First Passage
 #+BEGIN_QUOTE
@@ -4534,13 +4536,13 @@ alternatives.
 - What is the relationship between pure intuition and mathematics?
 
   
-*** DONE Week 3 - No Class
+*** DONE Week 3 - No Class/Passage Analysis Due
 SCHEDULED: <2018-09-04 Tue>
 :PROPERTIES:
 :EXPORT_FILE_NAME: week3
 :END:
 
-No class this week. Your [[https://phil871.colinmclear.net/analysis-1][first passage analysis]] is due Friday by 5 p.m ([[mailto:mclear@unl.edu][email me]]).
+No class this week. Your [[https://phil871.colinmclear.net/analysis-1][first passage analysis]] is due Friday by 5 p.m.
 
 *** DONE Week 4 - Which A Priori Concepts Are Fundamental?
 SCHEDULED: <2018-09-11 Tue>

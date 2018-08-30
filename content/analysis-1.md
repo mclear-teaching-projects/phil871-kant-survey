@@ -5,8 +5,10 @@ author = false
 toc = false
 +++
 
-Choose from **one** of the two provided passages. In no more than 500 words describe Kant&rsquo;s
-argument or point in the passage in as plain English as possible.
+Choose from **one** of the two provided passages. In no more than 500 words
+describe Kant&rsquo;s argument or point in the passage in as plain English as
+possible. The is due via [email](mailto:mclear@unl.edu) Friday, September 7
+by 5 p.m.
 
 
 ## First Passage {#first-passage}
