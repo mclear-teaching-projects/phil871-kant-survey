@@ -4320,9 +4320,9 @@ information.
 | Week \nbsp\nbsp | Date\nbsp\nbsp\nbsp | Material                                                                |
 |---------+---------+-------------------------------------------------------------------------|
 |       1 |    8.21 | [[https://phil871.colinmclear.net/assignments/week1/][Kant's Critical Project]]                                                 |
-|       2 |    8.28 | The Ideality of Space and Time                                          |
-|       3 |     9.4 | No Class <br> *First* passage analysis due Friday                         |
-|       4 |    9.11 | Which A Priori Concepts are Fundamental?                                |
+|       2 |    8.28 | [[https://phil871.colinmclear.net/assignments/week2/][The Ideality of Space and Time]]                                          |
+|       3 |     9.4 | [[https://phil871.colinmclear.net/assignments/week3/][No Class]] <br> *First* passage analysis due Friday                         |
+|       4 |    9.11 | [[https://phil871.colinmclear.net/assignments/week4/][Which A Priori Concepts are Fundamental?]]                                |
 |       5 |    9.18 | The Transcendental Deduction I                                          |
 |       6 |    9.25 | The Transcendental Deduction II <br> *Second* passage analysis due Friday |
 |       7 |    10.2 | The Deduction & Transition to the Principles                            |
