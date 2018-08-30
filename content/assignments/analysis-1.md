@@ -1,8 +1,11 @@
 +++
-title = "Analysis 1"
+title = "First Passage Analysis Due 9/7"
+publishDate = 2018-09-07T17:00:00-05:00
 draft = false
+weight = -100
 author = false
 toc = false
+type = "post"
 +++
 
 Choose from **one** of the two provided passages. In no more than 500 words
