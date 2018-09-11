@@ -19,7 +19,7 @@ critical philosophy and the central contribution of Nicolas Copernicus.
 > priori through concepts that would extend our cognition have, on this
 > presupposition, come to nothing. Hence let us once try whether we do
 > not get farther with the problems of metaphysics by assuming that the
-> objects" must conform to our cognition, which would agree better with
+> objects must conform to our cognition, which would agree better with
 > the requested possibility of an a priori cognition of them, which is
 > to establish something about objects before they are given to us. This
 > would be just like the first thoughts of Copernicus, who, when he did
