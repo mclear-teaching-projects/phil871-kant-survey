@@ -3,7 +3,8 @@
 #+AUTHOR: Colin McLear
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport archive nohugo
-#+TODO: TODO DRAFT | DONE CANCELED
+#+TODO: TODO NEXT | DONE CANCELED
+#+TODO: DRAFT | DONE CANCELED
 #+LANGUAGE: en
 #+LATEX_HEADER: \usepackage[English]{babel}
 #+OPTIONS: '":t
@@ -294,26 +295,25 @@ stands in connection with it. (A6/B10)
 :EXPORT_TITLE: The Transcendental Aesthetic
 :EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/handout2-aesthetic.pdf
 :END:
-:Pandoc:
-#+PANDOC_METADATA: "author:PHIL 4/871" "date:August 28, 2018" 
-#+PANDOC_METADATA: "lfoot:Colin McLear | August 28, 2018"
-#+PANDOC_METADATA: "lhead: The Transcendental Aesthetic"
-#+PANDOC_EXTENSIONS: org+raw_tex
-#+LANGUAGE: en
-#+OPTIONS: ':t
-:END:
+# :Pandoc:
+# #+PANDOC_METADATA: "author:PHIL 4/871" "date:August 28, 2018" 
+# #+PANDOC_METADATA: "lfoot:Colin McLear | August 28, 2018"
+# #+PANDOC_METADATA: "lhead: The Transcendental Aesthetic"
+# #+PANDOC_EXTENSIONS: org+raw_tex
+# #+LANGUAGE: en
+# #+OPTIONS: ':t
+# :END:
 
 - Why a "Transcendental Aesthetic"? 
   - Transcendental vs. Transcendent
-    - Transcendental: :: an (i) a priori condition upon which (ii) the possibility of "experience" (empirical cognition) depends[fn:1535337773]
+    - Transcendental: :: an (i) a priori condition upon which (ii) the possibility of "experience" (empirical cognition) depends[fn:13]
     - Transcendent: :: a representation (or cognition or object) of that which cannot be given in a possible experience
 
 \\
 
 - Transcendental Aesthetic :: a "science of all principles of a priori sensibility" (A21/B35) 
-                        
 
-[fn:1535337773] I call all cognition transcendental that is occupied not so much with objects but rather with our mode of cognition of objects, insofar as this is to be possible a priori
+[fn:13] I call all cognition transcendental that is occupied not so much with objects but rather with our mode of cognition of objects, insofar as this is to be possible a priori
 
 *** The Two-Stem Theory of Cognition
 
@@ -521,9 +521,9 @@ stands in connection with it. (A6/B10)
   
 \newthought{Allais' Interpretation}:
 
-1. Intuition necessarily involves a relation to an object[fn:13]
+1. Intuition necessarily involves a relation to an object[fn:14]
 2. We have an a priori intuition of space (and time)
-3. A priori intuition cannot, by definition, involve relating to an existing object[fn:14]
+3. A priori intuition cannot, by definition, involve relating to an existing object[fn:15]
 4. $\therefore$ Space is nothing other than a 'pure' a priori intuition
 
 [fn:12] I understand by the *transcendental idealism* of all appearances
@@ -540,7 +540,7 @@ stands in connection with it. (A6/B10)
         sensibility and thus would also be outside us according to pure
         concepts of the understanding. (A369)
 
-[fn:13] How is it possible to intuit something /a priori/? An intuition
+[fn:14] How is it possible to intuit something /a priori/? An intuition
         is a representation of the sort which would depend immediately
         on the presence of an object. It therefore seems impossible
         originally to intuit /a priori/, since then the intuition would
@@ -548,7 +548,7 @@ stands in connection with it. (A6/B10)
         or now, to which it could relate, and so it could not be an
         intuition. /Prolegomena/, 4:281-2.
 
-[fn:14] How can an outer intuition inhabit the mind that precedes the
+[fn:15] How can an outer intuition inhabit the mind that precedes the
         objects themselves? Obviously not otherwise than insofar as it
         has its seat merely in the subject, as its formal constitution
         for being affected by objects and thereby acquiring immediate
@@ -587,7 +587,7 @@ stands in connection with it. (A6/B10)
     - Not obvious how Kant's argument is meant to establish /ideality/
       of space
 
-\newthought{Van Cleve's Interpretation}:[fn:15]
+\newthought{Van Cleve's Interpretation}:[fn:16]
 
 1. Incongruent counterparts are different in virtue of their differing
    relations to space as a whole.
@@ -604,11 +604,11 @@ stands in connection with it. (A6/B10)
   1. Kant didn't obviously endorse the reducibility of all relations to
      intrinsic properties of things
   2. The reducibility premise makes advertance to incongruent
-     counterparts unnecessary[fn:16]
+     counterparts unnecessary[fn:17]
 
-[fn:15] @vancleve1999, 47.
+[fn:16] @vancleve1999, 47.
 
-[fn:16] once armed with the reducibility principle, Kant need not have
+[fn:17] once armed with the reducibility principle, Kant need not have
         resorted to anything so recondite as incongruent counterparts to
         make his point, for spatial relations quite generally fail to be
         reducible (or "internal," in one leading sense of that term).
@@ -632,174 +632,279 @@ stands in connection with it. (A6/B10)
 \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
 
 
-** TODO Handout Week 4 The Metaphysical Deduction
+** DONE Handout Week 4 The Metaphysical Deduction
+:PROPERTIES:
+:EXPORT_TITLE: The Metaphysical Deduction
+:EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/handout3-metaphysical-deduction.pdf
+:END:
+# :Pandoc:
+# #+PANDOC_METADATA: "author:PHIL 4/871" "date:September 11, 2018" 
+# #+PANDOC_METADATA: "lfoot:Colin McLear | September 11, 2018"
+# #+PANDOC_METADATA: "lhead: The Metaphysical Deduction"
+# #+PANDOC_EXTENSIONS: org+raw_tex
+# #+LANGUAGE: en
+# #+OPTIONS: ':t
+# :END:
+
 *** Two Kinds of Logic
-  :PROPERTIES:
-  :CUSTOM_ID: two-kinds-of-logic
-  :END:
 
-- Pure General Logic: :: the science of the norms or rules constitutive
-  of thinking (or judging) in general, which abstracts from any relation
-  to an object whatsoever
-  (A55/B79)\footnote[][-.75in]{[Pure logic] contains the absolutely necessary rules of thinking, without which no use of the understanding takes place, and it therefore concerns these rules without regard to the difference of the objects to which it may be directed...A \textbf{general} but textbf{pure} logic therefore has to do with strictly \emph{a priori} principles and is a \textbf{canon of the understanding} and reason, but only in regard to what is formal in their use, be the content what it may (empirical or transcendental). (A52-3/B76-7)}
+- Pure General Logic: :: the science of the norms or rules constitutive of
+     thinking (or judging) in general, which abstracts from any relation to an
+     object whatsoever (A55/B79)\footnote[][-.75in]{[Pure logic] contains the
+     absolutely necessary rules of thinking, without which no use of the
+     understanding takes place, and it therefore concerns these rules without
+     regard to the difference of the objects to which it may be directed...A
+     \textbf{general} but textbf{pure} logic therefore has to do with strictly
+     \emph{a priori} principles and is a \textbf{canon of the understanding}
+     and reason, but only in regard to what is formal in their use, be the
+     content what it may (empirical or transcendental). (A52-3/B76-7)}
 
-- Abstracts from all /content/ (relation to an object) of
-  thought\footnote[][.1in]{As general logic it abstracts from all contents of the cognition of the understanding and of the difference of its objects, and has to do with nothing but the mere form of thinking. (A54/B78)}
-- Purely /formal/
+  - Abstracts from all /content/ (relation to an object) of
+    thought\footnote[][.1in]{As general logic it abstracts from all contents of
+    the cognition of the understanding and of the difference of its objects, and
+    has to do with nothing but the mere form of thinking. (A54/B78)}
+  - Purely /formal/
 
 - Transcendental Logic: :: the science of the norms or rules
   constitutive of thinking of an object in general, in whatever way it
   might be given in intuition
 
-- Not purely formal; articulates the conditions on employing the concept
-  =<object>= in thinking of anything whatsoever[fn:1]
-- Articulates the most general conditions for objective thought
+  - /Not/ purely formal; articulates the conditions on employing the concept
+    =<object>= in thinking of anything whatsoever[fn:1]
+  - Articulates the most general conditions for objective thought
 
-*** The Metaphysical Deduction[fn:4] (§§9-12)
-  :PROPERTIES:
-  :CUSTOM_ID: the-metaphysical-deduction101052-9-12
-  :END:
+[fn:1] since every division presupposes a concept that is to be divided,
+       a still higher one must be given, and this is the concept of an
+       object in general (taken problematically, leaving undecided
+       whether it is something or nothing). (A290/B346)
+
+*** The Metaphysical Deduction[fn:2] (§§9-12)
 
 - Function: :: mental activity by which different representations are
-  ordered under a common one[fn:6]
+  ordered under a common one[fn:3]
 
-**** The Forms of Judgment[fn:7]
-   :PROPERTIES:
-   :CUSTOM_ID: the-forms-of-judgment214958
-   :END:
+[fn:2] In the *metaphysical deduction* the origin of the /a priori/
+       categories in general was established through their complete
+       coincidence with the universal logical functions of thinking, in
+       the *transcendental deduction*, however, their possibility as /a
+       priori/ cognitions of objects of an intuition in general was
+       exhibited. (B159)
 
-\includegraphics[height=81mm, width=90mm]{/Users/Roambot/Dropbox/Work/Teaching/KantSurvey/KantJudge.jpeg}
+[fn:3] By a function, however, I understand the unity of the action of
+       ordering different representations under a common one...Now the
+       understanding can make no other use of these concepts than that
+       of judging by means of them... In every judgment there is a
+       concept that holds of many, and that among this many also
+       comprehends a given representation, which is then related
+       immediately to the object...All judgments are accordingly
+       functions of unity among our representations, since instead of an
+       immediate representation [viz., an intuition] a higher one, which
+       comprehends this and other representations under itself, is used
+       for the cognition of the object, and many possible cognitions are
+       thereby drawn together into one. (A68-9/B93-4)
+
+**** The Forms of Judgment[fn:4]
+
+\includegraphics[height=65mm, width=90mm]{/Users/Roambot/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/KantJudge.jpeg}
 
 - Every judgment yields a "unity" (i.e. a propositional form)
   corresponding to the moments of the four types of judgment
 
   - Every judgment takes one moment from each group
 
-    - universal, affirmative, categorical and assertoric ('all crows are
+    - Universal, affirmative, categorical and assertoric ('all crows are
       black')
-    - singular, negative, disjunctive and problematic ('that bird might
+    - Singular, negative, disjunctive and problematic ('that bird might
       be neither a crow nor a raven')
 
-- Kant thinks that the 12 forms constitute all logically coherent
-  cognitive acts which the understanding might engage in
-- Kant also assumes that the only possible employment of concepts is in
-  judgment[fn:14]
+- Kant thinks that the 12 forms constitute all logically coherent cognitive acts which the understanding might engage in
+- Kant also assumes that the only possible employment of concepts is in judgment[fn:5]
 
-  - this is how the forms of judgment provide a 'clue' to nature of the
+  - This is how the forms of judgment provide a 'clue' to nature of the
     categories
-  - they only provide a 'clue' however, because the forms of judgment
-    are /formal/ and thus lack any precise content --- they thus cannot
-    by themselves determine the content of the categories
+  - They only provide a 'clue' however, because the forms of judgment
+    are /formal/ and thus lack any relation to an object---they thus cannot
+    by themselves determine the content of the categories insofar as these are supposed to be concepts of /objects/
 
-[fn:14] Kant holds that we cannot apprehend the parts of a manifold
-        straight off in one act. Instead, we must apprehend the parts
-        successively, retain memory images of them, and see what they
-        all add up to. But how are we supposed to survey these images? A
-        manifold of images presents the same problem we had to begin
-        with. Either we must perform a threefold synthesis on it, in
-        which case we are off on an infinite regress, or we can take it
-        in all at once, in which case we could have done likewise with
-        the original manifold. (@van-cleve1999, 86)
+[fn:4] If we abstract from all content of a judgment in general, and
+       attend only to the mere form of the understanding in it, we find
+       that the function of thinking in that can be brought under four
+       titles, each of which contains under itself three moments"
+       (A70/B95).
+
+[fn:5] "the understanding can make no other use of...concepts than that
+       of judging by means of them. (A68/B93)
 
 **** The Forms of Thought -- The 'Categories'
-   :PROPERTIES:
-   :CUSTOM_ID: the-forms-of-thought-the-categories
-   :END:
 
 - The categories provide a dual role --- they organize both intuition
-  and concepts[fn:10]
+  and concepts[fn:6]
 
-  - the dual role of the categories plus their connection to the forms
+  - The dual role of the categories plus their connection to the forms
     of judgment yields (according to Kant) a determinate content---viz.
     the precise list of categories Kant provides
 
-\includegraphics[height=71mm, width=90mm]{/Users/Roambot/Dropbox/Work/Teaching/KantSurvey/KantCats.jpeg}
+\includegraphics[height=71mm, width=90mm]{/Users/Roambot/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/KantCats.jpeg}
 
 \newpage
+
+[fn:6] The same function that gives unity to the different
+       representations *in a judgment* also gives unity to the mere
+       synthesis of different representations *in an intuition*, which,
+       expressed generally, is called the pure concept of understanding.
+       The same understanding, therefore, and indeed by means of the
+       very same actions through which it brings the logical form of a
+       judgment into concepts by means of the analytical unity, also
+       brings a transcendental content into its representations by means
+       of the synthetic unity of the manifold in intuition in general,
+       on account of which they are called pure concepts of the
+       understanding that pertain to objects /a priori/; this can never be
+       accomplished by universal logic. (A79/B105)
 **** Problems
    :PROPERTIES:
    :CUSTOM_ID: problems
    :END:
 
 - Completeness: Kant presents his table of judgment as if it were
-  complete, but it seems ad hoc or arbitrary[fn:8]
+  complete, but it seems ad hoc or arbitrary[fn:7]
 - Derivation: Kant claims that the all and only the categories may be
-  completely derived from the table of judgment but give no such
+  completely derived from the table of judgment but fails to give an precise
   derivation
+  - Are the categories just /identical/ with the forms of judgment?[fn:8]
 
-  - are the categories just /identical/ with the forms of judgment?
+[fn:7] This division is systematically generated from a common
+       principle, namely the faculty for judging (which is the same as
+       the faculty for thinking), and has not arisen rhapsodically from
+       a haphazard search for pure concepts, of the completeness of
+       which one could never be certain, since one would only infer it
+       through induction, without reflecting that in this way one would
+       never see why just these and not other concepts should inhabit
+       the pure understanding. (A80-1/B106-7)
+
+[fn:8] That action of the understanding...through which the manifold of given
+  representations (whether they be intuitions or concepts) is brought under an
+  apperception in general, is the logical function of judgments. ... But now the
+  categories are nothing other than these very functions for judging, insofar
+  as the manifold of a given intuition is determined with regard to them (TD
+  §20, B143; cf. TD §26, B159; Pr §39, 4:324)
+
+
 
 *** On Synthesis (§10)
-  :PROPERTIES:
-  :CUSTOM_ID: on-synthesis-10
-  :END:
 
-- A form of mental activity
-
-  - Kant sometimes discusses synthesis as an 'act' [/Handlung/] but this
+- Synthesis is a form of mental /activity/; it is something the thinker /does/, not something that merely /happens/ to the thinker
+  - Kant sometimes discusses synthesis as an 'act' (/Handlung/) but this
     is mildly misleading, as it may suggest that synthesis is a form of
     intentional action rather than an (at least sometimes involuntary)
     activity of the mind of which the subject may or may not be
-    aware[fn:9]
-
+    aware; we shouldn't confuse /acts/ of a thinker with /voluntary acts/ of a thinker[fn:9]
 - Synthesis works on representations by "running through" and "gathering
   together" discrete representations into one combined and connected
   whole (A99)
-
   - Is synthesis a causal process?
-
     - No? --- would seem to be incompatible with deterministic world
-    - Yes? --- realism about intentional states suggests that they have
-      causal powers, and that the causal features and interactions
-      between such states are what provide them with representational
-      content and allow them to track logical relationships[fn:12]
-
-- All cognition demands a synthesis of representation[fn:15]
+    - Yes? --- realism about intentional states suggests that they have causal
+      powers, and that the causal features and interactions between such
+      states are what provide them with representational content and allow
+      them to track logical relationships\sidenote[][-1in]{It's not just that, in
+      a psychology of propositional attitudes, content and causal powers are
+      attributed to the same things. It's also that causal relations among
+      propositional attitudes somehow typically contrive to respect their
+      relations of content, and belief/desire explanations often turn on this.
+      Hamlet believed that somebody had killed his father because he believed
+      that Claudius had killed his father. His having the second belief
+      explains his having the first. How? Well, presumably via some such
+      causal generalization as 'if someone believes Fa, then ceteris paribus
+      he believes $\exists$x(Fx).' This generalization specifies a causal relation
+      between two kinds of mental states picked out by reference to (the
+      logical form of) the propositions they express...(Fodor 1987, 12)}
+- All cognition demands a synthesis of representation[fn:11]
 - Synthesis is carried out by the unitary subject of representation on
   representations that are either given to it in sensibility
   (i.e. intuition) or produced by it in thought (e.g. stipulative
   conceptual definition)
-
   - What Kant will attempt to show in the Deduction is that "experience"
     (in some sense of that term) depends on synthesis via application of
     the categories
-
 - Two kinds of synthesized representations
+  - Concepts
+    1. Combination of concepts in one judgment
+    2. Combination of simpler concepts into a more complex concept
+       (cf. A729/B757; Logik Pölitz 24:568)
+  - The 'manifold' of intuition (either in one intuition or many)
+    1. Combination of sensations in one intuition (?)
+       - This claim is controversial, as it suggests that intuition is
+         constructed via synthesis
+    2. Combination of intuitions into a complex intuition
 
-  - concepts
+[fn:9] [synthesis] is a mere effect of the of the imagination, a blind
+       though indispensible function of the soul...of which we are only
+       seldom even conscious (A78/B103)
 
-    - combination of concepts in one judgment
-    - combination of simpler concepts into a more complex concept
-      (cf. A729/B757; Logik Pölitz 24:568)
+[fn:10] It's not just that, in a psychology of propositional attitudes,
+       content and causal powers are attributed to the same things. It's
+       also that causal relations among propositional attitudes somehow
+       typically contrive to respect their relations of content, and
+       belief/desire explanations often turn on this. Hamlet believed
+       that somebody had killed his father because he believed that
+       Claudius had killed his father. His having the second belief
+       explains his having the first. How? Well, presumably via some
+       such causal generalization as 'if someone believes Fa, then
+       ceteris paribus he believes $\exists$x(Fx).' This generalization
+       specifies a causal relation between two kinds of mental states
+       picked out by reference to (the logical form of) the propositions
+       they express...(@fodor1987, 12)
 
-  - the 'manifold' of intuition (either in one intuition or many)
+[fn:11] By synthesis in the most general sense, however, I understand
+        the action of putting different representations together with
+        each other and comprehending their manifoldness in one
+        cognition. Such a synthesis is pure if the manifold is given not
+        empirically but a priori (as is that in space and time)...The
+        synthesis of a manifold, however, (whether it be given
+        empirically or a prior) first brings forth a cognition, which to
+        be sure may initially still be raw and confused, and thus in
+        need of analysis; yet the synthesis alone is that which properly
+        collects the elements for cognitions and unifies them into a
+        certain content; it is therefore the first thing to which we
+        have to attend if we wish to judge about the first origin of our
+        cognition. (A77-8/B103)
 
-    - combination of sensations in one intuition (?)
+*** References & Further Reading
+  :PROPERTIES:
+  :CUSTOM_ID: references-further-reading
+  :CLASS: unnumbered
+  :END:
+  #+nocite: @longuenesse1998; @longuenesse2006a; @fodor1987; @allison2004-ch6; @guyer2014; @pereboom2006; @reich1992; @nussbaum2008; @greenberg1994; @engstromforthcoming 
 
-      - this claim is controversial, as it suggests that intuition is
-        constructed via synthesis
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
 
-    - combination of intuitions into a complex intuition
 
-[fn:15] Empirical cognition, however, is experience (B166). Experience
-        is an empirical cognition, i.e., a cognition that determines an
-        object through perceptions (A176/B218). Therefore experience
-        itself -- i.e., empirical cognition of appearances -- is
-        possible only in as much as we subject the succession of
-        appearances, and hence all change, to the law of causality
-        (A189/B234).
+** DONE Handout Week 4 Overview of the Transcendental Deduction
+:PROPERTIES:
+:EXPORT_TITLE: Overview of The Transcendental Deduction
+:EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/handout3-1-deduction-overview.pdf
+:END:
+# :Pandoc:
+# #+pandoc-emphasis-pre: "-\t ('\"{["
+# #+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
+# # [/emph/]
+# #+PANDOC_METADATA: "author:PHIL 4/871" "date:September 11, 2018" 
+# #+PANDOC_METADATA: "lfoot:Colin McLear | September 11, 2018"
+# #+PANDOC_METADATA: "lhead: Overview of The Transcendental Deduction"
+# #+PANDOC_EXTENSIONS: org+raw_tex
+# #+LANGUAGE: en
+# #+OPTIONS: ':t
+# :END:
 
 *** The Task of the Deduction
-  :PROPERTIES:
-  :CUSTOM_ID: the-task-of-the-deduction
-  :END:
 
 - Demonstrate the legitimacy of the categories
 
-  - legitimacy understood in terms of concepts which have their source
+  - Legitimacy understood in terms of concepts which have their source
     in the mind (i.e. the categories) but which are correctly and
     justifiably applied to features present in experience
-  - the "transcendental" nature of the argument is characterized as an
+  - The "transcendental" nature of the argument is characterized as an
     argument which begins from obvious or uncontroversial premises and
     argues to some conclusion understood as a necessary condition for
     the possibility of the truth of those premises
@@ -812,20 +917,17 @@ stands in connection with it. (A6/B10)
       the use of a concept, one that demonstrates that the concept
       correctly applies to objects
 
-  - the demonstration of their legitimacy proceeds by appealing to the
+  - The demonstration of their legitimacy proceeds by appealing to the
     necessary role of the categories in coming to have empirical
-    /cognition/ [/Erkenntniss/] of any sort
+    /cognition/ [/Erkenntnis/] of any sort
 
-    - confusingly, Kant often elides this notion of empirical cognition
+    - Confusingly, Kant often elides this notion of empirical cognition
       with the notion of "Experience" [/Erfahrung/]
 
 **** Grades of 'Experience'
-   :PROPERTIES:
-   :CUSTOM_ID: grades-of-experience
-   :END:
 
 - Kant's usage of 'experience' [/Erfahrung/] is ambiguous throughout his
-  work[fn:16][fn:17]
+  work[fn:1][fn:2]
 
   - (e1) having sensations
   - (e2) having sensations and being conscious of them
@@ -838,39 +940,32 @@ stands in connection with it. (A6/B10)
   - (e7) having intuitions and making judgments about them
   - (e8) having intuitions and knowing propositions about them
 
-\newpage
+[fn:1] In the first paragraph of the introduction to the work, Kant
+        uses 'experience' in two different senses without calling the
+        reader's attention to the fact. The experience with which all
+        our knowledge is said to begin is "the raw material of the
+        sensible impressions"; experience in this sense is then said to
+        be worked up by the understanding into "that knowledge of
+        objects which is entitled experience" (Bl). The same ambiguity
+        runs throughout the work. (@van-cleve1999, 73)
 
-[fn:16] This inquiry, which goes rather deep, has two sides. One side
-        refers to the objects of the pure understanding, and is supposed
-        to demonstrate and make comprehensible the objective validity of
-        its concepts a priori; thus it belongs essentially to my ends.
-        The other side deals with the pure understanding itself,
-        concerning its possibility and the powers of cognition on which
-        it itself rests; thus it considers it in a subjective relation
-        (Axvi-xvii)
+[fn:2] Empirical cognition, however, is experience (B166). Experience
+        is an empirical cognition, i.e., a cognition that determines an
+        object through perceptions (A176/B218). Therefore experience
+        itself -- i.e., empirical cognition of appearances -- is
+        possible only in as much as we subject the succession of
+        appearances, and hence all change, to the law of causality
+        (A189/B234).
 
-[fn:17] There are two conditions under which alone the cognition of an
-        object is possible: first, intuition, through which it is given
-        ... ; secondly, concept, through which an object is thought
-        corresponding to this intuition. (A92-93/B125)
 
-        Now all experience does indeed contain, in addition to the
-        intuition of the senses through which something is given, a
-        concept of an object as being thereby given. (A93/B126)
 *** The Structure of the Deduction
-  :PROPERTIES:
-  :CUSTOM_ID: the-structure-of-the-deduction
-  :END:
 
-- Introduction (§§13-14)
+- Transition (§§13-14)
 - The problem of combination (§15)
 - The first step (§§16-20)
 - The second step (§§21-26)
 
-**** Introduction
-   :PROPERTIES:
-   :CUSTOM_ID: introduction
-   :END:
+**** Transition to the Deduction
 
 - §13 On The Principles Of A Transcendental Deduction As Such
 
@@ -890,51 +985,7 @@ stands in connection with it. (A6/B10)
   - The categories are a necessary condition for the empirical cognition
     of objects -- i.e. are necessary conditions for occurrence of
     thought about objects (of experience) (A93/B125-6)
-  - Presents so called 'Objective' Deduction:[fn:18]
 
-\newthought{The 'Objective' Deduction}
-
-1. The experience of an object has both an intuitional and a conceptual
-   component.[fn:19][fn:20]
-2. The conceptual component can occur only if the categories apply to
-   the object.
-3. $\therefore$ The categories apply to all objects of experience.
-
-- Premise (2) is based on the assumption of the soundness of Kant's
-  argument in the Metaphysical Deduction---viz. that the categories are
-  necessary for any judgment whatsoever
-
-  1. Concepts are applied only in judgment
-  2. The categories are necessary for the application of any concept in
-     judgment
-  3. $\therefore$ The categories are necessary for any conceptually
-     structured mental state
-
-\newpage
-\newthought{The 'Subjective' Deduction}
-
-- The 'Subjective' Deduction is some or all of the Transcendental
-  Deduction proper (§§15-26)
-
-  - sets up a problem (the problem of combination)
-  - shows how the categories are necessary for the resolution of that
-    problem
-
-[fn:18] For a representation to be a cognition (though here I mean
-        always a theoretical one), we need to have concept and intuition
-        of an object combined in the same representation, so that the
-        former is represented as containing the latter under itself.
-        (/Progress/, 20:273-4)
-
-[fn:19] All combination (/conjunctio/) is either composition
-        (/compositio/) or connection (/nexus/). The former is the
-        synthesis of a manifold of what does not necessarily belong to
-        each other...The second combination (nexus) is the synthesis of
-        that which is manifold insofar as they necessarily belong to one
-        another...(B201-2)
-
-[fn:20] Act as if the maxim of your action were to become by your will a
-        universal law of nature (4:421; cf. 4:436).
 
 **** The Problem of Combination (§15)
    :PROPERTIES:
@@ -942,51 +993,50 @@ stands in connection with it. (A6/B10)
    :END:
 
 - §15 On the possibility of a combination as such
+  - Sets up a problem (the problem of combination)
+  - Explains that a "unity" is necessary for the resolution of that
+    problem
+    - What does Kant mean by 'combination' [/Verbindung/]\sidenote[][-4in]{All
+      combination (\emph{conjunctio}) is either composition
+      (\emph{compositio}) or connection (\emph{nexus}). The former is the
+      synthesis of a manifold of what does not necessarily belong to each
+      other...The second combination (nexus) is the synthesis of that which is
+      manifold insofar as they necessarily belong to one
+      another...(B201-2)}
+    - Why can't combination be given in intuition?\sidenote[][-3in]{the combination
+      (\emph{conjunctio}) of a manifold in general can never come to us through the
+      senses, and therefore cannot already be contained in the pure form of
+      sensible intuition; for it is an act of the spontaneity of the power of
+      representation, and, since one must call the latter understanding, in
+      distinction from sensibility, all combination, whether we are conscious
+      of it or not, whether it is a combination of the manifold of intuition
+      or of several concepts, and in the first case either of sensible or
+      non-sensible intuition, is an action of the understanding, which we
+      would designate with the general title \textbf{synthesis} in order at the same
+      time to draw attention to the fact that we can represent nothing as
+      combined in the object without having previously combined it ourselves,
+      and that among all representations \textbf{combination} is the only one that is
+      not given through objects but can be executed only by the subject
+      itself, since it is an act of its self-activity. (B129-30)}
+    - What is the connection of the categories with combination?\sidenote{Now
+      the representation of a composite, as such, is not a mere intuition, but
+      requires the concept of a compounding, so far as it is applied to the
+      intuition in space and time. So this concept (along with that of its
+      opposite, the simple) is one that is not abstracted from intuitions, as
+      a part-representation contained in them, but is a basic concept, and a
+      priori at that -- in the end the sole basic concept a priori, which is
+      the original foundation in the understanding for all concepts of
+      sensible objects. There will thus be as many a priori concepts resident
+      in the understanding, to which objects given to the senses must be
+      subordinated, as there are types of compounding (\emph{synthesis}) with
+      consciousness, i.e., as there are types of synthetic unity of
+      apperception of the manifold given in intuition. (\emph{Progress},
+      20:271)}
 
-  - what does Kant mean by 'combination' [/Verbindung/][fn:21]
-  - why can't combination be given in intuition?[fn:22]
-  - what is the connection of the categories with combination?[fn:23]
 
-[fn:21] So act that you use humanity, whether in your own person or that
-        of another, always at the same time as an end, never merely as a
-        means (4:429; cf. 4:436).
 
-[fn:22] the combination (/conjunctio/) of a manifold in general can
-        never come to us through the senses, and therefore cannot
-        already be contained in the pure form of sensible intuition; for
-        it is an act of the spontaneity of the power of representation,
-        and, since one must call the latter understanding, in
-        distinction from sensibility, all combination, whether we are
-        conscious of it or not, whether it is a combination of the
-        manifold of intuition or of several concepts, and in the first
-        case either of sensible or non-sensible intuition, is an action
-        of the understanding, which we would designate with the general
-        title *synthesis* in order at the same time to draw attention to
-        the fact that we can represent nothing as combined in the object
-        without having previously combined it ourselves, and that among
-        all representations *combination* is the only one that is not
-        given through objects but can be executed only by the subject
-        itself, since it is an act of its self-activity. (B129-30)
-
-[fn:23] Now the representation of a composite, as such, is not a mere
-        intuition, but requires the concept of a compounding, so far as
-        it is applied to the intuition in space and time. So this
-        concept (along with that of its opposite, the simple) is one
-        that is not abstracted from intuitions, as a part-representation
-        contained in them, but is a basic concept, and a priori at that
-        -- in the end the sole basic concept a priori, which is the
-        original foundation in the understanding for all concepts of
-        sensible objects. There will thus be as many a priori concepts
-        resident in the understanding, to which objects given to the
-        senses must be subordinated, as there are types of compounding
-        (/synthesis/) with consciousness, i.e., as there are types of
-        synthetic unity of apperception of the manifold given in
-        intuition. (/Progress/, 20:271)
 
 **** The First Step (§§16-20)
-   :PROPERTIES:
-   :CUSTOM_ID: the-first-step-16-20
-   :END:
 
 - The primary goal of the first step is to demonstrate the truth of a
   conditional claim---viz. if there is cognition then the categories
@@ -1003,9 +1053,6 @@ stands in connection with it. (A6/B10)
     consciousness
 
 **** The Second Step (§§21-26)
-   :PROPERTIES:
-   :CUSTOM_ID: the-second-step-21-26
-   :END:
 
 - The second step has two aims:
 
@@ -1028,108 +1075,16 @@ stands in connection with it. (A6/B10)
     experience of the pure concepts of understanding
 
     
-*** References & Further Reading
-  :PROPERTIES:
-  :CUSTOM_ID: references-further-reading
-  :CLASS: unnumbered
-  :END:
-
-\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
-\setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
-
-#+BEGIN_HTML
-  <!-- -->
-#+END_HTML
-
-[fn:1] since every division presupposes a concept that is to be divided,
-       a still higher one must be given, and this is the concept of an
-       object in general (taken problematically, leaving undecided
-       whether it is something or nothing). (A290/B346)
-
-[fn:4] In the *metaphysical deduction* the origin of the /a priori/
-       categories in general was established through their complete
-       coincidence with the universal logical functions of thinking, in
-       the *transcendental deduction*, however, their possibility as /a
-       priori/ cognitions of objects of an intuition in general was
-       exhibited. (B159)
-
-[fn:5] By a function, however, I understand the unity of the action of
-       ordering different representations under a common one...Now the
-       understanding can make no other use of these concepts than that
-       of judging by means of them... In every judgment there is a
-       concept that holds of many, and that among this many also
-       comprehends a given representation, which is then related
-       immediately to the object...All judgments are accordingly
-       functions of unity among our representations, since instead of an
-       immediate representation [viz., an intuition] a higher one, which
-       comprehends this and other representations under itself, is used
-       for the cognition of the object, and many possible cognitions are
-       thereby drawn together into one. (A68-9/B93-4)
-
-[fn:6] If we abstract from all content of a judgment in general, and
-       attend only to the mere form of the understanding in it, we find
-       that the function of thinking in that can be brought under four
-       titles, each of which contains under itself three moments"
-       (A70/B95).
-
-[fn:7] the understanding can make no other use of...concepts than that
-       of judging by means of them. (A68/B93)
-
-[fn:8] The same function that gives unity to the different
-       representations in a judgment also gives unity to the mere
-       synthesis of different representations in an intuition, which,
-       expressed generally, is called the pure concept of understanding.
-       The same understanding, therefore, and indeed by means of the
-       very same actions through which it brings the logical form of a
-       judgment into concepts by means of the analytical unity, also
-       brings a transcendental content into its representations by means
-       of the synthetic unity of the manifold in intuition in general,
-       on account of which they are called pure concepts of the
-       understanding that pertain to objects a priori; this can never be
-       accomplished by universal logic. (A79/B105)
-
-[fn:9] This division is systematically generated from a common
-       principle," namely the faculty for judging (which is the same as
-       the faculty for thinking), and has not arisen rhapsodically from
-       a haphazard search for pure concepts, of the completeness of
-       which one could never be certain, since one would only infer it
-       through induction, without reflecting that in this way one would
-       never see why just these and not other concepts should inhabit
-       the pure understanding. (A80-1/B106-7)
-
-[fn:10] [synthesis] is a mere effect of the of the imagination, a blind
-       though indispensible function of the soul...of which we are only
-       seldom even conscious (A78/B103)
-
-[fn:11] It's not just that, in a psychology of propositional attitudes,
-       content and causal powers are attributed to the same things. It's
-       also that causal relations among propositional attitudes somehow
-       typically contrive to respect their relations of content, and
-       belief/desire explanations often turn on this. Hamlet believed
-       that somebody had killed his father because he believed that
-       Claudius had killed his father. His having the second belief
-       explains his having the first. How? Well, presumably via some
-       such causal generalization as 'if someone believes Fa, then
-       ceteris paribus he believes $\exists$x(Fx).' This generalization
-       specifies a causal relation between two kinds of mental states
-       picked out by reference to (the logical form of) the propositions
-       they express...(@fodor1987, 12)
-
-[fn:12] By synthesis in the most general sense, however, I understand
-        the action of putting different representations together with
-        each other and comprehending their manifoldness in one
-        cognition. Such a synthesis is pure if the manifold is given not
-        empirically but a priori (as is that in space and time)...The
-        synthesis of a manifold, however, (whether it be given
-        empirically or a prior) first brings forth a cognition, which to
-        be sure may initially still be raw and confused, and thus in
-        need of analysis; yet the synthesis alone is that which properly
-        collects the elements for cognitions and unifies them into a
-        certain content; it is therefore the first thing to which we
-        have to attend if we wish to judge about the first origin of our
-        cognition. (A77-8/B103)
 
 
+
+*** References & Further Reading 
+:PROPERTIES:
+:UNNUMBERED:
+:END:
+#+nocite: @pereboom1995; @allison2004; @guyer1987; @vancleve1999; @pereboom2006
+
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in} \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
 
 ** TODO Handout Week 5 The Transcendental Deduction I
 *** Overview
@@ -1211,7 +1166,7 @@ stands in connection with it. (A6/B10)
 #+END_HTML
 
 1. I am conscious of the identity of myself as the subject of different
-   self- attributions of mental states.[fn:14]
+   self- attributions of mental states.[fn:15]
 2. I am not directly conscious of the identity of this subject of
    different self-attributions of mental states.[fn:10]
 3. If (1) and (2) are true, then this consciousness of identity is
@@ -1250,7 +1205,7 @@ stands in connection with it. (A6/B10)
     universal and necessary features of experience. (9)
 11. Necessary and universal features of experience cannot be explained
     by association. (from reflection on the nature of
-    association)[fn:15]
+    association)[fn:16]
 12. If (10) and (11) are true, all of our representations of objects
     require a faculty for ordering mental states distinct from
     association.\\
@@ -1289,14 +1244,14 @@ stands in connection with it. (A6/B10)
 
 - Against Synthesis
 
-  - Kant is faced with a dilemma regarding the need for synthesis[fn:16]
+  - Kant is faced with a dilemma regarding the need for synthesis[fn:17]
 
 - Against the need for the categories
 
   - why think that synthesis requires the categories?
 
     1. synthesis either involves or is akin to judging
-    2. judging requires the application of categories[fn:17]
+    2. judging requires the application of categories[fn:20]
 
   - why think that the categories are necessary for judgment?
 
@@ -1485,7 +1440,7 @@ stands in connection with it. (A6/B10)
         merely found together in perception (however often as that might
         be repeated). (B142)
 
-[fn:15] The nub of Kant's case for (ii) is that unless it were true,
+[fn:16] The nub of Kant's case for (ii) is that unless it were true,
         judging could not be distinguished from the mere association of
         ideas. If I think of redness on an occasion when I am thinking
         of apples, I do not thereby make any judgment; a judgment comes
@@ -1563,7 +1518,7 @@ stands in connection with it. (A6/B10)
    :CUSTOM_ID: restricting-the-categories
    :END:
 
-- Thinking is not /cognizing/[fn:14]
+- Thinking is not /cognizing/[fn:15]
 
   - Thinking concerns what is /logically/ possible (i.e. not
     contradictory)
@@ -1630,7 +1585,7 @@ only insofar as they are applicable to objects of experience.[fn:8]
    :CUSTOM_ID: some-key-assumptions
    :END:
 
-- There is no intentionality without synthesis[fn:15]
+- There is no intentionality without synthesis[fn:16]
 
 - Intuitions are to be identified with perceptions in roughly our
   contemporary sense---viz. sensory presentations of objects in
@@ -1651,14 +1606,14 @@ only insofar as they are applicable to objects of experience.[fn:8]
 \newthought{The Argument from a Threefold Synthesis}
 
 1. Objective perception requires the generation of a 'perceptual
-   image'[fn:16]
+   image'[fn:17]
 2. Perceptual images are generated via a threefold empirical synthesis
 3. The empirical synthesis of sensation depends on the 'affinity of the
    manifold'
 4. The affinity of the manifold depends on a transcendental synthesis of
    pure intuition by the categories
 5. $\therefore$ All objective perception depends on the
-   categories[fn:17]
+   categories[fn:20]
 
 *Problems*:
 
@@ -1666,9 +1621,9 @@ only insofar as they are applicable to objects of experience.[fn:8]
   did Kant's emphasis on consciousness go?)
 - against premise (1) --- Kant seems to deny both that:
 
-  1. we think in terms of images[fn:18]
+  1. we think in terms of images[fn:21]
   2. we infer from the existence and character of images to the
-     existence and character of their causes[fn:19]
+     existence and character of their causes[fn:22]
 
 \newthought{The Argument from the Unity of Pure Intuition}
 
@@ -1685,7 +1640,7 @@ only insofar as they are applicable to objects of experience.[fn:8]
 
 - We cannot make sense of Kant's arguments concerning pure intuition in
   the Transcendental Aesthetic if pure intuitions of space and time
-  depend on synthesis according to the categories of quantity[fn:20]
+  depend on synthesis according to the categories of quantity[fn:23]
 
   - Synthesis is an iterative form of construction of wholes in terms of
     parts, but the mereological structure of pure intuition defines the
@@ -1693,7 +1648,7 @@ only insofar as they are applicable to objects of experience.[fn:8]
   - Kant consistently characterizes the nature of the understanding's
     activity as limited to grasping wholes in terms of their parts,
     which is in contrast to the intuitive intellectual grasp of wholes
-    prior to their parts characteristic of God[fn:21]
+    prior to their parts characteristic of God[fn:24]
 
 *** References
   :PROPERTIES:
@@ -1791,7 +1746,7 @@ only insofar as they are applicable to objects of experience.[fn:8]
         synthesized intuition is an intentional intuition.
         (@griffith2012, 201)
 
-[fn:14] Mere sensibility, it seems, can only supply us with impressions
+[fn:15] Mere sensibility, it seems, can only supply us with impressions
         that are 'dispersed and separate in the mind', but it cannot, as
         [Kant] says, 'bring the manifold of intuition into an image'
         (A120). Thus, if there is no synthesis to combine a dispersed
@@ -1799,25 +1754,25 @@ only insofar as they are applicable to objects of experience.[fn:8]
         (perception), hence no possible vehicle for nonconceptual
         content (in the sense we are discussing). (@griffith2012, 201)
 
-[fn:15] empirical intuition requires a rule-guided synthesis of its
+[fn:16] empirical intuition requires a rule-guided synthesis of its
         manifold, which depends on the affinity of the manifold, which
         presupposes a figurative synthesis of the pure manifold, which
         in turn is related to the transcendental unity of apperception,
         the source of the rules for this pure synthesis: the categories.
         (@griffith2012, 206)
 
-[fn:16] In fact it is not images of objects but schemata that ground our
+[fn:17] In fact it is not images of objects but schemata that ground our
         pure sensible concepts. No image of a triangle would ever be
         adequate to the concept of it. For it would not attain the
         generality of the concept, which makes this valid for all
         triangles, right or acute, etc., but would always be limited to
         one part of this sphere. (A140-1/B180)
 
-[fn:17] Thus the transcendental idealist is an empirical realist, and
+[fn:20] Thus the transcendental idealist is an empirical realist, and
         grants to matter, as appearance, a reality which need not be
         inferred, but is immediately perceived. (A371)
 
-[fn:18] First, one can only represent a single space; and when one
+[fn:21] First, one can only represent a single space; and when one
         speaks of many spaces, one means by that only parts of one and
         the same unique space. Nor, second, can these parts precede the
         one all-encompassing space, as its constituents, as it were
@@ -1826,7 +1781,7 @@ only insofar as they are applicable to objects of experience.[fn:8]
         hence also the universal concept of spaces as such, rests solely
         on limitations (A24-5/B39)
 
-[fn:19] we can also conceive of an understanding which, since it is not
+[fn:22] we can also conceive of an understanding which, since it is not
         discursive like ours but is intuitive, goes from the
         synthetically universal (of the intuition of a whole as such) to
         the particular, i.e., from the whole to the parts, in which,
@@ -1951,7 +1906,7 @@ arguments of the Analytic of Concepts but also those of the Principles.
 
 - Kant's solution is /not/ to appeal to a /tertium quid/ but rather to
   appeal to a pre-conceptual capacity for synthesis which is 'excercised
-  in both the formation and the application of concepts'[fn:14]
+  in both the formation and the application of concepts'[fn:15]
 
   - Schemata are fundamentally /dispositions/ to group 'bare'
     (i.e. non-representational) sensations[fn:10]
@@ -2161,7 +2116,7 @@ arguments of the Analytic of Concepts but also those of the Principles.
   it to illegitimately apply logical principles in a metaphysical way
 - Kant critiques reason in its 'pure' (a priori/real/non-logical) use --
   we can have no knowledge through reason alone, but only the illusion
-  of knowledge[fn:14]
+  of knowledge[fn:15]
 
 **** Transcendental Ideas (Reason in its 'real use')
    :PROPERTIES:
@@ -2274,12 +2229,12 @@ experience (A320/B377)
 
 - The ideas of reason can have a positive use by acting as maxims for
   theory construction and the creation of a unified theory of
-  nature[fn:15]
+  nature[fn:16]
 - Reason lacks a 'constitutive' use in that it has no genuine objects,
   other than what may be given to it by the understanding
   (A643-4/B671-2)
 - The error of traditional metaphysics is thus to mistake a 'regulative'
-  principle for a 'constitutive' one[fn:16]
+  principle for a 'constitutive' one[fn:17]
 
 *** References
   :PROPERTIES:
@@ -2378,7 +2333,7 @@ experience (A320/B377)
         and 'continuity' among natural forms (A651--64/B679--92).
         (@gardner1999, 144)
 
-[fn:14] the transcendental ideas are never of constitutive use, so that
+[fn:15] the transcendental ideas are never of constitutive use, so that
         the concepts of certain objects would thereby be given, and in
         case one so understands them, they are merely sophistical
         (dialectical) concepts...however, they have an excellent and
@@ -2413,7 +2368,7 @@ experience (A320/B377)
 
   - fallacious categorical syllogism exhibiting an error of equivocation
     between the major premise and the minor premise[fn:7]
-  - formally invalid but has true premises[fn:14]
+  - formally invalid but has true premises[fn:15]
   - as an instance of TI, must be a plausible and compelling error
 
 1. All M are P---major premise
@@ -2509,7 +2464,7 @@ experience (A320/B377)
   substance.[fn:9]
 
   - Substance_{1}: a being whose existence is such that it can never
-    /inhere/ in anything else[fn:12][fn:15]
+    /inhere/ in anything else[fn:12][fn:16]
 
     - concept of substance_{1} is logically consistent but may be
       'really repugnant'
@@ -2529,7 +2484,7 @@ experience (A320/B377)
 2. Now the soul, or the thinking I, is such a thing. (C is A)
 3. $\therefore$ The soul is a simple thing (substance). (C is B)
 
-- Known as the 'Achilles' argument[fn:16]
+- Known as the 'Achilles' argument[fn:17]
 - Paralogism consists in the confusion in the use of 'thing' (logical
   vs. real)
 
@@ -2547,7 +2502,7 @@ experience (A320/B377)
     representation that could never function as a predicate
   - 'Real' sense of subject as something like a substance_{1}
 
-\newthought{The 'Nervus Probandi' of Achilles}:[fn:17]
+\newthought{The 'Nervus Probandi' of Achilles}:[fn:20]
 
 - (UC): :: if a multiplicity of representations are to form a single
   representation, they must be contained in the absolute unity of the
@@ -2560,10 +2515,10 @@ experience (A320/B377)
 
 - Kant: why think that the structure of a thought, as a complex, isn't
   mirrored by the structure of the entity, as a complex substance, which
-  thinks it?[fn:18]
+  thinks it?[fn:21]
 
   - (UC) isn't analytic
-  - (UC) isn't synthetic a priori[fn:19]
+  - (UC) isn't synthetic a priori[fn:22]
 
 *** References
   :PROPERTIES:
@@ -2636,14 +2591,14 @@ experience (A320/B377)
         predicate...does not signify that I as *object* am for myself a
         *self-subsisting being* or *substance*. (B407)
 
-[fn:14] This is the Achilles of all the dialectical inferences of the
+[fn:15] This is the Achilles of all the dialectical inferences of the
         pure doctrine of the soul, nothing like a mere sophistical play
         that a dogmatist devised in order to give his assertions a
         fleeting plausibility, but an inference that seems to withstand
         even the sharpest testing and the greatest scruples of inquiry.
         (A351)
 
-[fn:15] Every composite substance is an aggregate of many, and the
+[fn:16] Every composite substance is an aggregate of many, and the
         action of a composite, or of that which inheres in it as such a
         composite, is an aggregate of many actions or accidents, which
         is distributed among the multitude of substances...[Now] suppose
@@ -2657,12 +2612,12 @@ experience (A320/B377)
         one substance, which is not an aggregate of many, and hence it
         is absolutely simple. (A351-2)
 
-[fn:16] For the unity of the thought, which consists of many
+[fn:17] For the unity of the thought, which consists of many
         representations, is collective, and as far as mere concepts can
         show may relate just as well to the collective unity of
         different substances acting together (A353)
 
-[fn:17] Nor will anyone venture to assert that this proposition allows
+[fn:20] Nor will anyone venture to assert that this proposition allows
         of being known synthetically and completely /apriori/ from mere
         concepts - not, at least, if he understands the ground of the
         possibility of /apriori/ synthetic propositions, as above
@@ -2769,7 +2724,7 @@ experience (A320/B377)
    :END:
 
 - Negative Freedom: :: The power to act (or choose) without being
-  causally determined by sensuous impulses[fn:14]
+  causally determined by sensuous impulses[fn:15]
 - Positive Freedom: :: The power to act (or choose) by virtue of motives
   stemming not from sensuous impulses but from reason itself
 
@@ -2811,7 +2766,7 @@ experience (A320/B377)
    causation][fn:12]
 5. $\therefore$ Contradiction. [3, 4]
 6. $\therefore$ There must exist a spontaneous cause -- one that is not
-   determined by a prior ground. [Negation of 1][fn:15]
+   determined by a prior ground. [Negation of 1][fn:16]
 
 **** The Antithesis Argument
    :PROPERTIES:
@@ -2826,10 +2781,10 @@ experience (A320/B377)
 2. $\therefore$ There exists a first state S_{1} with the power to bring
    about a subsequent state S_{2} and its consequences. [1]
 3. $\therefore$ S_{1} is absolutely undetermined by any previous
-   state.[fn:16] [2]
+   state.[fn:17] [2]
 4. However, every initiation of a causal series presupposes a connection
    with causal agent, but a spontaneous cause has no such
-   connection.[fn:17] [3, definition of causation]
+   connection.[fn:20] [3, definition of causation]
 5. $\therefore$ Transcendental freedom is contrary to the causal law.
 6. $\therefore$ There can be no first cause. [Negation of 1]
 
@@ -2928,13 +2883,13 @@ experience (A320/B377)
         course of nature the series of appearances is never complete on
         the side of the causes. (A446/B474)
 
-[fn:14] not only will a series begin absolutely through this
+[fn:15] not only will a series begin absolutely through this
         spontaneity, but the determination of this spontaneity itself to
         produce the series, i.e., its causality, will begin absolutely,
         so that nothing precedes it through which this occurring action
         is determined in accordance with constant laws. (A446/B474)
 
-[fn:15] Every beginning of action, however, presupposes a state of the
+[fn:16] Every beginning of action, however, presupposes a state of the
         not yet acting cause, and a dynamically first beginning of
         action presupposes a state that has no causal connection at all
         with the cause ofthe previous one, i.e., in no way follows from
@@ -2967,7 +2922,7 @@ experience (A320/B377)
    :END:
 
 - Open an 'entirely new field' of study concerning the nature of a
-  /pure/ will and the capacity to motivated by reason alone[fn:14]
+  /pure/ will and the capacity to motivated by reason alone[fn:15]
 - /Not/ aiming to provide a metaphysics of morals
 
   - The content of the /Groundwork/ is largely in abstraction from
@@ -3099,7 +3054,7 @@ Kant's four cases are specifically illustrations of (B):
    :END:
 
 - There is some controversy as to what the actual first proposition is
-  -- Kant does not explicitly state it[fn:15]
+  -- Kant does not explicitly state it[fn:16]
 - Options:
 
   1. There is nothing unconditionally good other than a good will
@@ -3123,7 +3078,7 @@ Kant's four cases are specifically illustrations of (B):
    :CUSTOM_ID: questions-about-proposition-2
    :END:
 
-- What is a 'maxim'?[fn:16]
+- What is a 'maxim'?[fn:17]
 
   - Designates an action to be performed in a type of situation andp for
     some purpose
@@ -3148,9 +3103,9 @@ Kant's four cases are specifically illustrations of (B):
 
 - The third proposition is supposed to follow from the first two, but
   how?
-- What is /respect/? Is it a feeling?[fn:17]
+- What is /respect/? Is it a feeling?[fn:20]
 - If duty is an action from respect for the law, then isn't duty an
-  action from feeling rather than reason?[fn:18]
+  action from feeling rather than reason?[fn:21]
 
 - Intellectualism: :: resepect is a purely intellectual recognition of
   the moral law sufficient for generating moral action
@@ -3281,13 +3236,13 @@ Kant's four cases are specifically illustrations of (B):
         third proposition is a consequence of the first two.
         (@allison2011, 122)
 
-[fn:14] A /maxim/ is the subjective principle of willing; the objective
+[fn:15] A /maxim/ is the subjective principle of willing; the objective
         principle (i.e., the one that would also subjectively serve all
         rational beings as the practical principle if reason had
         complete control over the desiderative faculty) is the practical
         /law/. (4:400, note)
 
-[fn:15] even though respect is a feeling, it is not one /received/ by
+[fn:16] even though respect is a feeling, it is not one /received/ by
         influence, but one /self-wrought/ by a rational concept and
         therefore specifically different from all feelings of the former
         kind, which come down to inclination or fear. What I recognize
@@ -3299,7 +3254,7 @@ Kant's four cases are specifically illustrations of (B):
         viewed as the /effect/ of the law on the subject and not as its
         /cause/. (4: 402, note)
 
-[fn:16] Intellectualists hold that respect for the moral law is, or
+[fn:17] Intellectualists hold that respect for the moral law is, or
         arises from, a purely intellectual recognition of the supreme
         authority of the moral law, and that this intellectual
         recognition is sufficient to generate moral action independently
@@ -3359,7 +3314,7 @@ Kant's four cases are specifically illustrations of (B):
 - An intentional action requires the following causal chain: cognition
   $\rightarrow$ conation (feeling + desire) $\rightarrow$ action
 - At the empirical 'level' we are (as are all living beings)
-  psychologically determined[fn:14]
+  psychologically determined[fn:15]
 
 \newpage
 **** Maxims
@@ -3424,13 +3379,13 @@ Kant's four cases are specifically illustrations of (B):
       agent /confers/ on her (possibility psychologically determined)
       actions via rational reflection/endorsement, or something she can
       /recognize/ her actions as having, given her capacity for freedom
-      (what Kant calls 'practical freedom')[fn:15]
+      (what Kant calls 'practical freedom')[fn:16]
 
   - A desire, once incorporated, stands as a reason for the subject's
     action
   - The adoption of the maxim is not itself either causally connected to
     or otherwise a causal consequence of the (state of) desire, but is
-    rather a 'spontaneous' and free act of the agent[fn:16]
+    rather a 'spontaneous' and free act of the agent[fn:17]
 
 - Status of the incorporation thesis is controversial
 
@@ -3447,7 +3402,7 @@ Kant's four cases are specifically illustrations of (B):
    :CUSTOM_ID: the-will-imperatives
    :END:
 
-- Distinguish between:[fn:17]
+- Distinguish between:[fn:20]
 
   - Action in accordance with a law (as is the case with all activity in
     nature)
@@ -3469,7 +3424,7 @@ Kant's four cases are specifically illustrations of (B):
   - Finite (human) will: a will exposed to subjective and non-rational
     (sensible) incentives
 
-    - Only finite wills have imperatives which apply to them[fn:18]
+    - Only finite wills have imperatives which apply to them[fn:21]
 
 - Imperatives are principles (representations of laws) which have
   normative force for an agent
@@ -3484,14 +3439,14 @@ Kant's four cases are specifically illustrations of (B):
   also willed
 
 - In virtue of willing some end, it is /analytic/ that one wills the
-  means to that end[fn:19]
+  means to that end[fn:22]
 
 - Categorical Imperative: :: command to do something whose value is
   unconditioned -- i.e. whose value is an end in itself
 
 - A categorical imperative is synthetic a priori since it commands
   something new, something not entailed by the ends the agent wishes to
-  pursue[fn:20]
+  pursue[fn:23]
 
 \newthought{Objection:} There are non-moral oughts which are not
 straightforwardly hypothetical
@@ -3514,14 +3469,14 @@ straightforwardly hypothetical
 - The Categorical Imperative (CI): :: Adopt only maxims that conform to
   universal law as such (cf. 4:421).
 
-1. The Formula of Universal Law (FUL)[fn:21]
+1. The Formula of Universal Law (FUL)[fn:24]
 
-   - Variant: The Formula of the Law of Nature (FLN)[fn:22]
+   - Variant: The Formula of the Law of Nature (FLN)[fn:25]
 
-2. The Formula of Humanity as End in Itself (FH)[fn:23]
-3. The Formula of Autonomy (FA)[fn:24]
+2. The Formula of Humanity as End in Itself (FH)[fn:26]
+3. The Formula of Autonomy (FA)[fn:27]
 
-   - Variant: The Formula of the Realm of Ends (FRE)[fn:25]
+   - Variant: The Formula of the Realm of Ends (FRE)[fn:28]
 
 - The moral law, categorical imperative, and the universalization
   procedure are three distinct things
@@ -3543,10 +3498,10 @@ straightforwardly hypothetical
 - The third version of the CI concerns the coordination of the products
   of universal willing in a community of rational beings
 
-[fn:24] act according to maxims that can at the same time have as their
+[fn:27] act according to maxims that can at the same time have as their
         object themselves as univeral laws of nature (4:437)
 
-[fn:25] Act in accordance with the maxims of a universally legislative
+[fn:28] Act in accordance with the maxims of a universally legislative
         member of a merely possible realm of ends (4:439; cf. 4:432,
         437, 438)
 
@@ -3556,18 +3511,18 @@ straightforwardly hypothetical
    :END:
 
 - /Division/ (not /derivation/) of duties follows from the
-  universalization procedure[fn:26]
+  universalization procedure[fn:29]
 
 - Perfect duty: :: One ought always (or never) do /x/
 - Imperfect duty: :: One ought to do /x/ sometimes, and to some
-  extent[fn:27]
+  extent[fn:30]
 
 - Violation of a perfect duty would generate a contradiction in
   /conception/
 - Violation of an imperfect duty would generate a contradiction in
   /will/ but not in /conception/
 
-[fn:26] It is easy to see that the first [contradiction in conception]
+[fn:29] It is easy to see that the first [contradiction in conception]
         conflicts with strict or narrower (unrelenting) duty, the second
         [contradiction in will] only with wider (meritorious) duty, and
         thus that all duties, as far as the kind of obligation (not the
@@ -3575,7 +3530,7 @@ straightforwardly hypothetical
         been set out completely in their dependence on the one
         principle. (4:424)
 
-[fn:27] if the law can prescribe only the maxim of actions, not actions
+[fn:30] if the law can prescribe only the maxim of actions, not actions
         themselves, this is a sign that it leaves a playroom
         (/latitudo/) for free choice in following (complying with) the
         law, that is, that the law cannot specify precisely in what way
@@ -3617,18 +3572,18 @@ straightforwardly hypothetical
 
 - Two notions of 'autonomy'
 
-  - Autonomy as a /property/ of the will[fn:28]
-  - Autonomy as a /principle/ of the will[fn:29]
+  - Autonomy as a /property/ of the will[fn:31]
+  - Autonomy as a /principle/ of the will[fn:32]
 
 - All rival ethical theories place the principle of morality in some
   source other than (the structure of) the will -- they are
-  'heteronomous' for that reason[fn:30]
+  'heteronomous' for that reason[fn:33]
 
-[fn:28] Autonomy of the will is the characteristic of the will by which
+[fn:31] Autonomy of the will is the characteristic of the will by which
         it is a law to itself (independent of any characteristic of the
         objects of willing). (4:440)
 
-[fn:29] The principle of autonomy is thus: not to choose in any other
+[fn:32] The principle of autonomy is thus: not to choose in any other
         way than that the maxims of one's choice are also comprised as
         universal law in the same willing. That this practical rule is
         an imperative...cannot be proved by mere analysis of the
@@ -3639,7 +3594,7 @@ straightforwardly hypothetical
         apodictically, must be capable of being cognized completely a
         priori (4:440)
 
-[fn:30] If it is /in anything other/ than the fitness of its maxims for
+[fn:33] If it is /in anything other/ than the fitness of its maxims for
         its own universal legislation, hence if - as it goes beyond
         itself - it is in a characteristic of any of its objects that
         the will seeks the law that is to determine it, the outcome is
@@ -3720,7 +3675,7 @@ straightforwardly hypothetical
         determining oneself from oneself, independently of necessitation
         by sensible impulses. (A534/B562)
 
-[fn:14] Kant uses the term 'incentive' (/Triebfeder/) to describe the
+[fn:15] Kant uses the term 'incentive' (/Triebfeder/) to describe the
         relation of the free person to the candidate reasons among which
         she chooses. An incentive is something that makes an action
         interesting to you, that makes it a live option. Desires and
@@ -3729,14 +3684,14 @@ straightforwardly hypothetical
         become a reason for action until the person has adopted it
         freely into her maxim (@korsgaard1996a, 165)
 
-[fn:15] Everything in nature works in accordance with laws. Only a
+[fn:16] Everything in nature works in accordance with laws. Only a
         rational being has the capacity to act /in accordance with the
         representation/ of laws, that is, in accordance with principles,
         or has a /will/. Since /reason/ is required for the derivation
         of actions from laws, the will is nothing other than practical
         reason. (4:412)
 
-[fn:16] The representation of an objective principle in so far as it is
+[fn:17] The representation of an objective principle in so far as it is
         necessitating for a will is called a command (of reason), and
         the formula of the command is called IMPERATIVE. All imperatives
         are expressed by an /ought/, and by this indicate the relation
@@ -3744,7 +3699,7 @@ straightforwardly hypothetical
         subjective constitution is not necessarily determined by it (a
         necessitation). (4:413)
 
-[fn:17] Whoever wills the end also wills (in so far as reason has
+[fn:20] Whoever wills the end also wills (in so far as reason has
         decisive influence on his actions) the indispensably necessary
         means to it that is in his control. As far as willing is
         concerned, this proposition is analytic; for in the willing of
@@ -3753,7 +3708,7 @@ straightforwardly hypothetical
         extracts the concept of actions necessary to this end from the
         concept of a willing of this end (4:417)
 
-[fn:18] Without a presupposed condition from any inclination, I connect
+[fn:21] Without a presupposed condition from any inclination, I connect
         the deed with the will a priori, and hence necessarily (though
         only objectively, i.e. under the idea of a reason that has
         complete control over all subjective motives). This is therefore
@@ -3763,7 +3718,7 @@ straightforwardly hypothetical
         immediately with the concept of the will of a rational being, as
         something that is not contained in it. (4:420, note)
 
-[fn:19] Act only in accordance with that maxim through which you can at
+[fn:22] Act only in accordance with that maxim through which you can at
         the same time will that it become a universal law (4:421;
         cf. 4:402)
 
@@ -3949,7 +3904,7 @@ straightforwardly hypothetical
     reason in accordance with rational principles (e.g. principles of
     logic; an 'ethics' of belief)
   - Reasoning in accordance with rational principles cannot be
-    ultimately determined by preceding events[fn:14]
+    ultimately determined by preceding events[fn:15]
 
 - Explanation of the spontaneity of theoretical reason requires positing
   ourselves as 'intelligible objects' -- i.e. subjects of a realm free
@@ -4117,40 +4072,38 @@ straightforwardly hypothetical
 
 * Grades
 ** Reponses
-|----------------------+-----+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
-| Student              | wk2 | wk3 | wk 4 | wk5 | wk6 | wk7 | wk8 | wk9 | wk10 | wk11 | wk12 | wk13 | wk14 | wk15 | wk16 |
-|----------------------+-----+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
-| Edward Acuna Quintan |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Steve Byerly         | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Vy Doan              | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Cale  Harms          | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Samuel Hobbs         | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Tate Kollar          | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Antony Larrick       | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Isabel Reynolds      | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Jeffrey Schade       | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Lauren Sweetland     |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Ryan Turner          |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Zachariah Wrublewski | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-|----------------------+-----+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
+|----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------+---|
+| Student              | wk2 | wk 4 | wk5 | wk6 | wk7 | wk8 | wk9 | wk10 | wk11 | wk12 | wk13 | wk14 | wk15 | wk16 |   |
+|----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------+---|
+| Steve Byerly         | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |   |
+| Vy Doan              | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |   |
+| Cale  Harms          | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |   |
+| Samuel Hobbs         | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |   |
+| Tate Kollar          | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |   |
+| Antony Larrick       | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |   |
+| Isabel Reynolds      | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |   |
+| Jeffrey Schade       | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |   |
+| Lauren Sweetland     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |   |
+| Ryan Turner          |     |      |     |     |     |     |     |      |      |      |      |      |      |      |   |
+| Zachariah Wrublewski | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |   |
+|----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------+---|
 
 ** Precís
-|----------------------+-----+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
-| Student              | wk2 | wk3 | wk 4 | wk5 | wk6 | wk7 | wk8 | wk9 | wk10 | wk11 | wk12 | wk13 | wk14 | wk15 | wk16 |
-|----------------------+-----+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
-| Edward Acuna Quintan |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Steve Byerly         | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Vy Doan              | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Cale  Harms          | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Samuel Hobbs         | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Tate Kollar          | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Antony Larrick       | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Isabel Reynolds      | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Jeffrey Schade       | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Lauren Sweetland     |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Ryan Turner          |     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Zachariah Wrublewski | X   |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-|----------------------+-----+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
+|----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
+| Student              | wk2 | wk 4 | wk5 | wk6 | wk7 | wk8 | wk9 | wk10 | wk11 | wk12 | wk13 | wk14 | wk15 | wk16 |
+|----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
+| Steve Byerly         | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
+| Vy Doan              | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
+| Cale  Harms          | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
+| Samuel Hobbs         | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
+| Tate Kollar          | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
+| Antony Larrick       | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
+| Isabel Reynolds      | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
+| Jeffrey Schade       | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
+| Lauren Sweetland     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Ryan Turner          |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
+| Zachariah Wrublewski | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
+|----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
 
 ** Paper
 |----------------------+-------+-------+
@@ -4174,18 +4127,17 @@ straightforwardly hypothetical
 |----------------------+---+---+---+---+
 | Student              | 1 | 2 | 3 | 4 |
 |----------------------+---+---+---+---+
-| Edward Acuna Quintan |   |   |   |   |
-| Steve Byerly         |   |   |   |   |
-| Vy Doan              |   |   |   |   |
-| Cale  Harms          |   |   |   |   |
-| Samuel Hobbs         |   |   |   |   |
-| Tate Kollar          |   |   |   |   |
-| Antony Larrick       |   |   |   |   |
-| Isabel Reynolds      |   |   |   |   |
-| Jeffrey Schade       |   |   |   |   |
+| Steve Byerly         | X |   |   |   |
+| Vy Doan              | X |   |   |   |
+| Cale  Harms          | X |   |   |   |
+| Samuel Hobbs         | X |   |   |   |
+| Tate Kollar          | X |   |   |   |
+| Antony Larrick       | X |   |   |   |
+| Isabel Reynolds      | X |   |   |   |
+| Jeffrey Schade       | X |   |   |   |
 | Lauren Sweetland     |   |   |   |   |
 | Ryan Turner          |   |   |   |   |
-| Zachariah Wrublewski |   |   |   |   |
+| Zachariah Wrublewski | X |   |   |   |
 |----------------------+---+---+---+---+
 
 ** Participation
@@ -4561,14 +4513,16 @@ discussion of the Transcendental Analytic with a look at the section of the
 gives us an argument for determining which concepts are fundamental to
 metaphysics, and how they could be cognized a priori.
 
+- [[file:static/materials/handouts/handout3-metaphysical-deduction.pdf][Handout 1]]
+- [[file:static/materials/handouts/handout3-1-deduction-overview.pdf][Handout 2]]
+ 
+
 **** Readings
 - CPR: Transcendental Logic & Analytic (the Clue), B91-116 (Guyer & Wood, 201-18)
 - CPR: Analytic ch. 2, §13 & Transition, B116-29 (Guyer & Wood, 219-26) 
 - Optional: Longuenesse, [[https://www.dropbox.com/s/kyrzl9gf8lma18c/longuenesse2006a_kant_on_a_priori_concepts.pdf?dl=0]["Kant on A Priori Concepts"]]
 - Optional: Allison, [[https://www.dropbox.com/s/76hf2dh2rwf3dur/allison2004-ch6_the_intellectual_conditions_of_human_cognition.pdf?dl=0]["The Intellectual Conditions of Human Cognition"]]
 - Optional: [[https://phil871.colinmclear.net/notes/metaphysical-deduction/][Notes on the Metaphysical Deduction]]
-# - [[file:content/materials/handouts/4_KantMD.pdf][Handout]]
-  
 
 **** Questions
 - What are the "forms of judgment"?
@@ -4578,31 +4532,34 @@ metaphysics, and how they could be cognized a priori.
 - What is the difference between the logical and the real use of the understanding?
 - What is "synthesis"?
 
-*** DRAFT Week 5 - The Transcendental Deduction I
+*** DONE Week 5 - The Transcendental Deduction I
+SCHEDULED: <2018-09-18 Tue>
 :PROPERTIES:
 :EXPORT_FILE_NAME: week5
+:EXPORT_HUGO_TAGS: "a priori" categories concepts deduction idealism judgment apperception self-consciousness
 :END:
 
 Once Kant has argued for which concepts should be considered the fundamental
-concepts of metaphysics, he needs to argue that such concepts can legitimately
-be applied to what is given in sensibility. This is the task of the (in)famous
-"Transcendental Deduction of the Categories." This week we'll look at the
-overall structure of the Deduction, and consider the initial few sections in
-some detail.
+concepts of metaphysics (as he did in the Metaphysical Deduction), he then
+needs to argue that such concepts can legitimately be applied to what is given
+in sensibility. This is the task of the (in)famous "Transcendental Deduction
+of the Categories." This week we'll look at the overall structure of the
+Deduction, and consider the initial few sections in some detail.
 
 **** Readings
 - CPR: The Transcendental Deduction, B129-69 (Guyer & Wood, 245-66) 
   - During this class we'll focus primarily on the 'first step' of the
     argument, §§15-20 (G&W 245-52)
-- Recommended: Van Cleve, /Problems from Kant/, ch. 7 
-- Recommended: Pereboom, [[https://www.dropbox.com/s/bn49z2qpffkq5uv/pereboom2006.pdf?dl=0]['Kant's Metaphysical and Transcendental Deductions']] 
-- Recommended: Pereboom, [[https://www.dropbox.com/s/e8c8jq3e380a3hb/pereboom1995.pdf?dl=0]['Self-Understanding in Kant's Transcendental Deduction']] 
+- Optional: Van Cleve, [[https://www.dropbox.com/s/kulr5ox6486r4gk/vancleve1999-ch7_Experience_and_Objects.pdf?dl=0][/Problems from Kant/, ch. 7]] 
+- Optional: Pereboom, [[https://www.dropbox.com/s/bn49z2qpffkq5uv/pereboom2006.pdf?dl=0]['Kant's Metaphysical and Transcendental Deductions']] 
+- Optional: Pereboom, [[https://www.dropbox.com/s/e8c8jq3e380a3hb/pereboom1995.pdf?dl=0]['Self-Understanding in Kant's Transcendental Deduction']] 
 - Optional: Guyer, [[https://www.dropbox.com/s/fu32owtdal7ldx9/guyer2010a.pdf?dl=0]['The Deduction of the Categories: The Metaphysical and Transcendental Deductions']]
-- [[file:%7Cfilename%7C/pdfs/phil871/phil871kant/5_KantTDI.pdf][Handout]]
+# - [[file:%7Cfilename%7C/pdfs/phil871/phil871kant/5_KantTDI.pdf][Handout]]
   
 
 **** Questions
-- What is a "deduction"?
+- What is a "deduction" of the categories?
+- What special difficulty do the categories face that the intuitions of space and time did not?
 - What is the aim of the Transcendental Deduction?
 - Does the TD need to prove that external world skepticism is false if it is
   to succeed?
@@ -5248,7 +5205,7 @@ the central contribution of Nicolas Copernicus.
   priori through concepts that would extend our cognition have, on this
   presupposition, come to nothing. Hence let us once try whether we do
   not get farther with the problems of metaphysics by assuming that the
-  objects" must conform to our cognition, which would agree better with
+  objects must conform to our cognition, which would agree better with
   the requested possibility of an a priori cognition of them, which is
   to establish something about objects before they are given to us. This
   would be just like the first thoughts of Copernicus, who, when he did
@@ -5558,7 +5515,7 @@ altogether clear. To take just two examples, Kant seems to give
 regressive analytic arguments both in the Transcendental Exposition of
 Space, above, and in the Transcendental Deduction of the Categories. It
 is not clear whether this is really compatible with the synthetic method
-supposedly being followed in the /Critique/.[fn:31] So appeal to the
+supposedly being followed in the /Critique/.[fn:34] So appeal to the
 distinction between methods cannot, of itself, ground acceptance or
 rejection of any particular interpretation of the argument in the TE.
 
@@ -5569,7 +5526,7 @@ for our cognition of geometric objects and relationships. According to Shabel
 the argument from geometry functions as a 'bridge' from the arguments of the
 Metaphysical Exposition, which purport to show that space is an a priori
 intuition, to the arguments concerning the transcendental ideality of space---
-i.e., that it is /nothing other than/ a pure a priori intuition.[fn:32]
+i.e., that it is /nothing other than/ a pure a priori intuition.[fn:35]
 
 At least three things work in favor of Shabel's interpretation. First,
 it accords with Kant's claim that the method of argument in the first
@@ -5624,9 +5581,9 @@ argument proceeds as follows.
 
 [fn:2018-08-02-1431] [@shabel2004, 201]. Various proponents of the following interpretation include [@russell1903, 456; @strawson1966, 57; @broad1978, 45ff].
 
-[fn:31] See [@gava2013] for further discussion.
+[fn:34] See [@gava2013] for further discussion.
 
-[fn:32] [@shabel2004, 207].
+[fn:35] [@shabel2004, 207].
 
 
 **** The Ideality of Space
@@ -5680,7 +5637,7 @@ does he get to this conclusion?
 First, Kant rejects a presupposition he thinks both the absolutist and the
 relationalist about space hold in common---viz. that space is something
 independent of the mind in general and our perception (or intuition) in
-particular.[fn:33] In Kant's terminology space is /ideal/ in virtue of being
+particular.[fn:36] In Kant's terminology space is /ideal/ in virtue of being
 mind-dependent. Kant makes this point clearer later in the /Critique/.
 
 #+BEGIN_QUOTE
@@ -5736,7 +5693,7 @@ space is nothing other than a form of mental representation and not something
 subsisting in itself, or an order of possible relations between objects,
 independent of the mind. 
 
-[fn:33] For further discussion see [@jauernig2008; @janiak2012; @messinaForthcoming].
+[fn:36] For further discussion see [@jauernig2008; @janiak2012; @messinaForthcoming].
 
 **** Incongruent Counterparts
 
@@ -5941,7 +5898,7 @@ in course of its having experience. Here it is important for Kant's project in
 the /Dissertation/, as it will be for his project in the /Critique of Pure
 Reason/, that his account of the acquisition of the concepts of metaphysics not
 run afoul of his characterization of those concepts as "intellectual" rather
-than "empirical" or "sensitive."[fn:34] For this reason they cannot be
+than "empirical" or "sensitive."[fn:37] For this reason they cannot be
 concepts abstracted from sensible intuition, in the manner that our concepts
 of space and time are. If they /were/ abstracted from experience such concepts
 would be (merely) empirical or "sensitive on account of their genesis" (ID §5,
@@ -5991,7 +5948,7 @@ explicitly states that finite beings lack intellectual intuition (ID §10,
 space, such as the thoughts of the mind" are in time (ID Corollary, 2:406). It
 thus seems unlikely that Kant holds in the /Dissertation/ that metaphysical
 concepts are acquired via intellectual intuition, on pain of explicitly
-contradicting himself at multiple points.[fn:35]
+contradicting himself at multiple points.[fn:38]
 
 But even if Kant does not directly contradict himself in the /Dissertation/,
 Dyck's discussion helps point us to a clear tension and perhaps fatal
@@ -6015,11 +5972,11 @@ intuited is substantial, simple, and immaterial (28:224-5).
 In a note (R4674) from the /Duisberg Nachlass/ of 1775-6, Kant writes that an
 (external) object may be represented only "according to its relations", i.e.,
 only according to the properties, and relations between those properties, that
-are presented in sense experience.[fn:36] And, as he does in the
+are presented in sense experience.[fn:39] And, as he does in the
 lecture material cited above, Kant /contrasts/ our position with respect to
 intuition of external objects with the special access we have to ourselves.
 The inner intuition of oneself is of an object whose properties are not
-presented, as outer things are, merely in terms of relations.[fn:37]
+presented, as outer things are, merely in terms of relations.[fn:40]
 The language Kant uses in R4674 is also echoed in other texts from the
 mid-70s, For example, Kant states that the 'I' is the "original concept" of
 substance which we "borrow" for use in our conception of other substances
@@ -6036,7 +5993,7 @@ properties, as what Kant sometimes describes as an intelligence or "thinking
 substance" (e.g. /Metaphysics L_{1}/ 28:224-5). The self is thus the "original
 of all objects" in the sense that, as Allison Laywine puts it, "we somehow
 transfer our representations of the one true subject and apply it derivatively
-or by analogy to our thought of anything else."[fn:38]
+or by analogy to our thought of anything else."[fn:41]
 
 Unfortunately, Kant never clarifies how this position concerning the
 privileged and peculiar role of inner sense is consistent with his general
@@ -6058,14 +6015,14 @@ argument of the Transcendental Deduction. In the next section I talk about
 Kant's revision of his /Dissertation/ strategy in the /Critique/ for the argument
 of the MD.
 
-[fn:34] What are the "concepts of metaphysics" for Kant? Certainly they
+[fn:37] What are the "concepts of metaphysics" for Kant? Certainly they
         include the concept =<God>=, as well as =<soul>= and =<world>=.
-        These all presuppose possession of the concept <substance>.
+        These all presuppose possession of the concept =<substance>=.
         Presumably also on the list are other concepts one would find
         in, e.g., Baumgarten's /Metaphysica/, such as =<possibility>=,
         =<necessity>=, =<accident>=, and so forth.
 
-[fn:35] For consideration of the problem of self-consciousness in the 1770s
+[fn:38] For consideration of the problem of self-consciousness in the 1770s
         more broadly, as well as Kant's rejection of intellectual intuition,
         see [@klemme1996, 118-26]. As [@mohr1995, 32-6] points out, Kant does
         speak of an intellectual (not inner) intuition of freedom in
@@ -6076,11 +6033,11 @@ of the MD.
         we can have, as rational beings, of our own activity (e.g. R4220
         17:462 (1769-70)).
 
-[fn:36] For discussion of Kant's view that the objects of sense consist
+[fn:39] For discussion of Kant's view that the objects of sense consist
         entirely of relations, or relational properties, see
         [@pereboom1991; @langton1998; -@langton2006; @mclear2017].
 
-[fn:37] There is also indication in the /Duisburg Nachlaß/, as there was
+[fn:40] There is also indication in the /Duisburg Nachlaß/, as there was
         in Kant's lectures, of his endorsement of the rational
         psychology he would later come to criticize. For example, in the
         /Nachlaß/ Kant says that "I would not represent anything as
@@ -6091,7 +6048,7 @@ of the MD.
         For discussion see [@guyer1987; @carl1989a; @carl1989;
         @serck-hanssen2001; @laywine2005; @laywine2006; @kitcher2011].
 
-[fn:38] [@laywine2005, 9]; see also [@carl1989, 91-2, 97; @kitcher2011,
+[fn:41] [@laywine2005, 9]; see also [@carl1989, 91-2, 97; @kitcher2011,
         73-4; @wuerth2014, 104; @dyck2016, 335-8]. For criticism of
         Carl's, and to a lesser degree Laywine's, position see
         [@allison2015, 121-30].
@@ -6220,9 +6177,9 @@ wants an argument that,
 has not arisen rhapsodically from a haphazard search for pure concepts, of the completeness of which one could never be certain, since one would only infer it through induction, without reﬂecting that in this way one would never see why just these and not other concepts should inhabit the pure understanding. (A81/B106-7)
 #+END_QUOTE
 
-Kant does not provide convincing proof of this position in the MD. Whether such a proof could be given is, perhaps, another story.[fn:39]
+Kant does not provide convincing proof of this position in the MD. Whether such a proof could be given is, perhaps, another story.[fn:42]
 
-[fn:39] There are a variety of prominent attempts to defend Kant's position
+[fn:42] There are a variety of prominent attempts to defend Kant's position
 here. See [@reich1992; @brandt1995; @wolff1995; @longuenesse1998].
 
 
@@ -6358,38 +6315,195 @@ I wonder what Kant must assert regarding the space that one represents when thin
 When /thinking/ (i.e. conceptually representing) possible worlds, we might be able, on Kant's view, to represent them as spatially extended in ways such that the phrase "you can't get there from here" would really be true, but there would nevertheless be distinct spaces. 
 
 I think this raises a good question as to how "represent" in "one can only represent a single space" (A24/B38) is to be interpreted. If "represent" means conceptually represent, then I think there is no contradiction in conceptually representing non-continguous spaces. So I think Kant means something like, there is no intuition we could have such that we could represent non-continguous or disjoint spaces. Such intuitive representation would presuppose, in his view, some further space in which the spaces were placed, located, or otherwise a part of. 
-** Responses Week 3
-
-*** Edward Acuna Quintana
-*** Steve Byerly
-*** Vy Doan
-*** Cale Harms
-*** Samuel Hobbs
-*** Tate Kollar
-*** Antony Larrick
-*** Isabel Reynolds
-*** Jeffrey Schade
-*** Lauren Sweetland
-*** Ryan Turner
-*** Zachariah Wrublewski
-
-
 ** Responses Week 4
+:PROPERTIES:
+:EXPORT_OPTIONS: num:nil 
+:END:
 
-*** Edward Acuna Quintana
+
 *** Steve Byerly
+#+BEGIN_QUOTE
+How can we really hope to separate the ‘pure acts of thought’ from that which is empirical and aesthetic-- reliably, and indisputably?
+#+END_QUOTE
+
+Good question. Kant's method as to how these are derived is unclear. 
+
+#+BEGIN_QUOTE
+If there are such categories that are so deep within us, that construct our very thoughts about the outside world- how can we possibly have confidence in this so-called understanding?
+#+END_QUOTE
+
+Remember, Kant is no skeptic. He thinks that we obviously have knowledge, and successful scientific knowledge at that. This is part of drawing the contrast with the poor state of metaphysics. 
+
+#+BEGIN_QUOTE
+Kant claims his treatment of the Table of Categories are superior Aristotle’s because his version is based on the understanding (and is more systematic), rather than being empirical. However, how do we really know that Kant gets the Categories right, and how do we know that Aristotle’s was so imperfect?
+#+END_QUOTE
+
+It depends on whether one can take Kant seriously when he says
+
+#+BEGIN_QUOTE
+This division [of the categories] is systematically generated from a common principle, namely the faculty for judging (which is the same as the faculty for thinking), and has not arisen rhapsodically from a haphazard search for pure concepts, of the completeness of which one could never be certain, since one would only infer it through induction, without reflecting that in this way one would never see why just these and not other concepts should inhabit the pure understanding. Aristotle's search for these fundamental concepts was an effort worthy of an acute man. But since he had no principle he rounded them up as he stumbled on them (A80-1/B106-7)
+#+END_QUOTE
+
+I think the articulation of the table of judgment and its justification is at best obscure, and the "derivation" of the categories from the forms of judgment is simply not present. Whether one /can/ so derive the categories from judgment is another matter. Maybe Kant really had a proof and just didn't bother to articulate it. In general I think it is the strategy that is interesting, rather than the particular form it takes here. But we'll talk about this more in class. 
+
 *** Vy Doan
+#+BEGIN_QUOTE
+Kant thinks relation between objects can be definition for objects. If so, then how can we know that a relation between several of the two types of objects are not merely correlation and not some direct relation? Does he think that we can have a true representation of objects?
+#+END_QUOTE
+
+Kant thinks we can make true judgments about empirical objects, as well as the a priori "objects" that are space and time. So we can judge that, e.g. "the cat is on the mat" is true, as well as that "no two lines enclose a space". Kant thinks that not only are these judgments true, but knowably so (at least, excluding extreme skeptical cases like Descartes's evil demon).
+
+What Kant denies is that we could ever know that our judgments are true independent of any possible experience. How could I know from judgment alone that the cat is on the mat? Or that two lines do not enclose a space? All logic can tell me is whether the concepts I'm employing in such judgments are consistent with one another. But neither logic nor the concepts alone ensure that there is an object or objects that correspond to the judgment (remember, Kant talks of truth in terms of the "conformity" (/Übereinstimmung/) of a cognition with its object (A58/B82)). Among other things, intuition is supposed to play that role. 
+
+#+BEGIN_QUOTE
+On page 210, Kant said “Transcendental logic […] has a manifold of sensibility that lies before it a priori, which the transcendental aesthetic has offered to it, in order to provide the pure concepts of the understanding with a matter, without which they would be without any content, thus completely empty.” It seems to me that to have a pure understanding of something, we would still have to depends on our intuition and senses. I’m not sure how we can arrive at pure understanding with just logic. 
+#+END_QUOTE
+
+When Kant talks of the "pure concepts of the understanding" he's talking about the categories. These are a priori concepts---they do not depend on experience. But Kant agrees that we could not acquire these concepts unless we had experience. This is the point of his claim at B1 of the Introduction that all cognition "begins with experience". Part of Kant's argument in the Metaphysical Deduction concerns how we should understand our acquisition of the categorial concepts. Kant's view seems to be that they are traced to the way in which our intellect functions in judging that something is thus and so. 
+
 *** Cale Harms
+#+BEGIN_QUOTE
+Kant seems to allude that he is deriving the table of categories from the the table of the forms of judgements, but how exactly is he doing so?
+#+END_QUOTE
+
+Good question. We'll talk about this in detail in class. But the prognosis is not great...
+
+#+BEGIN_QUOTE
+How dependent is Kant on the exact specification of the table he lays out in earlier sections to make the conclusions he is making in Section 13?
+#+END_QUOTE
+
+Fortunately for Kant's overall project, I don't think he is very dependent on whether he has hit on just the right concepts. What he needs is an explanation of some set of fundamental and a priori concepts that plausibly serve to do metaphysics. He's given us a potential strategy by relying on the connection between logic, thought, and judgment. But the details are all going to be tendentious. 
+
 *** Samuel Hobbs
+#+BEGIN_QUOTE
+Kant thinks that infinity in no sense can be a unity, because unity and infinity are just categorically different.
+#+END_QUOTE
+
+Kant on infinitely is a super interesting and tough subject. So I'm not entirely confident of what I'm going to say next. I think that Kant thinks infinities can be unities---he thinks that space and time are infinite (we can only grasp this fact in intuition after all) /and/ he clearly thinks they are unities (there is just /one/ space and /one/ time). What Kant seems to be denying, and what I think you're picking up on, is the sense in which the (let's call it) /cognitive content/ of the concept <infinity> is the same as that of <unity>. One might reply, "sure---infinities are /big/ unities!". So what else is going on? 
+
+Let me use geometry as an example. I'm going to draw on Kant's 1790 discussion of the mathematician Abraham Kästner. Kant thinks that we need to distinguish “the different use of the concept of infinity” in geometry and in metaphysics (20:420). Once we do so, we see that the potential infinities of geometrical construction presuppose the /actual/ infinity of metaphysical space (what Kant's discussing in the Metaphysical Exposition of Space). Kant thinks that (i) actual infinity is coherent if potential infinity is and (ii) geometry requires the representation of actual infinities (though it does not construct such quantities).  Kant writes:
+
+#+BEGIN_QUOTE
+[T]hat a line can be extended into infinity means as much as: the space in which I describe the line is larger than any line that I may describe in it. Thus the geometer grounds the possibility of his problem [/Aufgabe/] of enlarging a space (of which there are many) into infinity upon the original representation of a unitary [/einigen/] infinite, subjectively given space. (Kästner, 20:420)
+#+END_QUOTE
+
+Kant grants here that geometrical constructions exhibit a merely potential infinity: all constructions are finite but can be made arbitrarily large or small.  But he argues that this potential infinity presupposes and is grounded in an actually infinite structure that we represent and within which the relevant constructions occur. So it looks like Kant thinks there are different kinds of infinities---actual and potential---and that the mathematician's construction of infinities in geometry or arithmetic relies on the actual infinities intuited as the unitary forms---space and time. 
+
+But with respect to the sentence that first drew your interest, "If, on the contrary, we compare a singular judgment with a generally valid one...then the former relates to the latter as unity relates to infinity, and is therefore in itself essentially different from the latter"---I really don't know what to say (nor, for example, does Allison). Sounds like the start of a paper topic!
+
 *** Tate Kollar
+#+BEGIN_QUOTE
+I am not sure how he could prove that there are no other forms of pure understanding besides those he cites.
+#+END_QUOTE
+
+I'm not sure either, but it seems like Kant needs to in order to prove his claim. But is this really possible? For example, how coherent is it to think of a being that acknowledges radically different logical principles (e.g. allows contradictions)? For Kant, such "logical aliens" are impossible. But it seems rather that they are just incomprehensible to us. 
+
+
+#+BEGIN_QUOTE
+I would think that Kant would want that, as time goes on, we would learn more about how and what kind of pure understandings exist.
+#+END_QUOTE
+
+It sounds like you think we empirically discover logical principles. Kant denies this -- logic is a priori (it is marked by strict universality and necessity), so it can't be empirically derived (e.g. from doing psychological experiments, or a lot of truth tables or semantic tableaux). 
+
+#+BEGIN_QUOTE
+I am very confused on Kant's definition/concept of what a judgement is. He says, "Judgement is therefore the mediate cognition of an object, hence the representation of a representation of it." The representation of a representation part throws me off the most. As best I can understand, he is just referring to the fact that when we see objects, all we see are representations of them. In this case, my representation of an object (an object which in itself is just a representation) is what a judgement is. If this is what he means then it would mostly make sense, but if not then I am very confused. 
+#+END_QUOTE
+
+Kant's discussion of this is confusing! It is in fact not at all clear what the difference is between intuition and concept/judgment since it isn't at all clear what "immediacy" comes to here. But the basic idea seems to be something like -- intuition relates to an object without first relating to some other representation. So whatever it is that intuitions relate to when they relate to objects and thereby "give" them to the consciousness of a perceiving subject, Kant's view seems to be that they don't do this in virtue of /first/ being related to some further representation.
+
+Now compare concepts (which are the constituents of judgments). Kant says that "a concept is...never immediately related to an object, but is always related to some other representation of it (whether that be an intuition or itself already a concept" (A68/B93). Take a concrete example, like the concept <red>. Kant thinks that when you employ <red> in a judgment, the concept itself doesn't give you any particular object. It just says "of all the objects there are or could be, some of them have a feature or property -- /red/". So Kant thinks that when you use the concept <red> you use lots of other concepts, like <object>, <property>, <color>, etc. So <red> relates first to all of these other concepts (you wouldn't count as understanding/having <red> if you didn't get that red is a color). In a judgment like "fire engines are red" Kant thinks you're just relating concepts together, but you haven't yet related those concepts to any particular object. To do so you need to rely on some actual or possible intuition (e.g. an intuition of a red fire engine).  
+
+#+BEGIN_QUOTE
+Another thing that confused me was when Kant says that all of the categories are a dichotomy with the third being the combination of the two. 
+#+END_QUOTE
+
+This is a thing that confuses virtually everyone who has ever read the /Critique/. William and Martha Kneale, in their /The Development of Logic/, remark that "[t]he fact that he [Kant] is able to provide three species under each heading is obviously a matter of accident. For the species in any one set are not really co-ordinate, and there is no common principle requiring trichotomy" (pp. 355-56). I'm not convinced that they are wrong.
+
+#+BEGIN_QUOTE
+It also seems that the third category would not be pure since it is just the sum of two other forms of pure knowledge.
+#+END_QUOTE
+
+In this respect, at least, Kant is on good ground. To say that a concept is pure is just to say that it is free of any empirical content. So the "pure" categories do not derive their content from any sensory experience, but from the operation of the mind itself in judging. This is compatible with thinking that some of these concepts are derived from others, so long as none are derived from experience. 
+
 *** Antony Larrick
 *** Isabel Reynolds
+#+BEGIN_QUOTE
+When he references the logical use of understanding does he mean the kind of logic that we use in math? 
+#+END_QUOTE
+
+Kant thinks of logic as articulating the principles by which the intellect (specifically understanding and reason) operates. So the principle of contradiction (\not(A & \not A)) and the various principles of inference familiar from basic logical syllogisms (e.g. All As are Bs, x is A, so x is B). We might /use/ logic in doing math, but math relies on intuition in a way that logic does not (e.g. math needs intuition for introducing the subject matter of math, such as geometric objects).
+
+#+BEGIN_QUOTE
+From what I understand, a judgement is made up of many concepts, and those concepts, are representations? On the other hand, an intuition has a more direct relationship with representation (like time and space)? 
+#+END_QUOTE
+
+Yes, exactly. However, how we should understand this "immediate" relation that intuition has to its objects is somewhat unclear. We can talk about this more tomorrow. 
+
+#+BEGIN_QUOTE
+Another question, the concept of bodies is a judgement and not an intuition because we relate bodies to other concepts but not to time and space? But bodies just exist and time in space? 
+#+END_QUOTE
+
+I'm not entirely sure what to say to this - maybe the question is prompted by one of the following texts:
+
+#+BEGIN_QUOTE
+In every judgment there is a concept that holds of many, and that among this many also comprehends a given representation, which is then related immediately to the object. So in the judgment, e.g., "*All bodies are divisible*,'" the concept of the divisible is related to various other concepts; among these, however, it is here particularly related to the concept of body, and this in turn is related to certain appearances that come before us. (A68-9/B93)
+#+END_QUOTE
+
+If this is the text prompting your question, then Kant's point is just whenever we make a judgment, we're relating concepts to one another, and in fact all concepts always relate to other concepts---there is no concept by means one which one can think of a /particular/ being (e.g. you or me). In order to think of particular beings we need intuition. But it is certainly compatible with Kant's point that he also think that we couldn't even /have/ the concept <body> if we didn't have experience of bodies, since the concept is empirical and thus relies on our having certain kinds of experiences (here Kant is in broad agreement with folks like Locke and Hume about empirical concept acquisition). 
+
+Here's another related text:
+
+#+BEGIN_QUOTE
+Yet in regard to the merely logical use of the understanding it would remain undetermined which of these two concepts will be given the function of the subject and which will be given that of the predicate. For one can also say: " Something divisible is a body." Through the category of substance, however, if I bring the concept of a body under it, it is determined that its empirical intuition in experience must always be considered as subject, never as mere predicate; and likewise with all the other categories. (A94/B128-9)
+#+END_QUOTE
+
+Kant's point here is that in a judgment like "a (or this) body is divisible" one does not thereby know whether or what the substantial being (i.e. the "thing") is that one is talking about. Kant thinks one could just as easily judge that "some divisible is a body". Which is the substance and which the predicate, the divisible, or the body? His claim is that the category of substance regulates this (See also Jeff Schade's question). How exactly it does this is another matter, one which we'll talk about tomorrow and when we get to the section of the /Critique/ called the Principles. 
+
 *** Jeffrey Schade
+
+#+BEGIN_QUOTE
+is it fair to judge Kant’s argument by the standards of general logic when the argument he is making is a transcendental one?
+#+END_QUOTE
+
+I'm not quite sure how to take this. Don't confuse "transcendental argument" (or "transcendental deduction") with "transcendental logic". Kant certainly did invent the name, and perhaps the concept, for this notion of a "logic", but he also largely determined, if not invented, the notion of logic as "formal". Rephrasing your question then, we should evaluate Kant's notion of transcendental logic differently than we do his pure general (or pure formal) logic, for the former concerns a relation to objects from which the latter abstracts away. 
+
+#+BEGIN_QUOTE
+I was struck by how much harder Kant has to work in the transcendental deduction of the categories to show that the pure concepts of the understanding are a priori, as compared with the same argument in the Transcendental Aesthetic
+#+END_QUOTE
+
+Yes - Kant makes a fairly big deal of this in §13. To quote him:
+#+BEGIN_QUOTE
+The categories of the understanding, on the contrary, do not represent to us the conditions under which objects are given in intuition at all, hence objects can indeed appear to us without necessarily having to be related to functions of the understanding, and therefore without the understanding containing their /a priori/ conditions.  Thus a difficulty is revealed here that we did not encounter in the field of sensibility, namely how *subjective conditions of thinking* should have *objective validity* (A89-90/B122)
+#+END_QUOTE 
+
+If this difficulty is one Kant thinks he can resolve (which it surely is) then the question is how the Transcendental Deduction goes about accomplishing this. More on that next week.
+
 *** Lauren Sweetland
 *** Ryan Turner
 *** Zachariah Wrublewski
+#+BEGIN_QUOTE
+Kant asserts that problematic propositions merely express logical possibility (as opposed to actuality or necessity), and he seems to mean something like “problematic propositions make assertions about posits that could be assumed, given the set of necessary propositions.” But, if this is the case, I’m not so certain why these sorts of propositions should be given as a sort that is separate from the Apodictic propositions, given that Kant seems to mean something like “doesn’t clash with necessary propositions.”
+#+END_QUOTE
 
+Kant's conception of a "problematic" judgment, or better, a "problematically held" judgment, is pretty close to what we would think of as "entertaining" a proposition. A judgment held as apodictic is necessary, and in the note Kant credits this to the faculty of reason in particular. He says, 
 
+#+BEGIN_QUOTE
+It is just as if in the first case thought were a function of the *understanding*, in the second of the *power of judgment*, and in the third of *reason*. This is a remark the elucidation of which can be expected only in the sequel. (A75/B100 note)
+#+END_QUOTE
+
+This is tied up with the way in which Kant conceives of the modality of judgment as contributing "nothing to the content of the judgment...but rather concerns only the value of the copula in relation to thinking in general." (A74/B100). This is going to correspond to the categories of modality. There are no genuine modal properties of reality as it is in itself, only modal properties as they relate to cognitive faculties. In the /Critique of Judgment/ Kant says,
+
+#+BEGIN_QUOTE
+It is absolutely necessary for the human understanding to distinguish between the possibility and the actuality of things. The reason for this lies in the subject and the nature of its cognitive faculties. For if two entirely heterogeneous elements were not required for the exercise of these faculties, understanding for concepts and sensible intuition for objects corresponding to them, then there would be no such distinction (between the possible and the actual). That is, if our understanding were intuitive, it would have no objects except what is actual. Concepts (which pertain merely to the possibility of an object) and sensible intuitions (which merely give us something, without thereby allowing us to cognize it as an object) would both disappear. Now, however, all of our distinction between the merely possible and the actual rests on the fact that the former signiﬁes only the position of the representation of a thing with respect to our concept and, in general, our faculty for thinking, while the latter signiﬁes the positing of the thing in itself (apart from this concept). c,9 Thus the distinction of possible from actual things is one that is merely subjectively valid for the human understanding, since we can always have something in our thoughts although it does not exist, or represent something as given even though we do not have any concept of it. The propositions, therefore, that things can be possible without being actual, and thus that there can be no inference at all from mere possibility to actuality, quite rightly hold for the human understanding without that proving that this distinction lies in the things themselves. (5:401-2)
+#+END_QUOTE 
+
+Kant then goes on to consider another kind of being (God)
+
+#+BEGIN_QUOTE
+I cannot presuppose that in every such being thinking and intuiting, hence the possibility and actuality of things, are two different conditions for the exercise of its cognitive faculties. For an understanding to which this distinction did not apply, all objects that I cognize would be (exist), and the possibility of some that did not exist, i.e., their contingency if they did exist, as well as the necessity that is to be distinguished from that, would not enter into the representation of such a being at all. (5:402-3)
+#+END_QUOTE
+
+This is definitely worth talking about more in class. 
 ** Responses Week 5
 
 *** Edward Acuna Quintana
@@ -6574,7 +6688,7 @@ I think this raises a good question as to how "represent" in "one can only repre
 ** TODO The Transcendental Deduction of the Categories
 *** The Problem with A Priori Concepts
 
-Kant's mature philosophical system is notable for the strictures it sets on the kind of knowledge human beings (or finite rational beings more generally) can achieve through reason alone. Importantly, Kant thinks that pure reason can achieve relatively little on its own. All of our ampliative knowledge that is also necessary and universal consists in what Kant calls ‘synthetic a priori' judgments or propositions. The central question he then pursues concerns how knowledge of such synthetic a priori propositions is possible. [[https://phil871.colinmclear.net/notes/transcendental-aesthetic][We previously discussed]] Kant's arguments concerning the role (the representations of) space and time play in grounding necessary and universal mathematical knowledge. On Kant's view, mathematical knowledge is synthetic because it goes beyond mere conceptual analysis to deal with the structure of (our representation of) space itself. It is a priori because the structure of (our representation of) space is a priori accessible to us, being merely the form of our intuition and not a real mind independent thing (i.e. a ‘thing in itself').
+Kant's mature philosophical system is notable for the strictures it sets on the kind of cognition and knowledge human beings (or finite rational beings more generally) can achieve through reason alone. Importantly, Kant thinks that pure reason can achieve relatively little on its own. All of our ampliative knowledge that is also necessary and universal consists in what Kant calls ‘synthetic a priori' judgments or propositions. The central question he then pursues concerns how knowledge of such synthetic a priori propositions is possible. [[https://phil871.colinmclear.net/notes/transcendental-aesthetic][We previously discussed]] Kant's arguments concerning the role (the representations of) space and time play in grounding necessary and universal mathematical cognition and knowledge. On Kant's view, mathematical cognition is synthetic because it goes beyond mere conceptual analysis to deal with the structure of (our representation of) space itself. It is a priori because the structure of (our representation of) space is a priori accessible to us, being merely the form of our intuition and not a real mind independent thing (i.e. a ‘thing in itself').
 
 However, recall from our discussion of [[https://phil871.colinmclear.net/notes/kant-copernican-revolution/#transcendental-idealism][transcendental idealism]] that, in addition to the representation of space and time, Kant also thinks that possession of a particular privileged set of a priori concepts is necessary for knowledge of the empirical world. But this raises a problem. How could an a priori concept, which is not itself derived from any experience, be nevertheless legitimately applicable to objects of experience? To make things even more difficult, it is not the mere possibility of the application of a priori concepts to objects of experience that worries Kant, for this could just be a matter of pure luck. Kant requires more than the mere possibility of application, for he wants to show that with regard to a privileged set of a priori concepts, they apply necessarily and universally to all objects of experience and do so in a way that we are in a position to know a priori.
 
@@ -6584,13 +6698,13 @@ Kant's strategy for demonstrating how this is possible hinges on showing that th
 because I cannot stop with these intuitions, if they are to become cognitions, but must refer them as representations to something as their object and determine this object through them, I can assume either that the concepts through which I bring about this determination also conform to the objects, and then I am once again in the same difficulty about how I could know anything about them /a priori/, or else I assume that the objects, or what is the same thing, the /experience/ in which alone they can be cognized (as given objects) conforms to those concepts, in which case I immediately see an easier way out of the difficulty, since experience itself is a kind of cognition requiring the understanding, whose rule I have to presuppose in myself before any object is given to me, hence /a priori/, which rule is expressed in concepts /a priori/, to which all objects of experience must therefore necessarily conform, and with which they must agree. (CPR Preface, Bxvii)
 #+END_QUOTE
 
-Kant's strategy is thus to show how a priori concepts legitimately apply to their objects in virtue of being partly constitutive of the objects of experience, rather than the traditional view in which the objects of experience were the ground of our concepts. Now, what exactly this means is deeply contested, as it is rather unclear what Kant intends us to understand by his Transcendental Idealism. For example, does Kant intend that the objects of experience are /themselves/ nothing other than representations? This would be a form of phenomenalism similar to that offered by [[https://plato.stanford.edu/entries/berkeley/][Berkeley]]. Kant, however, seems to want to deny that his view is similar to Berkeley's, asserting instead that the objects of experience really exist independently of the mind, and that it is only the /way/ that they are experienced that is mind-dependent.
+Kant's strategy is thus to show how a priori concepts legitimately apply to their objects in virtue of being partly constitutive of the objects of experience, rather than the traditional view in which the objects of experience are the ground of our concepts. Now, what exactly this means is deeply contested, at least partly because it is rather unclear what Kant intends us to understand by his Transcendental Idealism. For example, does Kant intend that the objects of experience are /themselves/ nothing other than representations? This would be a form of phenomenalism similar to that offered by [[https://plato.stanford.edu/entries/berkeley/][Berkeley]]. Kant, however, seems to want to deny that his view is similar to Berkeley's, asserting instead that the objects of experience really exist independently of the mind, and that it is only the /way/ that they are experienced that is mind-dependent.
 
 #+BEGIN_QUOTE
 the fact that I have myself given to this theory of mine the name of
 transcendental idealism cannot justify anyone in confusing it with the
 empirical idealism of /Descartes/ (although this idealism was only a problem,
-whose insolubility left everyone free, in /Descartes/ ’ opinion, to deny the
+whose insolubility left everyone free, in /Descartes/' opinion, to deny the
 existence of the corporeal world, since the problem could never be answered
 satisfactorily) or with the mystical and visionary idealism of /Berkeley/
 (against which, along with other similar fantasies, our /Critique/, on the
@@ -6604,43 +6718,103 @@ ways of representing), nor are they determinations that belong to things in
 themselves. (/Prolegomena/ §13, Note III; 4:293)
 #+END_QUOTE
 
-
-I'm mostly going to set this issue to the side in what follows. But the issue
-of idealism is important to consider, insofar as Kant takes himself to be replying to Hume's arguments about the nature of the empirical world and the nature and extent of our knowledge of it.
+I'm mostly going to set this issue to the side in what follows. But the issue of idealism is important to consider, insofar as Kant takes himself to be replying to Hume's arguments about the nature of the empirical world and the nature and extent of our knowledge of it.
 
 
 *** What Is a Transcendental Deduction?
 
-In order to prove that there are a priori concepts which legitimately apply to the objects of experience, Kant articulates [[http://plato.stanford.edu/entries/kant-transcendental/][a special sort of argument]] which he calls a 'transcendental deduction'. As @henrich1989 points out, the notion of a 'deduction' that Kant uses, is a legal one intended to provide a historical justification for the legitimacy of a property claim. In Kant's case however, it is transformed into a justification of the applicability (in the sense discussed above) of the a priori concepts Kant calls the 'categories'. These are the concepts given in Kant's 'Table of Categories' (A80/B106); they are Unity, Plurality, and Totality (the Categories of Quantity); Reality, Negation, and Limitation (the Categories of Quality); Inherence and Subsistence, Causality and Dependence, and Community (the Categories of Relation), and Possibility-Impossibility, Existence-Nonexistence, Necessity-Contingency (the Categories of Modality).
+In order to prove that there are a priori concepts which legitimately apply to the objects of experience, Kant articulates [[http://plato.stanford.edu/entries/kant-transcendental/][a special sort of argument]], which he calls a 'transcendental deduction'. As @henrich1989 points out, the notion of a 'deduction' that Kant uses, is a legal one intended to provide a historical justification for the legitimacy of a property claim. In Kant's case however, it is transformed into a justification of the applicability (in the sense discussed above) of the a priori concepts Kant calls the 'categories'. These are the concepts given in Kant's 'Table of Categories' (A80/B106); they are Unity, Plurality, and Totality (the Categories of Quantity); Reality, Negation, and Limitation (the Categories of Quality); Inherence and Subsistence, Causality and Dependence, and Community (the Categories of Relation), and Possibility-Impossibility, Existence-Nonexistence, Necessity-Contingency (the Categories of Modality).
 
-With regard to each category, Kant's aim is to show that it has
-'objective validity'---i.e. legitimate application to the objects of
-experience. Disputes concerning various members of the table should be
-familiar. Hume famously disputes the legitimacy of our concept /cause/.
-Hume thinks (in Kant's terms) that no ‘empirical deduction' of the
-concept is possible---i.e. that the concept cannot be traced to the
-occurrence of a corresponding impression. Kant concurs with Hume on this
-point, but argues that this doesn't show that the concept is
-illegitimate, for it be both a priori and legitimately applied in virtue
-of being a necessary condition for experience to occur.
+With regard to each category, Kant's aim is to show that it has 'objective validity'---i.e. legitimate applicability to the objects of experience. Disputes concerning various members of the table should be familiar. Hume famously disputes the legitimacy of our concept /cause/. Hume thinks (in Kant's terms) that no 'empirical deduction' of the concept is possible---i.e. that the concept cannot be traced to the occurrence of a corresponding impression. Kant concurs with Hume on this point---that there can be no empirical deduction---but argues that this doesn't show that the concept is illegitimate, for it may be both a priori and legitimately applied in virtue of being a necessary condition of experience.
 
 For Kant then a 'transcendental deduction' starts from a premise concerning some feature of human experience, a premise which reasonable interlocutors might be expected to endorse, and then argues to a substantive philosophical conclusion concerning the presuppositions or necessary conditions of the truth of that premise. Since Kant's concern here is the a priori categories, his aim is to show that a presupposition or necessary condition of some relatively uncontroversial feature of experience is the applicability (or successful application) of the a priori concept(s) in question to the objects of experience. Below we'll concern ourselves with Kant's answer to Hume regarding the objective legitimacy of the concept /cause/.
 
+*** Experience & Cognition
+Kant is concerned with how we might explain and justify the application of a priori concepts to objects of experience. But this question, as it stands, requires still sharper focus. We've seen what Kant means in his question concerning the /legitimacy/ of concepts in their application to the objects of experience. But what does Kant mean by "/experience/" [/Erfahrung/]? Our problem is that the notion of "experience," both in German and in English, is ambiguous and can mean any number of a variety of things---anything from the mere occurrence of sensation all the way to empirical judgment.[fn:43]
+
+For Kant, "experience" is a technical term that is closely related to /empirical cognition/ [/empirische Erkenntniss/]. He makes this clear at several points, both in the Deduction and elsewhere in the first /Critique/. However, in what exactly the relation between the two notions consists is somewhat problematic. For example, Kant says that
+
+#+BEGIN_QUOTE
+Such cognitions [i.e. those that are independent of any sense impression] are called /a priori/ cognitions; they are distinguished from empirical cognitions, /whose sources are a posteriori, namely, in experience/ [/Erfahrung/] (Introduction, B2; my emphasis).
+#+END_QUOTE
+
+Here we see Kant saying that the /source/ of empirical cognition is experience. However, Kant also quite explicitly /identifies/ empirical cognition with experience (or treats the terms synonymously).
+
+#+BEGIN_QUOTE
+Empirical cognition, however, is experience (B166).
+
+Experience is an empirical cognition, i.e., a cognition that determines an object through perceptions (A176/B218).
+
+Therefore experience itself---i.e., empirical cognition of appearances---is possible only inasmuch as we subject the succession of appearances, and hence all change, to the law of causality (A189/B234).
+
+it [the presentation "I am"] is not yet a cognition of that subject, and hence is also no empirical cognition -- i.e., experience -- of it (B277).
+#+END_QUOTE
+
+These passages all identify experience with empirical cognition. But if they
+are synonymous notions then how could experience be the /source/ of empirical
+cognition, as is said in B2? A relatively simple resolution of this problem is
+to distinguish two notions of "experience"---between "experience" as the
+sensory result of affection by external objects (via outer sense) and oneself
+(via inner sense) and "experience" as the result of structuring sense
+perceptions via the categories. Call the latter, categorically structured
+state, "complex experience" (or "C-experience") and the former state "simple
+experience" (or S-experience). We can then read B2 as saying that empirical
+cognition, which is identical with C-experience, has its source in
+S-experience, the material (sensation, intuition, perception) out of
+which complex experience is constructed.
+
+This also helps us make sense of B1, where Kant says,
+
+#+BEGIN_QUOTE
+There is no doubt whatever that all our cognition begins with experience; for how else should the cognitive faculty be awakened into exercise if not through objects that stimulate our senses and in part themselves produce representations, in part bring the activity of our understanding into motion to compare these, to connect or separate them, and thus to work up the raw material of sensible impressions into /a cognition of objects that is called experience/? (my emphasis)
+#+END_QUOTE
+
+All cognition begins with /simple/ experience, which is "worked up" into cognition of objects (i.e. empirical cognition) or (as I've called it) complex experience. 
+
+In §17 of the B-deduction Kant specifies that a cognition consists in the "determinate relation of given representations to an object" (B137). I take this to mean that S-experience---the contents of a sensory intuition---provides consciousness of 'appearances' [/Erscheinungen/] or 'undetermined objects' [/unbestimmte Gegestande/] (A20/B34)---which is then made 'determinate' via the activity of the intellect. The result is /empirical/ cognition of an object. And it is this empirical cognition of objects (and ultimately all cognition of objects whatsoever) that it is the aim of Kant's Deduction to legitimate, for it is this cognition that depends on the categories.
+
+#+BEGIN_QUOTE
+all empirical cognition of objects necessarily conforms to such concepts [i.e. the categories], because nothing is possible as object of experience unless these concepts are presupposed A93/B126).
+#+END_QUOTE
+
+Hence, to show that the categories are "objectively valid" or legitimate in their application to any and all objects of possible experience, is for Kant to show that the categories are necessary for empirical cognition of objects, or complex experience. One thing to think about as we move through the argument of the Deduction is whether Kant's conception of C-experience corresponds to anything in the positions of empiricists like Locke and Hume. Do empiricists need to concede the existence of the kind of experience for which Kant thinks the categories are necessary?[fn:44]
+
+Kant's demonstration of the validity of the categories attempts to wind its way
+between two poles which he terms the /enthusiasm/ of Locke and the /skepticism/
+of Hume (A94/B127). Locke's enthusiasm lay in the attempted derivation of all
+our concepts from the structure of appearances (whether we interpret these
+appearances as objects or merely as ideas). But this derivation is, according
+to Kant, inconsistent with the conditions for the manifestation of appearances
+and led us to improperly apply our concepts beyond their sphere.
+
+In contrast to Locke, Hume denies that the a priori concepts have any
+application whatsoever, and thus Hume presents a sort of skeptical alternative
+to Locke. Kant's third way argues that the structure of C-experience and the
+structure of our concepts are interconnected. His strategy for showing this is
+to show that the structure of C-experience and the structure of propositional
+judgment have a common root---viz. the unifying activity of the understanding.
+The Transcendental Deduction is thus an attempt "to try to find out whether we
+cannot provide for human reason safe passage between these two cliffs, assign
+to it determinate bounds, and yet keep open for it the entire realm of its
+appropriate activity" (A95/B128). How exactly Kant does this requires
+explication of the first step of the Deduction, to which we'll now turn.
+
+[fn:43] For a helpful discussion of different ways "experience" might be
+        interpreted see [@vancleve1999, pp. 73-6]. See also the discussion of
+        kinds of experience in [@beck1978c] and the sources cited therein.
+
+[fn:44] For a related worry about triviality see [@ginsborg2006c].
 
 
-*** Experience and the Deduction
+*** NEXT Structure of the Deduction
+I take the structure of the deduction to consist of two steps; the first starts at §15 and concludes with §20 (§21 being essentially a recap of the preceding argument). The second step begins with §22 and concludes with §26 (with §27 also being a recapitulation). This "two-step" interpretation is not new, though interpretation of the content of each step and their relations to one another differs widely.[fn:45]
 
-*** Structure of the Deduction
-I take the structure of the deduction to consist of two steps; the first starts at §15 and concludes with §20 (§21 being essentially a recap of the preceding argument). The second step begins with §22 and concludes with §26 (with §27 also being a recapitulation). This "two-step" interpretation is not new, though interpretation of the content of each step and their relations to one another differs widely.[fn:40]
+The first step of the Deduction (§§15-21) argues that /combination/ of representations cannot be given to the subject via the senses, but is rather something that the subject does. In order that the combination of representations result in cognition, Kant then argues that there must be a unitary subject, or /combiner/ of those representations. The unity condition is satisfied by what Kant calls, §16, the "original synthetic unity of apperception." In the next three sections (§§17-19) Kant argues that this unity of apperception requires a kind of activity, and that this activity is fundamentally that of the functions of the understanding or the "categories."  He concludes in §20 that (i) since all complex unities require combination; (ii) combination requires the original synthetic unity of apperception; and (iii) the unity of apperception is or essentially requires a kind of categorial activity; that (iv) all (complex) unity, including intuition, depends on, or "stands under" (B143) the categories.    
 
-The first step of the deduction (§§15-21) is an argument concerning the conditions for the possibility of structured complex unities. The unities most relevant to Kant's argument are states of affairs (e.g. /a/ is /F/) and propositions (e.g. /that a is F/). Kant begins from the assumption that we an awareness of such complexes. He then claims that such complexes cannot be given in intuition so some other explanation of our awareness of their existence is needed. Kant then appeals to the activity of the Understanding in bringing structural unity to such a complex. Call this determination of structural unity /discursive determination/. His claim concerning perception is that our awareness of perceptual appearances as being discursively determined depends on the capacity to freely connect these appearances in certain ways. The modes of activity by which the Understanding discursively determines the structural unity of a complex (be it a state of affairs or a proposition) are, Kant argues, the categories. Hence, Kant's argument in the first step is a conditional one. He argues that /if/ we are aware of structured complex unities /then/ the discursive determination of such complexes must rest on the categories, understood as the modes of the Understanding's activity.[fn:41]
+The second step of the Deduction (§§22-7) discusses both positive and negative points raised by the first step. Negatively, Kant argues that the categories are limited to /empirical cognition/ -- i.e. to the cognition of appearances, not things in themselves. This importantly includes even our cognition of /ourselves/ as subjects of consciousness. Positively, Kant argues in §26 that not only does all cognition rest on the application of the categories, but that one and all, appearances /are necessarily/ categorial. That is, any appearance given in intuition is such that it is capable of membership in a structured complex unity brought about via categorial synthesis. This means that there is no possibility of an object's appearing (i.e. being "given) that is not susceptible to determination by the categories. Hence, the second step is necessary to show the truth of the antecedent of the conditional demonstrated at the end of the first step of the deduction. There, the truth of the conditional claim was supposed to be secured. But the Deduction cannot be successful without the truth of the antecedent being secured as well.
 
+[fn:45] The /locus classicus/ for the two-step interpretation is [@henrich1969]. Note that I am not endorsing any of the specifics of Henrich's account, e.g., that the second step of the Deduction consists in the comparatively trivial reminder that since human forms of intuition are spatio-temporal, the categories must be know to apply only to spatio-temporal objects.
 
-The second step of the Deduction (§§22-7) concerns both positive and negative points raised by the first step. Negatively, Kant argues that the categories are limited to /empirical cognition/ -- i.e. to the cognition of appearances, not things in themselves. This importantly includes our cognition of ourselves as subjects of consciousness. Positively, Kant argues that not only does all discursive determination rest on the application of the categories, but that one and all, appearances /are necessarily/ discursively determin/able/. That is, any appearance given in intuition is such that it is capable of membership in a structured complex unity. This means that there is no possibility of an object's appearing that is not susceptible to discursive determination by the categories. Hence, the second step is necessary to show the truth of the antecedent of the conditional demonstrated at the end of the first step of the deduction. There, the truth of the conditional claim was supposed to be secured. But the Deduction cannot be successful without the truth of the antecedent being secured as well.
-
-[fn:40] The /locus classicus/ for the two-step interpretation is Henrich 1969. Note that I am not endorsing any of the specifics of Henrich's account, e.g., that the second step of the Deduction consists in the comparatively trivial reminder that since human forms of intuition are spatio-temporal, the categories must be know to apply only to spatio-temporal objects.
-
-[fn:41] A virtue of this reading is that it presents a clear germ of the issues that find full flower in the work of the German idealists. I interpret Kant as arguing that the subject's own activity forms the basis for cognition. In the 'absolute' idealisms of Schelling and Hegel this activity becomes the ultimate basis for the distinction between subject and object itself. See Ameriks 2000; Beiser 2002. Also important is the fact that a reading of the Deduction that emphasizes the source of discursive determination in the activity of the subject helps makes sense of Hegel's subsequent criticisms of Kant's supposed 'subjective' idealism. See Bristow 2007 for discussion. However, I believe Hegel's criticisms of Kant, specifically regarding the purported 'subjectivism' of his logic, fail to find their mark. I hope to pursue this issue in future work.
 
 *** Commentary on the Argument
 Below I discuss the various sections of the argument of the Deduction, as well as raise questions concerning its various parts. This commentary is by no means complete, nor do I avoid making entirely uncontroversial assumptions. The aim of the commentary is simply to provide /one/ way of getting through the thicket of Kant's argument.
@@ -6648,13 +6822,13 @@ Below I discuss the various sections of the argument of the Deduction, as well a
 
 **** The Nature of a Transcendental Deduction and Transition to the Argument (§§13-14)
 
-Kant states the task of the Transcendental Deduction in §13. He says that a transcendental deduction is an explanation of "the way in which concepts may relate [/sich beziehen/] a priori to objects" (A85/B117). The reason why such a relation is a problem concerns Kant's account of how concepts are generated. For Kant, as for empiricists like Locke and Hume, empirical concepts are derived via reflection upon similarities and differences present in a subject's sensory states, from which a concept is then generated via abstraction.[fn:42] Such concepts thereby get their content from experience and their legitimate use is governed by their content. Hence, for any empirical concept, showing the kind of experience from which it derived (though not necessarily the actual experience) is sufficient to demonstrate the legitimacy [/Rechtsmäßigkeit/] of the content, and thus of the use of the concept (A85/B117).[fn:43]
+Kant states the task of the Transcendental Deduction in §13. He says that a transcendental deduction is an explanation of "the way in which concepts may relate [/sich beziehen/] a priori to objects" (A85/B117). The reason why such a relation is a problem concerns Kant's account of how concepts are generated. For Kant, as for empiricists like Locke and Hume, empirical concepts are derived via reflection upon similarities and differences present in a subject's sensory states, from which a concept is then generated via abstraction.[fn:46] Such concepts thereby get their content from experience and their legitimate use is governed by their content. Hence, for any empirical concept, showing the kind of experience from which it derived (though not necessarily the actual experience) is sufficient to demonstrate the legitimacy [/Rechtsmäßigkeit/] of the content, and thus of the use of the concept (A85/B117).[fn:47]
 
-The pure a priori concepts cannot draw on such a demonstration---what he calls an "empirical deduction"---for proof of their legitimacy. This is for two reasons. First, since they are a priori they cannot be derived from any particular experience (B2-3). Second, the content of the a priori concepts includes the notions of /universality/ and /necessity/ (A94/B126). This is to say that if an application of an a priori concept is to be successful then that concept must apply necessarily to its subject matter and must apply universally to all relevantly similar subject matter.
+The pure a priori concepts cannot draw on such a demonstration---what Kant calls an "empirical deduction"---for proof of their legitimacy. This is for two reasons. First, since they are a priori they cannot be derived from any particular experience (B2-3). Second, the content of the a priori concepts includes the notions of /universality/ and /necessity/ (A94/B126). This is to say that if an application of an a priori concept is to be successful then that concept must apply necessarily to its subject matter and must apply universally to all relevantly similar subject matter.
 
-So Kant faces a problem---viz. how is it that the categories are legitimately applied to objects of experience given their a priori status and necessary/universal content? But this question, as it stands, requires still sharper focus. We've seen what Kant means in his question concerning the /legitimacy/ of concepts in their application to the objects of experience. But what does Kant mean by "/experience/" [/Erfahrung/]?
+So Kant faces a problem---viz. how is it that the categories are legitimately applied to objects of experience given their a priori status and necessary/universal content? He cannot give an "empirical deduction" for such concepts since they are not abstracted from sense experiences. And his worry is plainly that since such concepts are not abstracted from sensory experience (indeed, any possible such experience) there is a problem in explaining how they could (necessarily and universally) apply to objects of experience.  
 
-[fn:42] See A85/B117, A262/B318; /JL/ §6 9:94-5; Locke EHU II.XII.9,
+[fn:46] See A85/B117, A262/B318; /JL/ §6 9:94-5; Locke EHU II.XII.9,
         II.XII.1; Hume THN I.I.7.2. The relation of Hume's position to
         Kant is in fact more complicated than this since Hume regards
         ideas as less forceful and lively /copies/ of impressions rather
@@ -6663,73 +6837,47 @@ So Kant faces a problem---viz. how is it that the categories are legitimately ap
         which most closely resemble Kant's understanding of concepts
         [/Begriffe/].
 
-[fn:43] This form of /empirical deduction/ would be insufficient for a priori concepts (A85-6/B118). So too would a demonstration of how rational beings were caused to possess the conceptual capacities in question. This would be a merely /physiological derivation/ (A86-7/B118-19).
-
-**** Experience & the Aims of the Deduction
-Our problem is that the notion of “experience," both in German and in English, is ambiguous and can mean any number of a variety of things---anything from the mere occurrence of sensation all the way to empirical judgment.[fn:44]
-
-For Kant, "experience" is a technical term that is closely related to /empirical cognition/ [/empirische Erkenntniss/]. He makes this clear at several points, both in the Deduction and elsewhere in the first /Critique/. However, in what exactly the relation between the two notions consists is somewhat problematic. For example, Kant says that
-
-#+BEGIN_QUOTE
-Such cognitions [i.e. those that are independent of any sense impression] are called /a priori/ cognitions; they are distinguished from empirical cognitions, /whose sources are a posteriori, namely, in experience/ [/Erfahrung/] (Introduction, B2; my emphasis).
-#+END_QUOTE
-
-Here we see Kant saying that the /source/ of empirical cognition is
-experience. However, Kant also quite explicitly /identifies/ empirical
-cognition with experience (or treats the terms synonymously).
-
-#+BEGIN_QUOTE
-Empirical cognition, however, is experience (B166).
-
-Experience is an empirical cognition, i.e., a cognition that determines an object through perceptions (A176/B218).
-
-Therefore experience itself -- i.e., empirical cognition of appearances -- is possible only inasmuch as we subject the succession of appearances, and hence all change, to the law of causality (A189/B234).
-
-it [the presentation "I am"] is not yet a cognition of that subject, and hence is also no empirical cognition -- i.e., experience -- of it (B277).
-#+END_QUOTE
-
-These passages seem to be univocal in their identification of experience with empirical cognition. But if they are synonymous notions then how could experience be the /source/ of empirical cognition, as is said in B2? Though one might be tempted to treat Kant's remark at B2 concerning the source of empirical cognition in experience as nothing more that a slip of the pen there is a way we might yet hold them distinct while still allowing that they might be intersubstitutable on most occasions. Cognition requires the connection of intuition and concept (B146). /Empirical/ cognition therefore /requires/ the connection of a /sensible/ intuition with a concept (B1, B146-7). But we need not infer that this empirical cognition is /identical/ with the connection of a sensible intuition with a concept.
-
-In §17 of the B-deduction Kant defines a cognition as consisting in the "determinate relation of given presentations to an object" (B137). What I want to suggest is that, for Kant, the determinacy of this relation is essentially /discursive/ determination, in the sense I have defined above. In cognition, a structural unity is imparted to a complex. In /empirical/ cognition structural unity is imparted to the contents of a sensory intuition -- 'appearances' [/Erscheinungen/] or 'undetermined objects' [/unbestimmte Gegestande/] (A20/B34).[fn:25] These appearances are /particulars/ (remember -- intuition is singular) of which we are immediately aware. Experience is a /source/ of empirical cognitions because Experience consists in the connection of discursively determined appearances. As Kant says in the /Prolegomena/,
-
-1. Experience consists in the synthetic connection of appearances
-   (perceptions) in a consciousness, insofar as this connection is
-   necessary (4:305).
-
-I think the easiest way to understand Kant's notion of Experience is to gloss it as the sensory presentation to consciousness of a state of affairs -- a particular's instantiating a universal -- e.g. /a/'s being /F/. This way we have a clear distinction between the intuited appearance (/qua/ undetermined object) which, as a pure particular, lacks the metaphysical structure of a state of affairs, and the Experienced object, or presentation of a state of affairs. Note that the claim that we have Experience -- sensory awareness of states of affairs -- is compatible with the claim that we have experience (in the non-Kantian sense) of particulars in intuition. We just don't have /Experience/ of such particulars.
-
-Kant's project in the first /Critique/ then is to explain how there could be /a priori/ cognitions -- i.e. discursive determinations of /a priori/ intuition. Kant's explication of the possibility of /a priori/ cognition will validate his claim that the categories, as /a priori/ concepts, nevertheless apply to objects. My interpretation suggests that this is accomplished by arguing that it is only through the discursive determination of intuition by the categories that complex unities such as states of affairs can appear to us. As Kant says,
-
-1. all empirical cognition of objects necessarily conforms to such concepts [i.e. the categories], because nothing is possible as object of experience unless these concepts are presupposed A93/B126).
-
-Kant's demonstration of the validity of the categories attempts to wind
-its way between two poles which Kant terms the /enthusiasm/ of Locke and
-the /skepticism/ of Hume (A94/B127). Locke's enthusiasm lay in the
-attempted derivation of all our concepts from the structure of
-appearances (whether we interpret these appearances as objects or merely
-as ideas). But this derivation was inconsistent with the conditions for
-the manifestation of appearances and led us to improperly apply our
-concepts beyond their sphere.
-
-In contrast, Hume's skepticism lay in his denial that the a priori
-concepts have any application whatsoever. Kant's third way argues that the
-structure of Experience and the structure of our concepts are
-interconnected. His strategy is to show that the structure of Experience
-and the structure of propositional judgment have a common root -- /viz/.
-the unifying activity of the Understanding/./ The Transcendental
-Deduction is thus an attempt "to try to find out whether we cannot
-provide for human reason safe passage between these two cliffs, assign
-to it determinate bounds, and yet keep open for it the entire realm of
-its appropriate activity" (A95/B128). How exactly Kant does this
-requires explication of the first step of the Deduction, to which we'll
-now turn.
-
-[fn:44] For a helpful discussion of different ways "experience" might be
-        interpreted see Van Cleve 1999, pp. 73-6.
+[fn:47] This form of /empirical deduction/ would be insufficient for a priori concepts (A85-6/B118). So too would a demonstration of how rational beings were caused to possess the conceptual capacities in question. This would be a merely /physiological derivation/ (A86-7/B118-19).
 
 **** The First Step (§§15-21)
 
 **** The Second Step (§§22-27)
+*** Deduction Notes
+**** Unity of Objects 
+1. Every object, as an object, possesses a principle of unity
+2. Cognition of an object requires the correct representation of its principle of unity
+3. We have cognition of objects
+4. \therefore C1: We are able to know (and in fact know of some object) that we correctly represent the PUs of objects (from 1-3)
+5. Either our cognitions must conform to objects or objects must conform to our cognition of them
+6. If our cognition must conform to objects then we can never know whether we have correctly represented their principles of unity
+7. \therefore C2: Objects, at least with respect to their principles of unity, must conform to our cognition of them (C1, 5, 6, MT)
+
+   
+- What is an "object"?
+  - An "object" for Kant is a unity of multiplicity
+- What is a principle of unity?
+  - A principle that explains the necessity of connection(s) between elements of a multiplicity (e.g. the real essence of a thing)
+- What is "conformity"? 
+
+**** The Deduction
+
+- The "Difficulty": :: The intuited given might not conform to the categories, even though it must conform to the "principles" of space and time (TD §13, A89-90/B122)
+
+
+***** §15 - The unity problem
+Section 15 states the unity problem and why it cannot be resolved via appeal to sensibility or its output
+
+***** §§16-18 Apperception
+These sections argue that unity can only be achieved by a being capable of self-consciousness, and that such self-consciousness would be /intellectual/ rather than /sensory/. 
+
+***** §19 Logical form
+The logical form of /judgment/ (as opposed to association) depends on the unifying activity of self-consciousness
+
+***** §20 Intuition
+Intuition of an object /as an object/ requires the generation of unity that is only possible via the self-conscious activity of the thinking subject 
+
+- Why isn't the Deduction done with §20?
+
 
 ** TODO The Schematism
 ** TODO Principles of Experience
@@ -6921,7 +7069,7 @@ against Hume's argument.
 #+HUGO_BASE_DIR: ./ 
 #+STARTUP: nologdone
 #+OPTIONS: H:4 author:nil date:nil
-#+OPTIONS: prop:t
+#+OPTIONS: prop:t preamble:nil
 #+PANDOC_METADATA: numbersections:t secnumdepth:4 
 #+PANDOC_METADATA: link-citations:t colorlinks:t toc:false 
 #+PANDOC_METADATA: "lhead:"
