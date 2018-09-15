@@ -17,6 +17,9 @@ _Critique of Pure Reason_ called the &ldquo;Metaphysical Deduction&rdquo;, in wh
 gives us an argument for determining which concepts are fundamental to
 metaphysics, and how they could be cognized a priori.
 
+-   [Handout 1](/materials/handouts/handout3-metaphysical-deduction.pdf)
+-   [Handout 2](/materials/handouts/handout3-1-deduction-overview.pdf)
+
 
 ## Readings {#readings}
 
