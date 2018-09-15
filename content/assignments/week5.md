@@ -31,7 +31,7 @@ Deduction, and consider the initial few sections in some detail.
 ## Questions {#questions}
 
 -   What is a &ldquo;deduction&rdquo; of the categories?
--   What special difficulty do the categories face that the intuitions of space and time did not?
+-   What special difficulty do the categories face that the intuitions of space and time and their related concepts did not?
 -   What is the aim of the Transcendental Deduction?
 -   Does the TD need to prove that external world skepticism is false if it is
     to succeed?
