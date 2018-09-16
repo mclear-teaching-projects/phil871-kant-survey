@@ -321,6 +321,14 @@ Enlarged*. New Haven: Yale University Press.
 
 </div>
 
+<div id="ref-allison2015">
+  <div></div>
+
+---------. 2015. *Kant's Transcendental Deduction: An
+Analytical-Historical Commentary*. New York: Oxford University Press.
+
+</div>
+
 <div id="ref-beck1978c">
   <div></div>
 
@@ -363,6 +371,14 @@ Background of the First Critique." In, edited by Eckart Förster, 29--46.
 
 </div>
 
+<div id="ref-howell1992">
+  <div></div>
+
+Howell, Robert. 1992. *Kant's Transcendental Deduction: An Analysis of
+Main Themes in His Critical Philosophy*. Dordrecht: Springer.
+
+</div>
+
 <div id="ref-kitcher2011">
   <div></div>
 
@@ -384,6 +400,14 @@ Princeton: Princeton University Press.
 
 Pereboom, Derk. 1995. "Self-Understanding in Kant's Transcendental
 Deduction." *Synthese* 103 (1): 1--42.
+
+</div>
+
+<div id="ref-pereboom2001a">
+  <div></div>
+
+---------. 2001. "Assessing Kant's Master Argument." *Kantian Review* 5:
+90--102.
 
 </div>
 
