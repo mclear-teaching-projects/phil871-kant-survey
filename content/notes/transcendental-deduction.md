@@ -367,7 +367,9 @@ Deduction." *The Review of Metaphysics* 22 (4): 640--59.
   <div></div>
 
 ---------. 1989. "Kant's Notion of a Deduction and the Methodological
-Background of the First Critique." In, edited by Eckart Förster, 29--46.
+Background of the First Critique." In *Kant's Transcendental Deductions:
+The Three Critiques and the Opus Postumum*, edited by Eckart Förster,
+29--46.
 
 </div>
 
