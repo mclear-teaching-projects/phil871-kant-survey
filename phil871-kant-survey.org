@@ -6204,7 +6204,7 @@ SCHEDULED: <2018-09-18 Tue>
 :PROPERTIES:
 :EXPORT_HUGO_TAGS: categories judgment self-consciousness intuition deduction
 :EXPORT_FILE_NAME: transcendental-deduction
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type post :nocite '(@longuenesse1998 @allison2004 @guyer2010-ch5 @pereboom1995 @pereboom2006 @kitcher2011 @allison2015 @howell1992 @pereboom2001a @henrich1969 @vancleve1999)
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type post :nocite '(@longuenesse1998 @allison2004 @guyer2010-ch5 @pereboom1995 @pereboom2006 @kitcher2011 @allison2015 @howell1992 @pereboom2001a @henrich1969 @vancleve1999 @ameriks1978)
 :END:
 
 **** The Problem with A Priori Concepts

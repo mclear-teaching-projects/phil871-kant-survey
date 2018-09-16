@@ -329,6 +329,14 @@ Analytical-Historical Commentary*. New York: Oxford University Press.
 
 </div>
 
+<div id="ref-ameriks1978">
+  <div></div>
+
+Ameriks, Karl. 1978. "Kants Transcendental Deduction as a Regressive
+Argument." *Kant-Studien* 69 (1-4): 273--87.
+
+</div>
+
 <div id="ref-beck1978c">
   <div></div>
 
