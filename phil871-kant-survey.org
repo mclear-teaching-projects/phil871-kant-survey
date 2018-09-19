@@ -1086,7 +1086,7 @@ stands in connection with it. (A6/B10)
 
 \setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in} \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
 
-** TODO Handout Week 5 The Transcendental Deduction I
+** DONE Handout Week 5 The Transcendental Deduction I
 :PROPERTIES:
 :EXPORT_TITLE: The Transcendental Deduction I
 :EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/handout4-deduction-I.pdf
@@ -1103,369 +1103,213 @@ stands in connection with it. (A6/B10)
 #+OPTIONS: ':t
 :END:
 
-*** Overview
-  :PROPERTIES:
-  :CUSTOM_ID: overview
-  :END:
-
-- The first step contains two arguments---viz. the "argument from above"
-  and the "argument from below"[fn:1]
-
-  - Both arguments aim to demonstrate the need for psychological
-    processing above and beyond that which is accounted for by
-    associationist theories
-  - Assuming the correctness of Kant's derivation of the categories from
-    the logical structure of judgment (cf. §10), the success of the
-    first step would demonstrate the necessity of categorial synthesis,
-    as opposed to association, in cognition
-
-- The the first step attempts to accomplish its aim by showing that the
-  conditions necessary for consciousness of the identity of oneself as
-  the subject of different self-attributions of mental states, are
-  identical with those necessary for grounding the possibility of
-  representing an object distinct from oneself, of which various
-  properties may be predicated.
-
-  - Kant thus denies the possibility of a self-conscious subject, who
-    can conceptualize and self-ascribe her representations, but whose
-    representations could not represent law-governed objects in space,
-    and thus the material world or 'nature'.
-
-- Argument Structure of the first step:
-
-  - §15: The problem of combination[fn:4]
-  - §16: The argument from above
-  - §§17-20: The argument from below
-
-*** The Problem of Combination (§15)
-  :PROPERTIES:
-  :CUSTOM_ID: the-problem-of-combination-15
-  :END:
-
-- What explains the possibility of complex representation, which is
-  required for representing an object?
-
-  - The senses present only properties, never the subject of
-    properties[fn:6][fn:7]
-  - The representation of a unitary complex depends on the
-    representation of the unitary act of combination
-
-- The representation of an object as a multiplicity of related
-  properties depends on the unitary consciousness of the subject
-  representing that multiplicity
-
-*** The Argument from Above (§16)
-  :PROPERTIES:
-  :CUSTOM_ID: the-argument-from-above-16
-  :END:
-
-- What resources are necessary to explain the fact that we have a
-  non-empirical awareness of our self-identity --- association or
-  synthesis?
-
-- Principle of the Necessary Unity of Apperception (PNUA): :: It must be
-  the case that each of my representations is such that I can attribute
-  it to my self, a subject which is the same for all of my
-  self-attributions, which is distinct from its representations, and
-  which is or can be conscious of its representations (A116, B131-2,
-  B134-5)
-
-#+BEGIN_HTML
-  <!-- 
-  1. It must be possible for the ‘I think’ to accompany all my representations
-  2. Empirical self-consciousness is ‘dispersed’ — representations succeed one
-     another but lack a common relation to one another
-  3. $\therefore$ There is a subject distinct from its representations,which
-     combines those representations in one consciousness—i.e. ‘synthesizes’
-     them—and attributes those representations to the self 
-  -->
-#+END_HTML
-
-1. I am conscious of the identity of myself as the subject of different
-   self- attributions of mental states.[fn:15]
-2. I am not directly conscious of the identity of this subject of
-   different self-attributions of mental states.[fn:10]
-3. If (1) and (2) are true, then this consciousness of identity is
-   accounted for indirectly by my consciousness of a particular kind of
-   unity of my mental states.
-4. $\therefore$ This consciousness of identity is accounted for
-   indirectly by my consciousness of a particular kind of unity of my
-   mental states. (1, 2, 3)
-5. If (4) is true, then my mental states indeed have this particular
-   kind of unity.
-6. This particular kind of unity of my mental states cannot be accounted
-   for by association. (5)[fn:8]
-7. If (6) is true, then this particular kind of unity of my mental
-   states is accounted for by synthesis by a priori
-   concepts. [fn:9][fn:12]
-8. $\therefore$ This particular kind of unity of my mental states is
-   accounted for by synthesis by a priori concepts. (6, 7)
-
-*** The Argument from Below (§§17-20)
-  :PROPERTIES:
-  :CUSTOM_ID: the-argument-from-below-17-20
-  :END:
-
-- What resources are necessary to explain the possibility of objectively
-  valid representation---viz. representation of entities whose existence
-  and nature is independent of their being represented?
-
-  - specifically, how do we account for our apparent representation of
-    characteristics of objects and events (or their relations) that are
-    universal and/or necessary when all of our awareness seems local and
-    contingent?
-
-9.  We have representations of objects, i.e., of objectively valid
-    phenomena.
-10. $\therefore$ All of our representations of objects are (in part) of
-    universal and necessary features of experience. (9)
-11. Necessary and universal features of experience cannot be explained
-    by association. (from reflection on the nature of
-    association)[fn:16]
-12. If (10) and (11) are true, all of our representations of objects
-    require a faculty for ordering mental states distinct from
-    association.\\
-13. $\therefore$ All of our representations of objects require a faculty
-    for ordering mental states distinct from association. (11, 12)
-14. If (13) is true, all of our representations of objects require a
-    faculty for synthesis by a priori concepts.
-15. $\therefore$ All of our representations of objects require a faculty
-    for synthesis by a priori concepts, the same faculty required to
-    account for my consciousness of the identity of myself as subject of
-    different self-attributions of mental states. (1-8, 13, 14)
-
-*** Van Cleve's Interpretation
-  :PROPERTIES:
-  :CUSTOM_ID: van-cleves-interpretation
-  :END:
-
-1. The *Unity* Premise: All representations of which I am conscious have
-   unity of apperception.
-
-   - every representation of which I am conscious (or perhaps more
-     strongly, every representation owned by me) is U-related to some
-     other representation.
-
-2. The *Synthesis* Premise: Representations can have such unity only if
-   they have been synthesized.
-3. The *Category* Premise: Synthesis requires the application of Kant's
-   categories.
-4. *Conclusion*:The categories apply to all representations of which I
-   am conscious.
-
-**** Van Cleve's Criticisms
-   :PROPERTIES:
-   :CUSTOM_ID: van-cleves-criticisms
-   :END:
-
-- Against Synthesis
-
-  - Kant is faced with a dilemma regarding the need for synthesis[fn:17]
-
-- Against the need for the categories
-
-  - why think that synthesis requires the categories?
-
-    1. synthesis either involves or is akin to judging
-    2. judging requires the application of categories[fn:20]
-
-  - why think that the categories are necessary for judgment?
-
-    - unity of the proposition problem
-
-  - why think that the necessity of the categories for judgment is
-    sufficient for demonstrating their /objective validity/?
-
-#+BEGIN_HTML
-  <!-- 
-  \newthought{§17---Objects as Unities}
-
-  1. All unification of representations demands a unity of consciousness in their synthesis
-  2. An object is a complex unity of representations[^182152]
-  3. $\therefore$ A unity of consciousness is necessary for the relation of representations to an object
-
-  [^182152]: The **understanding** is, to speak generally, the faculty of
-  **cognitions**. These consist in the determinate relation of given
-  representations to an object. But an **object** is that in the concept of which
-  the manifold of a given intuition is united. (B137)
-
-  \newthought{§18---Necessity and Universality}
-
-  1. Experience contains representation of objective simultaneity and succession
-  2. Representation of objective simultaneity and succession requires representation of universality and necessity
-  3. The empirical unity of consciousness generated by association cannot explain the possiblity of such representation[^182341]
-  4. $\therefore$ Associationism is false
-
-  [^182341]: Whether I can become **empirically** conscious of the manifold as
-  simultaneous or successive depends on the circumstances, or empirical
-  conditions. Hence the empirical unity of consciousness, through association of
-  the representations, itself concerns an appearance, and is entirely contingent...One person combines the representation of a certain word with one thing, another with something else; and the unity of consciousness in that which is empirical is not, with regard to that which is given, necessarily and universally valid. (B140)
-
-
-  \newthought{§19---Judgment \& Synthesis}
-
-  1. We distinguish between mere subjective association of concepts and objective judgment
-  2. Objective judgment involves a relation between two concepts that transcends particular contingent facts concerning their relation by a particular subject[^182718]
-  3. This distinction cannot be accounted for by a merely associationist account of the mind
-  4. $\therefore$ Only synthesis explain the objective status of judgment[^139]
-
-  [^139]: a judgment is nothing other than the way to bring given cognitions to the objective unity of apperception (B141)
-
-  [^182718]: In accordance with the [laws of association] I could only say "If I carry a body, I feel a pressure of weight," but not "It, the body, is heavy," which would be to say that these two representations are combined in the object, i.e., regardless of any difference in the condition of the subject, and are not merely found together in perception (however often as that might be repeated).
-
-  \newthought{§20---Intuition \& Synthesis}
-
-  1. Intuition of an *object* requires a unified 'manifold'
-  2. The unity of a manifold is brought about by the unity of apperception
-  3. The unity of apperception brings about the unity of a manifold via an act of judgment in accordance with one of the logical forms
-  4. The categories are the rules of combination by which each of the logical functions of judgment is carried out
-  5. $\therefore$ Any intuition of an object must conform to the categories
-
-  # Van Cleve's Interpretation #
-
-  1. The **Unity** Premise: All representations of which I am conscious have
-     unity of apperception.
-      - every representation of which I am conscious (or perhaps more strongly,
-       every representation owned by me) is U-related to some other
-       representation.
-  2. The **Synthesis** Premise: Representations can have such unity only if they
-     have been synthesized.
-  3. The **Category** Premise: Synthesis requires the application of Kant's
-     categories.
-  4. **Conclusion**:The categories apply to all representations of which I am
-     conscious.
-
-  -->
-#+END_HTML
-
-#+BEGIN_HTML
-  <!-- # Deriving Intentionality
-
-  Sensationism:
-  :   The foundation of empirical knowledge is constituted by non-intentional, conscious, sensory states out of which are constructed mental states that refer to objects[^149]
-
-  [^149]: This, then, is the central thesis of sensationism: that there are
-  non-intentional mental states in which no object, other than the state
-  itself, is present to the mind, and that they are the foundations of
-  empirical knowledge. (@george1981, 230)
-
-  ## Kant's Sensationism
-
-  - Non-synthesized mental states are not intentional/referential
-  - Referential states are constructions from non-referential sensations and mental acts of judgment[^169]
-  - Spatial representation is a construction from non-spatial sensation[^159]
-      - Outer intuition is concept-dependent[^179]
-  - Suggests that *Erkenntnis* is best interpreted as "referential thought" rather than "knowledge"
-
-  [^159]: It is evident that Kant took the spatial and extended nature
-  of objects to be the result of an interpretation placed upon certain
-  sequences of sensations, which are themselves without extension.
-  (@george1981, 240)
-
-  [^169]: Initially only the succession of sensation is present, and we
-  may speak of a generation of the spatial features of objects by putting
-  the sensations in relation to each other, setting them "outside and
-  alongside each other, and referring them to something outside me" as
-  Kant puts it at the beginning of the Transcendental Aesthetic. The
-  aggregation and coordination of sensory impressions produce objects,
-  reference...(@george1981, 240)
-
-  [^179]: intuitions do not refer to objects, indeed they are not properly
-  speaking intuitions, if they are not combined with concepts, and
-  this can occur only in the context of a judgment: "Only if they (the
-  understanding and the senses, i.e. intuitions and concepts) are united
-  can reference result." (@george1981, 243)
-   -->
-#+END_HTML
-
-*** References
-  :PROPERTIES:
-  :CUSTOM_ID: references
-  :CLASS: unnumbered
-  :END:
-
-\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
-\setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
-
-#+BEGIN_HTML
-  <!-- -->
-#+END_HTML
-
-[fn:1] Now we will set the necessary connection of the understanding
-       with the appearances by means of the categories before our eyes
-       by beginning from beneath, namely with what is empirical. The
-       first thing that is given to us is appearance, which, if it is
-       combined with consciousness, is called perception (A 119)
-
-[fn:4] What is an object? That whose representation is a sum of several
-       predicates belonging to it. The plate is round, warm, made of
-       tin, etc. Warm, round, being made of tin, etc., are not objects,
-       although the warm [thing], the tin [thing], etc., indeed [are].
-       An object is that in the representation of which various others
-       can be thought as synthetically combined... (R6350, 18:676)
-
-[fn:5] our specific ideas of substances are nothing else but a
-       collection of a certain number of simple ideas, considered as
-       united in one thing. These ideas of substances, though they are
-       commonly simple apprehensions, and the names of them simple
-       terms, yet in effect are complex and compounded. (@locke1970,
-       I.xxiii.14)
-
-[fn:6] we certainly do not know what is the substance of any thing. We
-       see only the shapes and colors of bodies, we hear only their
-       sounds, we touch only their external surfaces, we smell only
-       their odors, and we taste their flavors. But there is no direct
-       sense and there are no indirect reflected actions by which we
-       know innermost substances (@newton2004, 91)
-
-[fn:7] The I think must be able to accompany all my representations; for
-       otherwise something would be represented in me that could not be
-       thought at all, which is as much as to say that the
-       representation would either be impossible or else at least would
-       be nothing for me. (B131-2)
-
-[fn:8] the empirical consciousness, which accompanies different
-       representations, is dispersed and without relation to the
-       identity of the subject (B 133)
-
-[fn:9] only because I can comprehend their manifold in a consciousness
-       do I call them all together *my* representations; for otherwise I
-       would have as multicolored, diverse a self as I have
-       representations of which I am conscious. (B134)
-
-[fn:10] The *understanding* is, to speak generally, the faculty of
-       *cognitions*. These consist in the determinate relation of given
-       representations to an object. But an *object* is that in the
-       concept of which the manifold of a given intuition is united.
-       (B137)
-
-[fn:11] since every [conceptual] division presupposes a concept that is
-       to be divided, a still higher one must be given, and this is the
-       concept of an object in general (taken problematically, leaving
-       undecided whether it is something or nothing). Since the
-       categories are the only concepts that relate to objects in
-       general, the distinction of whether an object is something or
-       nothing must proceed in accordance with the order and guidance of
-       the categories (A290/B346)
-
-[fn:12] In accordance with the [laws of association] I could only say
-        "If I carry a body, I feel a pressure of weight," but not "It,
-        the body, is heavy," which would be to say that these two
-        representations are combined in the object, i.e., regardless of
-        any difference in the condition of the subject, and are not
-        merely found together in perception (however often as that might
-        be repeated). (B142)
-
-[fn:16] The nub of Kant's case for (ii) is that unless it were true,
-        judging could not be distinguished from the mere association of
-        ideas. If I think of redness on an occasion when I am thinking
-        of apples, I do not thereby make any judgment; a judgment comes
-        about only insofar as I bind the associated concepts together,
-        for example, into the judgment 'some apples are red'. Kant
-        thinks that the categories are precisely those concepts that are
-        needed to bind other concepts together into judgments.
-        (@van-cleve1999, 88)
-
+*** What is a "Transcendental Deduction"?
+- The "transcendental" nature of the argument is due to its role in explaining the conditions of the possibility of experience. 
+  - In contemporary philosophy, transcendental arguments are often characterized as arguments that begin from obvious or uncontroversial premises and argue to a conclusion understood as a necessary condition for the possibility of the truth of those premises
+- Kant's use of '/Deduktion/' redeploys German legal vocabulary; in Holy Roman Empire Law, 'Deduktion' signifies an argument intended to yield a historical justification for the legitimacy of a property claim\sidenote[][]{Jurists, when they speak of entitlements and claims, distinguish in a legal matter between the questions about what is lawfuld (\emph{quid juris}) and that which concerns the fact (\emph{quid facti}), and since they demand proof of both, they call the first, that which is to establish the entitlement or the legal claim, the \textbf{deduction}. (B116)}
+  - In Kant's usage a deduction is an argument that aims to justify the use of a concept, one that demonstrates that the concept correctly applies to objects
+
+*** The Problem of the Deduction
+- Kant aims to show that the categories, which are the logical functions of judgment in relation to given objects (i.e. to given /intuitions/ of objects), legitimately apply to such objects. Why might they not apply?
+  1. A priori concepts are not derived from any experience of empirical objects, so it is not obvious why such concepts would apply to empirical objects
+  2. Unlike the /forms/ of intuition, the categories are /not/ conditions under which something is given to consciousness via intuition\sidenote[][]{The categories of the understanding, on the contrary, do not represent to us the conditions under which objects are given in intuition at all, hence objects can indeed appear to us without necessarily having to be related to functions of the understanding, and therefore without the understanding containing their \emph{a priori} conditions. Thus a difficulty is revealed here that we did not encounter in the field of sensibility, namely how \textbf{subjective conditions of thinking} should have \textbf{objective validity}, i.e., yield conditions of the possibility of all cognition of objects; for appearances can certainly be given in intuition without functions of the understanding. (A89-90/B122}
+- *Q_1*: If the categories are not conditions of being given something in intuition, then what are they conditions of? 
+- *A_1*: The categories are conditions of our /cognition/ of objects
+  - Cognition requires the determinate representation of an object
+  - The categories (in combination with intuition) are responsible for this determinacy
+
+*** What is Presupposed by the Deduction?
+- *Q_2*: Is the presumption of cognition a reasonable starting point for the argument of the TD?
+- *A_2*: At this point Kant need not assume that we /have/ cognition, only that /if/ we have cognition, /then/ such cognition relies on the categories. In step two, Kant argues that we have a priori cognition of space and time as objects of pure mathematics, and that this is only possible given the categories
+- *Q_3*: What's the relation between cognition and experience?
+  
+**** Grades of 'Experience'
+
+- Kant's usage of 'experience' [/Erfahrung/] is ambiguous throughout his
+  work\sidenote[][]{In the first paragraph of the introduction to the work,
+  Kant uses 'experience' in two different senses without calling the reader's
+  attention to the fact. The experience with which all our knowledge is said
+  to begin is "the raw material of the sensible impressions"; experience in
+  this sense is then said to be worked up by the understanding into "that
+  knowledge of objects which is entitled experience" (Bl). The same ambiguity
+  runs throughout the work. (Van Cleve 1999, 73)}\sidenote[][]{Empirical
+  cognition, however, is experience (B166). Experience is an empirical
+  cognition, i.e., a cognition that determines an object through perceptions
+  (A176/B218). Therefore experience itself -- i.e., empirical cognition of
+  appearances -- is possible only in as much as we subject the succession of
+  appearances, and hence all change, to the law of causality (A189/B234).}
+  - (e1) having sensations
+  - (e2) having sensations and being conscious of them
+  - (e3) having intuitions
+  - (e4) having intuitions and conceptualizing them (bringing them under
+    concepts)
+  - (e5) having intuitions and conceptualizing them by means of
+    physical-object concepts
+  - (e6) having intuitions and conceptualizing them as mine
+  - (e7) having intuitions and making judgments about them
+  - (e8) having intuitions and knowing propositions about them
+
+
+*** The Structure of the Deduction
+
+- Transition (§§13-14)
+- The problem of combination (§15)
+- The first step (§§16-20)
+- The second step (§§21-26)
+
+**** Transition to the Deduction
+
+- §13 On The Principles Of A Transcendental Deduction As Such
+
+  - Discussion of a need for a transcendental as opposed to a merely
+    empirical deduction.
+  - This is based on the fact that an empirical deduction is unavailable
+    due to two reasons -- viz.
+
+    1) the a priori nature of the categories
+    2) their semantic content includes notions of necessity and
+       universality (A91-2/B124)
+
+- §14 Transition To The Transcendental Deduction Of The Categories
+
+  - Discussion of the nature of empirical cognition as a complex of
+    intuition and concept (A92-3/B125)
+  - The categories are a necessary condition for the empirical cognition
+    of objects -- i.e. are necessary conditions for occurrence of
+    thought about objects (of experience) (A93/B125-6)
+
+**** The Structure of the First Step (§§15-20)
+
+- The primary goal of the first step is to demonstrate the truth of a
+  conditional claim---viz. if there is cognition then the categories
+  must play a role in its generation
+  - §15 On the possibility of a combination in general
+  - §16 On the original synthetic unity of apperception
+  - §17 The principle of the synthetic unity of apperception is the
+    supreme principle for all use of the understanding
+  - §18 What objective unity of self-consciousness is
+  - §19 The logical form of all judgments consists in the objective
+    unity of apperception of the concepts contained in them
+  - §20 All sensible intuitions are subject to the categories, which are
+    conditions under which alone their manifold can come together in one
+    consciousness
+
+*** The First Step of the Deduction
+**** §15---The Problem of Combination 
+
+- §15 On the possibility of a combination as such
+  - Sets up a problem (the problem of combination)
+  - Explains that a "unity" is necessary for the resolution of that
+    problem
+    - What does Kant mean by 'combination' [/Verbindung/]\sidenote[][-4.5in]{All
+      combination (\emph{conjunctio}) is either composition
+      (\emph{compositio}) or connection (\emph{nexus}). The former is the
+      synthesis of a manifold of what does not necessarily belong to each
+      other...The second combination (nexus) is the synthesis of that which is
+      manifold insofar as they necessarily belong to one
+      another...(B201-2)}
+    - Why can't combination be given in intuition?\sidenote[][-3.5in]{the combination
+      (\emph{conjunctio}) of a manifold in general can never come to us through the
+      senses, and therefore cannot already be contained in the pure form of
+      sensible intuition; for it is an act of the spontaneity of the power of
+      representation, and, since one must call the latter understanding, in
+      distinction from sensibility, all combination, whether we are conscious
+      of it or not, whether it is a combination of the manifold of intuition
+      or of several concepts, and in the first case either of sensible or
+      non-sensible intuition, is an action of the understanding, which we
+      would designate with the general title \textbf{synthesis} in order at the same
+      time to draw attention to the fact that we can represent nothing as
+      combined in the object without having previously combined it ourselves,
+      and that among all representations \textbf{combination} is the only one that is
+      not given through objects but can be executed only by the subject
+      itself, since it is an act of its self-activity. (B129-30)}
+    - What is the connection of the categories with combination?\sidenote[][-.5in]{Now
+      the representation of a composite, as such, is not a mere intuition, but
+      requires the concept of a compounding, so far as it is applied to the
+      intuition in space and time. So this concept (along with that of its
+      opposite, the simple) is one that is not abstracted from intuitions, as
+      a part-representation contained in them, but is a basic concept, and a
+      priori at that -- in the end the sole basic concept a priori, which is
+      the original foundation in the understanding for all concepts of
+      sensible objects. There will thus be as many a priori concepts resident
+      in the understanding, to which objects given to the senses must be
+      subordinated, as there are types of compounding (\emph{synthesis}) with
+      consciousness, i.e., as there are types of synthetic unity of
+      apperception of the manifold given in intuition. (\emph{Progress},
+      20:271)}
+
+
+
+\newpage
+**** §16---The Original Synthetic Unity of Apperception
+
+\newthought{Thinkability \& Mineness}
+
+1. A representation is /thinkable/ if and only if it is /self-consciously/ thinkable\sidenote[][]{The \textbf{I think} must \textbf{be able} to accompany all my representations; for otherwise something would be represented in me that could not be thought at all, which is as much as to say that the representation would either be impossible or else at least would be nothing to me. (B131–2)}
+2. A representation counts as /mine/ if, and only if, it is self-consciously thinkable
+3. $\therefore$ All my representations must be thinkable
+
+
+\newthought{Self-Consciousness \& Numerical Identity}
+
+1. If a representation is /mine/, then I must be able to represent myself as numerically identical\sidenote[][]{the representation \textbf{I think}, which must be able to accompany all others and which in all consciousness is one and the same (B132)}
+2. The representation of my self-identity itself depends on my ability to combine representations in a single consciousness\sidenote[][]{it is only because I can combine a manifold of given representations \textbf{in one consciousness} that it is possible for me to represent the \textbf{identity of the consciousness in these representations} itself, i.e., the \textbf{analytical} unity of apperception is only possible under the presupposition of some \textbf{synthetic} one. (B133-4)}
+3. $\therefore$ Insofar as I represent /myself/ (i.e. am conscious of my identity), I must possess the capacity to synthesize or combine representations in one consciousness
+
+
+
+- Apperception: :: self-consciousness, or consciousness of one's representations
+- Original Apperception: :: the fundamental productive power of self-consciousness\sidenote[][]{that self consciousness which, because it produces the representation \textbf{I think}, which must be able to accompany all others and which in all consciousness is one and the same, cannot be derived from any other (B132)}
+  - Note that this means the "I think" is not to be identified with original apperception, but is rather its /product/
+- Transcendental Apperception: :: the unity of self-consciousness upon which cognition or experience depends\sidenote[][]{I also call its unity the \textbf{transcendental} unity of self-consciousness in order to designate the possibility of a priori cognition from it. (B132)}
+
+
+**** §17---Relation to an Object/Objects as Unities
+
+1. All unification of representations demands a unity of consciousness in their synthesis
+2. The representation of an object is a unity of representations\sidenote[][]{The \textbf{understanding} is, to speak generally, the faculty of \textbf{cognitions}. These consist in the determinate relation of given representations to an object. But an \textbf{object} is that in the concept of which the manifold of a given intuition is united. (B137)}\sidenote[][]{What is an object? That whose representation is a sum of several predicates belonging to it. The plate is round, warm, made of tin, etc. Warm, round, being made of tin, etc., are not objects, although the warm [thing], the tin [thing], etc., indeed [are]. An object is that in the representation of which various others can be thought as synthetically combined… (R6350, 18:676)}
+3. $\therefore$ A unity of consciousness is necessary for the relation of representations to an object (or more simply, for the representation of an "object" in Kant's sense)
+
+
+\newpage
+**** §18---Necessity and Universality
+
+1. Experience contains representation of objective simultaneity and succession
+2. Representation of objective simultaneity and succession requires representation of universality and necessity
+3. The empirical unity of consciousness generated by association cannot explain the possibility of such representation\sidenote[][]{Whether I can become \textbf{empirically} conscious of the manifold as simultaneous or successive depends on the circumstances, or empirical conditions. Hence the empirical unity of consciousness, through association of the representations, itself concerns an appearance, and is entirely contingent\ldots{}One person combines the representation of a certain word with one thing, another with something else; and the unity of consciousness in that which is empirical is not, with regard to that which is given, necessarily and universally valid. (B140)}
+4. $\therefore$ Associationism is insufficient for explaining representation involving necessity and universality
+
+
+**** §19---Judgment & Synthesis
+
+1. We distinguish between mere subjective association of concepts and objective judgment
+2. Objective judgment involves a relation between two concepts that transcends particular contingent facts concerning their relation by a particular subject\sidenote[][]{In accordance with the {[}laws of association{]} I could only say "If I carry a body, I feel a pressure of weight," but not "It, the body, is heavy," which would be to say that these two representations are combined in the object, i.e., regardless of any difference in the condition of the subject, and are not merely found together in perception (however often as that might be repeated).}
+3. This distinction cannot be accounted for by a merely associationist account of the mind
+4. There are no other plausible explanations besides associationism and the synthesis theory
+5. $\therefore$ Only synthesis explain the objective status of judgment\sidenote[][]{a judgment is nothing other than the way to bring given cognitions to the objective unity of apperception (B141)}
+
+   
+**** §20---Intuition & Synthesis
+
+1. Intuition of an /object/ requires a unified 'manifold'
+2. The unity of a manifold is brought about by the unity of apperception
+3. The unity of apperception brings about the unity of a manifold via an act of judgment in accordance with one of the logical forms
+4. The categories are the rules of combination by which each of the logical functions of judgment is carried out with respect to intuition
+5. $\therefore$ Any intuition of an object must conform to the categories
+
+   
+- *Q_4*: Why doesn't the Deduction end here?
+- *A_4*: There are two remaining issues
+  1. We haven't yet seen that there is "experience" or cognition of objects
+  2. There are important negative aspects of the view that Kant seeks to explain
+
+*** References & Further Reading
+:PROPERTIES:
+:UNNUMBERED:
+:END:
+#+nocite: @howell1992; @pereboom1995; @pereboom2006; @pereboom2009; @ameriks1978; @griffith2012; @guyer1987; @henrich1969; @laywine2003; @pereboom2001; @vancleve1999; @allison2015
+
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in} \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
 
 ** TODO Handout Week 6 The Transcendental Deduction II
 *** Overview
@@ -4091,29 +3935,29 @@ straightforwardly hypothetical
 |----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------+---|
 | Student              | wk2 | wk 4 | wk5 | wk6 | wk7 | wk8 | wk9 | wk10 | wk11 | wk12 | wk13 | wk14 | wk15 | wk16 |   |
 |----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------+---|
-| Steve Byerly         | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |   |
-| Vy Doan              | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |   |
-| Cale  Harms          | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |   |
-| Samuel Hobbs         | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |   |
-| Tate Kollar          | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |   |
-| Antony Larrick       | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |   |
-| Isabel Reynolds      | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |   |
-| Jeffrey Schade       | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |   |
+| Steve Byerly         | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |   |
+| Vy Doan              | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |   |
+| Cale  Harms          | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |   |
+| Samuel Hobbs         | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |   |
+| Tate Kollar          | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |   |
+| Antony Larrick       | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |   |
+| Isabel Reynolds      | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |   |
+| Jeffrey Schade       | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |   |
 | Lauren Sweetland     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |   |
 | Ryan Turner          |     |      |     |     |     |     |     |      |      |      |      |      |      |      |   |
-| Zachariah Wrublewski | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |   |
+| Zachariah Wrublewski | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |   |
 |----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------+---|
 
 ** Precís
 |----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
 | Student              | wk2 | wk 4 | wk5 | wk6 | wk7 | wk8 | wk9 | wk10 | wk11 | wk12 | wk13 | wk14 | wk15 | wk16 |
 |----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
-| Steve Byerly         | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
+| Steve Byerly         | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |
 | Vy Doan              | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
 | Cale  Harms          | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
 | Samuel Hobbs         | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
 | Tate Kollar          | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
-| Antony Larrick       | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
+| Antony Larrick       | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |
 | Isabel Reynolds      | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
 | Jeffrey Schade       | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
 | Lauren Sweetland     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
@@ -4583,9 +4427,11 @@ Deduction, and consider the initial few sections in some detail.
 - What might the first step of the TD argue?
 - What is the "original synthetic unity of apperception" and why is it important?
 
-*** DRAFT Week 6 - The Transcendental Deduction II
+*** DONE Week 6 - The Transcendental Deduction II
+SCHEDULED: <2018-09-25 Tue>
 :PROPERTIES:
 :EXPORT_FILE_NAME: week6
+:EXPORT_HUGO_TAGS: "a priori" categories concepts deduction idealism imagination intellectualism judgment sensibilism 
 :END:
 
 This week we continue our discussion of the Deduction by looking at the
@@ -4597,12 +4443,20 @@ activity of the intellect.
 - CPR: The Transcendental Deduction, B129-69 (Guyer & Wood, 245-66)
   * During this class we'll focus primarily on the 'second step' of the
     argument, §§21-26
-    
+- Optional: Allison, "[[https://www.dropbox.com/s/9w2v6nhvt7gffym/allison2015-ch9_The_B-Deduction_%25282%2529.pdf?dl=0][The B-Deduction (2)]]"
+- Optional: Griffith, "[[https://www.dropbox.com/s/l6okifo2x22ggcj/griffith2012_perception_and_the_categories.pdf?dl=0][Perception and the Categories]]"   
+- Optional: Gomes, "[[https://www.dropbox.com/s/lfyuc8bi2eb3ksf/gomes2014_kant_on_perception.pdf?dl=0][Kant on Perception: Naïve Realism, Non-Conceptualism and the B-Deduction]]"
+- Optional: McLear, "[[https://www.dropbox.com/s/l6qfjynx7r6tfes/mclear2015_two_kinds_of_unity_in_the_icritique_of_pure_reason-i.pdf?dl=0][Two Kinds of Unity in the /Critique of Pure Reason]]/"
+- Optional: Sellars, "[[https://www.dropbox.com/s/uhsl32kpryu25sn/sellars2003_the_role_of_the_imagination_in_kant%2527s_theory_of_experience.pdf?dl=0][The Role of the Imagination in Kant's Theory of Experience]]"
+
 **** Questions
 - What is the difference between "figurative" and "intellectual" synthesis?
+- What is the imagination and what role does it play in cognition?
 - What is "self-affection"?
 - What is the "paradox" of inner sense?
-- In what sense might intuition depend on the intellect?
+- How might intuition depend on the understanding/intellect given the argument of §26?
+  
+  
 
 *** DRAFT Week 7 - The Deduction & Transition to the Principles
 :PROPERTIES:
@@ -6661,18 +6515,141 @@ I cannot presuppose that in every such being thinking and intuiting, hence the p
 This is definitely worth talking about more in class. 
 ** Responses Week 5
 
-*** Edward Acuna Quintana
 *** Steve Byerly
+#+BEGIN_QUOTE
+I still have a concern: Behind all this, I worry about how Kant seems to assume that “representations that make up experience are objectively valid”
+#+END_QUOTE
+
+Kant's project is in some ways conservative. It is certainly not skeptically motivated. He thinks we have empirical cognition, and ultimately knowledge, in a variety of areas, but especially physics and mathematics. This is part of how we are able to draw such a stark contrast with the sorry state of metaphysics. Kant wants an explanation of how such cognitions or "experience" is possible. He's not questioning that we have such experience---he wants to know how it is possible for us to have it.
+
+
+#+BEGIN_QUOTE
+I remain concerned that there are some deep assumptions that affect the overall import of Kant’s work; namely, despite the effort to immunize us from the impurities from experience, how can we accomplish this if such a basic thing such as the validity of our objectivity, and their characteristic necessity and universality are simply assumed (at least regarding representations)?
+#+END_QUOTE
+
+It is necessary that red things are colored, that (in Euclidean geometry) two lines do not enclose a space, and that bodies are extended. Not only are these things necessary, but they are knowable so. What explains this?
+
+Now, one might argue that we cannot know such truths until we have proved that we are not in a situation involving radical deception (e.g. Descartes's evil demon scenario). But this is controversial, to say the least. It might even be more controversial than claims like the kind mentioned above, which Kant seeks to explain (G.E. Moore, for example, thought this). 
+
+Interestingly though, German philosophy subsequent to Kant took seriously the view that no genuine explanation of the possibility of cognition and knowledge in the cases with which Kant was concerned would be forthcoming without also being able to answer the skeptic. German idealists like Reinhold, Fichte, Schelling, and Hegel (Hegel perhaps being the most concerned with skepticism) all tried to show how Kant's philosophy could be modified in ways that made it immune to skeptical worries. A good (if somewhat controversial) account of this is in Paul Franks' book /All or Nothing/. 
+
+
 *** Vy Doan
+#+BEGIN_QUOTE
+One condition for cognition Kant talked about on page 252 is necessary unity. Necessary unity of the judgement isn’t that the two objects belong to each other in some way in the physical sense but that one is necessary in the cognition of the other. The problem with this is that it’s hard to know if one object is necessary to understand another or is it merely coincidental or correlational. 
+#+END_QUOTE
+
+There are a number of things going on the §19 passage you mention, and it isn't really clear all of the different ways in which Kant is thinking of "necessary unity." Let me try two though, and see if that helps. 
+
+First, Kant simply assumes that there are some judgments that are true necessarily. He has in mind here judgments like "if x is red then x is colored" or "if x is a body then x is extended." Part of what §19 seeks to show is that association simply cannot account for this. All association can say is that whenever subjects have representations like "body" then those representations are associated with the representation "extended". But that doesn't capture what we pre-theoretically take to be the case---viz. that bodies /must/ be extended, otherwise they aren't bodies. 
+
+A second thing, and related to the first, that Kant is trying to claim is that the /explanation/ of how this necessary connection between subject and predicate in a judgment could come about. They come about due to the "the necessary unity of the apperception" (B142). In other words, the concepts are related together in the way that they are because there is a self-conscious act that makes them so related.
+
+Kant goes on to say that,
+
+#+BEGIN_QUOTE
+Only in this way does there arise from this relatione a *judgment*, i.e., a relation that is *objectively valid*, and that is sufficiently distinguished from the relation of these same representations in which there would be only subjective validity, e.g., in accordance with laws of association. (B142)
+#+END_QUOTE
+
+His point is that if we had only the materials offered by an associationist theory, we could never get beyond the purely subjective connections made by individual subjects. For example, you might associate the idea of body with heaviness, while I associate it with lightness. We're not even disagreeing here, since all that is being done is association. There isn't any /claim/ being made as to how things are independently of our subjective associations. Kant's position is that such claims to how things are independently of a particular subject's psychology---claims to objectivity---are only possible if there is something other than mere association happening. 
+
+Now, you note a perfectly important issue---it isn't always easy to tell correlation apart from coincidence. True, but Kant would agree. But the issue he's after is a principled one---how could we ever make objective claims, claims going beyond our subjective associations, if associationism captured the extent of our psychology? 
+ 
+
 *** Cale Harms
+#+BEGIN_QUOTE
+Part of me wants to question that we have such a unity or make the remark that such unity may just be partly produced by our mind. One prime example comes to mind of watching and hear a ball bounce. While the person bouncing the ball is close enough, when the ball hits the ground we hear the sound of the ball hitting the ground, but if the person bouncing the ball is far away we see the ball hit the ground and then hear a delayed sound.
+#+END_QUOTE
+
+Good question -- one thing that many of the readers of the Deduction note is that Kant's discussion of "unity" of representation of objects sounds a lot like a phenomenon cognitive scientists have been trying to explain for many years. This phenomenon typically goes by the name of "binding", where the idea is that our minds are capable of connecting or "binding" together information from different sense modalites as all stemming from /one/ object. Even in your (counter)example above, the experiencing subject presumably still experiences the sound, however delayed, as the sound /of the ball/. How is this possible? At least some folks have interpreted Kant as arguing that the senses themselves don't determine an answer to this -- instead there is something the mind /does/ to integrate the various information streams coming from each sense modality into a single unified experience of a particular object; in your example, a bouncing ball. 
+
 *** Samuel Hobbs
+#+BEGIN_QUOTE
+It seems to me that representation as such requires the unity of consciousness. 
+#+END_QUOTE
+
+This is often how Kant is taken as arguing (so that the argument of the TD is an argument concerning the possibility of purely subjective mental states counting as representations of something non-subjective) but I'm skeptical. One of the main reasons for my skepticism is that Kant holds that non-rational animals (i.e. non-human animals) lack an intellect. So they would be incapable of performing the activities requisite for generating a "unity of consciousness." However, Kant does /not/ deny that such animals have representations, and he is reported as allowing that they might have intuitions of objects. If Kant thought that representation relied on combinations made by the intellect then this is a possibility he should have denied to animals. We should talk about this tomorrow. 
+
+#+BEGIN_QUOTE
+one way to understand conceptual analysis is as being a set of dispositions to judge and make inferences. One way that this is “cashed out” (to use a colleague’s favored expression) is that conceptual analysis captures one’s dispositions to judge and make inference by providing a maximally consistent set of platitudes (concerning the relevant area)...This view seems to me to be one where analysis /precedes/ synthesis.
+#+END_QUOTE 
+
+This "Canberra style" view of conceptual analysis may well capture part of Kant's idea. But, if I'm understanding the position correctly, there also seems to be a clear analogue of Kant's claim that all analysis depends on a synthesis. For how could we get the armchair analysis going if we didn't already have a view of the "set of dispositions", and their corresponding platitudes, with which we were concerned? Kant's view is that the analysis of one into many depends on an "original" act of bringing many into one. It isn't clear to me that the view transfers as easily to mere dispositions as it does to consciousness of representations but this is also worth talking about. 
+
+#+BEGIN_QUOTE
+Kant claims that the unity which is represented in the combination of representation in synthesis is represented in the combination but is not brought about by the combination, if I understand him correctly. The unity is brought about through the used categories in combination???
+#+END_QUOTE
+
+Kant thinks that an act of unifying representations is presupposed both by our representation of objects through a "manifold" of intuition, /and/ in our representation of ourselves as numerically identical across our thoughts (it is the /same/ 'I think' that can accompany all representation). This /act/ is called the "original synthetic unity of apperception". That act is also responsible for a representation---the "I think"---that must be able to accompany all represenations that count as /mine/. Kant doesn't always distinguish the two, i.e. he doesn't always distinguish between the /power/ or /capacity/ of original apperception and the /representation/---the "I think"---that is the expression of that power.  But he does clearly do so in the following passage:
+
+#+BEGIN_QUOTE
+“that self consciousness which, because it produces the representation *I think*, which must be able to accompany all others and which in all consciousness is one and the same, cannot be derived from any other” (B132)
+#+END_QUOTE
+
+Note the emphasis on the /production/ of the "I think."
+
 *** Tate Kollar
+#+BEGIN_QUOTE
+Kant also says that analytical unity is only possible under the presupposition of some synthetic one. I think this means that he is presupposing an actual material world
+#+END_QUOTE
+
+Kant's usage of "analytic" and "synthetic" and related terms is tricky. Kant thinks of an analytical unity as the unity of one in many. Synthetic unity is the unity of many in one. Kant construes concepts as analytic unities (a single concept representing many possible objects that have the property represented by the concept -- e.g. <red> -- see the note at B133-4). Kant's point at B133-4 is that there is no analytic unity, no unity of one representation in many, unless there is a synthesis that brings this about -- i.e. an act of bringing many representations into one. With respect to the particular point Kant makes about self-consciousness let's look at the text:
+#+BEGIN_QUOTE
+it is only because I can combine a manifold of given representations *in one consciousness* that it is possible for me to represent the *identity of the consciousness in these representations* itself, i.e., the *analytical* unity of apperception is only possible under the presupposition of some *synthetic* one. (B133)
+#+END_QUOTE
+
+Kant's concern in §16 is with self-consciousness. So the "analytical unity of apperception" concerns the representation of the same 'I' in many representation---i.e. the representation of the numerical identity of the thinker across thoughts. The "synthetic unity of apperception" is, correspondingly, the representation of a multiplicity of representations as belonging to the same subject---the same 'I'. Hence, the claim that the analytical unity of apperception is only possible on the basis of a synthetic unity means that it is only insofar as the subject or 'I' uniﬁes its representations that it can become conscious of its own identity.
+
 *** Antony Larrick
+#+BEGIN_QUOTE
+The idea of the intuition seems very similar if not the same to the Pure Apperception. Unless the intuition refers to an act of sensibility, rather than an act of cognition.
+#+END_QUOTE
+
+Kant talks about both the pure intuitions of space and time and categories as "forms" of cognition. So in that way they are similar. And both are contributions of the subject to cognition. But Kant thinks of the contributions of sensibility as "passive", while those of the intellect are "active" and "spontaneous." We'll talk more about this distinction and what these terms mean as the semester goes on. But one issue your questions raises concerns how independent the forms of sensibility really are from the intellect. Does it make sense to think the of the forms of intuition as possibly present in beings that lack an intellect (e.g. how Kant thinks of non-human animals)? Is there a sense in which the intellect has to be understood as contributing to the "unity" of the forms of sensibility themselves?
+
 *** Isabel Reynolds
+#+BEGIN_QUOTE
+If I have this right, thinking accompanies representations
+#+END_QUOTE
+
+Well - the key claim is that the "I think" must /be able/ to accompany one's representations. So Kant is making a claim that a representation must be such that I could say (or think) of it that /I think it/, if that representation is to count as /mine/. Another way of putting this is to say that all my representations must be thinkable by me /as such/, and thus that I must be able to achieve a certain kind of self-consciousness with regard to my representations---I must be able to think of them as mine.
+
+#+BEGIN_QUOTE
+but thinking prior to a representation is an intuition
+#+END_QUOTE
+
+What Kant says at B132 is "That representation that can be given prior to all thinking is called *intuition*." Here he is pointing out that intuiting isn't thinking, even though it is still representing. Since it is representing it is subject to the claim made in the first sentence of §16 concerning the "I think." So even intuition, though prior to all thinking, is subject to the possibility of being accompanied by the "I think" if it is to count as /my/ intuition. This is why Kant then says "Thus all manifold of intuition has a necessary relation to the I think in the same subject in which this manifold is to be encountered."
+
+#+BEGIN_QUOTE
+thinking is spontaneous? If that is the case, would it follow that the unity of representations is also spontaneous?
+#+END_QUOTE
+
+Yep - that's right. 
+
+#+BEGIN_QUOTE
+When you bring something about in space, like a line, it’s synthetically bringing about a manifold… There’s a given manifold and the combination of something in space with its manifold creates said line? 
+#+END_QUOTE
+
+So Kant thinks that in having a cognition of a line, one represents a unity of spaces (i.e. the points constituting the line) as a single entity. In order to represent the space and the points constituting the line, we need to be able to intuit, so we need sensibility. But in order to represent what is given by sensibility /as a line/ we need the understanding, because we need to join together the represented spaces as one object---the line. So, for cognition of the line we need the faculties to cooperate. Sensibility represents the spaces, and the understanding (or intellect more generally) combines those representations of spaces into a representation of a single determinate entity. 
+
 *** Jeffrey Schade
+#+BEGIN_QUOTE
+Is S-experience the type of experience described by empiricists such as Hume and Locke, in which objects ground concepts? Perhaps this is why Kant didn’t explicitly distinguish between the two types of experience. It would be too easy for empiricists to reject Kant’s C-experience leaving only empiricism.
+#+END_QUOTE
+
+This is really one of the long-standing and very vexing issues surrounding Kant's argument. Kant is notoriously sloppy in the way he uses terms, even those terms that he otherwise takes care to define. The difference between "simple" and "complex" experience that I discuss is just one way to try and make sense of various texts that otherwise don't obviously hang together. 
+
+But one way in which I think Kant's argument has bite against British forms of empiricism is that they all also think there are complex experience. After all, folks like Locke, Berkeley, and Hume all think that we don't just have simple impressions of, e.g., colored points, but that we have a temporally structured experience of colored expanses, such that some are related to others in particular privileged ways. Hume, for example, might deny this, but then he is left with a question he seemingly can't answer---viz. what justifies the use of any concept of an object whatsoever? Since his answer, in the end, seem like it would have to be "nothing", one might think that Hume went wrong somewhere in his starting assumptions.   
+
+
 *** Lauren Sweetland
 *** Ryan Turner
 *** Zachariah Wrublewski
+#+BEGIN_QUOTE
+Am I misunderstanding Kant when I assume he means to say that the activities of the imagination are necessarily synthetic here (in the transcendental deduction), or am I misunderstanding his notion of “free play” in the third critique as non-synthetic (or both, or neither)?
+#+END_QUOTE
+
+Though we're mostly going to wait to discuss the imagination until next week ("step two" of the argument of the Deduction) it is worth making a point now in anticipation of that discussion. Recall that Kant thinks the "same function" (B104) is employed both in the synthesis of concepts in judgment and the synthesis of intuitions in perception. This is part of how Kant distinguishes between the logical use of the functions of the understanding (the forms of judgment) and the real use of the functions of the understanding (the categories with respect to intuition). But as Kant goes on to clarify in §24 the faculty that carries out the synthesis of intuition is the /imagination/. In general the imagination functions as a kind of "bridge" faculty, having some features Kant typically associates with the intellect and some features that he associates with sensibility. Whether this is coherent is something we'll discuss next week.  
 
 
 ** Responses Week 6
