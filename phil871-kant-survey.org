@@ -4443,11 +4443,11 @@ activity of the intellect.
 - CPR: The Transcendental Deduction, B129-69 (Guyer & Wood, 245-66)
   * During this class we'll focus primarily on the 'second step' of the
     argument, §§21-26
-- Optional: Allison, "[[https://www.dropbox.com/s/9w2v6nhvt7gffym/allison2015-ch9_The_B-Deduction_%25282%2529.pdf?dl=0][The B-Deduction (2)]]"
-- Optional: Griffith, "[[https://www.dropbox.com/s/l6okifo2x22ggcj/griffith2012_perception_and_the_categories.pdf?dl=0][Perception and the Categories]]"   
-- Optional: Gomes, "[[https://www.dropbox.com/s/lfyuc8bi2eb3ksf/gomes2014_kant_on_perception.pdf?dl=0][Kant on Perception: Naïve Realism, Non-Conceptualism and the B-Deduction]]"
-- Optional: McLear, "[[https://www.dropbox.com/s/l6qfjynx7r6tfes/mclear2015_two_kinds_of_unity_in_the_icritique_of_pure_reason-i.pdf?dl=0][Two Kinds of Unity in the /Critique of Pure Reason/]]"
-- Optional: Sellars, "[[https://www.dropbox.com/s/uhsl32kpryu25sn/sellars2003_the_role_of_the_imagination_in_kant%2527s_theory_of_experience.pdf?dl=0][The Role of the Imagination in Kant's Theory of Experience]]"
+- Optional: Allison, "[[https://www.dropbox.com/s/wqrkfll7py1yyah/allison2015-ch9_The_B-Deduction_%282%29.pdf?dl=0][The B-Deduction (2)]]"
+- Optional: Griffith, "[[https://www.dropbox.com/s/295cpkngn9m59vb/griffith2012_perception_and_the_categories.pdf?dl=0][Perception and the Categories]]"   
+- Optional: Gomes, "[[https://www.dropbox.com/s/ie2sbi534t9cukb/gomes2014_kant_on_perception.pdf?dl=0][Kant on Perception: Naïve Realism, Non-Conceptualism and the B-Deduction]]"
+- Optional: McLear, "[[https://www.dropbox.com/s/mkc92u2flimhzp6/mclear2015_two_kinds_of_unity_in_the_icritique_of_pure_reason-i.pdf?dl=0][Two Kinds of Unity in the /Critique of Pure Reason/]]"
+- Optional: Sellars, "[[https://www.dropbox.com/s/km40g0v6tc2kqgn/sellars2003_the_role_of_the_imagination_in_kant%27s_theory_of_experience.pdf?dl=0][The Role of the Imagination in Kant's Theory of Experience]]"
 
 **** Questions
 - What is the difference between "figurative" and "intellectual" synthesis?
