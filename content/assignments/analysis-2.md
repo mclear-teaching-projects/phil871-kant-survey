@@ -1,6 +1,6 @@
 +++
 title = "Second Passage Analysis Due 9/28"
-publishDate = 2018-09-07T17:00:00-05:00
+publishDate = 2018-09-28T17:00:00-05:00
 draft = true
 weight = -100
 author = false
