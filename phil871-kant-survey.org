@@ -3878,34 +3878,34 @@ straightforwardly hypothetical
 |----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------+---|
 | Student              | wk2 | wk 4 | wk5 | wk6 | wk7 | wk8 | wk9 | wk10 | wk11 | wk12 | wk13 | wk14 | wk15 | wk16 |   |
 |----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------+---|
-| Steve Byerly         | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |   |
-| Vy Doan              | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |   |
-| Cale  Harms          | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |   |
-| Samuel Hobbs         | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |   |
-| Tate Kollar          | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |   |
-| Antony Larrick       | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |   |
-| Isabel Reynolds      | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |   |
-| Jeffrey Schade       | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |   |
+| Steve Byerly         | X   | X    | X   |  X  |     |     |     |      |      |      |      |      |      |      |   |
+| Vy Doan              | X   | X    | X   |  X  |     |     |     |      |      |      |      |      |      |      |   |
+| Cale  Harms          | X   | X    | X   |  X  |     |     |     |      |      |      |      |      |      |      |   |
+| Samuel Hobbs         | X   | X    | X   |  X  |     |     |     |      |      |      |      |      |      |      |   |
+| Tate Kollar          | X   | X    | X   |  X  |     |     |     |      |      |      |      |      |      |      |   |
+| Antony Larrick       | X   | X    | X   |  X  |     |     |     |      |      |      |      |      |      |      |   |
+| Isabel Reynolds      | X   | X    | X   |  X  |     |     |     |      |      |      |      |      |      |      |   |
+| Jeffrey Schade       | X   | X    | X   |  X  |     |     |     |      |      |      |      |      |      |      |   |
 | Lauren Sweetland     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |   |
-| Ryan Turner          |     |      |     |     |     |     |     |      |      |      |      |      |      |      |   |
-| Zachariah Wrublewski | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |   |
+| Ryan Turner          |     |      |     |  X  |     |     |     |      |      |      |      |      |      |      |   |
+| Zachariah Wrublewski | X   | X    | X   |  X  |     |     |     |      |      |      |      |      |      |      |   |
 |----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------+---|
 
 ** Precís
 |----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
 | Student              | wk2 | wk 4 | wk5 | wk6 | wk7 | wk8 | wk9 | wk10 | wk11 | wk12 | wk13 | wk14 | wk15 | wk16 |
 |----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
-| Steve Byerly         | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |
-| Vy Doan              | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
-| Cale  Harms          | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
-| Samuel Hobbs         | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
-| Tate Kollar          | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
-| Antony Larrick       | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |
-| Isabel Reynolds      | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
+| Steve Byerly         | X   | X    | X   | X   |     |     |     |      |      |      |      |      |      |      |
+| Vy Doan              | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |
+| Cale  Harms          | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |
+| Samuel Hobbs         | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |
+| Tate Kollar          | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |
+| Antony Larrick       | X   | X    | X   | X   |     |     |     |      |      |      |      |      |      |      |
+| Isabel Reynolds      | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |
 | Jeffrey Schade       | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
 | Lauren Sweetland     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Ryan Turner          |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Zachariah Wrublewski | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
+| Ryan Turner          |     |      |     | X   |     |     |     |      |      |      |      |      |      |      |
+| Zachariah Wrublewski | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |
 |----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
 
 ** Paper
@@ -6615,20 +6615,100 @@ Though we're mostly going to wait to discuss the imagination until next week ("s
 
 
 ** Responses Week 6
-
-*** Edward Acuna Quintana
 *** Steve Byerly
+#+BEGIN_QUOTE
+Given that the mind not only grasps the structure of what I formerly considered reality, but moreover, constructs its very form, what of the given that is independent of our conceptual cognitions?...I still have the inputs that I had when I was a baby, presumably (?), though admittedly, my developed rational faculties condition them more completely then when I was an infant (and Kant admits of there being a kind of independence).
+#+END_QUOTE
+Answering this will depend on how you construe Kant's argument in the TD and especially §26. On the reading of the TD where categorial synthesis makes intuition possible, then the only thing rational adults have in common with babes and animals (at least with respect to the input of synthesis) is sensation. If, however, one reads the TD as arguing only that categorial synthesis is necessary for "experience" or cognition, then rational beings have, along with babes and animals, intuitions of objects, though these might be organized in importantly different ways in rational beings. 
+
 *** Vy Doan
+#+BEGIN_QUOTE
+I’m having a hard time understand if categories are the necessary conditions of the possibility of experience, or are they conditions to which we think about objects. 
+#+END_QUOTE
+The short answer is "both"!
+
+#+BEGIN_QUOTE
+The problem that I have with Kant’s argument is that he thinks “categories are conditions of the possibility of experience”. I’m not sure how we can assert a truth or a certainty with something being a possibility. 
+#+END_QUOTE
+It isn't that Kant is arguing that it is /possible/ that the categories are necessary for experience. Rather, he is arguing that the categories are conditions of the /possibility/ of experience---i.e. they are /necessary/ for experience. 
 *** Cale Harms
+#+BEGIN_QUOTE
+At the end of section 24 Kant concludes that we cognize ourselves as appearance, not it in itself (B156). It didn’t seem clear to me what exactly Kant is referring to. Is ourselves supposed to mean our mind, body, consciousness, psychological self, or some combination.
+#+END_QUOTE
+Great question. Kant's view seems to be that we have cognition and knowledge of the various powers of the mind (e.g. it's ability to generate intuitions and to conceptualize them) but we lack any cognition or knowledge of what the subject is that has this mind. Kant is thus denying that we can have the kind of knowledge of ourselves as mental substances that Descartes and Leibniz argue for. More radically, Kant might be plausibly taken as arguing that the only cognition we have of ourselves is as embodied human beings, and not as purely mental or soul-like substances. 
 *** Samuel Hobbs
+#+BEGIN_QUOTE
+Even mathematics, which seems to be a paradigm of synthetic a priori understanding, must have empirical application. Our thinking must be accompanied by intuitions if this is to count as cognition.
+#+END_QUOTE
+Right. Though this isn't to say that mathematics might not exist as a rule-governed enterprise absent intuition of (empirical) objects. It would, however, be a kind of mere game, since space and time themselves do not exist, so a mathematics based merely on pure space and time would be a kind of game that had no direct application to reality (i.e. existing things). 
+
+#+BEGIN_QUOTE
+P. F. Strawson read Kant as a positivist. I am thinking that is a required reading of Kant. What am I missing?
+#+END_QUOTE
+If Kant is a verificationist, then it is unclear how he can still entertain the meaningful nature of various theological questions, as well as questions concerning our own nature as non-material beings. But Kant does entertain such questions, and spent a fair bit of time writing and lecturing on these matters. So it is unlikely that he thought such matters were /meaningless/ in the manner required by verificationism. But this is worth talking more about. 
 *** Tate Kollar
+#+BEGIN_QUOTE
+It seems like Kant enters a discussion/debate revolving around two sides and argues for a third side
+#+END_QUOTE
+Yes -- Kant is often called a (or even /the/) synthesizer (no pun intended) of previous traditions or approaches in philosophy. Sometimes it is put much less charitable though, as in the following from Lorne Falkenstein:
+
+#+BEGIN_QUOTE
+Kant is often referred to as the 'great synthesizer.' The same point can be made, less charitably, by referring to him as the 'great coward.' ... Kant was not the sort of person who had the intellectual courage to face up to a dilemma and reject one alternative in favour of the other. Instead, when he felt himself pulled in opposite directions by conflicting imperatives, his preference was to try to work out some way of satisfying both.
+#+END_QUOTE
+
+Whether Falkenstein is right about this is another matter. 
+
 *** Antony Larrick
+#+BEGIN_QUOTE
+On page 255-256...Kant gave an example of an idea of something that could not have the categories applied to it.
+#+END_QUOTE
+This isn't quite what Kant is doing here. He's arguing that there would be nothing to cognize in a non-sensible---but /per impossibile/ still given---object 
+
+#+BEGIN_QUOTE
+If this idea of productive imagination must be limited to the a priori, it seems very restrictive, and not easy to think of things that would apply as products of the productive imagination. I’m wondering what sorts of things Kant has in mind when he refers to the productive imagination.
+#+END_QUOTE
+I think Kant foremost has in mind the representation of space and time as objects, as he thinks is done in mathematics.
+
 *** Isabel Reynolds
+#+BEGIN_QUOTE
+Does a blind person have less representations of an object because they’re unable to see? If that’s the case, wouldn’t our representations of an object be different? I’m trying to think about this way, if I have 5 things that I represent in an object, and a blind person only has 4,  are we still representing the same thing? 
+#+END_QUOTE
+Interesting question. Though many of Kant's examples and discussions are vision-centric, he seems to think that the space represented visually and tactilely is the same space (remember the Transcendental Aesthetic's claim that there is but one space). So the blind person is representing the same feature of an object (is repulsive boundary in a spatial location) that the sighted person is able to represent visually. Bats can do this aurally. However, a creature that lacked senses of touch, vision, and hearing, as well as any relevant analogue, would plausibly, on Kant's view, lack any outer intuitions, and thus would be unable to represent outer objects. 
+
+#+BEGIN_QUOTE
+Does he conclude in §26 that intuition is also in agreement with the categories because they occur in space and time and representations do also? 
+#+END_QUOTE
+Yes - though the debate is about /how/ exactly the argument is supposed to work. We'll discuss this. 
 *** Jeffrey Schade
+#+BEGIN_QUOTE
+When Kant says that we cannot know (i.e., cognize) the thing-in-itself such as God or the Soul, he means that we cannot make true or false subject/predicate statements about them 
+#+END_QUOTE
+
+I'm not sure that this is the case. Certainly, Kant thinks that we cannot *ever* know whether our judgments about such matters are true, or even whether they succeed in picking anything out. But this is different from saying that they are not even *truth-apt*. 
+
+#+BEGIN_QUOTE
+when we imagine (i.e., represent an object without intuition) a thing, do we imagine it as occurring or existing in space and time
+#+END_QUOTE
+
+Yep - it has to be, if it is a *sensible* representation, a representation of something in space or time. 
+
+#+BEGIN_QUOTE
+What does it mean to say that imagination determines intuition through “the consciousness of the determination of the manifold” (B154)? 
+#+END_QUOTE
+
+This is a good question - we'll talk about it in class. 
 *** Lauren Sweetland
 *** Ryan Turner
-*** Zachariah Wrublewski
+#+BEGIN_QUOTE
+is the insight I quoted a condition of the unity of apperception that we should understand to be itself an analytical or a synthetic one?
+#+END_QUOTE
+This is a really good question, and there is not an obvious answer. It also arises not just for the unity of apperception but for other seemingly synthetic a priori principles that Kant discusses (e.g. the distinction between sensibility and understanding, the principle of non-contradiction). The question is whether Kant needs to explain /all/ synthetic a priori claims or just some (i.e. those immediately necessary for the possibility of experience). If it is /all/ claims, then it isn't clear that his strategy for explaining those immediately relevant for the possibility of experience are apt---unity of apperception or the distinction between the faculties is not something whose explanation seemingly depends on the pure forms of intuition: space and time. So it may be that Kant only intended his explanation of the synthetic a priori to extend so far---i.e. only to experience itself.   
 
+*** Zachariah Wrublewski
+#+BEGIN_QUOTE
+it’s still unclear to me how the imagination could be sketched as essentially performing synthesis, but also continuing to be importantly employed in a sort of “free play” with the understanding, which, presumably, doesn’t necessarily involve synthesis in any of the ways discussed in the Sellars piece
+#+END_QUOTE
+Though it is (unsurprisingly) debatable exactly what Kant's conception of the "free play" of the faculties comes to, it is compatible with a number of ways of treating that view that there is synthesis going on. The basic idea is that the imagination /tries/ to synthesize its object (the art object or the sublime) in a categorial manner but never quite succeeds. Nevertheless, this attempt to do so has a pleasurable result, and it is this pleasurable result that we experience as the (objective) enjoyment of beauty. 
 ** Responses Week 7
 
 *** Edward Acuna Quintana
