@@ -4401,7 +4401,7 @@ activity of the intellect.
   
   
 
-*** TODO Second Passage Analysis Due 9/28
+*** DONE Second Passage Analysis Due 9/28
 SCHEDULED: <2018-09-28 Fri 17:00>
 :PROPERTIES:
 :EXPORT_FILE_NAME: analysis-2
