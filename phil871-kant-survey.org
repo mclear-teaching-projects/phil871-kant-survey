@@ -3896,16 +3896,16 @@ straightforwardly hypothetical
 | Student              | wk2 | wk 4 | wk5 | wk6 | wk7 | wk8 | wk9 | wk10 | wk11 | wk12 | wk13 | wk14 | wk15 | wk16 |
 |----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
 | Steve Byerly         | X   | X    | X   | X   |     |     |     |      |      |      |      |      |      |      |
-| Vy Doan              | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |
+| Vy Doan              | X   | X    | X   | X   |     |     |     |      |      |      |      |      |      |      |
 | Cale  Harms          | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |
-| Samuel Hobbs         | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |
-| Tate Kollar          | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |
+| Samuel Hobbs         | X   | X    | X   | X   |     |     |     |      |      |      |      |      |      |      |
+| Tate Kollar          | X   | X    | X   | X   |     |     |     |      |      |      |      |      |      |      |
 | Antony Larrick       | X   | X    | X   | X   |     |     |     |      |      |      |      |      |      |      |
-| Isabel Reynolds      | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |
-| Jeffrey Schade       | X   | X    |     |     |     |     |     |      |      |      |      |      |      |      |
+| Isabel Reynolds      | X   | X    | X   | X   |     |     |     |      |      |      |      |      |      |      |
+| Jeffrey Schade       | X   | X    |     | X   |     |     |     |      |      |      |      |      |      |      |
 | Lauren Sweetland     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
 | Ryan Turner          |     |      |     | X   |     |     |     |      |      |      |      |      |      |      |
-| Zachariah Wrublewski | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |
+| Zachariah Wrublewski | X   | X    | X   | X   |     |     |     |      |      |      |      |      |      |      |
 |----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
 
 ** Paper
@@ -4353,7 +4353,7 @@ Deduction, and consider the initial few sections in some detail.
 - CPR: The Transcendental Deduction, B129-69 (Guyer & Wood, 245-66) 
   - During this class we'll focus primarily on the 'first step' of the
     argument, §§15-20 (G&W 245-52)
-- Optional: Van Cleve, [[https://www.dropbox.com/s/kulr5ox6486r4gk/vancleve1999-ch7_Experience_and_Objects.pdf?dl=0][/Problems from Kant/, ch. 7]] 
+- Optional: Van Cleve, [[https://www.dropbox.com/s/gllkkuv0hb6qjmc/vancleve1999-ch7_Experience_and_Objects.pdf?dl=0][/Problems from Kant/, ch. 7]] 
 - Optional: Pereboom, [[https://www.dropbox.com/s/bn49z2qpffkq5uv/pereboom2006.pdf?dl=0]['Kant's Metaphysical and Transcendental Deductions']] 
 - Optional: Pereboom, [[https://www.dropbox.com/s/e8c8jq3e380a3hb/pereboom1995.pdf?dl=0]['Self-Understanding in Kant's Transcendental Deduction']] 
 - Optional: Guyer, [[https://www.dropbox.com/s/fu32owtdal7ldx9/guyer2010a.pdf?dl=0]['The Deduction of the Categories: The Metaphysical and Transcendental Deductions']]
@@ -6863,7 +6863,7 @@ Though it is (unsurprisingly) debatable exactly what Kant's conception of the "f
 *** Ryan Turner
 *** Zachariah Wrublewski
 * Drafts
-** Commentary on the Argument
+** Commentary on the Deduction Argument
 Below I discuss the various sections of the argument of the Deduction, as well as raise questions concerning its various parts. This commentary is by no means complete, nor do I avoid making entirely uncontroversial assumptions. The aim of the commentary is simply to provide /one/ way of getting through the thicket of Kant's argument.
 
 
