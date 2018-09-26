@@ -1091,17 +1091,17 @@ stands in connection with it. (A6/B10)
 :EXPORT_TITLE: The Transcendental Deduction I
 :EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/handout4-deduction-I.pdf
 :END:
-:Pandoc:
-#+pandoc-emphasis-pre: "-\t ('\"{["
-#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
-# [/emph/]
-#+PANDOC_METADATA: "author:PHIL 4/871" "date:September 18, 2018" 
-#+PANDOC_METADATA: "lfoot:Colin McLear | September 18, 2018"
-#+PANDOC_METADATA: "lhead: The Transcendental Deduction I"
-#+PANDOC_EXTENSIONS: org+raw_tex
-#+LANGUAGE: en
-#+OPTIONS: ':t
-:END:
+# :Pandoc:
+# #+pandoc-emphasis-pre: "-\t ('\"{["
+# #+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
+# # [/emph/]
+# #+PANDOC_METADATA: "author:PHIL 4/871" "date:September 18, 2018" 
+# #+PANDOC_METADATA: "lfoot:Colin McLear | September 18, 2018"
+# #+PANDOC_METADATA: "lhead: The Transcendental Deduction I"
+# #+PANDOC_EXTENSIONS: org+raw_tex
+# #+LANGUAGE: en
+# #+OPTIONS: ':t
+# :END:
 
 *** What is a "Transcendental Deduction"?
 - The "transcendental" nature of the argument is due to its role in explaining the conditions of the possibility of experience. 
@@ -1311,33 +1311,35 @@ stands in connection with it. (A6/B10)
 
 \setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in} \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
 
-** TODO Handout Week 6 The Transcendental Deduction II
+** DONE Handout Week 6 The Transcendental Deduction II
+:PROPERTIES:
+:EXPORT_TITLE: The Transcendental Deduction II
+:EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/handout5-deduction-II.pdf
+:END:
+:Pandoc:
+#+pandoc-emphasis-pre: "-\t ('\"{["
+#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
+# [/emph/]
+#+PANDOC_METADATA: "author:PHIL 4/871" "date:September 25, 2018" 
+#+PANDOC_METADATA: "lfoot:Colin McLear | September 25, 2018"
+#+PANDOC_METADATA: "lhead: The Transcendental Deduction II"
+#+PANDOC_EXTENSIONS: org+raw_tex
+#+LANGUAGE: en
+#+OPTIONS: ':t
+:END:
+
 *** Overview
-  :PROPERTIES:
-  :CUSTOM_ID: overview
-  :END:
 
 - The first step:
-
   - §§15-20
   - Argues for the general claim that if we have cognition the
     categories are necessary for cognition
-
-    - Problem of combination (§15): what explains the possibility of
+    - Problem of combination (§15) and its solution: what explains the possibility of
       complex representation, necessary both for representing oneself
       and for representing objects?
-    - Argument from above (§16): the unity necessary to represent
-      oneself as the subject of different self-attributions of mental
-      states depends on the categories
-    - Argument from below (§§17-20): the unity necessary to represent an
-      object as a complex of properties whose existence and nature is
-      independent of the subject depends on the categories
-
 - The second step
-
   - §§21-26
   - Argues for:
-
     1. the truth of the antecedent of the above conditional---viz. that
        we have cognition via the categories
     2. the denial that we cognize ourselves as we are in ourselves
@@ -1345,50 +1347,54 @@ stands in connection with it. (A6/B10)
        independently of intuition
 
 *** The Second Step (§§21-26)
-  :PROPERTIES:
-  :CUSTOM_ID: the-second-step-21-26
-  :END:
 
-- Kant moves from abstract conditions for the application of the
-  categories, to those conditions specifically with reference to our
-  spatial and temporal intuition
-- Is the step redundant?[fn:1]
+- *Problem*: Is the step redundant?\sidenote[][-2.5in]{Therefore all manifold,
+  insofar as it is given in one empirical intuition, is \textbf{determined} in
+  regard to one of the logical functions for judgment, by means of which,
+  namely, it is brought to a consciousness in general. But now the
+  \textbf{categories} are nothing other than these very functions for judging,
+  insofar as the manifold of a given intuition is determined with regard to
+  them (§13). Thus the manifold in a given intuition also necessarily stands
+  under categories. (B143)}
 
-\newpage
+  
 **** §21 - The Categories and Givennes
-   :PROPERTIES:
-   :CUSTOM_ID: the-categories-and-givennes
-   :END:
 
-- The deduction is not yet complete, we need to account for how
-  empirical intuition, rather than intuition in general, is subsumed
-  under the categories[fn:4]
-- The categories are necessary for cognition only for subjects with
-  /discursive/ rather than /intuitive/ understanding[fn:6]
+- The deduction is not yet complete, we need to account for how empirical
+  intuition, rather than intuition in general, is subsumed under the
+  categories\sidenote[][-2in]{In the above\ldots{}the beginning of a
+  \textbf{deduction} of the pure concepts of the understanding has been
+  made\ldots{}In the sequel (§ 26) it will be shown from the way in which the
+  empirical intuition is given in sensibility that its unity can be none other
+  than the one the category prescribes to the manifold of a given intuition in
+  general (B144-5)}
+- The categories are necessary for cognition only for subjects with /discursive/
+  rather than /intuitive/ understanding\sidenote[][-1.25in]{In the above proof,
+  however, I still could not abstract from one point, namely, from the fact
+  that the manifold for intuition must already be \textbf{given} prior to the
+  synthesis of understanding and independently from it; how, however, is here
+  left undetermined. For if I wanted to think of an understanding that itself
+  intuited (as, say, a divine understanding, which would not represent given
+  objects, but through whose representation the objects would themselves at
+  the same time be given, or produced), then the categories would have no
+  significance at all with regard to such a cognition. (B145)}
+- An intuitive intellect does not cognize by means of the categories[fn:4]
 
-  - An intuitive intellect does not cognize by means of the categories
-  - If God creates the world (reality in itself) by virtue of
-    intellectually intuiting it, then reality in itself is not
-    categorically structured[fn:7]
-  - What does it mean to think of reality as containing, at best,
-    /analogues/ of substances, causes, etc.?
+[fn:4] if our understanding were intuitive, it would have no objects
+       except what is actual...Thus the distinction of possible from
+       actual things is one that is merely subjectively valid for the
+       human understanding (CJ 5:401-2)
 
-**** §§22-3 - Restricting the Categories
-   :PROPERTIES:
-   :CUSTOM_ID: restricting-the-categories
-   :END:
+**** §§22-3 - Restricting the Categories to Phenomena
 
-- Thinking is not /cognizing/[fn:15]
+- Thinking is not /cognizing/[fn:5]
 
-  - Thinking concerns what is /logically/ possible (i.e. not
-    contradictory)
-  - Cognizing concerns what is /really/ possible
-
-    - metaphysical notion
-    - based on the coherence or combinability of predicates/properties,
+  - Thinking concerns what is /logically/ possible (i.e. what is not contradictory)
+  - Cognizing concerns what is /really/ possible 
+    - Metaphysical notion
+    - Based on the coherence or combinability of predicates/properties,
       understood as 'positive determinations' or 'realities', in a
-      single subject[fn:10]
-
+      single subject[fn:6]
       - predicate canceling
       - subject canceling
 
@@ -1396,7 +1402,7 @@ stands in connection with it. (A6/B10)
 
 \noindent Kant claims that all of our concepts, including the
 categories, have 'sense and significance' [/Sinn und Bedeutung/] (B149)
-only insofar as they are applicable to objects of experience.[fn:8]
+only insofar as they are applicable to objects of experience.[fn:7]
 
 - Is Kant's principle of sense an epistemological or a semantic thesis?
 
@@ -1407,173 +1413,21 @@ only insofar as they are applicable to objects of experience.[fn:8]
     meaning of 'sense and significance' to his notion of 'real
     possibility'
 
-\newpage
-**** §§24-5 - Figurative Synthesis & Self-Knowledge
-   :PROPERTIES:
-   :CUSTOM_ID: figurative-synthesis-self-knowledge
-   :END:
 
-- Distinction between the kind of (intellectual) synthesis necessary to
-  generate propositional judgment and the concepts which constitute it,
-  and (figurative) synthesis necessary to generate unitary (complex?)
-  sensible intuitions[fn:9]
-
-**** §26 - Completing the Deduction
-   :PROPERTIES:
-   :CUSTOM_ID: completing-the-deduction
-   :END:
-
-- Kant argues that our representations of space and time themselves
-  "contain a manifold" and thus require a synthesis if they are to be
-  represented as objects
-- Since space and time themselves are synthesized by the categories all
-  possible appearances and space and time will likewise be conditioned
-  or "determined" by the categories
-
-  - the crux of 'conceptualist' readings of the Deduction depend on an
-    interpretation of the B160-161 footnote according to which it argues
-    that the representation of space and time as pure intuitions depends
-    on a 'figurative' synthesis guided by the categories[fn:12]
-
-*** The Conceptualist Argument According to Griffith
-  :PROPERTIES:
-  :CUSTOM_ID: the-conceptualist-argument-according-to-griffith
-  :END:
-
-**** Some Key Assumptions
-   :PROPERTIES:
-   :CUSTOM_ID: some-key-assumptions
-   :END:
-
-- There is no intentionality without synthesis[fn:16]
-
-- Intuitions are to be identified with perceptions in roughly our
-  contemporary sense---viz. sensory presentations of objects in
-  space---but this claim about perception is not obviously tracking
-  Kant's use of the term 'perception' [/perceptio///wahrnehmung/]
-
-  - so one reply to the conceptualist argument as Griffith presents it
-    is that it simply misses any claim concerning intuition, and only is
-    successful, if at all, against the higher-order consciousness of
-    particular representations rather than the occurence of the
-    representations themselves
-
-**** The Arguments
-   :PROPERTIES:
-   :CUSTOM_ID: the-arguments
-   :END:
-
-\newthought{The Argument from a Threefold Synthesis}
-
-1. Objective perception requires the generation of a 'perceptual
-   image'[fn:17]
-2. Perceptual images are generated via a threefold empirical synthesis
-3. The empirical synthesis of sensation depends on the 'affinity of the
-   manifold'
-4. The affinity of the manifold depends on a transcendental synthesis of
-   pure intuition by the categories
-5. $\therefore$ All objective perception depends on the
-   categories[fn:20]
-
-*Problems*:
-
-- no discussion of the transcendental unity of apperception (i.e. where
-  did Kant's emphasis on consciousness go?)
-- against premise (1) --- Kant seems to deny both that:
-
-  1. we think in terms of images[fn:21]
-  2. we infer from the existence and character of images to the
-     existence and character of their causes[fn:22]
-
-\newthought{The Argument from the Unity of Pure Intuition}
-
-1. There is no synthesis of apprehension without the unity of pure
-   intuition
-2. The unity of pure intuition depends on the categories---viz. the
-   categories of quantity
-3. $\therefore$ the synthesis of apprehension depends on the categories
-   [1, 2]
-4. Perception depends on the synthesis of apprehension
-5. $\therefore$ Perception depends on the categories [3, 4]
-
-*Problems*:
-
-- We cannot make sense of Kant's arguments concerning pure intuition in
-  the Transcendental Aesthetic if pure intuitions of space and time
-  depend on synthesis according to the categories of quantity[fn:23]
-
-  - Synthesis is an iterative form of construction of wholes in terms of
-    parts, but the mereological structure of pure intuition defines the
-    parts in terms of the whole
-  - Kant consistently characterizes the nature of the understanding's
-    activity as limited to grasping wholes in terms of their parts,
-    which is in contrast to the intuitive intellectual grasp of wholes
-    prior to their parts characteristic of God[fn:24]
-
-*** References
-  :PROPERTIES:
-  :CUSTOM_ID: references
-  :CLASS: unnumbered
-  :END:
-
-\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
-\setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
-
-#+BEGIN_HTML
-  <!-- -->
-#+END_HTML
-
-[fn:1] Therefore all manifold, insofar as it is given in one empirical
-       intuition, is *determined* in regard to one of the logical
-       functions for judgment, by means of which, namely, it is brought
-       to a consciousness in general. But now the *categories* are
-       nothing other than these very functions for judging, insofar as
-       the manifold of a given intuition is determined with regard to
-       them (§13). Thus the manifold in a given intuition also
-       necessarily stands under categories. (B143)
-
-[fn:4] In the above...the beginning of a *deduction* of the pure
-       concepts of the understanding has been made...In the sequel (§
-       26) it will be shown from the way in which the empirical
-       intuition is given in sensibility that its unity can be none
-       other than the one the category prescribes to the manifold of a
-       given intuition in general (B144-5)
-
-[fn:5] In the above proof, however, I still could not abstract from one
-       point, namely, from the fact that the manifold for intuition must
-       already be *given* prior to the synthesis of understanding and
-       independently from it; how, however, is here left undetermined.
-       For if I wanted to think of an understanding that itself intuited
-       (as, say, a divine understanding, which would not represent given
-       objects, but through whose representation the objects would
-       themselves at the same time be given, or produced), then the
-       categories would have no significance at all with regard to such
-       a cognition. (B145)
-
-[fn:6] if our understanding were intuitive, it would have no objects
-       except what is actual...Thus the distinction of possible from
-       actual things is one that is merely subjectively valid for the
-       human understanding (CJ 5:401-2)
-
-[fn:7] To *cognize* an object, it is required that I be able to prove
+[fn:5] To *cognize* an object, it is required that I be able to prove
        its possibility (whether by the testimony of experience from its
        actuality or a priori through reason). But I can *think* whatever
        I like, as long as I do not contradict myself, i.e., as long as
        my concept is a possible thought, even if I cannot give any
        assurance whether or not there is a corresponding object
-       somewhere within the sum total of all possibilities. But in order
-       to ascribe objective validity to such a concept (real
-       possibility, for the first sort of possibility was merely
-       logical) something more is required. This "more," however, need
-       not be sought in theoretical sources of cognition; it may also
-       lie in practical ones.
+       somewhere within the sum total of all possibilities. 
 
-[fn:8] [N]ot every concept in which there is no contradiction is a
+[fn:6] [N]ot every concept in which there is no contradiction is a
        possible synthesis --- that is, real relations are not seen
        through the principle of contradiction (/Notes on Metaphysics/
        R4004 (1769), 17:382).
 
-[fn:9] The pure concepts of the understanding, consequently, even if
+[fn:7] The pure concepts of the understanding, consequently, even if
        they are applied to a priori intuitions (as in mathematics),
        provide cognition only insofar as these a priori intuitions, and
        by means of them also the concepts of the understanding, can be
@@ -1586,13 +1440,33 @@ only insofar as they are applicable to objects of experience.[fn:8]
        insofar as these are taken as objects of possible experience.
        (B147-8)
 
-[fn:10] The same function that gives unity to the different
+**** §§24-5 - Figurative Synthesis & Self-Knowledge
+
+- Distinction between the kind of (intellectual) synthesis necessary to
+  generate propositional judgment and the concepts which constitute it,
+  and (figurative) synthesis necessary to generate unitary (complex?)
+  sensible intuitions[fn:8]
+
+[fn:8] The same function that gives unity to the different
        representations in a judgment also gives unity to the mere
        synthesis of different representations in an intuition, which,
        expressed generally, is called the pure concept of understanding.
        (A79/B105)
 
-[fn:11] these same properties that, in the Transcendental Aesthetic, are
+**** §26 - Completing the Deduction
+
+- Kant argues that our representations of space and time themselves
+  "contain a manifold" and thus require a synthesis if they are to be
+  represented as objects
+- Since space and time themselves are synthesized by the categories all
+  possible appearances and space and time will likewise be conditioned
+  or "determined" by the categories
+  - the crux of 'conceptualist' readings of the Deduction depend on an
+    interpretation of the B160-161 footnote according to which it argues
+    that the representation of space and time /as pure intuitions/ depends
+    on a 'figurative' synthesis guided by the categories[fn:9]
+
+[fn:9] these same properties that, in the Transcendental Aesthetic, are
        arguments in favor of the \emph{intuitive} rather than
        \emph{discursive} nature of our representations of space and
        time, become, in section 26, reasons to assert that these
@@ -1602,11 +1476,72 @@ only insofar as they are applicable to objects of experience.[fn:8]
        empirical intuitions to the \emph{categories} (@longuenesse1998,
        215; cf. @guyer2010a, 146).
 
-[fn:12] synthesis and intentionality are not logically distinct: only a
+*** The Conceptualist Argument According to Griffith
+
+**** Some Key Assumptions
+- There is no intentionality without synthesis[fn:10]
+- Intuitions are to be identified with perceptions in roughly our
+  contemporary sense---viz. sensory presentations of objects in
+  space---but this claim about perception is not obviously tracking
+  Kant's use of the term 'perception' [/perceptio///wahrnehmung/]
+  - One reply to the conceptualist argument as Griffith presents it
+    is that it simply misses any claim concerning intuition, and only is
+    successful, if at all, against the higher-order consciousness of
+    particular representations rather than the occurence of the
+    representations themselves
+
+[fn:10] synthesis and intentionality are not logically distinct: only a
         synthesized intuition is an intentional intuition.
         (@griffith2012, 201)
 
-[fn:15] Mere sensibility, it seems, can only supply us with impressions
+**** The Arguments
+
+\newthought{The Argument from a Threefold Synthesis}
+
+1. Objective perception requires the generation of a 'perceptual
+   image'[fn:11]
+2. Perceptual images are generated via a threefold empirical synthesis
+3. The empirical synthesis of sensation depends on the 'affinity of the
+   manifold'
+4. The affinity of the manifold depends on a transcendental synthesis of
+   pure intuition by the categories
+5. $\therefore$ All objective perception depends on the
+   categories[fn:12]
+
+
+- *Problems*:
+  - no discussion of the transcendental unity of apperception (i.e. where
+    did Kant's emphasis on consciousness go?)
+  - against premise (1) --- Kant seems to deny both that:
+    1. we think in terms of images[fn:13]
+    2. we infer from the existence and character of images to the
+       existence and character of their causes[fn:14]
+
+\newthought{The Argument from the Unity of Pure Intuition}
+
+1. There is no synthesis of apprehension without the unity of pure
+   intuition
+2. The unity of pure intuition depends on the categories---viz. the
+   categories of quantity
+3. $\therefore$ the synthesis of apprehension depends on the categories
+   [1, 2]
+4. Perception depends on the synthesis of apprehension
+5. $\therefore$ Perception depends on the categories [3, 4]
+
+
+- *Problems*:
+  - We cannot make sense of Kant's arguments concerning pure intuition in
+    the Transcendental Aesthetic if pure intuitions of space and time
+    depend on synthesis according to the categories of quantity[fn:15]
+    - Synthesis is an iterative form of construction of wholes in terms of
+      parts, but the mereological structure of pure intuition defines the
+      parts in terms of the whole
+    - Kant consistently characterizes the nature of the understanding's
+      activity as limited to grasping wholes in terms of their parts,
+      which is in contrast to the intuitive intellectual grasp of wholes
+      prior to their parts characteristic of God[fn:16]
+
+[fn:11] Mere sensibility, it seems, can only supply us with impressions
         that are 'dispersed and separate in the mind', but it cannot, as
         [Kant] says, 'bring the manifold of intuition into an image'
         (A120). Thus, if there is no synthesis to combine a dispersed
@@ -1614,25 +1549,25 @@ only insofar as they are applicable to objects of experience.[fn:8]
         (perception), hence no possible vehicle for nonconceptual
         content (in the sense we are discussing). (@griffith2012, 201)
 
-[fn:16] empirical intuition requires a rule-guided synthesis of its
+[fn:12] empirical intuition requires a rule-guided synthesis of its
         manifold, which depends on the affinity of the manifold, which
         presupposes a figurative synthesis of the pure manifold, which
         in turn is related to the transcendental unity of apperception,
         the source of the rules for this pure synthesis: the categories.
         (@griffith2012, 206)
 
-[fn:17] In fact it is not images of objects but schemata that ground our
+[fn:13] In fact it is not images of objects but schemata that ground our
         pure sensible concepts. No image of a triangle would ever be
         adequate to the concept of it. For it would not attain the
         generality of the concept, which makes this valid for all
         triangles, right or acute, etc., but would always be limited to
         one part of this sphere. (A140-1/B180)
 
-[fn:20] Thus the transcendental idealist is an empirical realist, and
+[fn:14] Thus the transcendental idealist is an empirical realist, and
         grants to matter, as appearance, a reality which need not be
         inferred, but is immediately perceived. (A371)
 
-[fn:21] First, one can only represent a single space; and when one
+[fn:15] First, one can only represent a single space; and when one
         speaks of many spaces, one means by that only parts of one and
         the same unique space. Nor, second, can these parts precede the
         one all-encompassing space, as its constituents, as it were
@@ -1641,7 +1576,7 @@ only insofar as they are applicable to objects of experience.[fn:8]
         hence also the universal concept of spaces as such, rests solely
         on limitations (A24-5/B39)
 
-[fn:22] we can also conceive of an understanding which, since it is not
+[fn:16] we can also conceive of an understanding which, since it is not
         discursive like ours but is intuitive, goes from the
         synthetically universal (of the intuition of a whole as such) to
         the particular, i.e., from the whole to the parts, in which,
@@ -1652,6 +1587,14 @@ only insofar as they are applicable to objects of experience.[fn:8]
         universally conceived grounds, to the different possible forms,
         as consequences, that can be subsumed under it. (CJ 5:407)
 
+*** References & Further Reading
+:PROPERTIES:
+:UNNUMBERED:
+:END:
+#+nocite: @onof2015; @messina2014; @pereboom1995; @pereboom1988; @pereboom2006; @griffith2012; @vancleve1999; @allison2015; @mclear2014a
+
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
 
 ** TODO Handout Week 7 The Principles of Experience
 *** The Aims of the Analytic of Principles
