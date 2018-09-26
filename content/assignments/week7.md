@@ -1,6 +1,8 @@
 +++
 title = "Week 7 - The Deduction & Transition to the Principles"
-draft = true
+publishDate = 2018-10-02T00:00:00-05:00
+tags = ["categories", "time", "schematism", "concepts", "imagination"]
+draft = false
 weight = -100
 author = false
 toc = false
@@ -19,7 +21,9 @@ of experience.
     -   Introduction to the Analytic, B169-75 (Guyer & Wood, 267-70)
     -   The Schematism, B176-87 (Guyer & Wood, 271-77)
     -   System of Principles, B187-202 (Guyer & Wood, 278-86)
--   Watkins, The System of Principles, §§1-2
+-   OPTIONAL: Watkins, [&ldquo;The System of Principles, §§1-2&rdquo;](https://www.dropbox.com/s/o3fnqe672dafpt8/watkins2010%5Fthe%5Fsystem%5Fof%5Fprinciples.pdf?dl=0)
+-   OPTIONAL: Guyer, [&ldquo;What is the Schematism?&rdquo;](https://www.dropbox.com/s/nkrbzkhdwzgbxmn/guyer1987-ch6%5FWhat%5Fis%5Fthe%5FSchematism.pdf?dl=0)
+-   OPTIONAL: Pendlebury, [&ldquo;Making Sense of Kant&rsquo;s Schematism&rdquo;](https://www.dropbox.com/s/1azal1iky0al3c3/pendlebury1995%5Fmaking%5Fsense%5Fof%5Fkant%2527s%5Fschematism.pdf?dl=0)
 
 
 ## Questions {#questions}
