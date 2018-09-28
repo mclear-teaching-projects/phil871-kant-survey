@@ -4440,6 +4440,8 @@ of experience.
 - OPTIONAL: Watkins, [[https://www.dropbox.com/s/o3fnqe672dafpt8/watkins2010_the_system_of_principles.pdf?dl=0]["The System of Principles, §§1-2"]]
 - OPTIONAL: Guyer, [[https://www.dropbox.com/s/nkrbzkhdwzgbxmn/guyer1987-ch6_What_is_the_Schematism.pdf?dl=0]["What is the Schematism?"]]
 - OPTIONAL: Pendlebury, [[https://www.dropbox.com/s/1azal1iky0al3c3/pendlebury1995_making_sense_of_kant%2527s_schematism.pdf?dl=0]["Making Sense of Kant's Schematism"]]
+- OPTIONAL: Allison, "[[https://www.dropbox.com/s/o16iodt1blq6dks/allison2004-ch8_The_Schematism_of_the_Understanding_and_the_Power_of_Judgment.pdf?dl=0][The Schematism of the Understanding and the Power of Judgment]]"
+  
   
 
 **** Questions
