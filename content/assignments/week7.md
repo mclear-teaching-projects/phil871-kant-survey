@@ -13,6 +13,8 @@ This week we&rsquo;ll wrap up our discussion of the Deduction and move on to Kan
 discussion of the &ldquo;schematism&rdquo; of the categories in their role as &ldquo;principles&rdquo;
 of experience.
 
+-   [Handout](/materials/handouts/handout6-schematism.pdf)
+
 
 ## Readings {#readings}
 

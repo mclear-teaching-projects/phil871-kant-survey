@@ -16,6 +16,8 @@ in sensibility. This is the task of the (in)famous &ldquo;Transcendental Deducti
 of the Categories.&rdquo; This week we&rsquo;ll look at the overall structure of the
 Deduction, and consider the initial few sections in some detail.
 
+-   [Handout](/materials/handouts/handout4-deduction-I.pdf)
+
 
 ## Readings {#readings}
 
@@ -26,6 +28,7 @@ Deduction, and consider the initial few sections in some detail.
 -   Optional: Pereboom, [&rsquo;Kant&rsquo;s Metaphysical and Transcendental Deductions&rsquo;](https://www.dropbox.com/s/bn49z2qpffkq5uv/pereboom2006.pdf?dl=0)
 -   Optional: Pereboom, [&rsquo;Self-Understanding in Kant&rsquo;s Transcendental Deduction&rsquo;](https://www.dropbox.com/s/e8c8jq3e380a3hb/pereboom1995.pdf?dl=0)
 -   Optional: Guyer, [&rsquo;The Deduction of the Categories: The Metaphysical and Transcendental Deductions&rsquo;](https://www.dropbox.com/s/fu32owtdal7ldx9/guyer2010a.pdf?dl=0)
+-   [Handout](%7Cfilename%7C/pdfs/phil871/phil871kant/5_KantTDI.pdf)
 
 
 ## Questions {#questions}

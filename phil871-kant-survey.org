@@ -1316,17 +1316,17 @@ stands in connection with it. (A6/B10)
 :EXPORT_TITLE: The Transcendental Deduction II
 :EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/handout5-deduction-II.pdf
 :END:
-:Pandoc:
-#+pandoc-emphasis-pre: "-\t ('\"{["
-#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
-# [/emph/]
-#+PANDOC_METADATA: "author:PHIL 4/871" "date:September 25, 2018" 
-#+PANDOC_METADATA: "lfoot:Colin McLear | September 25, 2018"
-#+PANDOC_METADATA: "lhead: The Transcendental Deduction II"
-#+PANDOC_EXTENSIONS: org+raw_tex
-#+LANGUAGE: en
-#+OPTIONS: ':t
-:END:
+# :Pandoc:
+# #+pandoc-emphasis-pre: "-\t ('\"{["
+# #+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
+# # [/emph/]
+# #+PANDOC_METADATA: "author:PHIL 4/871" "date:September 25, 2018" 
+# #+PANDOC_METADATA: "lfoot:Colin McLear | September 25, 2018"
+# #+PANDOC_METADATA: "lhead: The Transcendental Deduction II"
+# #+PANDOC_EXTENSIONS: org+raw_tex
+# #+LANGUAGE: en
+# #+OPTIONS: ':t
+# :END:
 
 *** Overview
 
@@ -1596,25 +1596,41 @@ only insofar as they are applicable to objects of experience.[fn:7]
 \setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
 \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
 
-** TODO Handout Week 7 The Principles of Experience
+
+** DONE Handout Week 7 The Analytic of Principles I – Schematism
+:PROPERTIES:
+:EXPORT_TITLE: The Analytic of Principles I – Schematism
+:EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/handout6-schematism.pdf
+:END:
+:Pandoc:
+#+pandoc-emphasis-pre: "-\t ('\"{["
+#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
+# [/emph/]
+#+PANDOC_METADATA: "author:PHIL 4/871" "date:October 2, 2018" 
+#+PANDOC_METADATA: "lfoot:Colin McLear | October 2, 2018"
+#+PANDOC_METADATA: "lhead: The Schematism"
+#+PANDOC_EXTENSIONS: org+raw_tex
+#+LANGUAGE: en
+#+OPTIONS: ':t
+:END:
+
 *** The Aims of the Analytic of Principles
   :PROPERTIES:
   :CUSTOM_ID: the-aims-of-the-analytic-of-principles
   :END:
 
 - Four questions:
-
-  1. /Which/ concepts are a priori? (The Metaphysical Deduction)
+  1. /Which/ concepts are a priori? (the Metaphysical Deduction)
   2. /Must/ the categories apply to objects of experience? (the
      Transcendental Deduction)
   3. /How/ could the categories apply to objects of experience? (the
      Schematism)
   4. /What/ synthetic a priori truths do we know as the result of their
-     application? (the Principles)
+     application? (the System of All Principles)
 
-\noindent The Analytic of Principles aims to answer questions (3) and
-(4). A full vindication of the categories thus depends not only on the
-arguments of the Analytic of Concepts but also those of the Principles.
+\noindent The Analytic of Principles aims to answer questions (3) and (4). A
+full vindication of the categories thus depends not only on the arguments of
+the Analytic of Concepts but also those of the Principles.
 
 *** The Schematism (A137-47/B176-87)
   :PROPERTIES:
@@ -1628,10 +1644,9 @@ arguments of the Analytic of Concepts but also those of the Principles.
 
 - What's the scope of Kant's argument?
 
-  - Specific: explain how /the categories/, whose content is purely
-    logical, apply to object of experience
-  - General: explain how /concepts in general/ apply to objects of
-    experience
+  1. Specific: explain how /the categories/, whose content is purely
+     a priori, and based on the functions of judgment, apply to object of experience
+  2. General: explain how /any/ /concept/ applies to an object of experience
 
 **** The Homogeneity Requirement[fn:1]
    :PROPERTIES:
@@ -1647,48 +1662,67 @@ arguments of the Analytic of Concepts but also those of the Principles.
   - Pure (a priori) concepts as they relate to objects via intuition?
     (Guyer)
 
+[fn:1] In all subsumptions of an object under a concept the
+       representations of the former must be *homogeneous* with the
+       latter, i.e., the concept must contain that which is represented
+       in the object that is to be subsumed under it, for that is just
+       what is meant by the expression "an object is contained under a
+       concept." (A137/B176).
+
 **** Guyer's Interpretation
    :PROPERTIES:
    :CUSTOM_ID: guyers-interpretation
    :END:
 
-- Empirical concepts are their own schemata[fn:4]
-
+- Empirical concepts are their own schemata[fn:2]
   - Empirical concepts relate 'immediately' to schemata (A141/B180)
-
     - Why would the schematism be a 'hidden art' then? (A141/B180-1)
-
   - Avoids empiricist problem of abstract ideas
-
-- Schemata are required only for pure
-  concepts\footnote[][.70in]{the problem is
-  that the \emph{content} of the pure concepts of the understanding does not
-  include any predicates which do directly designate any properties of pure or
-  empirical intuition...Although being four-footed or triangular is something
-  that may be \emph{both} thought in a concept and directly presented in the
-  appropriate kind of intuition, being \emph{real} or \emph{a ground of a
-  consequence} – that is, possessing the property which is the objective
-  correlate of the logical function of affirmation or the logical relation of
-  antecedent to consequent – is not the kind of property that is directly
-  presented in pure or empirical intuition. (Guyer (1987, 165)}
+- Schemata are required only for pure concepts\sidenote[][.75in]{the problem
+  is that the \emph{content} of the pure concepts of the understanding does
+  not include any predicates which do directly designate any properties of
+  pure or empirical intuition...Although being four-footed or triangular is
+  something that may be \emph{both} thought in a concept and directly
+  presented in the appropriate kind of intuition, being \emph{real} or \emph{a
+  ground of a consequence} – that is, possessing the property which is the
+  objective correlate of the logical function of affirmation or the logical
+  relation of antecedent to consequent – is not the kind of property that is
+  directly presented in pure or empirical intuition. (Guyer (1987, 165)}
 
 \newthought{Kant's 'Tertium Quid' -- Time}
 
 - Kant requires an intermediary that is homogeneous with both the
   categories and appearances, as well as being
-
   - /universal/: applies to all appearances
   - /knowable a priori/: allows for knowledge of the a priori
     applicability of the categories to appearances
   - /diverse/: compatible with the full variety of logical properties
     and relations specified by the categories
-
 - Only the representation of time and temporal relations satisfies all
   three conditions
-
   - Allows for a distinctive form of anti-skeptical argument since Kant
     also argues that representation of determinate temporal relations
-    depends on the spatial content of representation[fn:6]
+    depends on the spatial content of representation[fn:3]
+
+[fn:2] The rule by which the reproductive imagination /represents/ a dog
+       or the understanding /recognizes/ an object presented to it as a
+       dog is just the rule that anything which displays four-footedness
+       (and of course a number of other similarly sensible properties,
+       such as certain characteristics of dentition, musculature, and so
+       on) is to be called a "dog," and this rule is precisely the rule
+       signified by the concept /dog/. In other words, the rule which
+       functions as a schema is the concept signified by the expression
+       "dog." (@guyer1987-ch6, 164)
+
+[fn:3] By beginning with the premise that the categories can be
+       interpreted in the purely temporal forms of inner sense, but then
+       arguing that the determinate temporal relations of subjective
+       states thus called for can be judged only if those states are
+       also linked to independent objects in space, Kant can show that
+       the categories can be given empirical /sense/ in terms of
+       knowledge which even the skeptic must concede...but that they can
+       be /used/ only if knowledge of external reality is also conceded.
+       (@guyer1987-ch6, 168)
 
 **** Pendlebury's Interpretation
    :PROPERTIES:
@@ -1697,26 +1731,47 @@ arguments of the Analytic of Concepts but also those of the Principles.
 
 - The schematism concerns the /general/ problem of how /concepts/ apply
   to objects via the subsumption of intuitions under concepts
-
   - The categories are only a special instance of a general problem
-
 - The Homogeneity Requirement is understood in terms of /shared
   representational content/ between representations (i.e. intuition and
-  concept)[fn:7]
-
+  concept)[fn:4]
   - How can an intuition and a concept have (or share) the same
     representational content?
-
 - Kant's solution is /not/ to appeal to a /tertium quid/ but rather to
   appeal to a pre-conceptual capacity for synthesis which is 'excercised
-  in both the formation and the application of concepts'[fn:15]
-
+  in both the formation and the application of concepts'[fn:5]
   - Schemata are fundamentally /dispositions/ to group 'bare'
-    (i.e. non-representational) sensations[fn:10]
+    (i.e. non-representational) sensations[fn:6]
+
+[fn:4] an intuition, i, and a concept, C, are homogeneous if and only if
+       C-ness is part of the /content/ of i. Here and elsewhere in this
+       paper I use the word "content" in the sense which is now common
+       in the philosophy of mind and language...one representation
+       subsumes another if the content of the latter includes the
+       content of the former. (@pendlebury1995, 781)
+
+[fn:5] @pendlebury1995, 784
+
+[fn:6] my inclination would be to define a schema canonically as the
+       (repeatable) /process-type/ which yields the relevant synthesis.
+       In terms of this suggestion, Kant is most accurate when he
+       describes a schema as a rule, for there is a minimal sense in
+       which a rule is in effect a process-type, viz., the sense in
+       which it is not something which an agent obeys or follows, but
+       something which a particular sequence of event tokens fits or
+       instantiates. (@pendlebury1995, 786n15)
 
 
+*** References & Further Reading
+:PROPERTIES:
+:UNNUMBERED:
+:END:
+#+nocite: @longuenesse1998; @grune2009; @pippin1976; @allison2004-ch8; @sellars1978a; dahlstrom1984; @krausser1976; @schaper1964; @young1992; @young1988 
 
-** TODO Handout Week 8 Kant's Defense of Causation
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
+
+** TODO Handout Week 8 The Principles of Experience II – Causation
 *** The Analogies
   :PROPERTIES:
   :CUSTOM_ID: the-analogies
@@ -3895,16 +3950,16 @@ straightforwardly hypothetical
 |----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
 | Student              | wk2 | wk 4 | wk5 | wk6 | wk7 | wk8 | wk9 | wk10 | wk11 | wk12 | wk13 | wk14 | wk15 | wk16 |
 |----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
-| Steve Byerly         | X   | X    | X   | X   |     |     |     |      |      |      |      |      |      |      |
-| Vy Doan              | X   | X    | X   | X   |     |     |     |      |      |      |      |      |      |      |
+| Steve Byerly         | X   | X    | X   | X   |  X  |     |     |      |      |      |      |      |      |      |
+| Vy Doan              | X   | X    | X   | X   |  X  |     |     |      |      |      |      |      |      |      |
 | Cale  Harms          | X   | X    | X   |     |     |     |     |      |      |      |      |      |      |      |
-| Samuel Hobbs         | X   | X    | X   | X   |     |     |     |      |      |      |      |      |      |      |
-| Tate Kollar          | X   | X    | X   | X   |     |     |     |      |      |      |      |      |      |      |
-| Antony Larrick       | X   | X    | X   | X   |     |     |     |      |      |      |      |      |      |      |
+| Samuel Hobbs         | X   | X    | X   | X   |  X  |     |     |      |      |      |      |      |      |      |
+| Tate Kollar          | X   | X    | X   | X   |  X  |     |     |      |      |      |      |      |      |      |
+| Antony Larrick       | X   | X    | X   | X   |  X  |     |     |      |      |      |      |      |      |      |
 | Isabel Reynolds      | X   | X    | X   | X   |     |     |     |      |      |      |      |      |      |      |
 | Jeffrey Schade       | X   | X    |     | X   |     |     |     |      |      |      |      |      |      |      |
 | Lauren Sweetland     |     |      |     |     |     |     |     |      |      |      |      |      |      |      |
-| Ryan Turner          |     |      |     | X   |     |     |     |      |      |      |      |      |      |      |
+| Ryan Turner          |     |      |     | X   |  X  |     |     |      |      |      |      |      |      |      |
 | Zachariah Wrublewski | X   | X    | X   | X   |     |     |     |      |      |      |      |      |      |      |
 |----------------------+-----+------+-----+-----+-----+-----+-----+------+------+------+------+------+------+------|
 
@@ -4349,6 +4404,9 @@ in sensibility. This is the task of the (in)famous "Transcendental Deduction
 of the Categories." This week we'll look at the overall structure of the
 Deduction, and consider the initial few sections in some detail.
 
+- [[file:static/materials/handouts/handout4-deduction-I.pdf][Handout]]
+
+
 **** Readings
 - CPR: The Transcendental Deduction, B129-69 (Guyer & Wood, 245-66) 
   - During this class we'll focus primarily on the 'first step' of the
@@ -4357,7 +4415,7 @@ Deduction, and consider the initial few sections in some detail.
 - Optional: Pereboom, [[https://www.dropbox.com/s/bn49z2qpffkq5uv/pereboom2006.pdf?dl=0]['Kant's Metaphysical and Transcendental Deductions']] 
 - Optional: Pereboom, [[https://www.dropbox.com/s/e8c8jq3e380a3hb/pereboom1995.pdf?dl=0]['Self-Understanding in Kant's Transcendental Deduction']] 
 - Optional: Guyer, [[https://www.dropbox.com/s/fu32owtdal7ldx9/guyer2010a.pdf?dl=0]['The Deduction of the Categories: The Metaphysical and Transcendental Deductions']]
-# - [[file:%7Cfilename%7C/pdfs/phil871/phil871kant/5_KantTDI.pdf][Handout]]
+- [[file:%7Cfilename%7C/pdfs/phil871/phil871kant/5_KantTDI.pdf][Handout]]
   
 
 **** Questions
@@ -4381,6 +4439,8 @@ This week we continue our discussion of the Deduction by looking at the
 "second step" in the argument. We'll also discuss whether the success of the
 argument depends on construing intuition as dependent for its existence on the
 activity of the intellect.
+
+- [[file:static/materials/handouts/handout5-deduction-II.pdf][Handout]]
 
 **** Readings
 - CPR: The Transcendental Deduction, B129-69 (Guyer & Wood, 245-66)
@@ -4431,6 +4491,8 @@ This week we'll wrap up our discussion of the Deduction and move on to Kant's
 discussion of the "schematism" of the categories in their role as "principles"
 of experience. 
 
+- [[file:static/materials/handouts/handout6-schematism.pdf][Handout]]
+
 **** Readings
 - CPR: 
   - Review the Deduction
@@ -4449,21 +4511,24 @@ of experience.
 - What are schemata needed? (i.e. what is the problem of the Schematism chatpter?)
 - What is a "schematized" category? 
 
-*** DRAFT Week 8 - Defending Causation
+*** DONE Week 8 - Defending Causation
+SCHEDULED: <2018-10-09 Tue>
 :PROPERTIES:
 :EXPORT_FILE_NAME: week8
 :END:
 
 Hume famously presents a challenge to conceptions of causation as a kind of
-necessitation relation. This week we look at Kant's attempt to defend the
-application of a concept of causation as necessity to the objects of
-experience. Does Kant succeed in giving a reply to Hume?
+necessitation relation. This week we look at Kant's attempt in the Second
+Analogy to defend the application of a concept of causation as necessity to
+the objects of experience. Does Kant succeed in giving a reply to Hume?
 
 **** Readings
 - CPR: Analogies of Experience, B218-224 (Guyer & Wood, 295-98); Second
   Analogy, B232-256 (Guyer & Wood, 304-316)
-- Watkins, The System of Principles, §§4-7
-
+- Beck, [[https://www.dropbox.com/s/h9x5uq2aunau9ck/beck1978-ch8_Six_Short_Pieces_on_the_Second_Analogy_of_Experience.pdf?dl=0][Six Short Pieces on the Second Analogy of Experience]]
+- Van Cleve, [[https://www.dropbox.com/s/xjlbsm3o8rejf22/vancleve1999-ch9_causation_and_the_second_analogy.pdf?dl=0][Causation and the Second Analogy]]
+- Watkins, [[https://www.dropbox.com/s/o3fnqe672dafpt8/watkins2010_the_system_of_principles.pdf?dl=0][The System of Principles, §§4-7]]
+- Watkins, [[https://www.dropbox.com/s/mpyx2km0bjx0aym/watkins2004_kant%2527s_model_of_causality.pdf?dl=0][Kant's Model of Causality]]
   
 **** Questions
 - What categories constitute the analogies of experience?
@@ -6717,18 +6782,150 @@ it’s still unclear to me how the imagination could be sketched as essentially 
 Though it is (unsurprisingly) debatable exactly what Kant's conception of the "free play" of the faculties comes to, it is compatible with a number of ways of treating that view that there is synthesis going on. The basic idea is that the imagination /tries/ to synthesize its object (the art object or the sublime) in a categorial manner but never quite succeeds. Nevertheless, this attempt to do so has a pleasurable result, and it is this pleasurable result that we experience as the (objective) enjoyment of beauty. 
 ** Responses Week 7
 
-*** Edward Acuna Quintana
 *** Steve Byerly
+#+BEGIN_QUOTE
+I am not clear how the “understanding is capable of being instructed and equipped through rules” and how can we know which rule/rules instruct the power of judgement (B172).
+#+END_QUOTE
+In a sense this is pretty straightforward. I can teach you the concepts <red> and <blue>, and then you can go and sort the red things from the blue things. But there is a somewhat myterious component to this, as Kant denies that we can ultimately understand one's ability to judge the red things from the blue things entirely in terms of rules. 
+
+#+BEGIN_QUOTE
+if [the understanding] wanted to show generally how one ought to subsume under these rules, i.e., distinguish whether something stands under them or not, this could not happen except once again through a rule. But just because this is a rule, it would demand another instruction for the power of judgment, and so it becomes clear that although the understanding is certainly capable of being instructed and equipped through rules, the power of judgment is a special talent that cannot be taught but only practiced. (B172)
+#+END_QUOTE
 *** Vy Doan
+#+BEGIN_QUOTE
+What I’m confused about is that: is the schema purely intellectual? He said in B180 “The schema of the triangle can never exist anywhere except in thought”. 
+#+END_QUOTE
+Kant is confusing on this point, and it isn't clear what his considered position is. He says that "The schema is in itself always only a product of the imagination" (B179) but as you point out he also says that the schema exists "in thought" (B180). 
+
+Perhaps the most straightforward way to reconcile these texts is to construe "thought" broadly as "in the mind." Kant is saying that unlike the intuition of a particular triangular object, the /schema/ for the representation of that triangle is merely a rule for organizing representations. 
+
+#+BEGIN_QUOTE
+But if I am to not accept the schemata for the reason that there are no arguments to support them, then it would be easy to reject the schemata of the categories
+#+END_QUOTE 
+Certainly it seems very open to the reader to object to Kant here---how exactly does time + a category yield the particular schematized categories that Kant describes?
 *** Cale Harms
+#+BEGIN_QUOTE
+I think it is best to start with generally considering the schema of a concept in general. The Wikipedia definition states that a schema “describes a pattern of thought or behavior that organizes categories of information and the relationships among them”. One question is how far does Kant’s definition differ in his use of the word?
+#+END_QUOTE
+Somewhat surprisingly, the Wikipedia definition is not that far from Kant's usage. He clearly thinks of a schema as a way of organizing or marshaling information for use in thinking and perceiving. But a schema isn't a pattern of thought (that would be purely conceptual) nor pattern of behaviour (if by that is specifically meant some set of bodily movements) but a rule or method for organizing or generating sensory representations according to the content of a concept. 
+
+#+BEGIN_QUOTE
+It is still not clear to me how the schemata applies or differs between this different kinds of concepts.
+#+END_QUOTE
+This is because Kant is unclear! This will be a central topic of discussion tomorrow. 
+
+#+BEGIN_QUOTE
+I am also trying to understand how the Schematism fits into the rest of Kant’s project.
+#+END_QUOTE 
+Recall the way I've been presenting the order of questions in Kant's discussion:
+
+  1. /Which/ concepts are a priori? (the Metaphysical Deduction)
+  2. /Must/ the categories apply to objects of experience? (the
+     Transcendental Deduction)
+  3. /How/ could the categories apply to objects of experience? (the
+     Schematism)
+  4. /What/ synthetic a priori truths do we know as the result of their
+     application? (the System of All Principles)
+
+     
+So Kant is trying to give us an explanation as to how the pure categories could apply to object of empirical intuition, given the radically different nature of the representational content involved. 
+
 *** Samuel Hobbs
+#+BEGIN_QUOTE
+For one thing, imagination (I can’t exactly recall whether Yablo uses the term) doesn’t necessarily correspond to imaging
+#+END_QUOTE
+Certainly this seems to be a big innovation of Kant's. The imagination doesn't just produce "images", it generates schemata by which images are produced. And what you say about the determinable/determinate relation is certainly one way to think about this. 
+
+#+BEGIN_QUOTE
+A question of mine is whether this capacity of imagination which is “more the representation of a method” operates independently of appearance. If it can and does, would, for Kant, this have any conceivability role for determining what may be possible?
+#+END_QUOTE
+Recall that Kant posits a fundamental faculty, the "pure productive" imagination, that operates on an a priori manifold (e.g. pure space or pure time). It is the synthesis of this pure manifold that allows representation of space and time as objects. Insofar as (the representations of) space and time and all that appears in them constitutes the domain of what we can cognize as /really/ possible, imagination plays an important role in our grasp of modality and thus in the possibility of cognition proper. 
 *** Tate Kollar
-*** Antony Larrick
+#+BEGIN_QUOTE
+He says general logic can be divided similar to how the faculties of cognition can be divided, whereas transcendental logic cannot have the same division because it is not objectively valid. This means no object could really display transcendental logic
+#+END_QUOTE
+This isn't quite right -- though Kant makes things especially confusing by introducing but not explaining his notion of "dialectic" and the dialectical inferences of reason. Kant's main point, in the opening of the Analytic of Principles, is to deny that he can treat reason the same way logic would. Though we'll talk more about this in a few weeks, I can say something in class about the problem Kant sees with reason. 
+
+#+BEGIN_QUOTE
+Kant says towards the end of the schematism that without schemata the categories only function as concepts but cannot represent any object. Again, schema or schemata seem to be a bridge linking the two faculties of sensibility and intellect. To me this seems to be an important and intuitive need for Kant’s conception of the human mind
+#+END_QUOTE
+Yep - this is important. The categories only apply to objects by virtue of being "schematized." This means that all the categories gain an important /temporal/ element (as time is the transcendental schema of the categories). 
+
+#+BEGIN_QUOTE
+I’m also not sure I fully understand Kant’s justification for the need of the schema. Couldn’t we just have a sensibility and an intellect that work in conjunction and not in relation?
+#+END_QUOTE
+The intellect needs something to think about and it is sensibility that supplies that subject matter. 
 *** Isabel Reynolds
+#+BEGIN_QUOTE
+Kant defines homogenous as “an object is contained under a concept”
+#+END_QUOTE
+Kant gives a slightly different gloss -- he says:
+#+BEGIN_QUOTE
+the concept must contain that which is represented in the object that is to be subsumed under it (B176)
+#+END_QUOTE
+What is not explicitly said but is implied is that "that which is represented in the object" is to be taken as requiring an /intuition/ of the object (for there is no other way for our concepts to relate to particular objects other than via the intuition of those objects)
+
+#+BEGIN_QUOTE
+Homogenous representations are both intellectual and sensible?
+#+END_QUOTE
+Homogenous representations are representations that share (some of) the same content. Sensibile intuitions might be homogenous with each other in various ways, as might empirical concepts (with both each other and with empirical intuitions). But how could an a priori concept be homogenous with an empirical intuition? That is the "homogenity problem" with which Kant begins the discussion of the Schematism. 
+
+#+BEGIN_QUOTE
+What does he mean by “dialectical” in B171?
+#+END_QUOTE
+See my answer to Tate, but we'll discuss this more in class. 
+
+#+BEGIN_QUOTE
+The schema is not an image (BI80). The schema is thinking about the dots as being represented by the number 3. Being able to represent the number 3 relies on a multiplicity of representations, and getting to the number three is just the procedure which applies a concept with an image.
+#+END_QUOTE
+Right, schemata are not images. Schemata are rules for generating images of objects. For example, the schema of the number /3/ will form the basis for my generating any of a variety of images of /3/ (e.g. three dots, three chairs, three taps, etc.)
+
+#+BEGIN_QUOTE
+“The general though to be sure only negative condition of all of our judgements whatsoever is that they do not contradict themselves” (BI90). What does he mean by the general though?
+#+END_QUOTE
+Remember that Kant conceives of logic as delineating the rules by which the intellect operates. So judgment, as an act of the mind, is governed by rules (logical rules). The law or rule of non-contradiction is the most basic rule of logic (in Kant's view) so it is "general" in the sense of being the most basic condition by which the understanding's operations may occur. No representation counts as a judgment if it is contradictory. 
+
 *** Jeffrey Schade
-*** Lauren Sweetland
+#+BEGIN_QUOTE
+What I found interesting in this week’s reading is the distinction between general logic and transcendental logic. Does this distinction give us a method of differentiating the logical functions of the understanding from the categories? 
+#+END_QUOTE
+I'm not sure whether we get a 'method', but the distinction tracks Kant's distinction between consideration of the laws of the intellect merely in and of themselves (pure general logic) an consideration of those laws as means of relating to objects (transcendental logic). Since, for us finite beings, we can only think of objects that are given via sensibility (and thus via intuition) transcendental logic always concerns for us objects as they must be given to us via our forms of intuition. 
+
+#+BEGIN_QUOTE
+Is this because the categories have been derived from the logical functions of the understanding by means of transcendental logic rather than general logic, which is to say that the categories have content, whereas the logical functions of the understanding, being only the form of thought, have no content, and therefore cannot subsume an object to a concept, as the categories must do? 
+#+END_QUOTE
+If I'm understanding you correctly the short answer is "yes." The logical functions have no "content" because they have no relation to an object (this is typically what Kant means by "content" or "/Inhalt/"). The categories, as ways of synthesizing intuitions, do relate to objects (via the synthesis of the intuition) and so do have "content." But then, as you go on to describe, Kant thinks there is a problem of the "homogenity" of concept with intuition. We'll discuss this in greater detail in class (though see my answers to other folks about this issue too). 
+
 *** Ryan Turner
+#+BEGIN_QUOTE
+When it comes to conceiving of a polygon with a thousand sides, do we imagine it (visually) in the same way we do a triangle? Or do we have only an abstract notion of such a thing, with perhaps an accompanying “mental picture,” but not one that (as it were) “sensibly” bears that basic property in the way that our imagination can represent a triangle, circle, etc.?
+#+END_QUOTE
+This is a nice example to reach for, though, as you point out, Descartes is interested in making a slightly different point from the one Kant is interested in making. But both deny that the empiricist position according to which we represent kinds by means of particular mental images. 
+
+In Kant's case the point is that no particular image is adequate to the content of a concept, so we need some way of /generating/ images that fit with our concepts without making the mistake of /identifying/ those images with the concepts. That is where schemata come in. 
+
+#+BEGIN_QUOTE
+to the extent mental images of triangles might be employed when thinking of them, we necessarily are comparing them to some kind of quick checklist of properties before endorsing or rejecting them as fitting the concept. (Something like that; this can work differently but isn’t where I’m going with my question.) How, though, do we succeed in making those comparisons so reliably? For if I’m comparing some object of my perception to the mental image of a triangle, and that image in turn to a triangle schemais there any way to say avoiding an infinite regress of such comparisons is necessarily possible?
+#+END_QUOTE
+
+First, one doesn't /compare/ an image to a schema -- the schema generates an image. So, for my concept of a triangle, the schema of that concept is a rule for generating an indefinite variety of different three-sided figures. This may be enough to avoid the regress. But there is also Kant's conception of the faculty of judgment as the faculty for subsuming objects under concepts. And Kant denies that we know how do to this by following rules, for a regress would result (B172). So he seems to think that we simply have a primitive capacity to judge correctly (and thus subsume an object under a concept), at least under optimal conditions (and which may need lots of practice), without having to follow further rules.
+
 *** Zachariah Wrublewski
+#+BEGIN_QUOTE
+Does Kant here mean something like “If the concept of a plate includes circularity, then it has homogeneity with the concept of a circle?”
+#+END_QUOTE
+Yep -- Kant seems to think that "homogenity" in representation requires (in some sense) sameness of content. So there has to be a way in which the content of a concept (e.g. <round>) can be shared with the content of an intuition of an object (e.g. the intuition of a plate). 
+
+#+BEGIN_QUOTE
+it seems to be the case that he has to think that there is some moment that constitutes the last noon-ish moment when considering the possible moments on their own (as opposed to in relation to other moments). And, given the rest of what he says about concepts and objects, it also seems that he thinks that, in principle, it’s possible for us mere mortals to know what that last noon-ish moment is.
+#+END_QUOTE
+
+Kant seems to think that all existing things are fully determinate. He begins the ‘Transcendental Ideal’ section of the /Critique of Pure Reason/ with a discussion of what he calls ‘the principle of complete determination.’ This principle states that every object is completely determinate with respect to every pair of predicates F and \not F, that is, every object is determinately either F, or \not F. But Kant denies that every /phenomenal/ object is completely determinate. This is especially clear from his discussion in the first and second "Antinomies" of the divisibility of objects and the totality of world whole (i.e. the cosmos). 
+
+Kant thinks that if the spatiotemporal world were not ideal---i.e. if it existed entirely independently of us---it would have a determinate extent in space and time, because it would exist as a determinate, complete totality. But once we realise that the world of which we have experience does not exist independently of our being able to cognize it, we can explain how it could be that it does not exist as a determinate totality. We cannot cognize it as a determinate totality (neither as finite nor as infinite) so it doesn't exist as one (this is part of what makes Kant's position /idealist/ after all). In respect of its totality and its divisibility, Kant says that ‘the world of sense has no absolute magnitude’ (A521/B549). He says that because ‘the world does not exist at all (independently of the regressive series of my representations), it exists neither as an in itself infinite whole nor as an in itself finite whole’ (A505/B533). Kant thinks that we can explain how it can be that the world of sense has no determinate magnitude once we realise that the empirically real world is not completely independent of mode of experiencing it. Sine our cognition is of appearances only we aren't required to conceive of the world as 'determined in itself regarding its magnitude’ (A504/B532).
+
+So Kant thinks the phenomenal world is possible for us to cognize but isn't determinate. Things as they are in themselves /are/ determinate, but are not possible for us to cognize. 
+
 
 ** Responses Week 8
 
