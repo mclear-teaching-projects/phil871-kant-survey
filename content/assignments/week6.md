@@ -1,6 +1,6 @@
 +++
 title = "Week 6 - The Transcendental Deduction II"
-publishDate = 2018-09-25T00:00:00-05:00
+publishDate = 2018-09-25T00:00:00-04:00
 tags = ["a priori", "categories", "concepts", "deduction", "idealism", "imagination", "intellectualism", "judgment", "sensibilism"]
 draft = false
 weight = -100
@@ -13,6 +13,8 @@ This week we continue our discussion of the Deduction by looking at the
 &ldquo;second step&rdquo; in the argument. We&rsquo;ll also discuss whether the success of the
 argument depends on construing intuition as dependent for its existence on the
 activity of the intellect.
+
+-   [Handout](/materials/handouts/handout5-deduction-II.pdf)
 
 
 ## Readings {#readings}

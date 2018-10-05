@@ -4415,7 +4415,6 @@ Deduction, and consider the initial few sections in some detail.
 - Optional: Pereboom, [[https://www.dropbox.com/s/bn49z2qpffkq5uv/pereboom2006.pdf?dl=0]['Kant's Metaphysical and Transcendental Deductions']] 
 - Optional: Pereboom, [[https://www.dropbox.com/s/e8c8jq3e380a3hb/pereboom1995.pdf?dl=0]['Self-Understanding in Kant's Transcendental Deduction']] 
 - Optional: Guyer, [[https://www.dropbox.com/s/fu32owtdal7ldx9/guyer2010a.pdf?dl=0]['The Deduction of the Categories: The Metaphysical and Transcendental Deductions']]
-- [[file:%7Cfilename%7C/pdfs/phil871/phil871kant/5_KantTDI.pdf][Handout]]
   
 
 **** Questions
@@ -4521,6 +4520,8 @@ Hume famously presents a challenge to conceptions of causation as a kind of
 necessitation relation. This week we look at Kant's attempt in the Second
 Analogy to defend the application of a concept of causation as necessity to
 the objects of experience. Does Kant succeed in giving a reply to Hume?
+
+# - [[file:static/materials/handouts/handout6-schematism.pdf][Handout]]
 
 **** Readings
 - CPR: Analogies of Experience, B218-224 (Guyer & Wood, 295-98); Second

@@ -1,6 +1,6 @@
 +++
 title = "Week 7 - The Deduction & Transition to the Principles"
-publishDate = 2018-10-02T00:00:00-05:00
+publishDate = 2018-10-02T00:00:00-04:00
 tags = ["categories", "time", "schematism", "concepts", "imagination"]
 draft = false
 weight = -100

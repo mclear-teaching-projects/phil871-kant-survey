@@ -1,6 +1,6 @@
 +++
 title = "Week 5 - The Transcendental Deduction I"
-publishDate = 2018-09-18T00:00:00-05:00
+publishDate = 2018-09-18T00:00:00-04:00
 tags = ["a priori", "categories", "concepts", "deduction", "idealism", "judgment", "apperception", "self-consciousness"]
 draft = false
 weight = -100
@@ -28,7 +28,6 @@ Deduction, and consider the initial few sections in some detail.
 -   Optional: Pereboom, [&rsquo;Kant&rsquo;s Metaphysical and Transcendental Deductions&rsquo;](https://www.dropbox.com/s/bn49z2qpffkq5uv/pereboom2006.pdf?dl=0)
 -   Optional: Pereboom, [&rsquo;Self-Understanding in Kant&rsquo;s Transcendental Deduction&rsquo;](https://www.dropbox.com/s/e8c8jq3e380a3hb/pereboom1995.pdf?dl=0)
 -   Optional: Guyer, [&rsquo;The Deduction of the Categories: The Metaphysical and Transcendental Deductions&rsquo;](https://www.dropbox.com/s/fu32owtdal7ldx9/guyer2010a.pdf?dl=0)
--   [Handout](%7Cfilename%7C/pdfs/phil871/phil871kant/5_KantTDI.pdf)
 
 
 ## Questions {#questions}
