@@ -4545,6 +4545,17 @@ the objects of experience. Does Kant succeed in giving a reply to Hume?
 
 No class this week. 
   
+*** DONE Third Passage Analysis Due 10/19
+SCHEDULED: <2018-10-19 Fri 17:00>
+:PROPERTIES:
+:EXPORT_FILE_NAME: analysis-3
+:END:
+In no more than 500 words describe Kant's argument or point in the passage in as plain English as possible. For this assignment please identify the argument of the passage. This means (i) identifying the conclusion or main claim of the passage; (ii) identifying the evidence Kant provides for that conclusion or claim. The analysis is due via [[mailto:mclear@unl.edu][email]] Friday, October 19 by 5 p.m.
+
+#+BEGIN_QUOTE
+Understanding belongs to all experience and its possibility, and the first thing that it does for this is not to make the representation of the objects distinct, but rather to make the representation of an object possible at all. Now this happens through its conferring temporal order on the appearances and their existence by assigning to each of these, as a consequence, a place in time determined /a priori/ in regard to the preceding appearances, without which it would not agree with time itself, which determines the position of all its parts /a priori/. Now this determination of position cannot be borrowed from the relation of the appearances to absolute time (for that is not an object of perception), but, conversely, the appearances themselves must determine their positions in time for each other, and make this determination in the temporal order necessary, i.e., that which follows or happens must succeed that which was contained in the previous state in accordance with a general rule, from which arises a series of appearances, in which by means of the understanding the very same order and constant connection in the series of possible perceptions is produced and made necessary as would be encountered /a priori/ in the form of inner experience (time), in which all perceptions would have to have their place. (B244-5)
+#+END_QUOTE
+
 *** DRAFT Week 10 - The Dialectic of Reason
 :PROPERTIES:
 :EXPORT_FILE_NAME: week10
