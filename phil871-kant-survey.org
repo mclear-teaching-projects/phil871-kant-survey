@@ -4424,7 +4424,7 @@ necessitation relation. This week we look at Kant's attempt in the Second
 Analogy to defend the application of a concept of causation as necessity to
 the objects of experience. Does Kant succeed in giving a reply to Hume?
 
-# - [[file:static/materials/handouts/handout6-schematism.pdf][Handout]]
+- [[file:static/materials/handouts/handout7-causation.pdf][Handout]]
 
 **** Readings
 - CPR: Analogies of Experience, B218-224 (Guyer & Wood, 295-98); Second
@@ -4433,6 +4433,9 @@ the objects of experience. Does Kant succeed in giving a reply to Hume?
 - Van Cleve, [[https://www.dropbox.com/s/xjlbsm3o8rejf22/vancleve1999-ch9_causation_and_the_second_analogy.pdf?dl=0][Causation and the Second Analogy]]
 - Watkins, [[https://www.dropbox.com/s/o3fnqe672dafpt8/watkins2010_the_system_of_principles.pdf?dl=0][The System of Principles, §§4-7]]
 - Watkins, [[https://www.dropbox.com/s/mpyx2km0bjx0aym/watkins2004_kant%2527s_model_of_causality.pdf?dl=0][Kant's Model of Causality]]
+- Watkins, [[https://www.dropbox.com/s/98cvaxn1g6i6r7b/watkins2005-ch3_Kant%2527s_Second_and_Third_Analogies_of_Experience.pdf?dl=0][Kant's Second and Third Analogies]]
+- Dicker, [[https://www.dropbox.com/s/z6yzbithwh83vde/dicker2004-ch7_The_Second_Analogy.pdf?dl=0][The Second Analogy]]
+  
   
 **** Questions
 - What categories constitute the analogies of experience?

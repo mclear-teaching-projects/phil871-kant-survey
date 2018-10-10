@@ -13,6 +13,8 @@ necessitation relation. This week we look at Kant&rsquo;s attempt in the Second
 Analogy to defend the application of a concept of causation as necessity to
 the objects of experience. Does Kant succeed in giving a reply to Hume?
 
+-   [Handout](/materials/handouts/handout7-causation.pdf)
+
 
 ## Readings {#readings}
 
@@ -22,6 +24,8 @@ the objects of experience. Does Kant succeed in giving a reply to Hume?
 -   Van Cleve, [Causation and the Second Analogy](https://www.dropbox.com/s/xjlbsm3o8rejf22/vancleve1999-ch9%5Fcausation%5Fand%5Fthe%5Fsecond%5Fanalogy.pdf?dl=0)
 -   Watkins, [The System of Principles, §§4-7](https://www.dropbox.com/s/o3fnqe672dafpt8/watkins2010%5Fthe%5Fsystem%5Fof%5Fprinciples.pdf?dl=0)
 -   Watkins, [Kant&rsquo;s Model of Causality](https://www.dropbox.com/s/mpyx2km0bjx0aym/watkins2004%5Fkant%2527s%5Fmodel%5Fof%5Fcausality.pdf?dl=0)
+-   Watkins, [Kant&rsquo;s Second and Third Analogies](https://www.dropbox.com/s/98cvaxn1g6i6r7b/watkins2005-ch3%5FKant%2527s%5FSecond%5Fand%5FThird%5FAnalogies%5Fof%5FExperience.pdf?dl=0)
+-   Dicker, [The Second Analogy](https://www.dropbox.com/s/z6yzbithwh83vde/dicker2004-ch7%5FThe%5FSecond%5FAnalogy.pdf?dl=0)
 
 
 ## Questions {#questions}
