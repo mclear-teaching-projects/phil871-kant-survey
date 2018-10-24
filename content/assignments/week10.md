@@ -1,6 +1,7 @@
 +++
 title = "Week 10 - The Dialectic of Reason"
 publishDate = 2018-10-23T00:00:00-05:00
+tags = ["inference", "reason", "dialectic"]
 draft = false
 weight = -100
 author = false
@@ -14,6 +15,8 @@ discussion of phenomena and noumena. Second we start looking at Kant&rsquo;s bro
 negative argument that constitutes the &ldquo;critique&rdquo; of reason proper. We&rsquo;ll look
 at his conception of what the faculty of reason is, why it tends to lead us
 into illusion, and the form of these illusions.
+
+-   [Handout](/materials/handouts/handout8-dialectic.pdf)
 
 
 ## Readings {#readings}

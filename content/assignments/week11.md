@@ -1,6 +1,8 @@
 +++
 title = "Week 11 - The Paralogisms"
-draft = true
+publishDate = 2018-10-30T00:00:00-05:00
+tags = ["inference", "mind", "reason", "dialectic"]
+draft = false
 weight = -100
 author = false
 toc = false
@@ -15,7 +17,7 @@ self.
 
 ## Readings {#readings}
 
--   CPR: The Paralogisms, B399-B431 (Guyer & Wood, 411-15, 445-58)
+-   CPR: Dialectical Inferences, B396-8 (Guyer & Wood 409-10); The Paralogisms, B399-B431 (Guyer & Wood, 411-15, 445-58)
 
 
 ## Questions {#questions}

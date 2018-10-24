@@ -1,6 +1,7 @@
 +++
 title = "Week 8 - Defending Causation"
 publishDate = 2018-10-09T00:00:00-05:00
+tags = ["causation", "time", "necessity", "hume", "law"]
 draft = false
 weight = -100
 author = false
