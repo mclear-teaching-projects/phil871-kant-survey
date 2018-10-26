@@ -4472,6 +4472,9 @@ self.
 
 **** Readings
 - CPR: Dialectical Inferences, B396-8 (Guyer & Wood 409-10); The Paralogisms, B399-B431 (Guyer & Wood, 411-15, 445-58)
+- OPTIONAL: Rosefeldt, [[https://www.dropbox.com/s/ltvsixj9iw41x7q/rosefeldt2017a_Subjects_of_Kant%2527s_First_Paralogism.pdf?dl=0][Subjects of Kant's First Paralogism]]
+- OPTIONAL: Wuerth, [[https://www.dropbox.com/s/mhwvqhy7gkio1sv/wuerth2010_the_paralogisms_of_pure_reason.pdf?dl=0][The Paralogisms of Pure Reason]]
+- OPTIONAL: Proops, [[https://www.dropbox.com/s/rn7i4kq2u6xghbv/proops2010_kant%2527s_first_paralogism.pdf?dl=0][Kant's First Paralogism]]
 
 
 **** Questions
