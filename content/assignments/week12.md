@@ -1,6 +1,8 @@
 +++
 title = "Week 12 - Freedom in the Third Antinomy"
-draft = true
+publishDate = 2018-11-06T00:00:00-06:00
+tags = ["aninomies", "reason", "dialectic", "freedom", "causality", "responsibility", "morality"]
+draft = false
 weight = -100
 author = false
 toc = false
@@ -8,7 +10,7 @@ type = "post"
 +++
 
 For our final week on the first _Critique_ we discuss Kant&rsquo;s Third Antinomy and
-the various conceptions of freedom. In particular, we&rsquo;ll see how Kant aims to
+various conceptions of freedom. In particular, we&rsquo;ll see how Kant aims to
 secure the logical possibility that we are what he calls &ldquo;transcendentally
 free.&rdquo; We&rsquo;ll also look at how this view is developed in the _Critique of
 Practical Reason_.
@@ -20,7 +22,8 @@ Practical Reason_.
     A444-51/B474-9 (Guyer and Wood, 459-69 and 484-9)
 -   CPR: Resolution of the cosmological idea, A532-58/B560-86 (Guyer and Wood, 532-46)
 -   CPrR: 5:91-100 (_Practical Philosophy_ 213-220)
--   Pereboom, [&rsquo;Kant on Transcendental Freedom&rsquo;](https://www.dropbox.com/s/5i3pofvwannostk/pereboom2006b.pdf?dl=0)
+-   OPTIONAL: Pereboom, [&rsquo;Kant on Transcendental Freedom&rsquo;](https://www.dropbox.com/s/5i3pofvwannostk/pereboom2006b.pdf?dl=0)
+-   OPTIONAL: Allison, &rsquo;[Kant on Freedom of the Will](https://www.dropbox.com/s/8ygvus5eqlhapzp/allison2006%5FKant%5Fon%5FFreedom%5Fof%5Fthe%5FWill.pdf?dl=0)&rsquo;
 
 
 ## Questions {#questions}

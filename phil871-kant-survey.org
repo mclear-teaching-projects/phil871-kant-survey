@@ -4476,13 +4476,15 @@ self.
 - What is "rational psychology"?
 - What is Kant's core criticism of rational psychology?
 
-*** DRAFT Week 12 - Freedom in the Third Antinomy
+*** DONE Week 12 - Freedom in the Third Antinomy
+SCHEDULED: <2018-11-06 Tue>
 :PROPERTIES:
 :EXPORT_FILE_NAME: week12
+:EXPORT_HUGO_TAGS: aninomies reason dialectic freedom causality responsibility morality
 :END:
 
 For our final week on the first /Critique/ we discuss Kant's Third Antinomy and
-the various conceptions of freedom. In particular, we'll see how Kant aims to
+various conceptions of freedom. In particular, we'll see how Kant aims to
 secure the logical possibility that we are what he calls "transcendentally
 free." We'll also look at how this view is developed in the /Critique of
 Practical Reason/.
@@ -4492,7 +4494,8 @@ Practical Reason/.
   A444-51/B474-9 (Guyer and Wood, 459-69 and 484-9)
 - CPR: Resolution of the cosmological idea, A532-58/B560-86 (Guyer and Wood, 532-46)
 - CPrR: 5:91-100 (/Practical Philosophy/ 213-220)
-- Pereboom, [[https://www.dropbox.com/s/5i3pofvwannostk/pereboom2006b.pdf?dl=0]['Kant on Transcendental Freedom']]
+- OPTIONAL: Pereboom, [[https://www.dropbox.com/s/5i3pofvwannostk/pereboom2006b.pdf?dl=0]['Kant on Transcendental Freedom']]
+- OPTIONAL: Allison, '[[https://www.dropbox.com/s/8ygvus5eqlhapzp/allison2006_Kant_on_Freedom_of_the_Will.pdf?dl=0][Kant on Freedom of the Will]]'
   
 
 **** Questions
