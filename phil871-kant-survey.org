@@ -1899,17 +1899,17 @@ inner sense with regard to temporal relations. (B233)
 :EXPORT_TITLE: Phenomena/Noumena & The Dialectic of Reason
 :EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/handout8-dialectic.pdf
 :END:
-:Pandoc:
-#+pandoc-emphasis-pre: "-\t ('\"{["
-#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
-# [/emph/]
-#+PANDOC_METADATA: "author:PHIL 4/871" "date:October 23, 2018" 
-#+PANDOC_METADATA: "lfoot:Colin McLear | October 23, 2018"
-#+PANDOC_METADATA: "lhead: Causation"
-#+PANDOC_EXTENSIONS: org+raw_tex
-#+LANGUAGE: en
-#+OPTIONS: ':t
-:END:
+# :Pandoc:
+# #+pandoc-emphasis-pre: "-\t ('\"{["
+# #+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
+# # [/emph/]
+# #+PANDOC_METADATA: "author:PHIL 4/871" "date:October 23, 2018" 
+# #+PANDOC_METADATA: "lfoot:Colin McLear | October 23, 2018"
+# #+PANDOC_METADATA: "lhead: Causation"
+# #+PANDOC_EXTENSIONS: org+raw_tex
+# #+LANGUAGE: en
+# #+OPTIONS: ':t
+# :END:
 *** Phenomena & Noumena
 - Positive vs. Negative conception of "noumena"[fn:24]
   - Positive: objects that can be known only by a non-sensible (intellectual) intuition
@@ -2147,49 +2147,103 @@ experience (A320/B377)
 \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
 
 
-** TODO Handout Week 11 - The Paralogisms
+** DONE Handout Week 11 - The Paralogisms
+:PROPERTIES:
+:EXPORT_TITLE: The Paralogisms
+:EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/handout9-paralogisms.pdf
+:END:
+:Pandoc:
+#+pandoc-emphasis-pre: "-\t ('\"{["
+#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
+# [/emph/]
+#+PANDOC_METADATA: "author:PHIL 4/871" "date:October 30, 2018" 
+#+PANDOC_METADATA: "lfoot:Colin McLear | October 30, 2018"
+#+PANDOC_METADATA: "lhead: The Paralogisms"
+#+PANDOC_EXTENSIONS: org+raw_tex
+#+LANGUAGE: en
+#+OPTIONS: ':t
+:END:
 *** Empirical v. Rational Psychology
-  :PROPERTIES:
-  :CUSTOM_ID: empirical-v.-rational-psychology
-  :END:
 
 - Empirical psychology is concerned with what may be learned via inner
   observation of one's mental states[fn:1]
 - Rational psychology concerns what may be deduced from the a priori
-  knowledge of oneself as a /thinking subject/[fn:4]
-
+  knowledge of oneself as a /thinking subject/[fn:2]
   - provides knowledge of the essence or nature of thinking beings in
     general
   - provides knowledge of objects that are not objects of a possible
     experience
 
+[fn:1] If more than the /cogito/ were the ground of our pure rational
+       cognition of thinking beings in general; if we also made use of
+       observations about the play of our thoughts and the natural laws
+       of the thinking self created from them: then an empirical
+       psychology would arise (A347/B405)
+
+[fn:2] *I think* is thus the sole text of rational psychology, from
+       which it is to develop its entire wisdom...because the least
+       empirical predicate would corrupt the rational purity and
+       independence of the science from all experience. (A343/B401)
+
+*** Two Kinds of Self-Consciousness
+- The "critical" Kant construes self-consciousness as fundamentally /bifurcated/
+  
+
+- Inner sense (empirical apperception): :: passive sensory representation of the subject as object\sidenote[][-.70in]{The consciousness of ourself in accordance with the determinations of our state in inner perception is merely empirical, forever variable; it can give no standing or abiding self {[}\emph{stehendes oder bleibendes Selbst}{]} in this stream of inner appearances, and is customarily called \textbf{inner sense} or \textbf{empirical apperception}. (On the Synthesis of Recognition in a Concept, A107)}
+     
+- Pure Apperception: :: /sui generis/, active, non-sensory (intellectual) representation of the subject as a subject[fn:27]\sidenote[][]{The consciousness of myself in the representation I is no intuition at all, but a merely intellectual representation of the self-activity of a thinking subject. (Refutation of Idealism, B278; see also B132, B157, B423)}
+
+[fn:27] now I want to become conscious of myself only as thinking; I put to
+one side how my proper self is given in intuition, and then it could be a mere
+appearance that I think, but not insofar as I think; in the consciousness of
+myself in mere thinking I am the being itself, about which, however, nothing
+yet is thereby given to me for thinking. (B-Paralogisms, General Remark B429)
+
+
+
+
+*** Questions About Inner Sense & Pure Apperception                           :noexport:
+
+- *Q_{1}*: What kinds of subjective states are candidates for awareness in inner sense? - feelings, pain & pleasure - sensations - thoughts/judgments? 
+- *Q_{2}*: If inner sense provides only a consciousness of discrete subjective states, then how could it ever provide first-person knowledge?\footnote[][]{[representations] could still (I consider myself as an animal) carry on their play in an orderly fashion, as connected according to empirical laws of association, and thus they could even have inﬂuence on my feeling and desire, without my being conscious of my own existence (assuming that I am even conscious of each individual representation, but not of their relation to the unity of representation of their object, by means of the synthetic unity of their apperception). This might be so without my cognizing the slightest thing thereby, not even what my own condition [\emph{Zustand}] is (To Marcus Herz, May 26, 1789; C 11:52).}
+- *Q_{3}*: In what way does inner sense (empirical apperception) depend on pure apperception?\footnote[][]{All empirical consciousness, however, has a necessary relation to a transcendental consciousness (preceding all particular experience), namely the consciousness of myself, as original apperception. (Transcendental Deduction A117, note)}
+
 *** The Paralogisms
-  :PROPERTIES:
-  :CUSTOM_ID: the-paralogisms
-  :END:
 
 - Instance of Transcendental Illusion
-- All paralogisms are syllogistic inferences[fn:6] with three
+- All paralogisms are syllogistic inferences[fn:3] with three
   distinguishing characteristics
-
   - fallacious categorical syllogism exhibiting an error of equivocation
-    between the major premise and the minor premise[fn:7]
-  - formally invalid but has true premises[fn:15]
-  - as an instance of TI, must be a plausible and compelling error
+    between the major premise and the minor premise[fn:4]
+  - formally invalid but has true premises[fn:5]
+  - as an instance of TI, must involve a plausible and compelling error
+    
 
 1. All M are P---major premise
 2. S is M---minor premise
 3. $\therefore$ S is P---conclusion
 
+[fn:3] All basic syllogisms consist of three categorical sentences (e.g.
+       'S is P'), in which the two premises share exactly one term,
+       called the 'middle term', and the conclusion contains the other
+       two terms, sometimes called the 'extremes'. The 'major' premise
+       is general, the 'minor' premise singular. The 'major' and 'minor'
+       terms figure in their respective premises. (SEP, "Ancient Logic")
+
+[fn:4] [A paralogism] arises when the middle concept is taken in
+       different senses in the two premises---when, namely, the
+       /logical/ relation (in thinking) in one of the premises is taken
+       as a real one (of the objects of intuition) in the other. (R
+       5552; 18:218; cf. A402 and B411)
+
+[fn:5] A *paralogism* is a syllogistic inference that is false as far as
+       its form is concerned, although as far as its matter (the
+       antecedent propositions) are concerned [/bei Vordersätzen/], it
+       is correct. (R 5552; 18:218)
+
 *** The First Paralogism -- Substantiality
-  :PROPERTIES:
-  :CUSTOM_ID: the-first-paralogism-substantiality
-  :END:
 
 **** A-edition Version (A348)
-   :PROPERTIES:
-   :CUSTOM_ID: a-edition-version-a348
-   :END:
 
 1. That which is the subject of judgment and cannot be predicated of
    anything else is substance.
@@ -2202,195 +2256,26 @@ experience (A320/B377)
 
 - Premise (1) is not a major premise but rather a definition
 - Premise (2) is not sufficiently general
-
-\newthought{Proop's Revision}:
-
-1. Entities whose representation cannot be used as a determination of
-   other things are substances. (All S is P)
-2. The self is an entity whose representation cannot be used as a
-   predicate of another thing. (M is S)
-3. $\therefore$ The self is a substance. (M is P)
-
-- Premises are plausibly true
-
-  - (1) is a definition
-  - (2) is true insofar as 'I' cannot figure in the predicate place of a
-    possible judgment
-
-- Problem: not clearly a paralogism
-
-  - valid & sound if 'determination' is read as 'predicate'
-  - notion of 'substance' is merely grammatical -- a claim about a
-    representation's use
-
-- Substance_{0}: :: x is a substance_{0} iff the representation of x
-  cannot be used as a predicate in a categorical judgment
-
-- Kant needs a better definition of 'substance' such that a genuine
-  paralogism results
-
+  
 **** B-edition Version (B410-11)
-   :PROPERTIES:
-   :CUSTOM_ID: b-edition-version-b410-11
-   :END:
 
 1. What cannot be thought otherwise than as subject does not exist
-   otherwise than as subject, and is therefore substance.[fn:10]:
+   otherwise than as subject, and is therefore substance.[fn:6]
 2. Now a thinking being, considered merely as such, cannot be thought
    otherwise than as subject.
 3. $\therefore$ A thinking being also exists only as such a thing, i.e.,
    as substance.
 
-\newpage
-\newthought{Proop's Revision}:
-
-1. All entities that cannot be thought otherwise than as subjects are
-   entities that cannot exist otherwise than as subjects, and therefore
-   (by definition) are substances. (All M are P)
-2. All entities that are thinking beings (considered merely as such) are
-   entities that cannot be thought otherwise than as subjects. (All S
-   are M)
-3. $\therefore$ All entities that are thinking beings (considered merely
-   as such) are entities that cannot exist otherwise than as subjects,
-   and therefore are substances (All S are P)
 
 - Invalid inference because of an equivocation in the use of
-  'thought'[fn:8]
-
-  - Premise (1) treats 'thought' as 'conception'
-
-    - claims that the inconceivability of something as a property/mode
-      entails that it cannot exist as a property/mode
-
-  - Premise (2) treats 'thought' as 'a representation used as the
-    predicate of a possible judgment'
-
+  'thought'[fn:7]
 - The 'logical' use of 'I' is mistaken for a 'real' use in denoting a
   purely intellectually graspable, 'unschematized' conception of
-  substance.[fn:9]
+  substance.[fn:8]
 
-  - Substance_{1}: a being whose existence is such that it can never
-    /inhere/ in anything else[fn:12][fn:16]
+[fn:6] 'does not' should read 'cannot'?
 
-    - concept of substance_{1} is logically consistent but may be
-      'really repugnant'
-    - we should remain agnostic as to whether there are any
-      substances_{1}
-
-  - (Empirical) Substance_{2}: a being that persists at every moment
-    (A144/B183, A182)
-
-*** The Second Paralogism -- Simplicity
-  :PROPERTIES:
-  :CUSTOM_ID: the-second-paralogism-simplicity
-  :END:
-
-1. That thing whose action can never be regarded as the concurrence of
-   many acting things, is simple. (All A is B)
-2. Now the soul, or the thinking I, is such a thing. (C is A)
-3. $\therefore$ The soul is a simple thing (substance). (C is B)
-
-- Known as the 'Achilles' argument[fn:17]
-- Paralogism consists in the confusion in the use of 'thing' (logical
-  vs. real)
-
-\newpage
-\newthought{Revised Version}:
-
-1. The subject whose action can never be regarded as the concurrence of
-   many acting things, is simple. (All A is B)
-2. The self is such a subject. (C is A)
-3. $\therefore$ The self is simple. (C is B)
-
-- Confusion hinges on logical vs. real notion of 'subject'
-
-  - 'Logical' sense of subject appeals to First Paralogism argument of a
-    representation that could never function as a predicate
-  - 'Real' sense of subject as something like a substance_{1}
-
-\newthought{The 'Nervus Probandi' of Achilles}:[fn:27]
-
-- (UC): :: if a multiplicity of representations are to form a single
-  representation, they must be contained in the absolute unity of the
-  thinking substance. (A352)
-
-- RP depends on the inference from unity of thought to 'absolute' unity
-  of thinker
-
-  - 'absolute unity' refers to a thinker which has no proper parts
-
-- Kant: why think that the structure of a thought, as a complex, isn't
-  mirrored by the structure of the entity, as a complex substance, which
-  thinks it?[fn:28]
-
-  - (UC) isn't analytic
-  - (UC) isn't synthetic a priori[fn:29]
-
-[fn:27] Nor will anyone venture to assert that this proposition allows
-        of being known synthetically and completely /apriori/ from mere
-        concepts - not, at least, if he understands the ground of the
-        possibility of /apriori/ synthetic propositions, as above
-        explained. (A353)
-
-[fn:28] Without a presupposed condition from any inclination, I connect
-        the deed with the will a priori, and hence necessarily (though
-        only objectively, i.e. under the idea of a reason that has
-        complete control over all subjective motives). This is therefore
-        a practical proposition that does not derive the willing of an
-        action analytically from willing another that is already
-        presupposed (for we have no such perfect will), but connects it
-        immediately with the concept of the will of a rational being, as
-        something that is not contained in it. (4:420, note)
-
-[fn:29] Act only in accordance with that maxim through which you can at
-        the same time will that it become a universal law (4:421;
-        cf. 4:402)
-
-*** References
-  :PROPERTIES:
-  :CUSTOM_ID: references
-  :CLASS: unnumbered
-  :END:
-
-\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
-\setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
-
-#+BEGIN_HTML
-  <!-- -->
-#+END_HTML
-
-[fn:1] If more than the /cogito/ were the ground of our pure rational
-       cognition of thinking beings in general; if we also made use of
-       observations about the play of our thoughts and the natural laws
-       of the thinking self created from them: then an empirical
-       psychology would arise (A347/B405)
-
-[fn:4] *I think* is thus the sole text of rational psychology, from
-       which it is to develop its entire wisdom...because the least
-       empirical predicate would corrupt the rational purity and
-       independence of the science from all experience. (A343/B401)
-
-[fn:5] All basic syllogisms consist of three categorical sentences (e.g.
-       'S is P'), in which the two premises share exactly one term,
-       called the 'middle term', and the conclusion contains the other
-       two terms, sometimes called the 'extremes'. The 'major' premise
-       is general, the 'minor' premise singular. The 'major' and 'minor'
-       terms figure in their respective premises.
-
-[fn:6] [A paralogism] arises when the middle concept is taken in
-       different senses in the two premises---when, namely, the
-       /logical/ relation (in thinking) in one of the premises is taken
-       as a real one (of the objects of intuition) in the other. (R
-       5552; 18:218; cf. A402 and B411)
-
-[fn:7] A *paralogism* is a syllogistic inference that is false as far as
-       its form is concerned, although as far as its matter (the
-       antecedent propositions) are concerned [/bei Vordersätzen/], it
-       is correct. (R 5552; 18:218)
-
-[fn:8] 'does not' should read 'cannot'?
-
-[fn:9] 'Thought' [/Das Denken/] is taken in an entirely different
+[fn:7] 'Thought' [/Das Denken/] is taken in an entirely different
        meaning [/Bedeutung/] in the two premises: in the major premise,
        as it applies to an object in general (hence as it may be given
        in intuition); but in the minor premise only as it subsists in
@@ -2398,7 +2283,7 @@ experience (A320/B377)
        thought, but only the relation to oneself as subject (as the form
        of thinking) is represented. (footnote, B 411-12)
 
-[fn:10] the first syllogism of transcendental psychology imposes on us an
+[fn:8] the first syllogism of transcendental psychology imposes on us an
        only allegedly new insight when it passes off the constant
        logical subject of thinking as the cognition of a real subject of
        inherence, with which we do not and cannot have the least
@@ -2409,40 +2294,140 @@ experience (A320/B377)
        we have no acquaintance with the subject in itself that grounds
        this I as a substratum, just as it grounds all thoughts.
 
-[fn:11] something can exist only as *subject*, not as mere determination
+[fn:9] something can exist only as *subject*, not as mere determination
        of other things, i.e., can be substance (B288)
 
-[fn:12] the I that I think can always be considered as *subject*, and as
+[fn:10] the I that I think can always be considered as *subject*, and as
         something that does not depend on thinking merely as a
         predicate...does not signify that I as *object* am for myself a
         *self-subsisting being* or *substance*. (B407)
 
-[fn:15] This is the Achilles of all the dialectical inferences of the
-        pure doctrine of the soul, nothing like a mere sophistical play
-        that a dogmatist devised in order to give his assertions a
-        fleeting plausibility, but an inference that seems to withstand
-        even the sharpest testing and the greatest scruples of inquiry.
-        (A351)
+**** A Gap in the Conception of Substance?
+- There is a gap between the category =<substance>= as derived from the logical structure of thought, and the category as a "schematized" concept of experience 
+    - <substance>$_L$: the grammatical conception of a term which always takes subject rather than predicate place in a judgment[fn:28]
+    - <substance>$_E$: the experiential conception of the persisting and permanent substratum of change[fn:29]
+- There is further conception of substance between the grammatical/logical & the experiential 
+    - <substance>$_M$: the purely metaphysical conception of a subject of inherence (whether persistent or not), which does not itself inhere in anything
+- What could be the source of this conception of substance?
+  - Cannot be analytically derived from <substance>$_L$
+  - Cannot be derived from content of intuition
+- The concept <substance>$_M$ (perhaps along with the other categories) derives from pure apperception\sidenote[][-.9in]{[The principles of] the objective determination of all representations, insofar as cognition can come from them...are all derived [abgeleitet] from the principle of the transcendental unity of apperception. (Transcendental Deduction §19, B142).}\sidenote[][]{Apperception is itself the ground of the possibility of the categories, which for their part represent nothing other than the synthesis of the manifold of intuition, insofar as that manifold has unity in apperception. \ldots{} Hence of the thinking I (the soul), which {[}thus represents{]} itself as substance\ldots{}one can say \emph{not so much} that is cognizes \emph{itself through the categories}, but that it cognizes the categories, and through them all objects, in the absolute unity of apperception, and hence cognizes them \emph{through itself}. (Observation on the sum of the pure doctrine of the soul, A401)}
 
-[fn:16] Every composite substance is an aggregate of many, and the
-        action of a composite, or of that which inheres in it as such a
-        composite, is an aggregate of many actions or accidents, which
-        is distributed among the multitude of substances...[Now] suppose
-        that the composite were thinking; then every part of it would be
-        a part of the thought, but the parts would first contain the
-        whole thought only when taken together. Now this would be
-        contradictory. For because the representations that are divided
-        among different beings (e.g., the individual words of a verse)
-        never constitute a whole thought (a verse), the thought can
-        never inhere in a composite as such. Thus it is possible only in
-        one substance, which is not an aggregate of many, and hence it
-        is absolutely simple. (A351-2)
+[fn:28] [Substance is that which] must always be considered as subject,
+    never as mere predicate (Transition to the Deduction, B129; see also
+    B186)
 
-[fn:17] For the unity of the thought, which consists of many
-        representations, is collective, and as far as mere concepts can
-        show may relate just as well to the collective unity of
-        different substances acting together (A353)
+[fn:29] The schema of substance is the persistence of the real in time,
+    i.e., the representation of the real as a substratum of empirical
+    time-determination in general, which therefore endures while
+    everything else changes. (Schematism, A144/B183)
 
+*** The Second Paralogism -- Simplicity  (A351-61/B407-8)
+
+1. That thing whose action can never be regarded as the concurrence of
+   many acting things, is simple. (All A is B)
+2. Now the soul, or the thinking I, is such a thing. (C is A)
+3. $\therefore$ The soul is a simple thing (substance). (C is B)
+
+
+- Known as the 'Achilles' argument\sidenote[][.1in]{This is the Achilles of all the dialectical inferences of the pure doctrine of the soul, nothing like a mere sophistical play that a dogmatist devised in order to give his assertions a fleeting plausibility, but an inference that seems to withstand even the sharpest testing and the greatest scruples of inquiry. (A351)}
+- Paralogism consists in the confusion in the use of 'thing' (logical
+  vs. real)
+
+\newthought{Revised Version}:
+
+
+1. The subject whose action can never be regarded as the concurrence of
+   many acting things, is simple. (All A is B)
+2. The self is such a subject. (C is A)
+3. $\therefore$ The self is simple. (C is B)
+
+
+- Confusion hinges on logical vs. real notion of 'subject'
+  - 'Logical' sense of subject appeals to First Paralogism argument of a
+    representation that could never function as a predicate
+  - 'Real' sense of subject as something like a substance_{1}
+
+\newthought{The 'Nervus Probandi' of Achilles}:\sidenote[][-1.8in]{Every composite substance is an aggregate of many, and the action of a composite, or of that which inheres in it as such a composite, is an aggregate of many actions or accidents, which is distributed among the multitude of substances...[Now] suppose that the composite were thinking; then every part of it would be a part of the thought, but the parts would first contain the whole thought only when taken together. Now this would be contradictory. For because the representations that are divided among different beings (e.g., the individual words of a verse) never constitute a whole thought (a verse), the thought can never inhere in a composite as such. Thus it is possible only in one substance, which is not an aggregate of many, and hence it is absolutely simple. (A351-2)}
+
+- (UC): :: if a multiplicity of representations are to form a single
+  representation, they must be contained in the absolute unity of the
+  thinking substance. (A352)
+
+- RP depends on the inference from unity of thought to 'absolute' unity
+  of thinker
+  - 'absolute unity' refers to a thinker which has no proper parts
+
+- Kant: why think that the structure of a thought, as a complex, isn't
+  mirrored by the structure of the entity, as a complex substance, which
+  thinks it?\sidenote[][-.5in]{For the unity of the thought, which consists of many
+  representations, is collective, and as far as mere concepts can show may
+  relate just as well to the collective unity of different substances acting
+  together (A353)}
+  - (UC) isn't analytic
+  - (UC) isn't synthetic a priori\sidenote[][]{Nor will anyone venture to assert that this proposition allows of being known synthetically and completely \emph{apriori} from mere concepts - not, at least, if he understands the ground of the possibility of \emph{apriori} synthetic propositions, as above explained. (A353)}
+
+*** The Third Paralogism (A361-66/B408)
+
+1. What is conscious of the numerical identity of its Self in different
+   times, is to that extent a person. (All C is P)
+2. Now the soul is conscious of the numerical identity of its Self in
+   different times. (S is C)
+3. $\therefore$ The soul is a person. (S is P)
+
+
+- Reminiscent of Locke's characterization of personhood in the
+  /Essay/[fn:15]
+  - Is Kant's discussion one concerning specifically /personal/
+    identity?
+    - establishing synchronic and diachronic criteria of identity
+  - Is Kant dealing with the Wolffian conception of personality?[fn:16]
+    - establishing criteria for distinguishing persons from animals via
+      elaboration of the complex of intellectual powers necessary for
+      personhood, and which would be sustained after the destruction of
+      one's body.[fn:17]
+- The ambiguity of the middle term: consciousness of numerical
+  identity[fn:18]
+  - logical unity of grammatical subject
+  - real unity of metaphysical subject
+
+[fn:15] [being a person requires a capacity for a being to think of] it
+       self as it self, the same thinking thing in different times and
+       places (@locke1970, 335; II.xxvii.9)
+
+[fn:16] Wolff claims that "a thing is called a person that is conscious
+       that it is the very same thing that was previously in this or
+       that state" (DM § 924), which definition clearly evokes Locke's
+       original in making the (actual) consciousness of identity
+       essential to personhood. (@dyck2010, 99)
+
+[fn:17] For Kant, the soul's consciousness of its numerical identity, as
+       ultimately a consciousness of the identity of /apperception/, is
+       evidence of the soul's possession of an understanding. Animals,
+       by contrast, do not possess an understanding but only its
+       analogue...That the personality of the human soul signals the
+       possession of an understanding thus serves to distinguish the
+       human soul from that of an animal... (@dyck2010, 120)
+
+[fn:18] The proposition of the identity of myself in everything manifold
+       of which I am conscious is equally one lying in the concepts
+       themselves, and hence an analytic proposition; but this identity
+       of the subject, of which I can become conscious in every
+       representation, does not concern the intuition of it, through
+       which it is given as an object, and thus cannot signify the
+       identity of the person, by which is understood the consciousness
+       of the identity of its own substance as a thinking being in all
+       changes of state (B408).
+
+*** References & Further Reading
+:PROPERTIES:
+:CUSTOM_ID: references
+:CLASS: unnumbered
+:END:
+#+nocite: @allison2004; @ameriks2000; @rosefeldt2017a; @proops2010; @longuenesse2017; @dyck2014a; @wuerth2010; @marshall2010; @powell1990
+
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
 
 ** TODO Handout Week 12 - Transcendental Freedom
 *** The Cosmological Ideas & the Antinomies of Reason
@@ -2604,9 +2589,18 @@ experience (A320/B377)
    state.[fn:17] [2]
 4. However, every initiation of a causal series presupposes a connection
    with causal agent, but a spontaneous cause has no such
-   connection.[fn:27] [3, definition of causation]
+   connection.[fn:30] [3, definition of causation]
 5. $\therefore$ Transcendental freedom is contrary to the causal law.
 6. $\therefore$ There can be no first cause. [Negation of 1]
+
+[fn:30] Whoever wills the end also wills (in so far as reason has
+        decisive influence on his actions) the indispensably necessary
+        means to it that is in his control. As far as willing is
+        concerned, this proposition is analytic; for in the willing of
+        an object, as my effect, my causality is already thought, as an
+        acting cause, i.e. the use of means, and the imperative already
+        extracts the concept of actions necessary to this end from the
+        concept of a willing of this end (4:417)
 
 *** References
   :PROPERTIES:
@@ -2923,9 +2917,9 @@ Kant's four cases are specifically illustrations of (B):
 
 - The third proposition is supposed to follow from the first two, but
   how?
-- What is /respect/? Is it a feeling?[fn:27]
+- What is /respect/? Is it a feeling?[fn:30]
 - If duty is an action from respect for the law, then isn't duty an
-  action from feeling rather than reason?[fn:28]
+  action from feeling rather than reason?[fn:31]
 
 - Intellectualism: :: resepect is a purely intellectual recognition of
   the moral law sufficient for generating moral action

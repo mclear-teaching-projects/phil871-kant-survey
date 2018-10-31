@@ -14,6 +14,8 @@ conception of the soul. We&rsquo;ll discuss both Kant&rsquo;s criticisms and the
 relation between these criticisms and his own position concerning the
 self.
 
+-   [Handout](/materials/handouts/handout9-paralogisms.pdf)
+
 
 ## Readings {#readings}
 
