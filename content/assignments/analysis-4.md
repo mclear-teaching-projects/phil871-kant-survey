@@ -1,0 +1,15 @@
++++
+title = "Fourth Passage Analysis Due 11/09"
+publishDate = 2018-11-09T17:00:00-06:00
+draft = false
+weight = -100
+author = false
+toc = false
+type = "post"
++++
+
+In no more than 500 words describe Kant&rsquo;s argument or point in the passage in as plain English as possible. For this assignment please identify the argument of the passage. This means (i) identifying the conclusion or main claim of the passage; (ii) identifying the evidence Kant provides for that conclusion or claim. The analysis is due via [email](mailto:mclear@unl.edu) Friday, November 11 by 5 p.m.
+
+> The concept of causality as _natural necessity_, as distinguished from the concept of causality as _freedom_, concerns only the existence of things insofar as it is _determinable in time_ and hence as appearances, as opposed to their causality as things in themselves. Now, if one takes the determinations of the existence of things in time for determinations of things in themselves (which is the most usual way of representing them), then the necessity in the causal relation can in no way be united with freedom; instead they are opposed to each other as contradictory. For, from the first it follows that every event, and consequently every action that takes place at a point of time, is necessary under the condition of what was in the preceding time. Now, since time past is no longer within my control, every action that I perform must be necessary by determining grounds _that are not within my control_, that is, I am never free at the point of time in which I act. Indeed, even if I assume that my whole existence is independent from any alien cause (such as God), so that the determining grounds of my causality and even of my whole existence are not outside me, this would not in the least transform that natural necessity into freedom. For, at every point of time I still stand under the necessity of being determined to action by _that which is not within my control_, and the series of events infinite a parte priori which I can only continue in accordance with a predetermined order would never begin of itself: it would be a continuous natural chain, and therefore my causality would never be freedom. If, then, one wants to attribute freedom to a being whose existence is determined in time, one cannot, so far at least, except this being from the law of natural necessity as to all events in its existence and consequently as to its actions as well; for, that would be tantamount to handing it over to blind chance. But since this law unavoidably concerns all causality of things so far as _their existence in time_ is determinable, if this were the way in which one had to represent also the _existence of these things in themselves_ then freedom would have to be rejected as a null and impossible concept. Consequently, if one still wants to save it, no other path remains than to ascribe the existence of a thing so far as it is determinable in time, and so too its causality in accordance with the law of _natural necessity, only to appearance, and to ascribe freedom to the same being as a thing in itself_.
+>
+> _Critique of Practical Reason_, 5:94-5
