@@ -4494,6 +4494,7 @@ Practical Reason/.
   A444-51/B474-9 (Guyer and Wood, 459-69 and 484-9)
 - CPR: Resolution of the cosmological idea, A532-58/B560-86 (Guyer and Wood, 532-46)
 - CPrR: 5:91-100 (/Practical Philosophy/ 213-220)
+- OPTIONAL: Wood, '[[https://www.dropbox.com/s/go2fnx4yoz8glxj/wood2010_the_antinomies_of_pure_reason.pdf?dl=0][The Antinomies of Pure Reason]]'
 - OPTIONAL: Pereboom, [[https://www.dropbox.com/s/5i3pofvwannostk/pereboom2006b.pdf?dl=0]['Kant on Transcendental Freedom']]
 - OPTIONAL: Allison, '[[https://www.dropbox.com/s/8ygvus5eqlhapzp/allison2006_Kant_on_Freedom_of_the_Will.pdf?dl=0][Kant on Freedom of the Will]]'
   

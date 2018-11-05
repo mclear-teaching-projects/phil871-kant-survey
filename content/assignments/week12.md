@@ -1,6 +1,6 @@
 +++
 title = "Week 12 - Freedom in the Third Antinomy"
-publishDate = 2018-11-06T00:00:00-06:00
+publishDate = 2018-11-06T00:00:00-05:00
 tags = ["aninomies", "reason", "dialectic", "freedom", "causality", "responsibility", "morality"]
 draft = false
 weight = -100
@@ -22,6 +22,7 @@ Practical Reason_.
     A444-51/B474-9 (Guyer and Wood, 459-69 and 484-9)
 -   CPR: Resolution of the cosmological idea, A532-58/B560-86 (Guyer and Wood, 532-46)
 -   CPrR: 5:91-100 (_Practical Philosophy_ 213-220)
+-   OPTIONAL: Wood, &rsquo;[The Antinomies of Pure Reason](https://www.dropbox.com/s/go2fnx4yoz8glxj/wood2010%5Fthe%5Fantinomies%5Fof%5Fpure%5Freason.pdf?dl=0)&rsquo;
 -   OPTIONAL: Pereboom, [&rsquo;Kant on Transcendental Freedom&rsquo;](https://www.dropbox.com/s/5i3pofvwannostk/pereboom2006b.pdf?dl=0)
 -   OPTIONAL: Allison, &rsquo;[Kant on Freedom of the Will](https://www.dropbox.com/s/8ygvus5eqlhapzp/allison2006%5FKant%5Fon%5FFreedom%5Fof%5Fthe%5FWill.pdf?dl=0)&rsquo;
 
