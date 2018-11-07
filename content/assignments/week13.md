@@ -18,8 +18,8 @@ and his related theory of obligation.
 
 -   _Groundwork_, Preface & section I: 4:387-405
 -   Korsgaard, &rsquo;[Introduction](https://www.dropbox.com/s/1cx66fff65g3skm/korsgaard1998%5FIntroduction.pdf?dl=0)&rsquo;, preface and first section
--   Optional: Korsgaard, [&rsquo;Kant&rsquo;s Analysis of Obligation&rsquo;](%7Cfilename%7C/pdfs/phil871/phil871kant/KorsgaardObligation.pdf)
--   Optional: Potter, [&rsquo;The Argument of Kant&rsquo;s Groundwork, chapter 1&rsquo;](%7Cfilename%7C/pdfs/phil871/phil871kant/PotterGroundwork1.pdf)
+-   Optional: Korsgaard, [&rsquo;Kant&rsquo;s Analysis of Obligation&rsquo;](https://www.dropbox.com/s/0ry2ckxkj3q34is/korsgaard1989a%5FKant%27s%5FAnalysis%5Fof%5FObligation-%5FThe%5FArgument%5Fof%5F%22Foundations%5FI%22.pdf?dl=0)
+-   Optional: Potter, [&rsquo;The Argument of Kant&rsquo;s Groundwork, chapter 1&rsquo;](https://www.dropbox.com/s/oire3a2wggk80ur/potter1998%5Fthe%5Fargument%5Fof%5Fkants%5Fgroundwork%2C%5Fchapter%5Fi.pdf?dl=0)
 
 
 ## Questions {#questions}
