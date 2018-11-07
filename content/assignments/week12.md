@@ -1,6 +1,6 @@
 +++
 title = "Week 12 - Freedom in the Third Antinomy"
-publishDate = 2018-11-06T00:00:00-05:00
+publishDate = 2018-11-06T00:00:00-06:00
 tags = ["aninomies", "reason", "dialectic", "freedom", "causality", "responsibility", "morality"]
 draft = false
 weight = -100
@@ -14,6 +14,8 @@ various conceptions of freedom. In particular, we&rsquo;ll see how Kant aims to
 secure the logical possibility that we are what he calls &ldquo;transcendentally
 free.&rdquo; We&rsquo;ll also look at how this view is developed in the _Critique of
 Practical Reason_.
+
+-   [Handout](/materials/handouts/handout10-antinomy.pdf)
 
 
 ## Readings {#readings}

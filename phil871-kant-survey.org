@@ -2152,17 +2152,17 @@ experience (A320/B377)
 :EXPORT_TITLE: The Paralogisms
 :EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/handout9-paralogisms.pdf
 :END:
-:Pandoc:
-#+pandoc-emphasis-pre: "-\t ('\"{["
-#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
-# [/emph/]
-#+PANDOC_METADATA: "author:PHIL 4/871" "date:October 30, 2018" 
-#+PANDOC_METADATA: "lfoot:Colin McLear | October 30, 2018"
-#+PANDOC_METADATA: "lhead: The Paralogisms"
-#+PANDOC_EXTENSIONS: org+raw_tex
-#+LANGUAGE: en
-#+OPTIONS: ':t
-:END:
+# :Pandoc:
+# #+pandoc-emphasis-pre: "-\t ('\"{["
+# #+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
+# # [/emph/]
+# #+PANDOC_METADATA: "author:PHIL 4/871" "date:October 30, 2018" 
+# #+PANDOC_METADATA: "lfoot:Colin McLear | October 30, 2018"
+# #+PANDOC_METADATA: "lhead: The Paralogisms"
+# #+PANDOC_EXTENSIONS: org+raw_tex
+# #+LANGUAGE: en
+# #+OPTIONS: ':t
+# :END:
 *** Empirical v. Rational Psychology
 
 - Empirical psychology is concerned with what may be learned via inner
@@ -2430,42 +2430,48 @@ yet is thereby given to me for thinking. (B-Paralogisms, General Remark B429)
 \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
 
 ** TODO Handout Week 12 - Transcendental Freedom
+:PROPERTIES:
+:EXPORT_TITLE: Freedom & The Third Antinomy
+:EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/handout10-antinomy.pdf
+:END:
+:Pandoc:
+#+pandoc-emphasis-pre: "-\t ('\"{["
+#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
+# [/emph/]
+#+PANDOC_METADATA: "author:PHIL 4/871" "date:November 6, 2018" 
+#+PANDOC_METADATA: "lfoot:Colin McLear | November 6, 2018"
+#+PANDOC_METADATA: "lhead: The Third Antinomy"
+#+PANDOC_EXTENSIONS: org+raw_tex
+#+LANGUAGE: en
+#+OPTIONS: ':t
+:END:
 *** The Cosmological Ideas & the Antinomies of Reason
-  :PROPERTIES:
-  :CUSTOM_ID: the-cosmological-ideas-the-antinomies-of-reason
-  :END:
 
 - Four cosmological ideas corresponding to the four classes of the table
   of categories
-
-  1. composition (quantity/the totality of appearances)
-  2. division (quality/reality of matter in space)
-  3. generation (relation/causation)
-  4. dependence (modality/of the contingent on the necessary)
-
+  1. Composition (quantity/the totality of appearances)
+  2. Division (quality/reality of matter in space)
+  3. Generation (relation/causation)
+  4. Dependence (modality/of the contingent on the necessary)
 - Each cosmological idea concerns the unconditioned condition of a given
   '/regressive/' series[fn:1]
 - Consideration of each idea yields two possible answers concerning the
-  relation of conditioned to condition[fn:4]
-
-  - Thesis: the series of conditioned conditions terminates in a first
-    member of the series which is itself unconditioned
-
+  relation of conditioned to condition[fn:2]
+  - *Thesis*: the series of conditioned conditions terminates in a first
+    member of the series which is itself unconditioned:
     1. There is a first event/largest quantity of matter
     2. There is simple substance
     3. There is a first (free) cause
     4. There is a necessary being
-
-  - Antithesis: the series of conditioned conditions goes on to
+  - *Antithesis*: the series of conditioned conditions goes on to
     infinity, with every member presupposing a further given condition
     in the series
+- Kant considers both thesis and antithesis to be valid arguments, which he
+  thinks indicates a problem with how reason approaches these topics[fn:3]
+  - Which was more important to the 'critical' Kant's development---the
+    antinomies or Hume's arguments concerning the concept =<cause>=?
 
-- Kant considers both thesis and antithesis to be valid arguments, and
-  it is this fact which he thinks indicates a problem with how reason
-  approaches these topics[fn:6]
-
-  - Which was more important to the 'critical' Kant's development? --
-    the antinomies or Hume's arguments concerning the concept =<cause>=?
+**** The Conditioning Relation
 
 - x conditions y: :: y so depends on x that had x not been, y could not
   have been.
@@ -2487,140 +2493,149 @@ yet is thereby given to me for thinking. (B-Paralogisms, General Remark B429)
 | Third           | alteration             | grounds the causal power producing      |
 | Fourth          | alteration             | grounds the (contingent) existence of   |
 
-\newthought{Questionable Presuppositions:}
+**** Questionable Presuppositions:
 
 - Why must the 'conditions' relation be transitive?
-
-  - if A conditions B and B conditions C, why must it be the case that A
+  - If A conditions B and B conditions C, why must it be the case that A
     thereby conditions C?
-
-    - assumption of transitivity is required to articulate the
+    - Assumption of transitivity is required to articulate the
       antithesis, but is not itself argued for.
-
 - Why is there a problem with the existence of an infinite series?
-
   - Three notion of 'infinite series'
-
-    - infinite in progression (no end)
-    - infinite in regression (no beginning)
-    - infinite /simpliciter/ (no beginning or end)[fn:7]
-
+    - Infinite in progression (no end)
+    - Infinite in regression (no beginning)
+    - Infinite /simpliciter/ (no beginning or end)[fn:4]
   - Isn't the existence of the conditioned entity enough to provide
     evidence that the requisite conditions have been fulfilled?
 
-*** Freedom
-  :PROPERTIES:
-  :CUSTOM_ID: freedom
-  :END:
-
-**** Two Requirements on Freedom
-   :PROPERTIES:
-   :CUSTOM_ID: two-requirements-on-freedom
-   :END:
-
-- Source Requirement: :: An agent's volition to act is free only if she
-  is the proper source of the volition
-- Leeway Requirement: :: An agent's volition to act is free only if it
-  is (really) possible that the agent could either $\phi$ or $\neg\phi$
-
-**** Kant's Conception of Freedom
-   :PROPERTIES:
-   :CUSTOM_ID: kants-conception-of-freedom
-   :END:
-
-- Negative Freedom: :: The power to act (or choose) without being
-  causally determined by sensuous impulses[fn:15]
-- Positive Freedom: :: The power to act (or choose) by virtue of motives
-  stemming not from sensuous impulses but from reason itself
-
-\newpage
-
-- 'Source' requirement for free action[fn:10]
-
-  - Structure of the phenomenal world is incompatible with an agent's
-    being the proper source of her actions
-
-- 'Leeway' requirement for moral responsibility[fn:8]
-
-  - The possibility of leeway depends on our satisfying the source
-    requirement[fn:9]
 
 *** The Third Antinomy
-  :PROPERTIES:
-  :CUSTOM_ID: the-third-antinomy
-  :END:
-
 **** The Thesis Argument
-   :PROPERTIES:
-   :CUSTOM_ID: the-thesis-argument
-   :END:
 
 - Thesis: :: Causality in accordance with laws of nature is not the only
   one from which all the appearances of the world can be derived. It is
   also necessary to assume another causality through freedom in order to
   explain them. (A444/B472)
+  
 
 1. The only form of causation is natural causation. [Assumption for
    reductio]
 2. $\therefore$ Every event that occurs has a cause. [1, definition of
    causation]
-3. $\therefore$ There is no first cause and thus no complete regression
+3. $\therefore$ There is no /first/ cause of events and thus no complete regression
    of the causal series. [1, 2]
-4. However, the content of the causal law demands that there /be/ a
-   complete regression if the causal series is to exist. [definition of
-   causation][fn:12]
+4. However, the content of the causal law demands that there /be/ a complete regression if the causal series is to exist. [definition of causation][fn:9]
 5. $\therefore$ Contradiction. [3, 4]
-6. $\therefore$ There must exist a spontaneous cause -- one that is not
-   determined by a prior ground. [Negation of 1][fn:16]
+6. $\therefore$ There must exist a spontaneous cause---one that is not determined by a
+   prior ground. [Negation of 1][fn:10]
 
 **** The Antithesis Argument
-   :PROPERTIES:
-   :CUSTOM_ID: the-antithesis-argument
-   :END:
 
 - Antithesis: :: There is no freedom, but everything in the world
   happens solely in accordance with laws of nature. (A445/B473)
+  
+  
+1. There is an uncaused beginning (i.e. a free beginning) to the causal series
+   of appearances. [Assume for reductio]
+2. For everything that happens, there must a previous state from which it is
+   causally determined according to a natural law.[fn:12] [definition of causation]
+3. $\therefore$ If a spontaneous cause happens (or begins to act), there must be a previous state from which it follows (causally) in accordance with a natural law [from 2]
+4. $\therefore$ The action of a spontaneous cause follows a previous state (causally) in accordance with a natural law [1, 3]
+5. $\therefore$ Contradiction [1, 4]
+6. $\therefore$ There can be no freedom or first cause. [Negation of 1]
 
-1. There is an uncaused beginning to the causal series of appearances.
-   [Assume for reductio]
-2. $\therefore$ There exists a first state S_{1} with the power to bring
-   about a subsequent state S_{2} and its consequences. [1]
-3. $\therefore$ S_{1} is absolutely undetermined by any previous
-   state.[fn:17] [2]
-4. However, every initiation of a causal series presupposes a connection
-   with causal agent, but a spontaneous cause has no such
-   connection.[fn:30] [3, definition of causation]
-5. $\therefore$ Transcendental freedom is contrary to the causal law.
-6. $\therefore$ There can be no first cause. [Negation of 1]
 
-[fn:30] Whoever wills the end also wills (in so far as reason has
-        decisive influence on his actions) the indispensably necessary
-        means to it that is in his control. As far as willing is
-        concerned, this proposition is analytic; for in the willing of
-        an object, as my effect, my causality is already thought, as an
-        acting cause, i.e. the use of means, and the imperative already
-        extracts the concept of actions necessary to this end from the
-        concept of a willing of this end (4:417)
+*** Resolving the Antinomy
+**** The General Solution: Transcendental Idealism
+- The Antinomies are /generated/ because (i) for any given conditioned thing (e.g. appearance) the whole set of conditions must also be given; (ii) in each instance the Thesis and Antithesis present arguments showing that the series of conditions of the object that is given both can and cannot be complete\sidenote[][]{The entire antinomy of pure reason rests on this dialectical argument: If the conditioned is given, then the whole series of all conditions for it is also given; now objects of the senses are given as conditioned; consequently, etc. (A497/B525)}
+- The Antinomies are /resolved/ because the condition-conditioned relationship applies differently to appearances than to things in themselves.\sidenote[][]{If the conditioned as well as its condition are things in themselves, then when the first is given,\ldots{}the latter is thereby really already given along with it (A498/B526) {[}In contrast{]} if I am dealing with appearances\ldots{}then I cannot say with the same meaning that if the conditioned is given, then all the conditions (as appearances) for it are also given. \ldots{} For the \textbf{appearances}, in their apprehension, are themselves nothing other than an empirical synthesis (in space and time) and thus are given only \textbf{in this synthesis} (A498-99/B527)}
+  - The condition(s) of appearances are set as a task for reason to resolve, rather than as a given totality\sidenote[][]{{[}for appearances{]} if the conditioned is given, then through it a regress in the series of all conditions for it is \textbf{given} to us \textbf{as a problem} (A497--498/B526)}
+  - The appearance of an object is indeterminate in a way that things in themselves are not
+    - Things in themselves are completely determinate in the sense that for every pair of contradictory predicates one of them must be truly ascribed to each thing in itself (A571–576/B599–604).
+    - Appearances are /representations/ and so must be apprehended and synthesized to become determinate appearances of /objects/ 
+    
 
-*** References
-  :PROPERTIES:
-  :CUSTOM_ID: references
-  :CLASS: unnumbered
-  :END:
+
+\newpage
+**** Resolving the Third Antinomy
+- The Thesis & Antithesis are (possibly) true of different subject matter
+  - The Thesis’s assertion of freedom is possible for things in themselves---but not for appearances---while the Antithesis’s assertion of determinism is true for appearances---but may be false for things in themselves (see A531–532/B559–560)
+- Premise (3) of Antithesis argument assumes temporal determinacy of the cause but the spontaneity of a thing in itself is atemporal, and so needn't entail the problematic conclusion in (4)\sidenote[][]{the argument holds for appearances, which are necessarily temporally determinate, but not for things in themselves, since they are, in some sense, atemporal and thus not temporally determinate, either. By thus distinguishing between temporal appearances and atemporal things in themselves, Transcendental Idealism creates room for the possibility that things in themselves could be free. (Watkins 2005, 316)}
+*** Freedom
+
+**** Two Ways of Conceiving of Free Action
+- Source Requirement: :: An agent's volition to act is free only if she
+  is the proper source of the volition
+- Leeway Requirement: :: An agent's volition to act is free only if it
+  is (really) possible that the agent could either $\phi$ or $\neg\phi$
+
+****  Kant's Combination of The Requirements
+- 'Source' requirement is necessary for free action and imputability
+  - Structure of the phenomenal world is incompatible with an agent's
+    being the proper source of her actions[fn:6]
+- 'Leeway' requirement is necessary for a system of 'oughts' to apply
+  - The possibility of leeway depends on our satisfying the source
+    requirement[fn:8]
+
+\newpage    
+**** Two Kinds of Freedom
+
+- Practical Freedom: :: the capacity to act in accordance with ends
+  distinct from those dictated by one's immediate sensible
+  impulses\footnote[][-.7in]{we have a capacity to
+     overcome impressions on our sensory faculty of desire by representations of
+     that which is useful or injurious even in a more remote way (Canon,
+     A802/B830)}\footnote[][]{We thus cognize practical freedom through
+     experience, as one of the natural causes, namely a causality of reason in
+     the determination of the will, whereas transcendental freedom requires an
+     independence of this reason itself (with regard to its causality for
+     initiating a series of appearances) from all determining causes of the
+     world of the senses (Canon, A803/B831)}
+- Transcendental Freedom: :: the power to (i) initiate a causal series
+  from oneself (ii) without being determined by causal factors beyond
+  one's control\footnote[][]{the
+  power of beginning a state \emph{of itself} [\emph{von selbst}]--the
+  causality of which does not in turn stand under another cause determining
+  it in time in accordance with the law of nature. (A533/B561); cf. (A446/
+  B474)}
+
+**** Control & Freedom
+- Control Condition: :: One is in control just in case one is the
+  ultimate causal source of some effect, without being causally
+  determined either by (i) temporally antecedent conditions or (ii)
+  one's own nature\footnote[][-.5in]{Since the
+  past is no longer in my control, every action that I perform must be
+  necessary by determining grounds \emph{that are not within my control},
+  that is, I am never free at the point in time in which I act. (CPrR
+  5:94)}\footnote[][]{One might raise the objection that God cannot decide
+  otherwise than he does, and so he does not act freely but from the
+  necessity of his nature.\ldots{}but in God it is not due to the necessity
+  of his nature that he can decide only as he does, but rather it is true
+  freedom in God that he decides only what is in conformity with his highest
+  understanding. (\emph{Pölitz Religion}, PR132/28:1068 (1783/4); cf. Rel
+  5:50n)}
+
+
+- Control does not require leeway of action (i.e. the capacity to do or
+  refrain)
+- Kant is a "source" rather than a "leeway" incompatibilist
+  
+*** References & Further Reading
+:PROPERTIES:
+:CLASS: unnumbered
+:END:
+#+nocite: @allison2004; @wood1984a; @wood2010; @watkins2005-ch5; @al-azm1972; @allison1990; @allison1996-ch9; @allison2006; @beck1987; @pereboom2006a
 
 \setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
 \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
 
-#+BEGIN_HTML
-  <!-- -->
-#+END_HTML
 
 [fn:1] I will call the synthesis of a series on the side of the
        conditions, thus proceeding from the condition proximate to the
        given appearance toward the more remote conditions, the
        *regressive* synthesis
 
-[fn:4] Each of these two competing answers gives us a different
+[fn:2] Each of these two competing answers gives us a different
        interpretation of the more basic rational idea of a
        /world-whole/, and thus two incompatible interpretations of the
        constitution of a world (or nature) as a whole, between which we
@@ -4464,6 +4479,8 @@ conception of the soul. We'll discuss both Kant's criticisms and the
 relation between these criticisms and his own position concerning the
 self.
 
+- [[file:static/materials/handouts/handout9-paralogisms.pdf][Handout]]
+
 **** Readings
 - CPR: Dialectical Inferences, B396-8 (Guyer & Wood 409-10); The Paralogisms, B399-B431 (Guyer & Wood, 411-15, 445-58)
 - OPTIONAL: Rosefeldt, [[https://www.dropbox.com/s/ltvsixj9iw41x7q/rosefeldt2017a_Subjects_of_Kant%2527s_First_Paralogism.pdf?dl=0][Subjects of Kant's First Paralogism]]
@@ -4488,6 +4505,8 @@ various conceptions of freedom. In particular, we'll see how Kant aims to
 secure the logical possibility that we are what he calls "transcendentally
 free." We'll also look at how this view is developed in the /Critique of
 Practical Reason/.
+
+- [[file:static/materials/handouts/handout10-antinomy.pdf][Handout]]
 
 **** Readings
 - CPR: Antinomy of Pure Reason and Third Antinomy, A405-25/B432-53 and 
@@ -4521,7 +4540,8 @@ The concept of causality as /natural necessity/, as distinguished from the conce
 #+END_QUOTE
 
 
-*** DRAFT Week 13 - Groundwork I
+*** DONE Week 13 - Groundwork I
+SCHEDULED: <2018-11-13 Tue>
 :PROPERTIES:
 :EXPORT_FILE_NAME: week13
 :END:
@@ -4532,11 +4552,11 @@ and Kant's notion of a "good will", acting in accordance with a maxim,
 and his related theory of obligation.
 
 **** Readings
-- /Groundwork/, Preface & section I: 4:387-405 (Gregor & Timmerman, pp. 3-20)
-- Korsgaard, 'Introduction', preface and first section (Gregor & Timmerman, pp. ix-xvii)
+- /Groundwork/, Preface & section I: 4:387-405 
+- Korsgaard, '[[https://www.dropbox.com/s/1cx66fff65g3skm/korsgaard1998_Introduction.pdf?dl=0][Introduction]]', preface and first section 
 - Optional: Korsgaard, [[file:%7Cfilename%7C/pdfs/phil871/phil871kant/KorsgaardObligation.pdf]['Kant's Analysis of Obligation']]
 - Optional: Potter, [[file:%7Cfilename%7C/pdfs/phil871/phil871kant/PotterGroundwork1.pdf]['The Argument of Kant's Groundwork, chapter 1']]
-- [[file:%7Cfilename%7C/pdfs/phil871/phil871kant/13_KantGroundwork1.pdf][Handout]]
+# - [[file:%7Cfilename%7C/pdfs/phil871/phil871kant/13_KantGroundwork1.pdf][Handout]]
   
 
 **** Questions
