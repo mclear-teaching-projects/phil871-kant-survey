@@ -2429,22 +2429,22 @@ yet is thereby given to me for thinking. (B-Paralogisms, General Remark B429)
 \setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
 \setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
 
-** TODO Handout Week 12 - Transcendental Freedom
+** DONE Handout Week 12 - Transcendental Freedom
 :PROPERTIES:
 :EXPORT_TITLE: Freedom & The Third Antinomy
 :EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/handout10-antinomy.pdf
 :END:
-:Pandoc:
-#+pandoc-emphasis-pre: "-\t ('\"{["
-#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
-# [/emph/]
-#+PANDOC_METADATA: "author:PHIL 4/871" "date:November 6, 2018" 
-#+PANDOC_METADATA: "lfoot:Colin McLear | November 6, 2018"
-#+PANDOC_METADATA: "lhead: The Third Antinomy"
-#+PANDOC_EXTENSIONS: org+raw_tex
-#+LANGUAGE: en
-#+OPTIONS: ':t
-:END:
+# :Pandoc:
+# #+pandoc-emphasis-pre: "-\t ('\"{["
+# #+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
+# # [/emph/]
+# #+PANDOC_METADATA: "author:PHIL 4/871" "date:November 6, 2018" 
+# #+PANDOC_METADATA: "lfoot:Colin McLear | November 6, 2018"
+# #+PANDOC_METADATA: "lhead: The Third Antinomy"
+# #+PANDOC_EXTENSIONS: org+raw_tex
+# #+LANGUAGE: en
+# #+OPTIONS: ':t
+# :END:
 *** The Cosmological Ideas & the Antinomies of Reason
 
 - Four cosmological ideas corresponding to the four classes of the table
@@ -2712,103 +2712,132 @@ yet is thereby given to me for thinking. (B-Paralogisms, General Remark B429)
         course of nature the series of appearances is never complete on
         the side of the causes. (A446/B474)
 
-[fn:15] not only will a series begin absolutely through this
+[fn:11] not only will a series begin absolutely through this
         spontaneity, but the determination of this spontaneity itself to
         produce the series, i.e., its causality, will begin absolutely,
         so that nothing precedes it through which this occurring action
         is determined in accordance with constant laws. (A446/B474)
 
-[fn:16] Every beginning of action, however, presupposes a state of the
+[fn:12] Every beginning of action, however, presupposes a state of the
         not yet acting cause, and a dynamically first beginning of
         action presupposes a state that has no causal connection at all
-        with the cause ofthe previous one, i.e., in no way follows from
+        with the cause of the previous one, i.e., in no way follows from
         it. (A446/B474)
 
+** DONE Handout Week 13 Groundwork I
+:PROPERTIES:
+:EXPORT_TITLE: Groundwork I
+:EXPORT_FILE_NAME: ~/Dropbox/Work/projects/phil871-kant-survey/static/materials/handouts/handout11-groundworkI.pdf
+:END:
+:Pandoc:
+#+pandoc-emphasis-pre: "-\t ('\"{["
+#+pandoc-emphasis-post: "-\t\n .,:!?;'\")}[]" 
+# [/emph/]
+#+PANDOC_METADATA: "author:PHIL 4/871" "date:November 13, 2018" 
+#+PANDOC_METADATA: "lfoot:Colin McLear | November 13, 2018"
+#+PANDOC_METADATA: "lhead: Groundwork I"
+#+PANDOC_EXTENSIONS: org+raw_tex
+#+LANGUAGE: en
+#+OPTIONS: ':t
+:END:
 
-** TODO Handout Week 13 Groundwork I
 *** A Metaphysics of Morals
-  :PROPERTIES:
-  :CUSTOM_ID: a-metaphysics-of-morals
-  :END:
 
 - Morality is the science of the will and its laws[fn:1]
-
   - Morality possess both a 'pure' and an 'empirical' part with the pure
     part providing a justification and explanatory base for the
-    empirical[fn:4]
-
+    empirical[fn:2]
 - We need a metaphysics of morals, just as we did a metaphysics of
   nature
-
   - Explain universality & necessity: if there are moral laws they hold
     universally and with necessity, and for that reason must be a
-    priori[fn:6]
-  - Buttress and guide existing moral practice[fn:7]
+    priori[fn:3]
+  - Buttress and guide existing moral practice[fn:4]
+
+[fn:1] Formal philosophy is called *logic*, whereas material philosophy,
+       which has to do with determinate objects and the laws to which
+       they are subject, is once again twofold. For these laws are
+       either laws of /nature/ or of /freedom/. The science of the first
+       is called *physics*, that of the other is *ethics*; the former is
+       also called doctrine of nature, the latter doctrine of morals.
+       (Preface, 4:387)
+
+[fn:2] all moral philosophy is based entirely on its pure part; and when
+       it is applied to the human being it does not borrow the least
+       thing from acquaintance with him (from anthropology) but gives to
+       him, as a rational being, laws a priori... (Preface, 4:389)
+
+[fn:3] Everyone must admit that a law, if it is to hold morally, i.e. as
+       the ground of an obligation, must carry with it absolute
+       necessity; that the command: thou shalt not lie, does not just
+       hold for human beings only, as if other rational beings did not
+       have to heed it; and so with all remaining actual moral laws;
+       hence that the ground of the obligation here must not be sought
+       in the nature of the human being, or in the circumstances of the
+       world in which he is placed, but a priori solely in concepts of
+       pure reason (4:389)
+
+[fn:4] morals themselves remain subject to all sorts of corruption as
+       long as we lack that guideline and supreme norm by which to judge
+       them correctly. For in the case of what is to be morally good it
+       is not enough that it /conform/ with the moral law, but it must
+       also be done /for its sake/; if not, that conformity is only very
+       contingent and precarious...(Preface, 4:390)
 
 **** Aim of the /Groundwork/
-   :PROPERTIES:
-   :CUSTOM_ID: aim-of-the-groundwork
-   :END:
 
 - Open an 'entirely new field' of study concerning the nature of a
-  /pure/ will and the capacity to motivated by reason alone[fn:15]
+  /pure/ will and the capacity to motivated by reason alone[fn:5]
 - /Not/ aiming to provide a metaphysics of morals
-
   - The content of the /Groundwork/ is largely in abstraction from
     whatever concrete demands morality may make of us
-
 - Aims to :
-
   1. Articulate the 'supreme principle of morality' (4:392)
-
-     - 'analytic' vs. 'synthetic' method[fn:10]
-
+     - 'analytic' vs. 'synthetic' method[fn:6]
   2. Show that this principle is indeed the most basic and general of
      all moral principles
 
+[fn:5] let it not be thought that what is here called for already
+       exists...and that we do not therefore have to open up an entirely
+       new field. ... For the metaphysics of morals is to investigate
+       the idea and the principles of a possible pure will, and not the
+       actions and conditions of human willing in general, which are
+       largely drawn from psychology.
+
+[fn:6] [The analytic method requires that we begin with] something
+       already known to be dependable, from which we can go forward with
+       confidence and ascend to the sources which are not yet known, and
+       whose discovery not only will explain what is known already, but
+       will also exhibit an area with many cognitions that all arise
+       from these same sources. (/Prolegomena/ §4, 4:275; cf. §5, 4:276)
+
 **** Structure of the /Groundwork/
-   :PROPERTIES:
-   :CUSTOM_ID: structure-of-the-groundwork
-   :END:
 
 - First section: "Transition from common rational to philosophic moral
   cognition."
-
   - Regression from 'common concept' -- viz. =<duty>= to its
     constituents
   - First articulation of the moral law
-
 - Second section: "Transition from popular moral philosophy to
   metaphysics of morals."
-
   - Disqualification of the 'popular' conception of morality
-
     - Return to analysis of the 'common concept'
-
   - Analysis of maxims and imperatives
   - Analysis of the moral law as a 'categorical' imperative
-
     - The moral law is a priori
     - The possibility of moral obligation depends on the possibility of
       a will that is 'autonomous' or free
-
 - Third section: "Final step from metaphysics of morals to the critique
   of pure practical reason."
-
   - Break from 'analytic' method of previous sections
-
     - Argument from the conditions of autonomy (freedom) to the fact
       that we are free and autonomous
     - Analysis of the concepts =<duty>= and =<rational will>= cannot
       demonstrate that human beings are /in fact/ autonomous
-
   - 'Proof' of the status of human beings as possessing free and
     rational will
 
 **** Structure of /Groundwork/ I
-   :PROPERTIES:
-   :CUSTOM_ID: structure-of-groundwork-i
-   :END:
 
 - The good will is the only unconditional good (4:393-4)
 - The 'natural purpose' of reason is a morally good will, not happiness
@@ -2820,223 +2849,18 @@ yet is thereby given to me for thinking. (B-Paralogisms, General Remark B429)
   practical reason (4:403-5)
 
 *** The Good Will
-  :PROPERTIES:
-  :CUSTOM_ID: the-good-will
-  :END:
 
-- The only unconditionally good thing is a 'good will'[fn:8]
-
+- The only unconditionally good thing is a 'good will'[fn:7]
   - A good will is good because of what motivates it, not because of
-    what it does or accomplishes[fn:9]
+    what it does or accomplishes[fn:8]
   - Nothing bad can result from a good will, if it does then this is the
     result of poor judgment (or stupidity)
 
-*** The Analysis of =<duty>=
-  :PROPERTIES:
-  :CUSTOM_ID: the-analysis-of-duty
-  :END:
-
-- Three propositions
-
-  - Proposition 1: an action is morally good if and only if it is done
-    from duty
-  - Proposition 2: the moral worth of a dutiful act lies in the quality
-    of its maxim
-  - Proposition 3: duty is the necessity of an action from respect for
-    the law
-
-**** Inclination & Duty -- The Four Examples
-   :PROPERTIES:
-   :CUSTOM_ID: inclination-duty-the-four-examples
-   :END:
-
-Distinguish between:
-
-1. Actions (merely) coinciding with duty that are performed as a means
-   to satisfying a higher-order inclination directed at some other
-   object.
-2. Actions (merely) coinciding with duty, performed from an immediate
-   inclination towards some object.
-3. Actions that (coincide with duty and) are performed solely for the
-   sake of duty.
-4. Actions that are done contrary to duty because of some other
-   immediate or higher-order inclination.
-
-Kant's four cases are specifically illustrations of (B):
-
-1. The shopkeeper (4:397)
-2. Preserving one's life (4:397-8)
-3. Beneficent action (4:398)
-4. Caring for one's happiness (4:399)
-
-- Avoid an easy misconception based on these cases: Kant is /not/
-  arguing that morally valuable dutiful acts /require/ that one fail to
-  enjoy or otherwise identify with the action they perform, as one might
-  think is the case with a virtuous person
-
-  - Duty is not a /purpose/, it is the (moral) ground for adopting a
-    purpose[fn:12]
-
-**** Questions about Proposition 1
-   :PROPERTIES:
-   :CUSTOM_ID: questions-about-proposition-1
-   :END:
-
-- There is some controversy as to what the actual first proposition is
-  -- Kant does not explicitly state it[fn:16]
-- Options:
-
-  1. There is nothing unconditionally good other than a good will
-
-     - Fails to explain how (3) follows from (1) and (2)
-
-  2. An action from duty is an action from respect for the moral law
-
-     - Construes (1) as 'subjective', (2) as 'objective' and (3) as
-       their combination
-     - Cannot account for the fact that discussion of respect and the
-       notion of a 'principle of the will' or practical law (4:400)
-       occur /after/ the first proposition is presumably introduced
-
-  3. The concept of duty contains the concept of the good will 'under
-     certain subjective limitations and hindrances' (4:397) - Fails to
-     explain how (3) follows from (1) and (2)
-
-**** Questions about Proposition 2
-   :PROPERTIES:
-   :CUSTOM_ID: questions-about-proposition-2
-   :END:
-
-- What is a 'maxim'?[fn:17]
-
-  - Designates an action to be performed in a type of situation andp for
-    some purpose
-
-- Distinguish between:
-
-  1) I will knock Alex down, in order to remove him from the path of an
-     oncoming bullet.
-  2) I will knock Alex down, in order to relieve my temper.
-  3) I will punch a punching bag, in order to relieve my temper.
-
-  - (A) is (at least) permissible while (B) is wrong, but not simply
-    because of the action
-  - (C) is permissible, but not simply because of the intention
-  - What matters is the relation between action and intention -- viz.
-    the 'form' of the maxim
-
-**** Questions about Proposition 3
-   :PROPERTIES:
-   :CUSTOM_ID: questions-about-proposition-3
-   :END:
-
-- The third proposition is supposed to follow from the first two, but
-  how?
-- What is /respect/? Is it a feeling?[fn:30]
-- If duty is an action from respect for the law, then isn't duty an
-  action from feeling rather than reason?[fn:31]
-
-- Intellectualism: :: resepect is a purely intellectual recognition of
-  the moral law sufficient for generating moral action
-- Affectivism: :: moral motivation arises from an intellectual
-  recognition of the moral law which then generates a particular kind of
-  /feeling/ which is consequent to the intial intellectual recognition
-
-**** Potter's Analysis
-   :PROPERTIES:
-   :CUSTOM_ID: potters-analysis
-   :END:
-
-1) A good will only has absolute worth.
-
-   - (1a) Moral value always outweighs any other kind of value.
-
-2) A good will is not good because of what it effects or accomplishes.
-   (G, 394)
-3) A human action is morally good if and only if it is done from duty.
-   (G, 397-399)
-4) To act from duty is to act, not with regard to the purpose to be
-   attained by our action, but with regard only to the maxim in
-   accordance with which it is decided upon.
-
-   - (4a) The moral value of an action is a quality of its /maxim/.
-   - (4b) Action from duty is action done on the basis of a maxim which
-     we have adopted, not because its adoption will fulfill desires of
-     ours, but because of its form.
-
-5) This formal principle of volition (i.e., the principle of the
-   adoption of maxims in virtue of their form) is simply the requirement
-   that my action conform to universal law as such.
-6) The essence of law is its universality.
-7) Hence the moral law commands nothing but that I always act in such a
-   way that I can will my maxim should become a universal law.
-8) To act for the sake of duty is to act only on that maxim which can at
-   the same time be willed as a universal law.
-9) $\therefore$ A good will is a will which always acts only on that
-   maxim which can at the same time be willed as a universal law.
-
-*** References
-  :PROPERTIES:
-  :CUSTOM_ID: references
-  :CLASS: unnumbered
-  :END:
-
-\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
-\setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
-
-#+BEGIN_HTML
-  <!-- -->
-#+END_HTML
-
-[fn:1] Formal philosophy is called *logic*, whereas material philosophy,
-       which has to do with determinate objects and the laws to which
-       they are subject, is once again twofold. For these laws are
-       either laws of /nature/ or of /freedom/. The science of the first
-       is called *physics*, that of the other is *ethics*; the former is
-       also called doctrine of nature, the latter doctrine of morals.
-       (Preface, 4:387)
-
-[fn:4] all moral philosophy is based entirely on its pure part; and when
-       it is applied to the human being it does not borrow the least
-       thing from acquaintance with him (from anthropology) but gives to
-       him, as a rational being, laws a priori... (Preface, 4:389)
-
-[fn:5] Everyone must admit that a law, if it is to hold morally, i.e. as
-       the ground of an obligation, must carry with it absolute
-       necessity; that the command: thou shalt not lie, does not just
-       hold for human beings only, as if other rational beings did not
-       have to heed it; and so with all remaining actual moral laws;
-       hence that the ground of the obligation here must not be sought
-       in the nature of the human being, or in the circumstances of the
-       world in which he is placed, but a priori solely in concepts of
-       pure reason (4:389)
-
-[fn:6] morals themselves remain subject to all sorts of corruption as
-       long as we lack that guideline and supreme norm by which to judge
-       them correctly. For in the case of what is to be morally good it
-       is not enough that it /conform/ with the moral law, but it must
-       also be done /for its sake/; if not, that conformity is only very
-       contingent and precarious...(Preface, 4:390)
-
-[fn:7] let it not be thought that what is here called for already
-       exists...and that we do not therefore have to open up an entirely
-       new field. ... For the metaphysics of morals is to investigate
-       the idea and the principles of a possible pure will, and not the
-       actions and conditions of human willing in general, which are
-       largely drawn from psychology.
-
-[fn:8] [The analytic method requires that we begin with] something
-       already known to be dependable, from which we can go forward with
-       confidence and ascend to the sources which are not yet known, and
-       whose discovery not only will explain what is known already, but
-       will also exhibit an area with many cognitions that all arise
-       from these same sources. (/Prolegomena/ §4, 4:275; cf. §5, 4:276)
-
-[fn:9] It is impossible to think of anything at all in the world, or
+[fn:7] It is impossible to think of anything at all in the world, or
        indeed even beyond it, that could be considered good without
        limitation except a good will. (4:393)
 
-[fn:10] A good will is good not because of what it effects, or
+[fn:8] A good will is good not because of what it effects, or
        accomplishes, not because of its fitness to attain some intended
        end, but good just by its willing, i.e. in itself.and, considered
        by itself, it is to be esteemed beyond compare much higher than
@@ -3051,9 +2875,66 @@ Kant's four cases are specifically illustrations of (B):
        in itself. Usefulness or fruitlessness can neither add anything
        to this worth, nor take anything away from it. (4:394)
 
-[fn:11] See @korsgaard1989, 324-6; @wood2008, ch. 2.
+*** The Analysis of =<duty>=
 
-[fn:12] the standard view is that this unformulated proposition states
+- Three propositions
+  - Proposition 1: an action is morally good if and only if it is done
+    from duty
+  - Proposition 2: the moral worth of a dutiful act lies in the quality
+    of its maxim
+  - Proposition 3: duty is the necessity of an action from respect for
+    the law
+
+**** Inclination & Duty -- The Four Examples
+
+Distinguish between:
+
+1. Actions (merely) coinciding with duty that are performed as a means
+   to satisfying a higher-order inclination directed at some other
+   object.
+2. Actions (merely) coinciding with duty, performed from an immediate
+   inclination towards some object.
+3. Actions that (coincide with duty and) are performed solely for the
+   sake of duty.
+4. Actions that are done contrary to duty because of some other
+   immediate or higher-order inclination.
+
+   
+- Kant's four cases are specifically illustrations of the second point above:
+  - The shopkeeper (4:397)
+  - Preserving one's life (4:397-8)
+  - Beneficent action (4:398)
+  - Caring for one's happiness (4:399)
+
+
+- Avoid an easy misconception based on these cases: Kant is /not/
+  arguing that morally valuable dutiful acts /require/ that one fail to
+  enjoy or otherwise identify with the action they perform, as one might
+  think is the case with a virtuous person
+  - Duty is not a /purpose/, it is the (moral) ground for adopting a
+    purpose[fn:9]
+
+[fn:9] See [@korsgaard1989a, 324-6; @wood2008, ch. 2].
+
+**** Questions about Proposition 1
+
+- There is some controversy as to what the actual first proposition is
+  -- Kant does not explicitly state it[fn:10]
+- Options:
+
+  1. There is nothing unconditionally good other than a good will
+     - Fails to explain how (3) follows from (1) and (2)
+  2. An action from duty is an action from respect for the moral law
+     - Construes (1) as 'subjective', (2) as 'objective' and (3) as
+       their combination
+     - Cannot account for the fact that discussion of respect and the
+       notion of a 'principle of the will' or practical law (4:400)
+       occur /after/ the first proposition is presumably introduced
+  3. The concept of duty contains the concept of the good will 'under
+     certain subjective limitations and hindrances' (4:397) - Fails to
+     explain how (3) follows from (1) and (2)
+
+[fn:10] the standard view is that this unformulated proposition states
         that an action has moral worth if and only if it is performed
         from duty alone. This is the most natural reading, since this
         thesis seems be the main import of the argument of the preceding
@@ -3065,13 +2946,40 @@ Kant's four cases are specifically illustrations of (B):
         third proposition is a consequence of the first two.
         (@allison2011, 122)
 
-[fn:15] A /maxim/ is the subjective principle of willing; the objective
+**** Questions about Proposition 2
+
+- What is a 'maxim'?[fn:11]
+  - Designates an action to be performed in a type of situation and for
+    some purpose because it is good (In C, I ought (may, etc.) to A, for P because it is G)
+  - Distinguish between:
+    1) I will knock Alex down, in order to remove him from the path of an oncoming bullet.
+    2) I will knock Alex down, in order to relieve my temper.
+    3) I will punch a punching bag, in order to relieve my temper.
+  - (1) is (at least) permissible while (2) is wrong, but not simply because
+    of the /action/ undertaken in (1), understood as bodily behaviour
+  - (3) is permissible, but not simply because of the /intention/ rather than any bodily behavior
+  - What matters is the /relation/ between action and intention -- viz. the 'form' of the maxim
+
+[fn:11] A /maxim/ is the subjective principle of willing; the objective
         principle (i.e., the one that would also subjectively serve all
         rational beings as the practical principle if reason had
         complete control over the desiderative faculty) is the practical
         /law/. (4:400, note)
+   
+**** Questions about Proposition 3
+- The third proposition is supposed to follow from the first two, but how?
+- What is /respect/? Is it a feeling?[fn:12]
+- If duty is an action from respect for the law, then isn't duty an action from feeling rather than reason?[fn:13]
 
-[fn:16] even though respect is a feeling, it is not one /received/ by
+  
+- Intellectualism: ::  resepect is a purely intellectual recognition of the moral law sufficient for generating moral action
+- Affectivism: :: moral motivation arises from an intellectual recognition of
+                  the moral law which then generates a particular kind of
+                  /feeling/ which is consequent to the intial intellectual
+                  recognition
+
+  
+[fn:12] even though respect is a feeling, it is not one /received/ by
         influence, but one /self-wrought/ by a rational concept and
         therefore specifically different from all feelings of the former
         kind, which come down to inclination or fear. What I recognize
@@ -3083,7 +2991,7 @@ Kant's four cases are specifically illustrations of (B):
         viewed as the /effect/ of the law on the subject and not as its
         /cause/. (4: 402, note)
 
-[fn:17] Intellectualists hold that respect for the moral law is, or
+[fn:13] Intellectualists hold that respect for the moral law is, or
         arises from, a purely intellectual recognition of the supreme
         authority of the moral law, and that this intellectual
         recognition is sufficient to generate moral action independently
@@ -3097,6 +3005,39 @@ Kant's four cases are specifically illustrations of (B):
         moral judgment the intellectualists emphasize exclusively.
         (@mccarty1993, 423)
 
+*** Conformity to a Law: Potter's Analysis
+
+1) A good will only has absolute worth.
+   - (1a) Moral value always outweighs any other kind of value.
+2) A good will is not good because of what it effects or accomplishes.
+   (G, 394)
+3) A human action is morally good if and only if it is done from duty.
+   (G, 397-399)
+4) To act from duty is to act, not with regard to the purpose to be
+   attained by our action, but with regard only to the maxim in
+   accordance with which it is decided upon.
+   - (4a) The moral value of an action derives from a quality of its /maxim/.
+   - (4b) Action from duty is action done on the basis of a maxim which
+     we have adopted, not because its adoption will fulfill desires of
+     ours, but because of its form.
+5) This formal principle of volition (i.e., the principle of the
+   adoption of maxims in virtue of their form) is simply the requirement
+   that my action conform to universal law as such.
+6) The essence of law is its universality.
+7) Hence the moral law commands nothing but that I always act in such a
+   way that I can will my that maxim should become a universal law.
+8) To act for the sake of duty is to act only on that maxim which can at
+   the same time be willed as a universal law.
+9) $\therefore$ A good will is a will which always acts only on that
+   maxim which can at the same time be willed as a universal law.
+
+*** References & Further Reading
+:PROPERTIES:
+:CLASS: unnumbered
+:END:
+#+nocite: @potter1998; @korsgaard1989a; @korsgaard1998; @reath1989; @mccarty1993; @kitcher2003; @wood1999; @brewer2002
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt} \vspace*{-0.2in} \noindent
 
 ** TODO Handout Week 14 Groundwork II
 *** The Structure of Groundwork II[fn:1]
