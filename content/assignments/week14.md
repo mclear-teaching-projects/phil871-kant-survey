@@ -19,6 +19,8 @@ This week we look at Kant&rsquo;s famous division of practical imperatives into 
 -   Optional: O&rsquo;Neill, [Consistency in Action](https://www.dropbox.com/s/tw3qf2hd8kf8cap/oneill1989-ch5%5FConsistency%5Fin%5FAction.pdf?dl=0)
 -   Optional: Rawls, [Lectures](https://www.dropbox.com/s/9g5ucr877nweciu/rawls2000%5Flectures%5Fon%5Fthe%5Fhistory%5Fof%5Fmoral%5Fphilosophy.pdf?dl=0), Kant §§II-IV
 -   Optional: Wood, [The Formula of Humanity as End in Itself](https://www.dropbox.com/s/v3j3sq8alseh1jr/wood1999-ch4%5FThe%5FFormula%5Fof%5FHumanity%5Fas%5FEnd%5Fin%5FItself.pdf?dl=0)
+-   Optional: Mills, [Kant&rsquo;s Untermenschen](https://www.dropbox.com/s/mhup2rer6ge7o1g/mills2017-ch6%5FKant%2527s%5FUntermenschen.pdf?dl=0)
+-   Optional: Allais, [Kant&rsquo;s Racism](https://www.dropbox.com/s/sn5xx4uts5sqjkq/allais2016b%5Fkant%2527s%5Fracism.pdf?dl=0)
 
 
 ## Questions {#questions}
