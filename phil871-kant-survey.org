@@ -4508,27 +4508,23 @@ and his related theory of obligation.
 - Why is a good will good?
 - What is the relationship between acting from duty/obligation and acting morally?
 
-*** DRAFT Week 14 - Groundwork II
+*** DONE Week 14 - Groundwork II
+SCHEDULED: <2018-11-20 Tue>
 :PROPERTIES:
 :EXPORT_FILE_NAME: week14
 :END:
 
-This week we look at Kant's famous division of practical imperatives into
-those of hypothetical and categorical form. We'll discuss Kant's conception of
-a will, how it acts on imperatives, and the broader conception of agency in
-which this fits. We'll also look at the various formulations of the moral law,
-and raise some questions concerning how they all fit together. 
+This week we look at Kant's famous division of practical imperatives into those of hypothetical and categorical form. We'll discuss Kant's conception of a will, how it acts on imperatives, and the broader conception of agency in which this fits. We'll also look at the various formulations of the moral law, and raise some questions concerning how they all fit together.
 
 **** Readings
-- /Groundwork/, section II: 4:406-45 (Gregor & Timmerman, pp. 21-55)
-- Korsgaard, 'Introduction', second section (Gregor & Timmerman, pp. xvii-xxviii)
-- Optional: Korsgaard, 'Kant's Formula of Universal Law' & 'Kant's Formula of
-  Humanity', chs. 3 & 4 in /Creating the Kingdom of Ends/
-- Optional: O'Neill, [[file:%7Cfilename%7C/pdfs/phil871/phil871kant/OneilConsistency.pdf][Consistency in Action]]
-- Optional: Rawls, /Lectures/, Kant §§II-IV
-- Optional: Wood, [[file:%7Cfilename%7C/pdfs/phil871/phil871kant/WoodHumanity.pdf]['Humanity']], ch. 5 of /Kantian Ethics/
+- /Groundwork/, section II: 4:406-45 
+- Korsgaard, 'Introduction', second section 
+- Optional: Korsgaard, 'Kant's Formula of Universal Law' & 'Kant's Formula of Humanity', chs. 3 & 4 in [[https://www.dropbox.com/s/13h4vph1n6ke5qi/korsgaard1996a_creating_the_kingdom_of_ends.pdf?dl=0][/Creating the Kingdom of Ends/]]
+- Optional: O'Neill, [[https://www.dropbox.com/s/tw3qf2hd8kf8cap/oneill1989-ch5_Consistency_in_Action.pdf?dl=0][Consistency in Action]]
+- Optional: Rawls, [[https://www.dropbox.com/s/9g5ucr877nweciu/rawls2000_lectures_on_the_history_of_moral_philosophy.pdf?dl=0][Lectures]], Kant §§II-IV
+- Optional: Wood, [[https://www.dropbox.com/s/v3j3sq8alseh1jr/wood1999-ch4_The_Formula_of_Humanity_as_End_in_Itself.pdf?dl=0][The Formula of Humanity as End in Itself]]
 
-
+  
 **** Questions
 - What does it mean to 'incorporate' an incentive into one's maxim for action?
 - What characterizes a rational will?
