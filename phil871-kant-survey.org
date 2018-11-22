@@ -4492,13 +4492,15 @@ the aims and structure of the /Groundwork/ and then move on to section one
 and Kant's notion of a "good will", acting in accordance with a maxim,
 and his related theory of obligation.
 
+- [[file:static/materials/handouts/handout11-groundworkI.pdf][Handout]]
+
 **** Readings
 - /Groundwork/, Preface & section I: 4:387-405 
 - Korsgaard, '[[https://www.dropbox.com/s/1cx66fff65g3skm/korsgaard1998_Introduction.pdf?dl=0][Introduction]]', preface and first section 
 - Optional: Korsgaard, [[https://www.dropbox.com/s/0ry2ckxkj3q34is/korsgaard1989a_Kant%27s_Analysis_of_Obligation-_The_Argument_of_%22Foundations_I%22.pdf?dl=0]['Kant's Analysis of Obligation']]
 - Optional: Potter, [[https://www.dropbox.com/s/oire3a2wggk80ur/potter1998_the_argument_of_kants_groundwork%2C_chapter_i.pdf?dl=0]['The Argument of Kant's Groundwork, chapter 1']]
-# - [[file:%7Cfilename%7C/pdfs/phil871/phil871kant/13_KantGroundwork1.pdf][Handout]]
-  
+- [[file:static/materials/handouts/handout11-groundworkI.pdf][Handout]]
+
 
 **** Questions
 - What does Kant think the science of morality/ethics concerns?
@@ -4525,6 +4527,7 @@ This week we look at Kant's famous division of practical imperatives into those 
 - Optional: Wood, [[https://www.dropbox.com/s/v3j3sq8alseh1jr/wood1999-ch4_The_Formula_of_Humanity_as_End_in_Itself.pdf?dl=0][The Formula of Humanity as End in Itself]]
 - Optional: Mills, [[https://www.dropbox.com/s/mhup2rer6ge7o1g/mills2017-ch6_Kant%2527s_Untermenschen.pdf?dl=0][Kant's Untermenschen]]
 - Optional: Allais, [[https://www.dropbox.com/s/sn5xx4uts5sqjkq/allais2016b_kant%2527s_racism.pdf?dl=0][Kant's Racism]]
+- [[file:static/materials/handouts/handout12-groundworkII.pdf][Handout]]
 
   
 **** Questions
@@ -4535,22 +4538,26 @@ This week we look at Kant's famous division of practical imperatives into those 
 - What are the different formulations of the categorical imperative?
 
   
-*** DRAFT Week 15 - Groundwork III 
+*** DONE Week 15 - Groundwork III 
+SCHEDULED: <2018-11-27 Tue>
+:PROPERTIES:
+:EXPORT_FILE_NAME: week15
+:END:
+
 We close our discussion of Kant's moral theory by looking at his
 argument for freedom as autonomy in the third section of the /Groundwork/
 and related passages from the /Critique of Practical Reason/. We'll try to
 assess how Kant's strategy changes from the /Groundwork/ to the second
 /Critique/ and whether one approach is better than the other philosophically. 
 
-
 **** Readings
-- /Groundwork/, section III: 4:446-63 (Gregor & Timmerman, pp. 56-72)
-- CPrR: 5:30-1 (/Practical Philoosphy/, 28)
-- Korsgaard, 'Introduction', third section (Gregor & Timmerman, pp. xxviii-xxxiii)
+- /Groundwork/, section III: 4:446-63 
+- Review of Schultz (/Practical Philosophy/, 7-10)
+- CPrR: §7, 5:30-1 (/Practical Philoosphy/, 164-5)
+- Optional: Korsgaard, '[[https://www.dropbox.com/s/1cx66fff65g3skm/korsgaard1998_Introduction.pdf?dl=0][Introduction]] third section 
 - Optional: O'Neill, [[file:%7Cfilename%7C/pdfs/phil871/phil871kant/OneilReason.pdf]['Reason and Autonomy in /Grundlegung/ III']]
-- Optional: Korsgaard, 'Morality as Freedom', ch. 6 in /Creating the Kingdom of
-  Ends/
-- [[file:%7Cfilename%7C/pdfs/phil871/phil871kant/15_KantGroundwork3.pdf][Handout]]
+- Optional: Korsgaard, 'Morality as Freedom', ch. 6 in [[https://www.dropbox.com/s/13h4vph1n6ke5qi/korsgaard1996a_creating_the_kingdom_of_ends.pdf?dl=0][/Creating the Kingdom of Ends/]]
+# - [[file:static/materials/handouts/handout13-groundworkIII.pdf][Handout]]
 
   
 **** Questions
@@ -7423,64 +7430,503 @@ what’s to stop us from thinking that noumena are necessary fictions (or, maybe
 This would be to construe negative noumena or things as they are in themselves effectively as ideas of reason. Allais' point is that Kant never indicates that he has this view in mind. Kant also presents some metaphysical arguments against such a view. Phenomena consist entirely of relations. No being can exist per se, on its own, if it is entirely relational. So there must be something more to reality than phenomena. 
 ** Responses Week 11
 
-*** Edward Acuna Quintana
 *** Steve Byerly
-*** Vy Doan
-*** Cale Harms
-*** Samuel Hobbs
-*** Tate Kollar
-*** Antony Larrick
-*** Isabel Reynolds
-*** Jeffrey Schade
-*** Lauren Sweetland
-*** Ryan Turner
-*** Zachariah Wrublewski
+#+BEGIN_QUOTE
+I just don’t understand what Kant is saying. How can the self be neither an ‘appearance’ nor a ‘thing in itself’?
+#+END_QUOTE
+Fortunately Kant is not making the point you attribute to him, otherwise he would seem to be either adopting Hume's fiction view or just plain confused. 
 
+The text at B423 says "An indeterminate perception here signifies only something real, which was given, and indeed only to thinking in general, thus not as appearance, and also not as a thing in itself (a noumenon)...". What are we to make of this? As I say in reply to Antony, this is a tough passage, and Kant isn't obviously not just painting himself into a corner. 
+
+Part of the motivation of the passage is to say what was right about the /cogito/ claim that in thinking one knows that one exists, but say it in such a way that one doens't violate the critical condition on positive knowledge---i.e. /cognition/, which requires both intuition and concept/judgment. 
+
+Pure apperception is not intuition, so my awareness of myself in pure apperception (e.g. in a thought "I think /p/") doesn't give me any object. So I can't /know/ or even /cognize/ my existence. But Kant does think that any case of pure apperception is a form of thinking, which is a kind of activity, and that activity generates (or shows up) appearances in inner intuition. So in thinking 'I think' I also have an inner intuition, which is the basis of the perception that "grounds this existential proposition" that I exist. As Kant says in the TD "my existence always remains only sensibly determinable, i.e., determinable as the existence of an appearance" (B158 note). So while pure apperception is, in a sense, the most basic way in which I am aware of my existence, if this awareness is to count as cognition/knowledge then there has to be intuition. 
+
+None of this means that the self or subject is neither appearance nor thing in itself. Indeed, Kant is pretty clear that there has to be a subject as it is in itself that possesses all the mental capacities discussed in the CPR. But what is that subject? Julian Wuerth's paper (on the website) gives pretty clear evidence that Kant thought it had to be a substance with causal powers, but Kant can say both that /if/ we are genuine thinkers and moral agents then we have to be substances with causal powers, and also that we can never know (be certain) that we are such beings. 
+
+*** Vy Doan
+#+BEGIN_QUOTE
+What I’m confused about is the definition of “single thing” (page 446) vs “simple substance”. It seems that Kant’s definition of single thing is the noumena, while substance is a subject subsisting for itself i.e. a subject that gives itself existence. What is the significant of this distinction
+#+END_QUOTE
+When Kant says that "the I of apperception, consequently in every thought, is a single thing that cannot be resolved into a plurality of subjects" he means that in every use of the concept <I> that use is singular. The question is whether from such a fact about how the concept is emplyed we can legitiamtely infer that in every such use there is a simple unitary substance designated by the concept. 
+*** Cale Harms
+#+BEGIN_QUOTE
+As far as I understood what Kant was referring to when he spoke of rational psychology is generally philosophy related to investigating the nature of the soul.
+#+END_QUOTE
+Both empirical and rational psychology investigate the osul. They just do it differently. Empirical psychology is concerned with what may be learned via inner observation of one’s mental states. Rational psychology concerns what may be deduced from the a priori knowledge of oneself as a thinking subject, where this is based entirely the concept of such a thinker and not on any intuition of it (in inner or outer sense). 
+
+#+BEGIN_QUOTE
+Does Kant see rational psychologists as failing to see the illusion of having access to the self as things in themselves as leading them to suppose they can partake in investigations of the nature of the soul?
+#+END_QUOTE
+Broadly speaking, yes. The basic problem, Kant thinks, is that the RP doens't respect the fact that they lack any intuition of the soul and so lack any representation of a determinate object of investigation. They then mistake what are legitiamte claims about how we must think of ourselves for illegitimate claims as to how we really are. 
+
+#+BEGIN_QUOTE
+his [i.e. Kant's] position may be that a soul does exist, but we can have no real knowledge of its nature. Is this a plausible way to read Kant’s position on the soul?
+#+END_QUOTE
+Kant certainly seems to think that we have (or are) souls. But he denies that we can positively know what such a thing is. Is it substantial? Is it simple? Is it immortal? Kant denies that we could evey give answers to these questions.   
+*** Samuel Hobbs
+#+BEGIN_QUOTE
+why not merely stipulate that [in premise 2] we mean the same thing by “what cannot be thought otherwise than as a subject” what we mean in premise 1?
+#+END_QUOTE
+Certainly one could do this. But Rosefeldt's point is that the claim in (2) is based on a particular fact---the fact that the concept <I> can only figure in subject place. But this doens't seem to be what (1) says, which Rosefeldt disambiguates as:
+
+- [1] x cannot be thought otherwise than as subject /if x is given in intuition/ 
+  
+This is in contrast to [2]
+
+- [2] x cannot be thought otherwise than as subject by x itself in mere thinking and independently from how x is given in intuition
+
+The idea is that we can consistently either think of some determinate object that is only ever the subject of properties, or we can think of no particular object using a concept that can only ever take subject place in a judgment. And in a consistent use of one or the other notion we could draw legitimate conclusions. But mixing the two results in an invalid inference. 
+
+*** Tate Kollar
+#+BEGIN_QUOTE
+In 401 He seems to be arguing that if the Cogito is taken to be rational thought and not empirical thought, then we can know certain things about the possibility of the soul, such as its immateriality or immortality. I do not understand Kant’s way of weaseling out of the problems that Descartes’ Cogito argument faced
+#+END_QUOTE
+I'm not following you here. At B401 Kant is largely just trying to describe what rational psychology /is/. He isn't yet criticizing it or aligning his own view with it. 
+
+#+BEGIN_QUOTE
+I get how Kant wants to split between rational psychology and empirical psychology, however I am confused on how he draws the line between these two and what makes him certain that the I Think falls into the rational psychology and not the empirical psychology.
+#+END_QUOTE
+Empirical psychology is concerned with what may be learned via inner observation of one’s mental states. Rational psychology concerns what may be deduced from the a priori knowledge of oneself as a thinking subject, where this is based entirely the concept of such a thinker and not on any intuition of it (in inner or outer sense). 
+*** Antony Larrick
+#+BEGIN_QUOTE
+If we didn’t distinguish ourselves from other things, if we couldn’t cognize ourselves as distinct objects, how could we relate our experiences to the rest of the world around us? It makes me wonder which or how many non-human animals can distinguish themselves as objects, and if tests such as whether or not an animal can recognize itself in a mirror can reflect such things, despite that non-human animals may not have much capability to cognize.
+#+END_QUOTE
+Kant seems to think that part of what it is to think or represent objectively is to be able to dsintguish one thing from another, including oneself. Non-rational beings might be able to distinguish one thing from another, and themselves from other things, but they cannot represent, cognize, or know why it is that such things are distinct (including why they are distinct from other things). 
+
+#+BEGIN_QUOTE
+Is Kant’s objection to e cogito ergo sum on the grounds of the category of existence? Specifically, in B423 Kant has a long sentence about perception through the category in regards to time, and existence not being a category yet.
+#+END_QUOTE
+The B423 note is a perplexing passage. Part of what Kant is doing is objecting to a (mis-)reading of Descartes according to which D derives his existence inferentially (i.e. via syllogism). Descartes is not, and does not take himself to be, doing this. But Kant is also expressing a (perhaps confused) view about the role of intuition in the cognition of one's existence. Remember that Kant thinks cognition requires both intuition and concept/judgment. So we shouldn't be able to cognize our existence via analysis of "I think" alone. We need some intuition or other of ourself. Kant says this more clearly in a note in the TD:
+#+BEGIN_QUOTE
+The *I think* expresses the act of determining my existence. The existence is thereby already given, but the way in which I am to determine it, i.e., the manifold that I am to posit in myself as belonging tO it, is not yet thereby given. For that self-intuition is required, which is grounded in an a prilffi given form, i.e., time, which is sensible and belongs to the receptivity of the determinable. 
+#+END_QUOTE  
+So in thinking "I think" (in pure apperception) my existence is given, but only in the sense of "something in general" or as an "indeterminate" object of thought. I need an empirical intuition in inner sense to get something like a determinate object of thought -- e.g. "I think I'm hungry."
+*** Isabel Reynolds
+#+BEGIN_QUOTE
+For Kant, both mind and body are nothing but representations.
+#+END_QUOTE
+Yes - insofar as they /appear/. But Kant certainly denies that the mind is /only/ a representation. And the same plausibly is true of bodies. But what the mind and body ultimately are (as they are in themselves) is something Kant denies we can know (other than that they are not spatial or temporal). 
+
+#+BEGIN_QUOTE
+Does Kant loosely agree with Descartes’ because he makes a distinction of two types of subjects? Or do Kant’s ideas generally disagree with Descartes because he thinks that they are the same in the way that they are both just representations?
+#+END_QUOTE
+While Kant distinguishes the mind from body in terms of the possession of temporal vs. spatial properties, he doesn't think this entails that mind and body are either substances or /distinct/ (i.e. independent) substances. In the Fourth Paralogism Kant is further denying that we have better knowlege of our minds vs. body. 
+
+#+BEGIN_QUOTE
+can we even compare Descartes view on what a substance is? 
+#+END_QUOTE
+Descartes and Kant agree at least that there must be substance, and that substance is that which substands and subsists. That is enough to get a dispute between them going. 
+*** Jeffrey Schade
+#+BEGIN_QUOTE
+Since reason cannot know the metaphysical nature of the self, does Kant leave open the question of whether there is an identical self which persists through time?
+#+END_QUOTE
+Yes. He thinks we can know that a "formal" consciousness persisists---namely, the unity of apperception. But whether there is one and the same /thing/ that is identical in every thought is something he thinks is posisble but that we never positively know. 
+
+#+BEGIN_QUOTE
+representations of inner sense, i.e., the imagination
+#+END_QUOTE
+I'm not sure whether you mean to gloss all of inner sense in terms of the imagination, or just that representations of the imagination are presented in inner sense. If the latter, then I think that is closer to Kant's position.
+*** Ryan Turner
+#+BEGIN_QUOTE
+Kant seems to be suggesting (that is, I will paraphrase to see if Colin says I’ve got this right) the difference between soul and body (matter) may perhaps not be as great as it’s taken to be
+#+END_QUOTE
+Yes - at least phenomenally. They are both presented only as appearances. 
+
+#+BEGIN_QUOTE
+does this suggestion (about the stuff of mind and body being more similar than is usually supposed) lay ground for property dualism about mind?
+#+END_QUOTE
+The appearances of mind and body differ in important ways. But not in terms of being different kinds of substances. And as for things as they are in themselves maybe minds and bodies as they appear are just the same kind of thing as it is in itself. But we can never know this. 
+*** Zachariah Wrublewski
+#+BEGIN_QUOTE
+I’m not exactly sure what to make of “degrees of reality,” but I’d guess he means something like the powers of the substance in question weaken, or become worse (in some sense). But, it seems like his opponent might push back by asserting that even given the changing of properties in such a way, it cannot be that something has some degree of reality in one moment, and instantaneously have no degree of existence in the next. Or, to put it another way: the degradation of the intensive magnitude is merely a changing of properties, not the degradation of the reality of the substance; as such, it’s still the case that a simple substance cannot degrade (and therefore cannot be destroyed).
+#+END_QUOTE
+A variety of philosophers argued that the soul must be simple---i.e. without parts. If it has no parts it was often argued that it could not be material (since all matter has parts) and it could not "perish", where by the latter was meant, could not be dissolved into its components. If this were correct then all souls must be immortal, barring annhilation by some sufficient power (i.e. God). 
+
+Kant's way of reading this argument is somewhat ingenious. He (rightly) accuses Mendelssohn of construing souls as lacking (in Kant's terms) extensive magnitude without acknowledging that they might nevertheless have intensive magnitude. The concept of intensive magnitude is understood in contrast to that of extensive magnitude. When we represent a quantity of something as "extensive", we represent it as made up of mutually external smaller parts, e.g., a certain quantity of space, or of matter, insofar as it is represented as composed of parts outside of one another. An "intensive" quantity, on the other hand, is an intensity, e.g., an intensity of heat, or of brightness, etc. When we represent a quantity of something as intensive, we do not represent it as made up of mutually external smaller parts. So in representing the brightness of an object as having a certain intensity, we do not thereby represent a certain degree of brightness as composed of distinct parts each of which has a lesser degree of brightness.
+
+So it is perfectly plausible that a simple entity (an entity lacking parts) nevertheless possesses an intensive magnitude. Kant's next point is that if this is a cogent claim then it is also perfectly possible for the intensive magnitude of a simple entity to gradually (i.e. continuously through time) diminish to zero and thus cease to exist. 
+
+#+BEGIN_QUOTE
+Also, how is the creation of child-souls from those of parent-souls supposed to work?
+#+END_QUOTE
+Good question -- not sure about that!
 ** Responses Week 12
-
-*** Edward Acuna Quintana
 *** Steve Byerly
+#+BEGIN_QUOTE
+What does a contradiction prove?
+#+END_QUOTE
+For Kant things are worse, than just the standard problem that from contradictions anything can be inferred, as he denies that we can coherently even /think/ any contradiction. So the fact that reason arrives at contradictory conclusions entails that the rational structure of the mind is genuinely incoherent -- its laws (i.e. non-contradiction) preclude forming particular kinds of judgments that it is driven by its laws (i.e. inferential laws) to form.
+
+#+BEGIN_QUOTE
+it is not clear that from extremely abstract and debatable premises that we should clearly embrace Transcendental Idealism as its resolution (if that is, in fact, what TI accomplishes).
+#+END_QUOTE
+True. Though this is perhaps why Kant construes the Antinomies as "indirect" proof of the truth of Transcendental Idealism. 
+
+#+BEGIN_QUOTE
+a reductio itself only proves (usually) that there is something wrongly
+conceived, or simply contradictory (which demands reformulation with greater
+clarity, or the rejection of a given premise; usually, right?); this itself
+does not prove anything else, does it?
+#+END_QUOTE
+Kant seems to agree with you. He denies that reductio arguments could ever provide insight into the ground or explanation of anything. This is one of the reasons why the arguments provide an /indirect/ proof of TI. 
+
+#+BEGIN_QUOTE
+If this is the case, the prior metaphysical commitments that are presupposed should be questioned, rather than reaffirmed, and if the antinomies are supposed to prove that a given commitment is problematic, this motivates me to question the prior assumptions rather than hold them as fixed and inexorable.
+#+END_QUOTE
+I'm not sure that Kant disagrees with you. He thinks that the explanation of why reason gets into the trouble that it does is that we assume Transcendental Realism, i.e. the view that that what appears to us in space and time is also what really exists independently of us and that what exists independently of us also appears to us in (or is at least subject to the conditions of) space and time. It is exactly this assumption that Kant encourages us to give up. Now there may be other "prior metaphysical commitments" that should also be given up, but Kant is claiming that the realist is in a difficult position that the idealist is not. So the question is whether he is ultimately correct about that. 
+
+#+BEGIN_QUOTE
+If a wrong is wrong--if the argument is generating a contradiction- it is hard to see why I should conclude from a bad argument (one that yields contradictions) that anything at all is
+demonstrated, except that there is at least one faulty premise.
+#+END_QUOTE
+Note that thesis and antithesis are (supposed to be) valid arguments via reductio to their respective conclusions. The problem is that both are valid with putatively plausible premises. Hence reason is incoherent. So the issue in the Antinomies is /not/ that there are bad arguments for certain kinds of conclusions, but that there seem to be very /good/ arguments for opposing conclusions. If that were correct then we could say very little in favor of rational inference, if it would tend to generate such opposing positions in even its best use. 
+
+#+BEGIN_QUOTE
+a simpler response to finding this kind of reductio argument is that there is probably an error in the clarity and/or formulation of the premises, rather than in the nature of the mind itself.
+#+END_QUOTE
+Right - well that is the challenge Kant lays at the realist's feet. 
 *** Vy Doan
+#+BEGIN_QUOTE
+When Kant said “unconditioned”, did he mean “not a condition of the possibility of experience”? 
+#+END_QUOTE
+No - he means does not have a cause or explanatory ground or further reason as to why it is (or is the way that it is)
+
+#+BEGIN_QUOTE
+On page 463, Kant discuss space and aggregation in space, as well as matter and substantial. This page is the most confusing to me, and I have a hard time seeing how these concepts fit into the rest of the argument in this part of the book. 
+#+END_QUOTE
+Ok - let's take these passages in turn. Kant says:
+#+BEGIN_QUOTE
+as for space, in it there is no difference between progress and regress, because it constitutes an aggregate, but not a series, since all its parts exist simultaneously. ... since the parts of space are not subordinated to one another but are coordinated with one another, one part is not the condition of the possibility of another, and space, unlike time, does not in itself constitute a series (A412/B439)
+#+END_QUOTE
+His point here is that since the parts of space exist simultaneously so their manner of dependence is going to be different from a temporal series (whose parts succeed one another). Kant tries to get around this fact in two ways. He goes on to say, first, that the apprehension of parts of space, including in measurement, is successive, and second, that the boundedness of space (i.e. of a space as contained winthin another space) is also successive, one which has a regress (i.e. for some space, there is the space within which it is contained, and the space within which that space is contained, and so on...)
+
+Kant goes on:
+#+BEGIN_QUOTE
+reality in space, i.e., matter, is likewise something conditioned, whose inner conditions are its parts, and the parts of those parts are the remote conditions, so that there occurs here a regressive synthesis, whose absolute totality reason demands (A413/B440)
+#+END_QUOTE 
+Kant here points out that matter, as an extended impenetrable occupant of space is also conditioned in the sense that any arbitrary chunck of matter is a whole conditioned by its parts, and those parts have parts, and so on. The totality reason demands is, on the one hand, some part that is not itself conditioned by its parts, and on the other hand some whole which is not part of any further whole. 
+
+#+BEGIN_QUOTE
+On freedom: It doesn’t seem like Kant is denying the existence of freedom, but he’s clearly skeptical of its existence or at least our ability to justify/cognize it. Is Kant a determinist? 
+#+END_QUOTE
+Kant thinks the existence of free action is incompatible with the temporally determined structure of the natural (i.e. phenomenal) world. So with respect to the natural world Kant is a "hard" determinist (nature is deterministic and there is no free will). But Kant is also a Transcendental Idealist, so phenomenal nature is not all that there is. He thinks it is logically and (perhaps) epistemically possible that things as they are in themselves can be causally self-determining. Hence it is possible that noumena are free. 
 *** Cale Harms
+#+BEGIN_QUOTE
+As far as I understood the purpose of Kant’s antinomies is to propose a thesis and antithesis that contradict each other a construct proofs for them. And given these antinomies Kant demonstrates another problem with pure reason. Am I correct in describing the format and purpose of Kant’s antinomies?
+#+END_QUOTE
+Yes, though Kant thinks that the first two Antinomies are contraries while the second two contradict one another. 
+
+#+BEGIN_QUOTE
+As for the particular issue of the third antinomy, I believe I understand Kant to roughly be asserting that we cannot establish we have an absolute freedom of our will, that being we can produce actions that are not caused by some other force
+#+END_QUOTE
+Kant thinks that we cannot establish that we have free will in the sense required for transcendental freedom (i.e. being the source of a new causal chain) but he also thinks that we cannot establish that we are /not/ free. 
+
+#+BEGIN_QUOTE
+to what extent it is true of how spontaneous and indeterminate of laws of nature reason really is? If reason is something like a set of really complex and fancy heuristics that simply takes in data, or in Kant’s case ‘experience’, and outputs a set of actions the agent takes, like most if not all machine agents, then reason doesn’t appear as spontaneous or indeterminate and we might start to have problems laying blame on all those pesky liars. How, if at all, does Kant deal with this possible claim or criticism of reason?
+#+END_QUOTE
+I'm not entirely sure I understand your question. But if the question is whether reason is really spontaneous if it just operates according to laws (i.e. given some input it yields a determinate and predictable output) this is something Kant is concerned with. He wants to avoid an articulation of freedom according to which the rational agent has nothing more than the "freedom of a turnspit, which, when once it is wound up, also accomplishes its movements of itself" (CPrR 5:97). Whether Kant successfully does so is something we'll talk about tomorrow and return to in the coming weeks. 
+
 *** Samuel Hobbs
+#+BEGIN_QUOTE
+In order for Kant to argue that all happenings are caused by a previous state and that this previous state must itself have a cause, he argues that the previous state “itself must be something which has happened (come to be in a time when it previously was not)…” Thus, a happening is something which has a beginning before which it was not. Why say that?
+#+END_QUOTE
+Good question. Kant construes both the thesis and antithesis as committed to "Transcendental Realism", which (unlike Transcendental Idealism) does not make a distinction between appearances and things in themselves. Both theses thus construe things as (i) completely determinate---in the sense that for every pair of contradictory predicates one of them must be truly ascribed to each thing---and (ii) for any given conditioned thing, the series of its conditions must also be given, for otherwise that thing would not be completely determinate. So for a determinate happening to take place the complete temporal series of its conditions must also have occurred. This generates a contradiction because if we assume there is no first cause in time then we never get a complete series and so no determinate happening, and if we do assume a first cause in time we generate a contradiction with our conception of what a happening or even /is/. So reason, on the assumption of TR plus a conception of complete determination, contradicts itself. 
 *** Tate Kollar
-*** Antony Larrick
+#+BEGIN_QUOTE
+I do not understand why Kant thinks that this link of conditions and conditioned only applies to the past...I do not see why it could not apply to the future. 
+#+END_QUOTE
+
+Kant construes the existence of a set of conditions as necessary for some determinate given thing or event. He seems to think (plausibly?) that future occurrences are not given. So in that sense they are not up for discussion. But Kant agrees that given determinism, sufficient knowledge of the causal laws plus the previous state(s) of the universe will allow for prediction of future states, including the prediction of human behavior. Kant is pretty explicit about this in the first /Critique: 
+
+#+BEGIN_QUOTE
+all the actions of the human being in appearance are determined in accord with the order of nature by his empirical character and other cooperating causes; and if we could investigate all the appearances of his power of choice down to their basis, then there would be no human action that we could not predict with certainty, and recognize as necessary given its preceding conditions. (A549-5018577-8)
+#+END_QUOTE
 *** Isabel Reynolds
-*** Jeffrey Schade
-*** Lauren Sweetland
+#+BEGIN_QUOTE
+Kant says that this absolute causal spontaneity both begins from itself and follows the laws of nature. How can this be? How can this second form of causality follow the laws of nature if it goes against it by starting from itself?
+#+END_QUOTE
+Kant thinks that the conception of a free or spontaneous cause, and the conception of a natural cause, are in opposition -- they generate a contradiction. So his resolution of this Antinomy requires appealing to Transcendental Idealism. According to TI it is at least logically possible that some thing in itself acts as a first cause, while it is impossible for there to be any first cause amongst the sequence of appearances. 
+
+#+BEGIN_QUOTE
+If causality is a priori then does the first cause come from an a priori concept like God?
+#+END_QUOTE
+I'm not sure what it would be for causality to be a priori? Perhaps you're stuck on the oddness of the phrase “a cause sufficiently determined a priori" (A446/B474)? What Kant means here is that if a cause is to be a sufficient reason or ground for its effect, then there must be a sufficient reason or ground for the cause as well. But if you mean to ask whether the first cause that Kant has in mind must be God, certainly that is one cause that he has in mind. But as we'll discuss tomorrow, he also want to see if the possibility can be left open that each of us, as rational agents, is also transcendentally free, and thus able to initiate a causal serious without being determined by external forces. 
 *** Ryan Turner
+#+BEGIN_QUOTE
+It struck me reading the Third Antinomy that the way Kant frames the discussion is far more obviously schematic than is usually the case, at least so far. ... is there a way Kant thinks the way he’s structured the argument is necessary to arriving at the logical truth of the conclusion? That is, is this a neat way of organizing his claims that Kant has landed on, or is this part and parcel of coming to think as he has about e.g. causation and sequence? 
+#+END_QUOTE
+Kant thinks that reason is driven to inquire about the conditions of things, and that the following principle leads to a problem: for any given conditioned thing (e.g. appearance) the whole set of conditions must also be given. But in each instance discussing the relevant whole series (marked by the topics of each Antinomy) reason delievers two distinct (and at least according to Kant) valid arguments for either contradictory or at least contrary conclusions. So here reason ends up in an argument with itself, an argument that is not obviously resolvable. 
+
+#+BEGIN_QUOTE
+I wonder about how directly the influence on Hegel is from examples of Kant’s argumentation as this. 
+#+END_QUOTE
+This was very important to Hegel, who constructed his "dialectical" method in self-conscious imitation of the dialectic. On Hegel's view, however, the dialectical operation of reason isn't essentially error-generating. Instead, reason articultes point and counter-point, and then seeks to overthrow this opposition in a "synthesis" of the seemingly opposed positions.  
 *** Zachariah Wrublewski
+#+BEGIN_QUOTE
+I wonder why it has to be that we cannot regard our choices as predetermined instead of the fact that we cannot regard our choices as /necessarily/ predetermined, especially combined with a sufficient understanding of transcendental idealism.
+#+END_QUOTE
+
+I'm not seeing the contrast between predetermined and /necessarily/ predetermined here. Would it matter in terms of the process of first-person deliberation whether choices were predetermined, but only contingently, in that had a different initial state of the universe obtained then I would have been predetermined differently? I don't see that it would. 
+
+#+BEGIN_QUOTE
+Wouldn't the possibility of being undetermined be enough, such that we could move on with our lives acting as if we were free...?
+#+END_QUOTE
+
+This is exactly the possibility for which Kant is arguing. He wants to make logical/rational space for the epistemic possibility that our actions are not subject to a thoroughgoing determinism. 
+
+
+
+
+
 
 ** Responses Week 13
 
-*** Edward Acuna Quintana
 *** Steve Byerly
+#+BEGIN_QUOTE
+I’m not sure how Kant can deny so much, and be so critical about all of the major metaphysical questions, and then somehow lean so heavily on teleology for the whole enterprise of ethics.
+#+END_QUOTE
+Kant's ultimate views concerning teleology are complex and perhaps conflicted. But it does not seem to be that implausible to construe human actions as oriented towards ends of one kind or another. 
+
+#+BEGIN_QUOTE
+I don’t see how Kant can be so comfortable with these purposes of reason, freedom, and will (undermining reason’s work first, yet requiring purposive faculties). Just because reason wants something, and appears to say something, how can we trust it now? It has led us astray in the Dialectic by seeming to provide legitimate conclusions (falsely, we have learned), because, simply, that is just what it does.
+#+END_QUOTE
+Kant thinks that reason in its speculative use can lead us astray because it is subject to unavoidable illusions. But reason constrained by proper critique is, Kant argues, entirely trustworthy (though not infallible) and useful. Reason in its practical use is also subject to illusions of various kinds. From the /Critique of Practical Reason/:
+#+BEGIN_QUOTE
+reason in its practical use is no better off. As pure practical reason it likewise seeks the unconditioned for the practically conditioned (which rests on inclinations and natural needs), not indeed as the determining ground of the will, but even when this is given (in the moral law), it seeks the unconditioned totality of the object of pure practical reason, under the name of the /highest good/. (CPrR 5:108)
+#+END_QUOTE
+Like speculative reason, practical reason can be caught in antinomies concerning what is the basis of the relation between virtue and happiness (the relation of equality comprising the highest good). But this doesn't show that practical reason is bad or useless, just that it needs 'critique.' Plus, as Kant goes on to argue in the Groundwork, morality is only possible for us if it is possible to be motivated from respect for the law alone (or as Kant sometimes puts it, motivated by reason or rational willing alone). 
+
 *** Vy Doan
+#+BEGIN_QUOTE
+Kant seems to not believe that the characters of human being is inherently good
+#+END_QUOTE
+In fact he believes human beings are in no way inherently good -- in his view we are all constantly struggling with "evil" (broadly construed). 
+
+#+BEGIN_QUOTE
+if moral principles are arrived at through pure reason, then how can they be applied to daily life circumstances, since for them to stand a priori, they have to be vague, which can creates a big grey area
+#+END_QUOTE
+
+Kant uses "principle" to cover things like the moral law (in its various formulations) but also much more specific things like "Don't steal other people's things, even when doing so will cast no suspicion on oneself." Perhaps there is still some ambiguity as to how this might be applied in a particular case, but it seems to me that there is no further ambiguity here than with how one applies any empirical judgment. 
+ 
 *** Cale Harms
+#+BEGIN_QUOTE
+I would probably question the assumption in the statement that we can entirely put aside the influence of our inclinations when deciding what actions we may take...Does Kant every present an argument for why it possible to take an action entirely without the influence of inclination or does he just take this as given? 
+#+END_QUOTE
+
+In Groundwork I Kant is analyzing the concept of obligation -- duty -- and setting up the conditions for moral action. He is going to save his argument for our actually being able to act out of duty -- and so that we actually have obligations -- for Groundwork III. As for the claim that it is impossible to act without putting aside inclination, I suppose the question is what you mean by "putting aside." If the worry is that all action requires a motive, then Kant agrees with you. In the case of moral action the relevant motive is respect for the moral law. 
+
+If the position you're gesturing at is rather that all action is done for the sake of one's welfare---the satisfaction of one's inclinations---then that is a position known as "[pschological egoism](https://plato.stanford.edu/entries/egoism/#1)" and one must argue for it so as not to beg the question against the rationalist. 
+
 *** Samuel Hobbs
+#+BEGIN_QUOTE
+It seems at least conceivable that one could will lying promises to be universal. Thus, if conceivability is the criterion by which we judge whether the Categorical Imperative applies to lying promises, then it seems it is clearly conceivable to will to lying promises when needed to be a universal law without thereby undermining promise-making in general.
+#+END_QUOTE
+Yes - this is a problem, though it seems to heavily depend on the notion of 'maxim' that is used to cash out the content of a 'universal willing.' Here's Allen Wood making such a point:
+#+BEGIN_QUOTE
+Consider, for example, the maxim of making a false promise on Tuesday, August 21, to a person named Hildreth Milton Flitcraft. This maxim surely would not, if made a universal law of nature, make it impossible for me to gain money by making false promises. It is not even evident that such a qualified law would become well enough known to people named Hildreth Milton Flitcraft that one could not achieve one's purpose in following it. (Wood 1999, 102)
+#+END_QUOTE
+When we discuss Groundwork II next week we'll see if there is anything to be said for defending the Formula of Universal Law (and its 'law of nature' variant). 
 *** Tate Kollar
+#+BEGIN_QUOTE
+Kant seems to assume that everyone should rationally agree with him that morality should be universal, necessary, and absolute. I would imagine there are plenty of moral relativists who would beg to differ, but I am also surprised that Kant’s explanation of why this is the case is so short when this seems like an important argument
+#+END_QUOTE
+
+Kant seems to think he's just analyzing the "common concept" of obligation. There may be moral relativists who disagree, but they are not the target of Groundwork I. That said, if Kant ends up saying nothing plausible about obligation or its relation to morality, then his positive argument that we act morally becomes less significant. 
+
+#+BEGIN_QUOTE
+He says that proper moral groundings can produce actions within the law and also contrary to the law. 
+#+END_QUOTE
+I'm not quite sure what you're referring to. Kant denies that there can be conflicting moral demands on us. 
+
+#+BEGIN_QUOTE
+Kant says in 4:394 that good will is not determined by the effects of an action but by its volition. I take this to mean the intent or the will behind an action as opposed to its consequences
+#+END_QUOTE
+Yep. Presumably consequentialists will disagree. 
+
+
 *** Antony Larrick
+#+BEGIN_QUOTE
+Does the thought of ethics as a science have anything to do with Kant’s thoughts of morality, namely in that Kant has an objective conception of morality?
+#+END_QUOTE
+Kant considers "morality" and "ethics" as broadly synonymous, so I think the answer to your question, as I'm understanding it, is "yes."
+
+#+BEGIN_QUOTE
+If one views science as objective, which Kant seems to do, would viewing ethics and a doctrine of morals as science be an extension of that view?
+#+END_QUOTE
+There is some scholarly debate as to what sort of metaphysical commitments Kant's ethics maintains. But Kant certainly thinks that morality is objective in the sense that there are true statements concerning what morality permits and requires, and that these statements are true for all rational beings, regardless of their other differences. 
 *** Isabel Reynolds
-*** Jeffrey Schade
-*** Lauren Sweetland
+#+BEGIN_QUOTE
+So, if there was a moral law,  “thou shalt not lie”, the focus should be on the idea that lying is wrong in itself? Initially I thought that this was a contradiction, because following a law for the law itself is obeying some principle. 
+#+END_QUOTE
+Kant's claiming that obeying a law out of fear of punishment, or from blindly following authority, is not acting morally. 
+
+#+BEGIN_QUOTE
+morality needs to be completely isolated from experience for it to be truly pure and moral. If someone realized that they were obeying a moral law because they were obeying some principle, then that realization would be based on experience, not solely on morality. 
+#+END_QUOTE
+If there are to be universal and necessary principles then we have to be able to know them independently of experience. But Kant also is trying to show us that there are differences between being motivated by moral principles and being motivated by one's own self-interest. Hence all the cases that he discusses (e.g the shopkeeper, the despondent man, etc.).
+
+#+BEGIN_QUOTE
+Kant says that any action that is not done out of duty is wrong.
+#+END_QUOTE
+I don't think Kant says this anywhere. He does think that actions not done from a sense of what morality requires are either not morally laudable, or at least are less laudable than those done from such a sense. But one can act in accord with what morality requires even if one is not acting that way /because/ it is what morality requires. 
 *** Ryan Turner
+#+BEGIN_QUOTE
+he seems to take as not requiring explanation the assumption that the capacity of humans for rationality is essential to our nature
+#+END_QUOTE
+Reason is essential to our nature as rational beings, though not to our nature as animals. But I take it you're not meaning to dispute that. So is the question why think we are rational animals? It's not clear to me that Kant would take such a question seriously. If you're capable of asking the question, and evaluating reasons for a positive or negative answer to it, then you're a rational animal. 
+
+#+BEGIN_QUOTE
+Kant’s view of the nature of (human) mind supposes there to be a faculty of reason necessarily built-in, and able to get at the truths of things such as properly universal maxims and so on. What does he make of such capacities as perceiving, willing toward understanding, striving to individuate from each other and from concerns more sentimental, etc., the problems reason concerns itself with? 
+#+END_QUOTE
+Kant seems to individuate mental faculties based on the kinds of cognitive and conative tasks they can carry out. 
+
+#+BEGIN_QUOTE
+does Kant distinguish in that kind of case between failure to act from duty when there are multiple duties in conflict, and failure to act free of inclination? 
+#+END_QUOTE
+Kant does not think that there can be genuine conflicts between duties. On Kant's view there are no morally tragic circumstances in which the only acts that one can perform are all (morally) wrong. 
 *** Zachariah Wrublewski
 
+#+BEGIN_QUOTE
+Couldn’t it be the case that there is an agent that necessarily only performs one action that conforms with the moral law but is done from some grounds other than the moral law? If it is possible, then it seems that Kant’s mistaken. If it’s not possible, then it seems to put pressure on the idea that the science of morality does not boil down to something about “creatures like us.”
+#+END_QUOTE
+
+Your first scenario seems perfectly possible, but I don't see what that has to do with Kant's worry that "a ground that is not moral will indeed now and then produce actions in conformity with the law, but it will also often produce actions contrary to the law." Isn't that claim still perfectly plausible even if there are some agents who are magically annihilated after their one contingently correct act?
+
+#+BEGIN_QUOTE
+What sorts of practical considerations should be considered when formulating a maxim?
+#+END_QUOTE
+
+Kant's conception of a 'maxim' and its role in his argument is notoriously obscure. We'll get a start on talking about this tomorrow, but we'll come round to it again next week. 
 ** Responses Week 14
 
-*** Edward Acuna Quintana
 *** Steve Byerly
+#+BEGIN_QUOTE
+Why would there be universal morality unless there be a shared human nature? And if human nature is the ontological root that the universalization stands, where is the argument for this?
+#+END_QUOTE
+Kant thinks that in every human being there is the capacity for rational thought and behaviour. To my knowledge he never gives an argument for why this is so. But this is one of the many ways in which Kant spends little time defending his position to (or from) the skeptic. 
+
+#+BEGIN_QUOTE
+I am curious though, why we wouldn’t press the issue of human essence and nature, rather than simply taking it for granted that morality is simply an extension of rationality.
+#+END_QUOTE
+I'm not sure that Kant 'takes for granted' that morality is 'an extension of rationality.' He seems rather to be arguing for this view (this is part of the explanation of why he keeps returning to consequentialist and virtue theoretic conceptions and arguing that they place value in the wrong place). 
+
+#+BEGIN_QUOTE
+I can readily entertain the universal morality because of a shared human nature, but I find myself wondering why there would be any universality without the common nature, and this requires a kind of metaphysics, not merely logic, right?
+#+END_QUOTE
+But Kant very clearly denies that the basis of morality---the moral law---depends on a shared /human/ nature. His view is that it is constitutive of a shared /rational/ nature. See the discussion from 4:410-12.
+
+#+BEGIN_QUOTE
+Isn’t it strange that there is a hypothetical appeal to the consequences of the kingdom of ends, which is a general determiner of right action? That is, don’t we need a vision of society, working in ‘harmony’ to adjudicate moral principles, which further relies on a concept of the human good, referring eventually to human beings as individuals?
+#+END_QUOTE
+I'm not seeing the appeal to consequences in the discussion of the "kingdom of ends." Let's talk about this tomorrow? 
 *** Vy Doan
+#+BEGIN_QUOTE
+A perfectly good will would, therefore, equally stand under objective laws (of the good), but it could not on this account be represented as necessitated to actions in conformity with law since of itself, by its subjective constitution, it can be determined only through the representation of the good.” What does Kant mean in this sentence? 
+#+END_QUOTE
+Kant means here that a perfectly good will or "holy will" would not be subject to rational (moral) imperatives because it would always act in accord with rational principles. In this case there would be no moral imperative for it but only the moral law, which would be perfectly descriptive of its will (in the way that, e.g., gravitational law is descriptive of the motions of objects). 
+#+BEGIN_QUOTE
+I’m also confused on Kant’s definitions of the three phrases: “problematically practical principle”, “assertorically practical principle”, and “apodictically practical principle”.
+#+END_QUOTE
+Let's take the first two. Start with construing all hypothetical imperatives as "if x, then y" claims. A problematically practical principle would be an imperative whose antecedent one may endorse or not. So with the imperative "if you want a spicy meal, go to /La Coxing/" one could accept or reject the antecedent of wanting a spicy meal as one pleases, and it may be the case that /no one/ accepts the antecedent. Contrast this with Esoteric practical principles, which all have as their antecedent the desire to be happy. Kant points out that all finite rational beings have happiness as an aim (we can thus "assert" it). 
+
+Finally, an apodictically practical principle is just one whose antecedent is /necessary/---this is a somewhat strained way of trying to construe the categorical imperative as /unconditional/. 
 *** Cale Harms
+#+BEGIN_QUOTE
+One way I think the borrower could still get the money he needs, while still being able to make the maxim of his action into a universal law, is to borrow how much he needs from a sufficient number of people such that he can pay back all but one person the amount of money he has borrowed
+#+END_QUOTE
+But wouldn't the pyramid scheme you're describing still require making a false promise to at least one person? The nature of pyramid schemes being that the promisor knows beforehand (if they aren't delusional anyway) that at least one person is going to get left holding the bag. 
 *** Samuel Hobbs
+#+BEGIN_QUOTE
+Kant seems to suggest that we can’t judge moral cases unless we have a standard of morality. I’m not sure why that is specifically true. It seems to me that I can judge cases of knowledge even if I don’t have a worked-out epistemology.
+#+END_QUOTE
+That definitely seems right. But presumably Kant does not disagree with you, especially since he denies in the Preface that acting morally requires an explicit grasp of the metaphysics of morals. The latter is necessary "because morals themselves remain subject to all sorts of corruption" (4:390) when we lack an explicit grasp of the fundamental principles of morality. So hard moral cases might get judged incorrectly without a metaphysics of morals, just like hard epistemological cases might get judged incorrectly without a proper epistemology. 
+
+#+BEGIN_QUOTE
+I am interested in the case of suicide violating the categorical imperative....It seems that we are going to need [something] like “self-love involves inherently the preservation of like” to be almost tautologous to get the desired result. Is that correct?
+#+END_QUOTE 
+Yes. This is supposed to be a case of contradiction in conception rather than in will. What this means, and whether the suicide example is remotely convincing is another matter, which we'll discuss tomorrow. 
 *** Tate Kollar
+#+BEGIN_QUOTE
+Kant says morality comes with absolute necessity and no contingent conditions...But it seems like there could be some cases where contingent conditions matter without being the only determining factor. An example that comes to mind is crimes of passion
+#+END_QUOTE
+Kant thinks that the unconditional nature of the moral imperative or demand is such that it is necessary and not contingently demanding. If it were only contingent then there may be conditions under which we escape it entirely. 
+
+But Kant agrees that some kinds of crimes seem more transgressive of the law than others. He thinks that premeditated and calculated murder is worse than a murder from 'passion', because he thinks that in being in the grip of a passion one has less control (the action is less imputable) than in the case of cold calculation. This is a common theme in his lectures on ethics. 
+
+#+BEGIN_QUOTE
+I am interested to know if Kant thinks all uses of ought are determined necessarily
+#+END_QUOTE
+All imperatives "necessitate" but most imperatives are hypothetical, and thus one has the option of avoiding the demand by dropping or disowning the antecedent of the hypothetical claim. Your example of spanking children is presumably a covert hypothetical imperative---e.g. "if you want to raise your children correctly you ought to hit them when they act incorrectly."
+#+BEGIN_QUOTE
+I find it very interesting that Kant says happiness is possible for all human beings because it is in their essence. As far as I can tell, he does not make any argument here for why this is the case. To be honest, it seems kind of naive to believe that, for every human, given their current possible actions, there is always necessarily at least one that will make them happy. 
+#+END_QUOTE
+Kant thinks that all humans /aim/ at happiness (.e.g 4:418) but he certainly doesn't think that all /achieve/ happiness, nor does he think that one always has an action available to one that would make them happy. But perhaps we can look at the passage you're thinking about and discuss it tomorrow/ 
 *** Antony Larrick
+#+BEGIN_QUOTE
+Between 4:408-409, Kant asserts that “Nor one could give worse advice to morality than by wanting to derive it from examples”. Is this essentially an objection to virtue ethics, which didn’t really exist in his time as it does today?
+#+END_QUOTE
+Certainly such a view is among Kant's targets. He was at least familiar with the conception of the /phronimus/ or moral exemplar from Greek ethics in both its Aristotelian and Stoic versions. His point is that such an exemplar can provide us only with a sort of motivation to do well, not with a justification for some or other principle of morality. 
+
+#+BEGIN_QUOTE
+Halfway through 4:414, Kant describes the categorical imperative and hypothetical imperative. Could an action be both categorically and hypothetically imperative?
+#+END_QUOTE
+No. An action cannot be done on the basis of an unconditional demand that is /also/ a merely conditional demand. Or is the question whether some action could have both categorical and hypothetical basis for being done? That is certainly possible. For example, suppose the question is whether to help your friend. There might be a hypothetical imperative involving the importance of helping friends if you want to avoid loneliness. But there is a also a categorical demand to be beneficent. So either way you ought to help your friend, but only one of the imperatives gets at a moral demand (or the motivation to meet such a demand). 
 *** Isabel Reynolds
+#+BEGIN_QUOTE
+What if someone contracted a rare disease where they would die in 3 years, but every day they would feel pain so intense that they could not leave their home or carry out simple tasks like eating without passing out
+#+END_QUOTE
+Kant's example seems to concern someone who is healthy but due to 'troubles' (e.g. in money or love) has begun to contemplate suicide. Whether Kant's reasoning is correct as to why the person shouldn't take their own life it is clear that they shouldn't. Your case is much harder, and here it is less clear to me what Kant would say. Kant is certainly not saying, as you suggest, that "it is your duty to continue being in that position just because that’s how things are." He was no revolutionary, but in various ways he was radical for his time and place, and he did not aim at a simple preservation of the status quo. He did however hold a deep-seated reverence for the sanctity of human life, possibly tied to his deeply religious upbringing (he was from a poor [[https://en.wikipedia.org/wiki/Pietism][pietist]] family in Königsberg). 
+
 *** Jeffrey Schade
-*** Lauren Sweetland
+#+BEGIN_QUOTE
+Kant’s suggestion that moral truths must be cognized as objects (4:408)
+#+END_QUOTE
+Kant's claim at 408 is that "unless we want to deny to the concept of morality any truth and any relation to some possible object, we cannot dispute that its law is so extensive in its import that it must hold not only for human beings but for all rational beings as such..." This is a claim not that moral truths are cognized as objects (what would that even mean?) but that if morality is to be more than a mere 'figment of the brain', if it is to apply to the actions of actual beings, then it applies to /all/ rational beings, and not just human beings. 
+
+#+BEGIN_QUOTE
+even Jesus is only an example, or model, of the good, not morality itself. The good can never be inferred from experience or popular morality, but only in accordance with a supreme and a priori principle of morality, which cannot come from experience, but only from a metaphysics of morals, which holds for all rational beings as such, and not merely under contingent conditions. Does this mean that moral truths are necessarily true? 
+#+END_QUOTE   
+Yep - if morality applies to rational beings at all, it necessarily applies. 
 *** Ryan Turner
+#+BEGIN_QUOTE
+Kant (4:417) says that “whoever wills the end also wills (insofar as reason has decisive influence on his actions) the indispensably necessary means to it that are within his power.”
+#+END_QUOTE
+Kant seems to think this is simply an analytic truth, at least at this level of generality. It is analytic that in willing an end one wills the means. It is not analytic that in willing to become the greatest living philosopher one must first read and understand all of Kant's work. 
+
+#+BEGIN_QUOTE
+Supposing I will an end x, and have a belief that P where P is a claim regarding what means are indispensably necessary to my end, it seems that I will P. But, if it happens that P is false, whereas a claim Q of the same form is true, is it implicit in my willing x that I will Q despite my ignorance of the truth of Q?
+#+END_QUOTE
+No. See my point about what is and is not analytic about willing an end above. 
+
+#+BEGIN_QUOTE
+is it necessary for it to be true that “reason has decisive influence on [my] actions” that my reason accurately accesses certain facts?
+#+END_QUOTE
+Well, yes - insofar as among the "facts" that reason ascertains is the fact of its lawful conditions in willing some action. But presumably you mean empirical facts, and here I think the answer is no. 
+#+BEGIN_QUOTE
+Is it likewise necessary that my reason accurately tracks the universalizability value of any maxim? 
+#+END_QUOTE
+I'm not sure what you mean here -- try again tomorrow?
+#+BEGIN_QUOTE
+does “ought implies can” generate an escape clause from obligations of the categorical imperative, to the extent that my actions fail to be decisively influenced by reason?
+#+END_QUOTE
+To the extent that an imperative applies to one, Kant think that one must be able to (in principle) meet its demand. But then I'm not sure what you mean by an 'escape clause.' Let's discuss tomorrow?
 *** Zachariah Wrublewski
 
+#+BEGIN_QUOTE
+consider the action of going to the movies tomorrow evening at 5 PM to see Dr. Seuss’ The Grinch at The Marcus. It doesn’t seem like I can will this such that the maxim could become a universal law, given that if everyone were to do this in the relevant circumstances, I would not be able to find a seat, and would thus not be able to achieve my purpose through this action.
+#+END_QUOTE
+This is a problem for Kant's view as expressed. But say that a maxim says: In context C, do action A for purpose P, because that is G. Your example seems a bit too specific---wouldn't the maxim to be rationalized be something like "when one desires to see a movie, look for the nearest theater in which it is playing at a time that is convenient" or something like that? I don't see that this maxim generates the problematic result, since not everyone is such that there is just one place and one time at which they want to see the very same movie. 
+
+#+BEGIN_QUOTE
+It’s not clear to me why we have to insist that all rational beings must necessarily will that all their capacities be developed, especially considering we are often aware of the great expense of developing some of these capacities in general, and the potential impossibility of developing all of these capacities given that developing some capacities may make it impossible to develop others.
+#+END_QUOTE
+That seems right, but I take Kant here to simply be saying that, barring various material constraint, I should aim to develop all my talents to the fullest. In some case these might be incompatible, and then I'll have to make some potentially hard choices. But the general aim should be to develop them all so much as is possible. 
+
+#+BEGIN_QUOTE
+it’s unclear to me what sorts of capacities Kant has in mind in this section of the Groundwork, and how these capacities are related to natural talents (unless the capacities themselves just are specific enough to directly relate to all natural talents). Do I, for example, have the capacity to be a great polo player if I am good at riding a horse, have good hand-eye coordination, etc.? Or, do I just have the more general capacities for having good hand-eye coordination, riding a horse well, etc.?
+#+END_QUOTE
+I think Kant means both the very general capacities you mention and much more specific "natural talents", such as being a talented violinist, or orator, or painter. The question is why we should think that deciding not to develop such a talent as one has results in a contradiction in willing (not in thinking). 
 ** Responses Week 15
 
 *** Edward Acuna Quintana
@@ -7600,7 +8046,7 @@ Intuition of an object /as an object/ requires the generation of unity that is o
 #+PANDOC_OPTIONS: template:~/.pandoc/pandoc-templates/tufteII.tex
 #+PANDOC_OPTIONS: standalone:t pdf-engine:xelatex  
 #+EXCLUDE_TAGS: notes scrap todo
-#+BIBLIOGRAPHY: ~/Dropbox/Work/All.bib
+#+BIBLIOGRAPHY: ~/Dropbox/Work/bibfile.bib
 
 
 ** COMMENT Local Variables                                                    :ARCHIVE:
