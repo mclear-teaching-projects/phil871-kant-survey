@@ -1,6 +1,6 @@
 +++
 title = "Week 15 - Groundwork III"
-publishDate = 2018-11-27T00:00:00-05:00
+publishDate = 2018-11-27T00:00:00-06:00
 draft = false
 weight = -100
 author = false
@@ -13,6 +13,8 @@ argument for freedom as autonomy in the third section of the _Groundwork_
 and related passages from the _Critique of Practical Reason_. We&rsquo;ll try to
 assess how Kant&rsquo;s strategy changes from the _Groundwork_ to the second
 _Critique_ and whether one approach is better than the other philosophically.
+
+-   [Handout](/materials/handouts/handout13-groundworkIII.pdf)
 
 
 ## Readings {#readings}

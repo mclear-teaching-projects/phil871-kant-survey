@@ -4550,6 +4550,8 @@ and related passages from the /Critique of Practical Reason/. We'll try to
 assess how Kant's strategy changes from the /Groundwork/ to the second
 /Critique/ and whether one approach is better than the other philosophically. 
 
+- [[file:static/materials/handouts/handout13-groundworkIII.pdf][Handout]]
+
 **** Readings
 - /Groundwork/, section III: 4:446-63 
 - Review of Schultz (/Practical Philosophy/, 7-10)
