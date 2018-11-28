@@ -4568,24 +4568,21 @@ assess how Kant's strategy changes from the /Groundwork/ to the second
 - What is the circle concerning the relationship between freedom and morality?
 - How does Kant think we can break out of the circle?
 
-*** DRAFT Week 16 - The Unity of Reason
+*** DONE Week 16 - The Unity of Reason
+SCHEDULED: <2018-12-04 Tue>
 :PROPERTIES:
 :EXPORT_FILE_NAME: week16
 :END:
 
-We close out the semester by looking at one "big picture" issue in
-Kant's critical philosophy---namely, how are theoretical and practical
-reason related---i.e. what is the unity of these two faculties as
-faculties of /reason/? We'll discuss this issue as it plays out in one of
-his most famous popular essays -- "What is Enlightenment." We'll also
-discuss what it means to say that practical reason has "primacy" over
-theoretical reason.
+The week we'll finish our discussion of /Groundwork III/ and Kant's two 'standpoints'. We then close out the semester by looking at one "big picture" issue in Kant's critical philosophy---namely, how theoretical and practical reason are related. To what extent can we see theoretical inference and practical willing as exercises of a single faculty of reason? We'll discuss this issue as it plays out in one of his most famous popular essays -- "What is Enlightenment." We'll also discuss what it means to say that practical reason has "primacy" over theoretical reason.
 
 **** Readings
+- Groundwork III, especially 4:447-8, 4:450-453
 - /What is Enlightenment?/ in /Practical Philosophy/, 11-22
-- CPrR: "On the Primacy of Pure Practical Reason" 5:119-121 (/Practical Philosophy/, 236-8)
-- SEP: "[[https://plato.stanford.edu/entries/kant-reason/][Kant's Account of Reason]]", especially "[[https://plato.stanford.edu/entries/kant-reason/#UniThePraRea][The unity of practical and theoretical reason]]"
-
+- CPrR: "On the Primacy of Pure Practical Reason" 5:119-121 (In /Practical Philosophy/, 236-8)
+- Optional: SEP: "[[https://plato.stanford.edu/entries/kant-reason/][Kant's Account of Reason]]", especially "[[https://plato.stanford.edu/entries/kant-reason/#UniThePraRea][The unity of practical and theoretical reason]]"
+- Optional: Korsgaard, 'Morality as Freedom', ch. 6 in [[https://www.dropbox.com/s/13h4vph1n6ke5qi/korsgaard1996a_creating_the_kingdom_of_ends.pdf?dl=0][/Creating the Kingdom of Ends/]]
+- Optional: O'Neill, '[[https://www.dropbox.com/s/hh5ggimlujamfm6/oneill1989-ch1_Reason_and_Politics_in_the_Kantian_Enterprise.pdf?dl=0][Reason and Politics in the Kantian Enterprise]]'
 
 **** Questions  
 - In what ways might we think of practical and theoretical reason as stemming
