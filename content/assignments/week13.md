@@ -1,6 +1,7 @@
 +++
 title = "Week 13 - Groundwork I"
-publishDate = 2018-11-13T00:00:00-05:00
+publishDate = 2018-11-13T00:00:00-06:00
+tags = ["duty", "morality", "obligation", "responsibility", "will"]
 draft = false
 weight = -100
 author = false

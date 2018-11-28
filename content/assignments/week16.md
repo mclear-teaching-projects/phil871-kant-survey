@@ -1,6 +1,7 @@
 +++
 title = "Week 16 - The Unity of Reason"
 publishDate = 2018-12-04T00:00:00-06:00
+tags = ["autonomy", "cause", "law", "morality", "reason"]
 draft = false
 weight = -100
 author = false

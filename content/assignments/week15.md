@@ -1,6 +1,7 @@
 +++
 title = "Week 15 - Groundwork III"
 publishDate = 2018-11-27T00:00:00-06:00
+tags = ["autonomy", "cause", "morality", "reason", "responsibility", "will"]
 draft = false
 weight = -100
 author = false

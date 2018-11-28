@@ -4478,6 +4478,7 @@ The concept of causality as /natural necessity/, as distinguished from the conce
 SCHEDULED: <2018-11-13 Tue>
 :PROPERTIES:
 :EXPORT_FILE_NAME: week13
+:EXPORT_HUGO_TAGS: duty morality obligation responsibility will 
 :END:
 
 This week we start our discussion of Kant's moral theory. We'll discuss
@@ -4507,6 +4508,7 @@ and his related theory of obligation.
 SCHEDULED: <2018-11-20 Tue>
 :PROPERTIES:
 :EXPORT_FILE_NAME: week14
+:EXPORT_HUGO_TAGS: duty morality obligation responsibility will law universality
 :END:
 
 This week we look at Kant's famous division of practical imperatives into those of hypothetical and categorical form. We'll discuss Kant's conception of a will, how it acts on imperatives, and the broader conception of agency in which this fits. We'll also look at the various formulations of the moral law, and raise some questions concerning how they all fit together.
@@ -4535,6 +4537,7 @@ This week we look at Kant's famous division of practical imperatives into those 
 SCHEDULED: <2018-11-27 Tue>
 :PROPERTIES:
 :EXPORT_FILE_NAME: week15
+:EXPORT_HUGO_TAGS: autonomy cause morality reason responsibility will 
 :END:
 
 We close our discussion of Kant's moral theory by looking at his
@@ -4567,6 +4570,7 @@ assess how Kant's strategy changes from the /Groundwork/ to the second
 SCHEDULED: <2018-12-04 Tue>
 :PROPERTIES:
 :EXPORT_FILE_NAME: week16
+:EXPORT_HUGO_TAGS: autonomy cause law morality reason
 :END:
 
 The week we'll finish our discussion of /Groundwork III/ and Kant's two 'standpoints'. We then close out the semester by looking at one "big picture" issue in Kant's critical philosophy---namely, how theoretical and practical reason are related. To what extent can we see theoretical inference and practical willing as exercises of a single faculty of reason? We'll discuss this issue as it plays out in one of his most famous popular essays -- "What is Enlightenment." We'll also discuss what it means to say that practical reason has "primacy" over theoretical reason.
