@@ -4582,6 +4582,8 @@ The week we'll finish our discussion of /Groundwork III/ and Kant's two 'standpo
 - Optional: SEP: "[[https://plato.stanford.edu/entries/kant-reason/][Kant's Account of Reason]]", especially "[[https://plato.stanford.edu/entries/kant-reason/#UniThePraRea][The unity of practical and theoretical reason]]"
 - Optional: Korsgaard, 'Morality as Freedom', ch. 6 in [[https://www.dropbox.com/s/13h4vph1n6ke5qi/korsgaard1996a_creating_the_kingdom_of_ends.pdf?dl=0][/Creating the Kingdom of Ends/]]
 - Optional: O'Neill, '[[https://www.dropbox.com/s/hh5ggimlujamfm6/oneill1989-ch1_Reason_and_Politics_in_the_Kantian_Enterprise.pdf?dl=0][Reason and Politics in the Kantian Enterprise]]'
+- Optional: Johnson, '[[https://www.dropbox.com/s/wqi632zv58xvteh/johnson2009_The_Moral_Law_as_Causal_Law.pdf?dl=0][The Moral Law as Causal Law]]'
+  
 
 **** Questions  
 - In what ways might we think of practical and theoretical reason as stemming
