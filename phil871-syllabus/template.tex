@@ -1,0 +1,288 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[$fontsize$, letterpaper]{article}
+\usepackage{setspace}
+%%%------------------------------------------------------------------------
+%%% Metadata
+%%%------------------------------------------------------------------------
+
+%% Change as needed. Or just add me as a coauthor. Only some of these are
+%% used below in the hyperref declaration and address banner section.
+\def\myauthor{$instructor$}
+\def\mytitle{Syllabus}
+\def\mycopyright{\myauthor}
+\def\mykeywords{}
+\def\mybibliostyle{plain}
+\def\mybibliocommand{}
+\def\mysubtitle{}
+\def\myaffiliation{}
+\def\myaddress{$office$}
+\def\myemail{$email$}
+\def\myweb{$urls$}
+\def\myphone{$phone$}
+\def\myfax{$fax$}
+
+% LAYOUT
+%--------------------------------
+% Margins
+\usepackage{geometry} 
+\geometry{$geometry$}
+\usepackage{mdwlist}
+
+% Do not indent paragraphs
+\setlength\parindent{0in}
+
+% Enable multicolumns
+\usepackage{multicol}
+\setlength{\columnsep}{-3.5cm}
+
+% LANGUAGE
+%--------------------------------
+% Set the main language
+$if(lang)$
+\usepackage{polyglossia}
+\setmainlanguage{$lang$}
+$else$
+\usepackage{polyglossia}
+\setmainlanguage{english}
+$endif$
+
+% TYPOGRAPHY
+%--------------------------------
+\usepackage{fontspec} 
+\usepackage{xunicode}
+\usepackage{xltxtra}
+% converts LaTeX specials (quotes, dashes etc.) to Unicode
+\defaultfontfeatures{Mapping=tex-text}
+\setromanfont [Ligatures={Common}, Numbers={OldStyle}]{$mainfont$}
+\setsansfont[Mapping=tex-text]{$sansfont$}
+\setmonofont[Mapping=tex-text,Scale=0.9]{SF Mono}
+% Cool ampersand
+\newcommand{\amper}{{\fontspec[Scale=.95]{$mainfont$}\selectfont\itshape\&}}
+% icons
+\defaultfontfeatures{
+    Path = /usr/local/texlive/2023basic/texmf-dist/fonts/opentype/public/fontawesome/ }
+\usepackage{fontawesome}
+\usepackage{marvosym}
+\usepackage[autostyle=try]{csquotes}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\definecolor{darkblue}{rgb}{0.0, 0.0, 0.55}
+
+% HEADINGS
+%--------------------------------
+\usepackage{sectsty} 
+\usepackage[normalem]{ulem} 
+\sectionfont{\rmfamily\mdseries\scshape\large} 
+\subsectionfont{\rmfamily\mdseries\scshape\normalsize} 
+\subsubsectionfont{\rmfamily\bfseries\upshape\normalsize} 
+
+% PDF SETUP
+%--------------------------------
+\usepackage[xetex, bookmarks, colorlinks, breaklinks, pdftitle={$name$'s Vita},pdfauthor={$name$}]{hyperref}
+\hypersetup{linkcolor=darkblue,citecolor=darjblue,filecolor=black,urlcolor=darkblue}
+
+% OTHER
+%-------------------------------
+\usepackage{enumitem}
+\usepackage{lastpage}
+\usepackage{epigraph}
+\setlength{\epigraphwidth}{.7\textwidth}
+
+%%%------------------------------------------------------------------------
+%%% Page layout
+%%%------------------------------------------------------------------------
+
+% Avoid widows and orphans
+\clubpenalty = 10000
+\widowpenalty = 10000
+\displaywidowpenalty = 10000
+
+% list display
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Fancy header/footer
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead{}
+\fancyfoot{}
+\rfoot{\footnotesize \thepage\ | \pageref{LastPage}}
+\lfoot{\footnotesize \myauthor\ | $course$}
+
+\fancypagestyle{firststyle}
+{
+  \fancyhf{}
+  % $if(cfoot)$\cfoot{$cfoot$}$else$\cfoot{\footnotesize \thepage\ | \pageref{LastPage}}$endif$
+  \rfoot{\footnotesize \thepage\ | \pageref{LastPage}}
+  \renewcommand{\headrulewidth}{0pt}
+}
+\thispagestyle{firststyle}
+
+%%%------------------------------------------------------------------------
+%%% Local commands
+%%%------------------------------------------------------------------------
+
+%% Marginal header
+%% Note: as the document goes on you may need to introduce a (gradually increasing)
+%% \vspace element to keep the marginal header pleasingly aligned with the first
+%% item in the body text. Like this: \marginhead{{\vskip 0.4em}Grants}, or
+%% \marginhead{{\vskip 0.8em}Service}. Experiment as needed.
+
+
+%% custom ampersand (font consistent with the one chosen above)
+% \newcommand{\amper}{{\fontspec[Scale=.95,Colour=AA0000]{Minion Pro Medium}\selectfont\&\,}}
+
+%% No bullets on labels
+% \renewcommand{\labelitemi}{~}
+
+%% Custom hanging indent for items
+% \def\ind{\hangindent=1 true cm\hangafter=1 \noindent}
+%\def\ind{\hangindent=18pt\hangafter=1 \noindent}
+% \def\labelitemi{~}
+% \renewcommand{\labelitemii}{~}
+
+%-------------------------------------
+%-------------------------------------
+% DOCUMENT
+%-------------------------------------
+%-------------------------------------
+\begin{document}
+\setstretch{.97}
+
+%%%------------------------------------------------------------------------
+%%% Address and contact block
+%%%------------------------------------------------------------------------
+\begin{minipage}[t]{2.95in}
+ \flushleft \footnotesize \textsc{Instructor:} $instructor$\\ \textsc{Course:}
+ $course$\\ \textsc{Time:} $time$\\ \textsc{Location:} $location$\\
+ \textsc{Office:} $office$\\ \textsc{Office Hours:} $hours$
+\end{minipage}
+\hfill
+\hfill
+\begin{minipage}[t]{2in}
+  \flushleft \footnotesize $if(updated)$Updated: \today$endif$\\ \faicon{phone}
+  ~$phone$\\ \Faxmachine ~$fax$\\ \faicon{envelope} ~$email$\\ $for(urls)$
+  \faicon{globe} ~$urls$ $endfor$\\ \faicon{comment} ~$chat$
+\end{minipage}
+
+\bigskip
+%-------------------------------------
+% Frontmatter
+%-------------------------------------
+
+%% Course title
+\noindent{\huge {\textsc{$title$}}}
+
+%% Catchy quote
+$for(quote)$
+$if(quote)$
+\bigskip
+\epigraph{$quote.content$}{$quote.title$\\\textsc{$quote.author$}}
+\smallskip
+$endif$
+$endfor$
+
+%-------------------------------------
+% Main
+%-------------------------------------
+\section*{Course Overview}
+
+$overview$
+
+\section*{Course Objectives}
+
+$objectives$
+
+\section*{Course Materials}
+
+$materials$
+
+\section*{Course Requirements}
+$for(requirements)$
+\begin{itemize}[leftmargin=*]
+\item \textbf{Preparation}: $requirements.preparation$
+\item \textbf{Attendance}: $requirements.attendance$
+\item \textbf{Website}: $requirements.website$
+\item \textbf{Format for Papers}: $requirements.papers$
+\item \textbf{Late Work}: $requirements.late-work$
+\end{itemize}
+$endfor$
+
+\section*{Evaluation}
+
+$for(evaluation)$
+
+$if(evaluation.exam)$
+  $for(evaluation.exam)$ 
+    \textbf{$evaluation.exam.title$}
+    \begin{itemize}[leftmargin=*]
+    \item $evaluation.exam.description$ 
+    \end{itemize}
+  $endfor$
+$endif$
+
+$if(evaluation.essay)$
+  $for(evaluation.essay)$ 
+    \textbf{$evaluation.essay.title$}
+    \begin{itemize}[leftmargin=*]
+    \item $evaluation.essay.description$ 
+    \end{itemize}
+  $endfor$
+$endif$
+
+$if(evaluation.quiz)$
+  $for(evaluation.quiz)$ 
+    \textbf{$evaluation.quiz.title$}
+    \begin{itemize}[leftmargin=*]
+    \item $evaluation.quiz.description$ 
+    \end{itemize}
+  $endfor$
+$endif$
+
+$if(evaluation.responses)$
+  $for(evaluation.responses)$ 
+    \textbf{$evaluation.responses.title$}
+    \begin{itemize}[leftmargin=*]
+    \item $evaluation.responses.description$ 
+    \end{itemize}
+  $endfor$
+$endif$
+
+$if(evaluation.participation)$
+  $for(evaluation.participation)$ 
+    \textbf{$evaluation.participation.title$}
+    \begin{itemize}[leftmargin=*]
+    \item $evaluation.participation.description$ 
+    \end{itemize}
+  $endfor$
+$endif$
+
+$endfor$
+
+$for(policies)$
+
+\section*{Policies}
+\begin{itemize}[leftmargin=*]
+\item \textbf{Academic Integrity}: $policies.integrity$
+\item \textbf{University Policies}: $policies.university$
+\item \textbf{ADA}: $policies.ada$
+\item \textbf{Miscellaneous}: $policies.misc$
+\end{itemize}
+
+$endfor$
+
+$for(resources)$
+
+\section*{Further Resources}
+\begin{itemize}[leftmargin=*]
+\item \textbf{Jargon}: $resources.jargon$
+\item \textbf{Help with writing}: $resources.help$
+\item \textbf{Reference}: $resources.reference$
+\end{itemize}
+
+$endfor$
+
+
+\end{document}

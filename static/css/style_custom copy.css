@@ -1,0 +1,289 @@
+/* @import url(/css/google-fonts.css); */
+
+#banner {
+    padding: 85px 0;
+}
+
+
+html {
+    position: relative;
+    min-height: 100%;
+    background-color: #fdfcfa;
+
+}
+
+body {
+    font-family: 'Helvetica', 'Open Sans', 'sans-serif';
+    font-size: 17px; 
+    line-height: 1.628571;
+    height:100%;
+    color:black;
+    background-color: #fdfcfa;
+}
+
+h1 {
+    font-family: Avenir, sans-serif;
+    font-variant: small-caps;
+}
+
+h2 {
+    font-family: Avenir, sans-serif;
+    font-variant: small-caps;
+}
+
+h3 {
+    font-family: Avenir,sans-serif;
+    font-variant: small-caps;
+}
+
+p {
+    text-align: left;
+    max-width: 100%;
+    margin: auto;
+    padding-bottom: calc(10px + (15 - 10) * ((100vw - 300px) / (1600 - 300)));
+}
+
+/* links */
+a.label.label-primary  {
+    background-color: #c9c9c9;
+}
+
+a.label.label-primary:hover {
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    border-bottom: 0px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #afaeae;
+    border-bottom: 0px #000;
+    text-decoration: none;
+}
+
+a:active {color: #afaeae;}
+
+.col-sm-9 a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+#tag-cloud a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+/* fix anchor links with sticky navbar */
+:target::before {
+    content: "";
+    display: block;
+    height: 60px; /* fixed header height*/
+    margin: -60px 0 0; /* negative fixed header height */
+}
+
+.content  a {
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+}
+
+.content a:hover {
+    color: black;
+    border-bottom: 1px solid #000;
+    text-decoration: none;
+}
+
+
+.content .table a {
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+}
+
+.content .table a:hover {
+    color: black;
+    border-bottom: 1px solid #000;
+    text-decoration: none;
+}
+
+.fa  {
+    color: black;
+    text-decoration: none;
+}
+
+/* .fa:a {border-bottom: 0px;} */
+
+.footer {
+    font-size: 14px;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:100px;   /* Height of the footer */
+    padding-bottom: 1rem;
+    background-color: #fdfcfa;
+
+}
+
+body > .container {
+    padding: 75px 15px 0;
+    height: 100%;
+    padding-bottom:90px;   /* Height of the footer */
+    background-color: #fdfcfa;
+}
+
+nav > ul > li {
+    list-style: none;
+}
+
+
+.footer a:hover {
+    color: black;
+    border-bottom: 1px solid #000;
+    text-decoration: none;
+}
+
+#sidebar a {
+    color: black;
+    border-bottom: 0px;
+    text-decoration: none;
+}
+
+#sidebar a:hover {
+    color: black;
+    border-bottom: 1px solid #000;
+    text-decoration: none;
+}
+
+/* avoid padding for page title on the simple content pages */
+header.hat {
+    padding: 0px;
+}
+
+/* Navbar */
+/**********/
+/**********/
+/* align */
+.navbar-title {
+    vertical-align: baseline;
+}
+/* pad correctly  */
+.navbar-brand {
+    padding: 15px;
+    vertical-align: baseline;
+}
+.navbar-brand-img {
+    padding: 0;
+}
+
+/* Navbar colors */
+.navbar-default {
+    background-color: #6EBA81;
+    border-color: #59B16F;
+}
+.navbar-default .navbar-brand {
+    color: #fdfcfa;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #fdfcfa;
+}
+.navbar-default .navbar-text {
+    color: #fdfcfa;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #fdfcfa;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #fdfcfa;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu {
+    background-color: #69899f;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a {
+    color: #d7e2e9;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:hover,
+.navbar-default .navbar-nav > li > .dropdown-menu > li > a:focus {
+    color: #fdfcfa;
+    background-color: #59B16F;
+}
+.navbar-default .navbar-nav > li > .dropdown-menu > li > .divider {
+    background-color: ##59B16F;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #fdfcfa;
+    background-color: #59B16F;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    color: #fdfcfa;
+    background-color: #59B16F;
+}
+.navbar-default .navbar-toggle {
+    border-color: #59B16F;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #A5CBAE;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #d7e2e9;
+}
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+    border-color: #d7e2e9;
+}
+.navbar-default .navbar-link {
+    color: #d7e2e9;
+}
+.navbar-default .navbar-link:hover {
+    color: #fdfcfa;
+    background-color: #A5CBAE;
+}
+
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #d7e2e9;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+        color: #fdfcfa;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+        color: #fdfcfa;
+        background-color: #59B16F;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    a.navbar-brand-img>img {
+        vertical-align: bottom;
+        padding-left: 20px;
+    }
+}
+
+a.navbar-brand-img>img {
+    vertical-align: bottom;
+}
+
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.margin-10{
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+
+/* Responsive video? */
+iframe {
+    max-width: 100%;
+}
