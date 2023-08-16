@@ -4,7 +4,7 @@ paginate        = 10
 copyright       = "Colin McLear"
 DisqusShortname = ""
 enableRobotsTXT = true
-theme           = 'hugo-bootstrap-premium'
+theme           = 'bootstrap-premium'
 
 [permalinks]
   post = "/:section/:year/:month/:title/"
