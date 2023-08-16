@@ -23,7 +23,7 @@ EXPORTED_DOCS=\
 
 RM=/usr/local/opt/coreutils/libexec/gnubin/rm
 
-PANDOC=/usr/local/bin/pandoc
+PANDOC=/opt/homebrew/bin/pandoc
 
 PANDOC_OPTIONS= --standalone
 
@@ -70,4 +70,4 @@ clean:
 	- $(RM) $(EXPORTED_DOCS)
 
 move:
-	- mv phil871-syllabus.html phil871-syllabus.pdf /Users/Roambot/Dropbox/work/projects/phil871-kant-survey/static/materials/
+	- mv phil871-syllabus.html phil871-syllabus.pdf /Users/Roambot/Work/projects/phil871-kant-survey/static/materials/

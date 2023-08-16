@@ -1,14 +1,16 @@
 +++
 title = "Paper Topics"
+author = ["Colin McLear"]
 draft = false
 author = false
 toc = false
-[menu.main]
-  weight = 3003
-  identifier = "paper-topics"
+[menu]
+  [menu.main]
+    weight = 3003
+    identifier = "paper-topics"
 +++
 
-Here are some possible topics for papers. You are welcome to write on something else (or on some modified topic related to one of the options below), but please discuss this with me first. The first draft of the paper is due **Friday, November 16th**. The final draft is due **Friday, December 7th**.
+Here are some possible topics for papers. You are welcome to write on something else (or on some modified topic related to one of the options below), but please discuss this with me first. The first draft of the paper is due **Friday, November 17th**. The final draft is due **Friday, December 8th**.
 
 1.  What is Kant&rsquo;s argument for necessary causal connection in the Second Analogy? Is this argument cogent? Does it provide a plausible response to Hume?
 2.  What is Kant&rsquo;s argument for the ideality of space in the Transcendental Aesthetic? Is this argument cogent?

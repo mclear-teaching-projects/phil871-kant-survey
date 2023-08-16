@@ -1,15 +1,17 @@
 ---
 # Instructor details
 instructor: Colin McLear
-course: PHIL 871
-time: T 3:30-6:05 pm
-location: "1007 Oldfather Hall"
-office: "1003 Oldfather Hall"
-hours: "T 1:00-3:20 & by appointment"
-phone: "607 216 8718"
-fax: "402 272 0626"
+course: 'PHIL 4/871'
+time: W 3:30-6:05 pm
+location: "325 Louise Pound Hall"
+office: "315P Louise Pound Hall"
+hours: "W 1:15-3:15 & by appointment"
+phone: "(402) 472-2425"
+fax: "(402) 272 0626"
 email: <mclear@unl.edu>
 urls: '[phil871.colinmclear.net](http://phil871.colinmclear.net)'
+chat: '[https://discord.gg/dVwWKrTZvq](https://discord.gg/dVwWKrTZvq)'
+updated: true
 
 # Front matter
 title: Kant's Critical Philosophy  
@@ -93,8 +95,7 @@ evaluation:
         the week (this should not include my notes). A précis is a rhetorical
         exercise that asks you to summarize a text, including the
         claim/argument, supporting evidence, purpose, and audience in 4
-        sentences. For a helpful example of the form, see:
-        <http://oregonstate.edu/instruct/phl201/modules/rhetorical-precis/sample/peirce_sample_precis_click.html>
+        sentences. For a helpful example of the form, see: <https://www.dropbox.com/scl/fi/rjvcnaha7v23n1rwum538/precis-template.pdf?rlkey=dq1wkg90jx6wmogkgv1tq3c7w&dl=0>
 
   participation:
     - title: |
@@ -122,7 +123,7 @@ resources:
 mainfont: Minion Pro
 sansfont: Optima
 fontsize: 11pt
-lang: English
-geometry: letterpaper, textwidth=6in, textheight=8.5in, marginparsep=7pt, marginparwidth=.6in
+lang: en-US
+geometry: letterpaper, margin=1in, textwidth=6in, textheight=8.5in, marginparsep=7pt, marginparwidth=.6in
 header-color: \#FF6600
 ---
