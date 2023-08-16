@@ -1,6 +1,6 @@
 baseurl         = "https://phil871.colinmclear.net/"
 title           = "PHIL 871"
-theme           = "bootstrap-premium"
+theme           = "hugo-bootstrap-premium"
 paginate        = 10
 copyright       = "Colin McLear"
 DisqusShortname = ""
