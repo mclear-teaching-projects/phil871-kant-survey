@@ -1,6 +1,5 @@
 +++
 title = "Paper Topics"
-author = ["Colin McLear"]
 draft = false
 author = false
 toc = false

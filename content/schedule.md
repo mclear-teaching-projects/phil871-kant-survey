@@ -1,6 +1,5 @@
 +++
 title = "Schedule"
-author = ["Colin McLear"]
 draft = false
 author = false
 toc = false
@@ -15,7 +14,6 @@ information.
 
 | Week | Date  | Material                                                                               | Guest                      |
 |------|-------|----------------------------------------------------------------------------------------|----------------------------|
-|      |       |                                                                                        |                            |
 | 1    | 8.23  | Kant&rsquo;s Critical Project                                                          |                            |
 | 2    | 8.30  | **No Class, campus closed**; video: The Ideality of Space &amp; Time                   |                            |
 | 3    | 9.6   | Transcendental Idealism I // **First passage analysis due Friday**                     |                            |

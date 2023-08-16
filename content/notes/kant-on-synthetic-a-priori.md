@@ -1,6 +1,6 @@
 +++
 title = "Kant on the Synthetic A Priori"
-publishDate = 2018-08-21T00:00:00-04:00
+publishDate = 2023-08-23T00:00:00-04:00
 tags = ["judgment", "analytic/synthetic", "truth", "a priori"]
 draft = false
 weight = 0
@@ -16,10 +16,10 @@ of his most famous philosophical works relatively late in his
 professional life, having only achieved a permanent position as
 professor in 1770, at the age of forty-six. From 1781 to 1798 Kant
 published a series of tremendously influential philosophical works,
-including the *Critique of Pure Reason* (1781/​7), the *Groundwork of
-the Metaphysics of Morals* (1785), the *Metaphysical Foundations of
-Natural Science* (1786), the *Critique of Practical Reason* (1788), and
-the *Critique of the Power of Judgment* (1790).
+including the *Critique of Pure Reason* (1781/​7), the *Groundwork of the
+Metaphysics of Morals* (1785), the *Metaphysical Foundations of Natural
+Science* (1786), the *Critique of Practical Reason* (1788), and the
+*Critique of the Power of Judgment* (1790).
 
 We'll be primarily focusing on Kant's project in the *Critique of Pure
 Reason*, as well as the moral philosophy of the *Groundwork for the
@@ -76,9 +76,7 @@ epistemological framework and how that framework significantly
 revolutionized our understanding of the possible nature and extent of
 human knowledge.
 
-## Human Knowledge
-
-### The A Priori
+## The A Priori
 
 A variety of philosophers from the Early Modern period (e.g. Descartes,
 Leibniz, Hume) argue that there are kinds of knowledge that may be had
@@ -96,7 +94,7 @@ experience in its application. He contrasts such knowledge with
 be more or less 'pure' according to whether or not the concepts which
 make it up are themselves a priori knowable. Kant uses the example
 'every alteration has a cause' as an example of *impure* a priori
-knowledge, since the concept <alteration> is empirical.
+knowledge, since the concept `<alteration>` is empirical.
 
 One important point about Kant's use of 'independent' in describing the
 a priori. Kant does not think that a priori knowledge is independent of
@@ -112,7 +110,7 @@ are ultimately *justified* by experience. This is why Kant says that
 There seems to be two reasons for Kant's thinking this. First, we need
 experience in order for our cognitive faculties to function and develop.
 Second, we may need particular experiences in order to acquire empirical
-concepts (e.g. red experiences in order to acquire the concept <red>).
+concepts (e.g. red experiences in order to acquire the concept `<red>`).
 This is what distinguishes pure from impure a priori judgments. Impure a
 priori judgments are partially constituted by concepts whose content is
 in some way derived from content given by the senses.
@@ -143,19 +141,19 @@ impression).
 
 Kant thinks that there are many examples of judgments which we claim to
 know a priori, but he is interested primarily in a specific subset of
-those which constitute the subject matter of *metaphysics*---viz.
-judgments concerning God, the soul (or mind), and immortality. One of
-Kant's primary aims is to determine whether metaphysical knowledge is
-possible, and if it is possible, what the extent and nature of that
-knowledge might be. This is what it means when Kant says that he wishes
-to set metaphysics "on the secure path of a science" (e.g. Bxvi).
-Metaphysical knowledge is problematic, Kant argues, because unlike other
-forms of a priori knowledge, such as logic and mathematics, it is not at
-all obvious which metaphysical judgments are in fact correct and thus
-known, and which are merely thought to be so. This is exemplified, Kant
-thinks, by the contentious disputes in which philosophers have long been
-involved. Kant provides the following memorable description of the sad
-plight of metaphysics.
+those which constitute the subject matter of
+*metaphysics*---viz. judgments concerning God, the soul (or mind), and
+immortality. One of Kant's primary aims is to determine whether
+metaphysical knowledge is possible, and if it is possible, what the
+extent and nature of that knowledge might be. This is what it means when
+Kant says that he wishes to set metaphysics "on the secure path of a
+science" (e.g. Bxvi). Metaphysical knowledge is problematic, Kant
+argues, because unlike other forms of a priori knowledge, such as logic
+and mathematics, it is not at all obvious which metaphysical judgments
+are in fact correct and thus known, and which are merely thought to be
+so. This is exemplified, Kant thinks, by the contentious disputes in
+which philosophers have long been involved. Kant provides the following
+memorable description of the sad plight of metaphysics.
 
 > In metaphysics we have to retrace our path countless times, because we
 > find that it does not lead where we want to go, and it is so far from
@@ -173,7 +171,7 @@ the extent to which metaphysics might count as a science. As a secure
 science it would rest on a secure set of claims and no longer be a
 "groping among mere concepts."
 
-### The Analytic/Synthetic Distinction {#the-analytic-synthetic-distinction}
+## The Analytic/Synthetic Distinction {#fn:the-analytic-synthetic-distinction}
 
 A judgment is known (or knowable) a priori if it is known (or knowable)
 independently of experience. Kant thinks that this is not the only
@@ -188,9 +186,9 @@ concept. One way of understanding this notion of 'containment' is via a
 claim about meaning. Accordingly, analytic judgments are those whose
 truth is known merely in virtue of knowing the meaning or content of the
 concepts constituting the judgment. For example, in the judgment 'All
-bachelors are unmarried' the concept <unmarried> is part of the meaning
-of <bachelor> and so the truth of the judgment is grasped just by
-knowing the relevant meanings or contents of its component concepts.
+bachelors are unmarried' the concept `<unmarried>` is part of the
+meaning of `<bachelor>` and so the truth of the judgment is grasped just
+by knowing the relevant meanings or contents of its component concepts.
 
 Kant also introduces several other markers of analyticity. In total Kant
 provides us with four different marks of analyticity. He says that in an
@@ -204,11 +202,13 @@ analytic judgment the predicate is
     principle of non-contradiction
 
 Which, if any of these markers is best thought of as the main
-characteristic of an analytic judgment? This is a disputed issue (cf.
-Anderson (2005); Proops (2005)), though certainly, in all cases Kant is
-thinking of 'atomic' judgments of subject-predicate form.
+characteristic of an analytic judgment? This is a disputed issue
+(cf. (<a href="#citeproc_bib_item_3">Anderson 2005</a>;
+<a href="#citeproc_bib_item_10">Proops 2005</a>)), though certainly, in
+all cases Kant is thinking of 'atomic' judgments of subject-predicate
+form.
 
-### The Synthetic A Priori
+## The Synthetic A Priori
 
 Kant argues, in ways similar to Locke, Hume, and Leibniz, that analytic
 judgments are knowable a priori. Staying with the 'containment'
@@ -246,6 +246,7 @@ possible. Kant argues that causal judgments are a clear example.
 > connecting representations arising from that association (CPR B4-5)
 
 <!--quoteend-->
+
 > Take the proposition: "Everything that happens has its cause." In the
 > concept of something that happens, I think, to be sure, of an
 > existence that was preceded by a time, etc., and from that analytic
@@ -282,7 +283,7 @@ possible, and that the explanation of the possibility of significant
 portions of our knowledge rests on this, including mathematics and
 natural science, as well as the very possibility of metaphysics.
 
-### Mathematics and the Synthetic A Priori
+## Mathematics and the Synthetic A Priori
 
 Recall that for Hume, mathematical knowledge was a function merely of
 knowledge of relations of ideas, in other words, that math is analytic
@@ -336,65 +337,143 @@ equivalently thinking of any or all the numbers which are equal to 12,
 including *very large* numbers (e.g. any numbers *m* and *n* which might
 yield 12). This certainly doesn't reflect our experience when
 calculating such sums, which may yield further evidence that the
-judgment isn't analytically true.
+judgment isn't analytically true.[^fn:1]
+
+## References
+
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style>
+
+<div class="csl-bib-body">
+
+<div class="csl-entry">
+
+<a id="citeproc_bib_item_1"></a>Allison, Henry E. 1973. <i>The
+Kant-Eberhard Controversy</i>. Baltimore: The Johns Hopkins University
+Press.
+
+</div>
+
+<div class="csl-entry">
+
+<a id="citeproc_bib_item_2"></a>---------. 2004. <i>Kant's
+Transcendental Idealism: Revised and Enlarged</i>. New Haven: Yale
+University Press.
+
+</div>
+
+<div class="csl-entry">
+
+<a id="citeproc_bib_item_3"></a>Anderson, R. Lanier. 2005. "The wolffian
+paradigm and its discontents: kants containment definition of
+analyticity in historical context." <i>Archiv für Geschichte der
+Philosophie</i> 87 (7): 22--74.
+
+</div>
+
+<div class="csl-entry">
+
+<a id="citeproc_bib_item_4"></a>Beck, Lewis White. 1955. "Can Kant's
+Synthetic Judgments Be Made Analytic." <i>Kant-Studien</i> 47 (1-4):
+168--81.
+
+</div>
+
+<div class="csl-entry">
+
+<a id="citeproc_bib_item_5"></a>---------. 1956. "Kant's Theory of
+Definition." <i>The Philosophical Review</i> 65 (2): 179--91.
+
+</div>
+
+<div class="csl-entry">
+
+<a id="citeproc_bib_item_6"></a>---------. 1969. <i>Early German
+Philosophy</i>. Cambridge: Belknap Press of Harvard University Press.
+
+</div>
+
+<div class="csl-entry">
+
+<a id="citeproc_bib_item_7"></a>---------. 1978. "Analytic and Synthetic
+Judgments before Kant." In <i>Essays on Kant and Hume</i>, 82--100. New
+Haven, CT: Yale University Press.
+
+</div>
+
+<div class="csl-entry">
+
+<a id="citeproc_bib_item_8"></a>Gardner, Sebastian. 1999. <i>Kant and
+the Critique of Pure Reason</i>. London: Routledge.
+
+</div>
+
+<div class="csl-entry">
+
+<a id="citeproc_bib_item_9"></a>Hogan, Desmond. 2013. "Metaphysical
+Motives of Kant's Analytic Synthetic Distinction." <i>Journal of the
+History of Philosophy</i> 51 (2): 267--307.
+
+</div>
+
+<div class="csl-entry">
+
+<a id="citeproc_bib_item_10"></a>Proops, Ian. 2005. "Kant's Conception
+of Analytic Judgment." <i>Philosophy and Phenomenological Research</i>
+70 (3): 588--612.
+
+</div>
+
+<div class="csl-entry">
+
+<a id="citeproc_bib_item_11"></a>Van Cleve, James. 1999. <i>Problems
+from Kant</i>. Oxford: Oxford University Press.
+
+</div>
+
+</div>
 
 ## References {#references}
 
-<div id="refs" class="references">
-  <div></div>
+<div id="refs" class="references csl-bib-body hanging-indent">
 
-
-<div id="ref-allison1973">
-  <div></div>
+<div id="ref-allison1973" class="csl-entry">
 
 Allison, Henry E. 1973. *The Kant-Eberhard Controversy*. Baltimore: The
 Johns Hopkins University Press.
 
 </div>
 
-<div id="ref-allison2004">
-  <div></div>
+<div id="ref-allison2004" class="csl-entry">
 
 ---------. 2004. *Kant's Transcendental Idealism: Revised and Enlarged*.
 New Haven: Yale University Press.
 
 </div>
 
-<div id="ref-anderson2005">
-  <div></div>
-
-Anderson, R Lanier. 2005. "The Wolffian Paradigm and Its Discontents:
-Kants Containment Definition of Analyticity in Historical Context."
-*Archiv für Geschichte der Philosophie* 87 (7): 22--74.
-
-</div>
-
-<div id="ref-beck1955">
-  <div></div>
+<div id="ref-beck1955" class="csl-entry">
 
 Beck, Lewis White. 1955. "Can Kant's Synthetic Judgments Be Made
 Analytic." *Kant-Studien* 47 (1-4): 168--81.
 
 </div>
 
-<div id="ref-beck1956">
-  <div></div>
+<div id="ref-beck1956" class="csl-entry">
 
 ---------. 1956. "Kant's Theory of Definition." *The Philosophical
 Review* 65 (2): 179--91.
 
 </div>
 
-<div id="ref-beck1969">
-  <div></div>
+<div id="ref-beck1969" class="csl-entry">
 
 ---------. 1969. *Early German Philosophy*. Cambridge: Belknap Press of
 Harvard University Press.
 
 </div>
 
-<div id="ref-beck1978d">
-  <div></div>
+<div id="ref-beck1978d" class="csl-entry">
 
 ---------. 1978. "Analytic and Synthetic Judgments Before Kant." In
 *Essays on Kant and Hume*, 82--100. New Haven, CT: Yale University
@@ -402,33 +481,29 @@ Press.
 
 </div>
 
-<div id="ref-gardner1999">
-  <div></div>
+<div id="ref-gardner1999" class="csl-entry">
 
 Gardner, Sebastian. 1999. *Kant and the Critique of Pure Reason*.
 London: Routledge.
 
 </div>
 
-<div id="ref-hogan2013">
-  <div></div>
+<div id="ref-hogan2013" class="csl-entry">
 
 Hogan, Desmond. 2013. "Metaphysical Motives of Kant's
-Analytic--Synthetic Distinction." *Journal of the History of Philosophy*
-51 (2): 267--307.
+Analytic\textendash synthetic Distinction." *Journal of the History of
+Philosophy* 51 (2): 267--307.
 
 </div>
 
-<div id="ref-proops2005">
-  <div></div>
+<div id="ref-proops2005" class="csl-entry">
 
 Proops, Ian. 2005. "Kant's Conception of Analytic Judgment." *Philosophy
 and Phenomenological Research* 70 (3): 588--612.
 
 </div>
 
-<div id="ref-vancleve1999">
-  <div></div>
+<div id="ref-vancleve1999" class="csl-entry">
 
 Van Cleve, James. 1999. *Problems from Kant*. Oxford: Oxford University
 Press.
@@ -436,3 +511,15 @@ Press.
 </div>
 
 </div>
+
+[^fn:1]: For further discussion see also
+    (<a href="#citeproc_bib_item_1">Allison 1973</a>,
+    <a href="#citeproc_bib_item_2">2004</a>;
+    <a href="#citeproc_bib_item_4">Beck 1955</a>,
+    <a href="#citeproc_bib_item_5">1956</a>,
+    <a href="#citeproc_bib_item_7">1978</a>,
+    <a href="#citeproc_bib_item_6">1969</a>;
+    <a href="#citeproc_bib_item_8">Gardner 1999</a>; lovejoy1906a;
+    <a href="#citeproc_bib_item_11">Van Cleve 1999</a>;
+    <a href="#citeproc_bib_item_10">Proops 2005</a>;
+    <a href="#citeproc_bib_item_9">Hogan 2013</a>).

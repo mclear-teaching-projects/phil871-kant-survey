@@ -3,9 +3,9 @@
   <header>
     {{ partial "bloc/content/h1-title" . }}
   </header>
-  {{ range $index, .Paginator.Pages.ByTitle }}
+  {{ range $index, $foo := .Paginator.Pages.ByTitle }}
     {{ .Render "section.li" }}
   {{ end }}
-  {{ partial "bloc/content/pagination" . }}
+  {{ partial "bloc/content/pagination.html" . }}
 </section>
 {{ partial "foot" . }}

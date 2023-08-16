@@ -3,6 +3,7 @@
   <div class="row">
     <div class="col-sm-{{ if .Site.Params.showRightSidebar }}9{{ else }}12{{ end }}">
       {{ .Render "single.hat" }}
+        <hr>
       {{ .Render "single.content" }}
       {{ .Render "single.boot" }}
     </div>

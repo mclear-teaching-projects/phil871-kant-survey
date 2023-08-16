@@ -1,22 +1,8 @@
-[build]
-publish = "public"
-command = "hugo -F"
+[build] 
+  publish = "public"
+  command = "hugo --buildFuture"
 
-[context.deploy-preview]
-command = "hugo --buildFuture --buildDrafts"
-
-
-# [build]
-# publish = "public"
-# command = "hugo -F"
-
-# [context.production.environment]
-# HUGO_VERSION = "0.46"
-# HUGO_ENV = "production"
-
-# [context.deploy-preview]
-# command = "hugo --buildFuture --buildDrafts"
-
-# [context.deploy-preview.environment]
-# HUGO_VERSION = "0.44"
-
+[context.production.environment]
+  HUGO_VERSION = "0.73.0" 
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
