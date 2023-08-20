@@ -650,7 +650,7 @@ taking it as obvious that we have experience.
 *** DONE Kant's Critical Project
 SCHEDULED: <2023-08-23 Wed>
 :PROPERTIES:
-:EXPORT_HUGO_TAGS: analytic/synthetic judgment kant metaphysics science truth "a priori"
+:EXPORT_HUGO_TAGS: "analytic/synthetic judgment" kant metaphysics science truth "a priori"
 :EXPORT_FILE_NAME: kant-critical-philosophy
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type post
 :EXPORT_OPTIONS: author:nil num:t
@@ -663,7 +663,7 @@ of Immanual Kant's "Critical" philosophy" than I did in the previous notes. We'l
 
 #+toc: headlines 2
 
-#+INCLUDE: "~/Documents/notes/refile-notes/kants-project.org"
+#+INCLUDE: "~/Documents/notes/refile-notes/kants-project.org" :lines "36-"
 
 
 * Handouts :noexport:

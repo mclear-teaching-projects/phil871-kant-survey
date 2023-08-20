@@ -1,4 +1,11 @@
 ---
+title = "Kant's Critical Philosophy"
+publishDate = 2023-08-23T00:00:00-04:00
+tags = ["judgment", "analytic/synthetic", "truth", "a priori"]
+draft = false
+weight = 0
+toc = true
+type = "post"
 link-citations: false
 ---
 
@@ -22,47 +29,6 @@ of Immanual Kant&rsquo;s &ldquo;Critical&rdquo; philosophy&ldquo; than I did in 
 
 </div>
 <!--endtoc-->
-
----
-
-title: Kant&rsquo;s Project author: Colin McLear date: July 29, 2014
-biblio-files: &rsquo;_Users/Roambot/Dropbox/PDFLibrary/Master&rsquo; csl:
-&rsquo;/Users/Roambot_.pandoc/chicago-author-date.csl&rsquo; geometry:
-&rsquo;letterpaper,centering,margin=1.75in&rsquo; categories: Kant, Teaching,
-Apriori, Analyticity ...
-
-<div class="HTML">
-
-&lt;!-- TODO: Make clear that Kant&rsquo;s conception of science is **proper**
-science --&gt;
-
-</div>
-
-<div class="HTML">
-
-&lt;!-- TODO: Discuss the &rsquo;from-grounds&rsquo; notion of the a priori --&gt;
-
-</div>
-
-<div class="HTML">
-
-&lt;!--
-
-1.  The distinction between pure and empirical knowledge
-2.  We have some items of a priori knowledge, and even the common
-    understanding is never without them
-3.  Philosophy needs a science to show that there can be a priori
-    knowledge, and to establish its principles and its scope
-4.  The difference between analytic and synthetic judgments
-5.  All theoretical sciences of reason contain synthetic a priori
-    judgments as principles
-6.  The general problem of pure reason
-7.  The idea and division of a special science called ‘critique of pure
-    reason’
-
---&gt;
-
-</div>
 
 [Immanuel Kant](http://plato.stanford.edu/entries/kant/) (1724--1804)
 was the most significant German philosopher of the eighteenth century,
