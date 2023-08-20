@@ -1,6 +1,5 @@
 ---
-publishDate = 2023-08-23T00:00:00-04:00
-link-citations: true
+link-citations: false
 ---
 
 In these notes I give a more extensive overview of some of the central features
