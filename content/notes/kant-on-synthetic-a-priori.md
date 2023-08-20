@@ -341,8 +341,6 @@ judgment isn't analytically true.[^fn:1]
 
 ## References
 
-## References
-
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style>
 
 <div class="csl-bib-body">

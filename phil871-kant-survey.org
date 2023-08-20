@@ -174,12 +174,13 @@ particular, the issue of "synthetic a priori" judgment.
 
 ** Notes
 :PROPERTIES:
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :toc false :type post
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :type post
 :EXPORT_HUGO_SECTION: notes
-:EXPORT_HUGO_PANDOC_CITATIONS: t
 :EXPORT_HUGO_PAIRED_SHORTCODES: %mdshortcode myshortcode
-:EXPORT_BIBLIOGRAPHY: /Users/roambot/Work/bibfile.bib
 :EXPORT_HUGO_WEIGHT: 0
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc false :link-citations true
+:EXPORT_HUGO_PANDOC_CITATIONS: t
+:EXPORT_BIBLIOGRAPHY: /Users/roambot/Work/bibfile.bib
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :link-citations true
 :END:
 
@@ -542,11 +543,6 @@ which may yield further evidence that the judgment isn't analytically true.[fn:4
 @beck1955; @beck1956; @beck1978d; @beck1969; @gardner1999; lovejoy1906a;
 @vancleve1999; @proops2005; @hogan2013].
 
-
-**** References
-:PROPERTIES:
-:UNNUMBERED: t
-:END:
 
 #+print_bibliography:
 

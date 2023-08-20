@@ -1,6 +1,12 @@
----
-link-citations: false
----
++++
+title = "Kant's Critical Project"
+publishDate = 2023-08-23T00:00:00-04:00
+tags = ["judgment", "analytic/synthetic", "truth", "a priori"]
+draft = false
+weight = 0
+type = "post"
++++
+
 
 In these notes I give a more extensive overview of some of the central features
 of Immanual Kant&rsquo;s &ldquo;Critical&rdquo; philosophy&ldquo; than I did in the previous notes. We&rsquo;ll still have only a sketch, but at least the basic parts of Kant&rsquo;s theory of cognition should attain some clarity.
