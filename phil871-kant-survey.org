@@ -161,9 +161,9 @@ particular, the issue of "synthetic a priori" judgment.
   (especially §§1-4)
 - (Recommended) Van Cleve, "[[https://www.dropbox.com/s/xkwnhakotbmeuop/vancleve1999_necessity%2C_analyticity%2C_and_the_a_priori.pdf?dl=0][Necessity, Analyticity, and the A Priori]]"
 - (Optional) SEP entry on [[http://plato.stanford.edu/entries/kant-development/][Kant's Philosophical Development]]
+- Notes on the critical philosophy, transcendental idealism, and the "copernican turn"  
 - [[file:static/materials/handouts/handout1.pdf][Handout]]
-  
-
+    
 **** Questions
 - What is the difference between an analytic and a synthetic judgment?
 - What is the difference between a priori and a posteriori judgment?
@@ -648,6 +648,24 @@ we can know that those concepts are applied legitimately, since he is
 taking it as obvious that we have experience.
 
 
+**** DONE Kant's Critical Project
+SCHEDULED: <2023-08-23 Wed>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: analytic/synthetic judgment kant metaphysics science truth "a priori"
+:EXPORT_FILE_NAME: kant-on-synthetic-a-priori
+:EXPORT_DATE: August 23, 2023
+:EXPORT_OPTIONS: author:t num:t
+:EXPORT_AUTHOR: PHIL 871
+:ID:       20230820T154941.917343
+:END:
+
+In these notes I give a more extensive overview of some of the central features
+of Immanual Kant's "Critical" philosophy" than I did in the previous notes. We'll still have only a sketch, but at least the basic parts of Kant's theory of cognition should attain some clarity. 
+
+#+toc: headlines 2
+
+#+INCLUDE: "~/Documents/notes/refile-notes/kants-project.org"
+
 
 * Handouts :noexport:
 ** DONE Handout Week 1 Kant's Project                                        
@@ -655,13 +673,13 @@ taking it as obvious that we have experience.
 :EXPORT_TITLE: Kant's Project
 :EXPORT_FILE_NAME: ~/Work/projects/phil871-kant-survey/static/materials/handouts/handout1.pdf
 :END:
-# :Pandoc:
-# #+PANDOC_METADATA: "author:PHIL 4/871" "date:August 21, 2018" 
-# #+PANDOC_METADATA: "lfoot:Colin McLear | August 21, 2018"
-# #+PANDOC_METADATA: "lhead: Kant's Project"
-# #+LANGUAGE: en
-# #+OPTIONS: ':t
-# :END:
+:Pandoc:
+#+PANDOC_METADATA: "author:PHIL 4/871" "date:August 23, 2023" 
+#+PANDOC_METADATA: "lfoot:Colin McLear | August 23, 2023"
+#+PANDOC_METADATA: "lhead: Kant's Project"
+#+LANGUAGE: en
+#+OPTIONS: ':t
+:END:
 
 *** Kant --- Biographical Overview
   :PROPERTIES:
@@ -709,7 +727,7 @@ taking it as obvious that we have experience.
     
 *** Cognition & Judgment
 
-- Cognition (/Erkenntnis/): :: A conscious representation of an object that is
+- Cognition (/Erkenntnis/): :: A /conscious/ representation of an object that is
      (i) determinate with respect to which object it is a representation of
      and (ii) puts one in a position to know the "real" (i.e. metaphysical)
      possibility of the object[fn:2]
@@ -757,10 +775,13 @@ general. (Prolegomena §22, 4:304)
   - correspondence of ideas to facts
     - contingent, local, a posteriori
 
-[fn:4] | A Priori      | A Posteriori   |
-       |---------------+----------------|
-       | analytic      | synthetic      |
-       | +synthetic+   | +analytic+     |
+[fn:4]
+
+| A Priori  | A Posteriori |
+|-----------+--------------|
+| analytic  | synthetic    |
+| +synthetic+ | +analytic+     |
+
 
 [fn:5] All the objects of human reason or enquiry may naturally be divided
 into two kinds, to wit, relations of ideas and matters of fact. Of the first
@@ -776,7 +797,7 @@ fact is still possible [@hume2007, 28].
   :CUSTOM_ID: kant-on-the-a-priori
   :END:
 
-- A priori knowledge is /independent/ of experience for its justification but not for its acquisition[fn:6]
+- A priori knowledge is /independent/ of experience in some but not all ways (e.g. for its justification but not for its acquisition)[fn:6]
   - we need experience in order for our cognitive faculties to develop
   - experience is necessary for concept acquisition
 - All a priori knowledge is characterized by its universality and necessity
@@ -816,12 +837,12 @@ thought...this relation is possible in two different ways. Either the predicate
 concept /A/; or /B/ lies entirely outside the concept /A/, though to be sure it
 stands in connection with it. (A6/B10)
 
-**** The Problem of Synthetic A Priori Knowledge
+**** The Problem of Synthetic A Priori Judgment
    :PROPERTIES:
    :CUSTOM_ID: the-problem-of-synthetic-a-priori-knowledge
    :END:
 
-- There are knowable (and known) universal/necessary/a priori truths concerning
+- There are knowable (and known) universal/necessary/a priori judgments concerning
   reality that are /not/ explicable in terms of conceptual
   analysis[fn:8]
   - propositions of mathematics (physics & arithmetic)
@@ -829,14 +850,17 @@ stands in connection with it. (A6/B10)
 
 
 1. How are synthetic a priori judgments so much as /possible/?
-2. What is the extent of our synthetic a priori knowledge? 
-   * Must we have synthetic a priori knowledge to explain knowledge of even
+2. What is the extent of our knowledge of the truth of such synthetic a priori judgments? 
+   * Why must we have synthetic a priori judgment to explain knowledge of even
      the most basic relationships between elements of reality?[fn:9]
 
-[fn:8] | A Priori    | A Posteriori   |
-       |-------------+----------------|
-       | analytic    | synthetic      |
-       | synthetic   | +analytic+     |
+[fn:8] Test
+
+
+# | A Priori  | A Posteriori |
+# |-----------+--------------|
+# | analytic  | synthetic    |
+# | synthetic | +analytic+     |
 
 [fn:9] Take the proposition 'Everything that happens has its
        cause'...the concept of a cause lies entirely outside [the
@@ -882,7 +906,7 @@ stands in connection with it. (A6/B10)
 - Possible replies from Kant
   - Distinguish analytic from synthetic based on /logical features/ of concepts
     - Logical division by /differentia/ in terms of species/genus
-      distinction\footnote{\textbf{Logical Division}: \includegraphics{/Users/Roambot/Pictures/ConceptDivision.jpg}}
+      distinction\footnote{\textbf{Logical Division}: \includegraphics{/Users/Roambot/Pictures/pics/ConceptDivision.jpg}}
   - Distinguish analytic from synthetic based on proof of "objective reality"
     of concept
 
