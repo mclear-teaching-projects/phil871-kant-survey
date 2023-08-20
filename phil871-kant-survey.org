@@ -652,8 +652,8 @@ SCHEDULED: <2023-08-23 Wed>
 :PROPERTIES:
 :EXPORT_HUGO_TAGS: analytic/synthetic judgment kant metaphysics science truth "a priori"
 :EXPORT_FILE_NAME: kant-critical-philosophy
-:EXPORT_OPTIONS: author:t num:t
-:EXPORT_AUTHOR: PHIL 871
+# :EXPORT_OPTIONS: author:t num:t
+# :EXPORT_AUTHOR: PHIL 871
 :ID:       20230820T154941.917343
 :END:
 
