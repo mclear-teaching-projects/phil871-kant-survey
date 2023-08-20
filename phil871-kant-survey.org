@@ -190,7 +190,6 @@ and to raise questions for discussion.
 SCHEDULED: <2023-08-23 Wed> 
 :PROPERTIES:
 :EXPORT_AUTHOR: PHIL 871
-:EXPORT_DATE: FALL 2023
 :EXPORT_HUGO_TAGS: judgment analytic/synthetic truth "a priori"
 :EXPORT_FILE_NAME: kant-on-synthetic-a-priori
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true :type post :nocite '(@allison1973 @allison2004 @beck1955 @beck1956 @beck1978d @beck1969 @gardner1999 lovejoy1906a @vancleve1999 @proops2005 @hogan2013)
@@ -648,12 +647,11 @@ we can know that those concepts are applied legitimately, since he is
 taking it as obvious that we have experience.
 
 
-**** DONE Kant's Critical Project
+*** DONE Kant's Critical Project
 SCHEDULED: <2023-08-23 Wed>
 :PROPERTIES:
 :EXPORT_HUGO_TAGS: analytic/synthetic judgment kant metaphysics science truth "a priori"
-:EXPORT_FILE_NAME: kant-on-synthetic-a-priori
-:EXPORT_DATE: August 23, 2023
+:EXPORT_FILE_NAME: kant-critical-philosophy
 :EXPORT_OPTIONS: author:t num:t
 :EXPORT_AUTHOR: PHIL 871
 :ID:       20230820T154941.917343
