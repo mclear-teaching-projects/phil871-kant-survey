@@ -661,8 +661,6 @@ SCHEDULED: <2023-08-23 Wed>
 In these notes I give a more extensive overview of some of the central features
 of Immanual Kant's "Critical" philosophy" than I did in the previous notes. We'll still have only a sketch, but at least the basic parts of Kant's theory of cognition should attain some clarity. 
 
-#+toc: headlines 2
-
 #+INCLUDE: "~/Documents/notes/refile-notes/kants-project.org" :lines "36-"
 
 
