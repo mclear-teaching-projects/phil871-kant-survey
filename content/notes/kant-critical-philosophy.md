@@ -1,7 +1,7 @@
 ---
 title = "Kant's Critical Philosophy"
 publishDate = 2023-08-23T00:00:00-04:00
-tags = ["judgment", "analytic/synthetic", "truth", "a priori"]
+tags: ["analytic/synthetic", "judgment", "kant", "metaphysics", "science", "truth", "a priori"]
 slug: "kants-critical-philosophy"
 draft = false
 weight = 0
@@ -14,23 +14,24 @@ link-citations: false
 In these notes I give a more extensive overview of some of the central features
 of Immanual Kant&rsquo;s &ldquo;Critical&rdquo; philosophy&ldquo; than I did in the previous notes. We&rsquo;ll still have only a sketch, but at least the basic parts of Kant&rsquo;s theory of cognition should attain some clarity.
 
-<div class="ox-hugo-toc toc has-section-numbers">
+<div class="ox-hugo-toc toc">
+<div></div>
 
 <div class="heading">Table of Contents</div>
 
-- <span class="section-num">1</span> [The Project of the _Critique of Pure Reason_](#the-project-of-the-critique-of-pure-reason)
-- <span class="section-num">2</span> [Two Kinds of Knowledge](#two-kinds-of-knowledge)
-    - <span class="section-num">2.1</span> [Leibniz](#leibniz)
-    - <span class="section-num">2.2</span> [Hume](#hume)
-- <span class="section-num">3</span> [Kant on the A Priori](#kant-on-the-a-priori)
-    - <span class="section-num">3.1</span> [The Analytic/Synthetic Distinction](#the-analyticsynthetic-distinction)
-    - <span class="section-num">3.2</span> [The Synthetic A Priori](#the-synthetic-a-priori)
-    - <span class="section-num">3.3</span> [Mathematics and the Synthetic A Priori](#mathematics-and-the-synthetic-a-priori)
-- <span class="section-num">4</span> [Kant&rsquo;s &rsquo;Copernican Revolution&rsquo;](#kants-copernican-revolution)
-    - <span class="section-num">4.1</span> [Transcendental Idealism](#transcendental-idealism)
+- [1. Who is Kant?](#1-dot-who-is-kant)
+- [2. What is the &ldquo;Critical&rdquo; philosophy (in brief)?](#2-dot-what-is-the-and-ldquo-critical-and-rdquo-philosophy--in-brief)
+- [3. What are the aims of the Critical Philosophy?](#3-dot-what-are-the-aims-of-the-critical-philosophy)
+    - [A. Metaphysics & the secure path of science](#a-dot-metaphysics-and-the-secure-path-of-science)
+    - [B. What is synthetic a priori cognition & what is its import for metaphysics?](#b-dot-what-is-synthetic-a-priori-cognition-and-what-is-its-import-for-metaphysics)
+    - [C. What are the limits of rational enquiry (science) and explanation?](#c-dot-what-are-the-limits-of-rational-enquiry--science--and-explanation)
+    - [D. Why does metaphysics tend to overstep its limits?](#d-dot-why-does-metaphysics-tend-to-overstep-its-limits)
+    - [E. In what sense is it rational to believe in the traditional objects of metaphysics?](#e-dot-in-what-sense-is-it-rational-to-believe-in-the-traditional-objects-of-metaphysics)
+- [References](#references)
 
 </div>
 <!--endtoc-->
+
 
 [Immanuel Kant](http://plato.stanford.edu/entries/kant/) (1724--1804)
 was the most significant German philosopher of the eighteenth century,
