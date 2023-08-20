@@ -2,10 +2,12 @@
 title = "Kant's Critical Philosophy"
 publishDate = 2023-08-23T00:00:00-04:00
 tags = ["judgment", "analytic/synthetic", "truth", "a priori"]
+slug: "kants-critical-philosophy"
 draft = false
 weight = 0
 toc = true
 type = "post"
+author = false
 link-citations: false
 ---
 
