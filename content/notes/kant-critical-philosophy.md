@@ -322,6 +322,7 @@ secure set of claims.
 
 ### <span class="section-num">3.1</span> The Analytic/Synthetic Distinction {#the-analyticsynthetic-distinction}
 
+
 A judgment is known (or knowable) a priori if it is known independently
 of experience. Kant thinks that this is not the only dimension according
 to which one can analyze a judgment. Kant argues that all judgments, in
