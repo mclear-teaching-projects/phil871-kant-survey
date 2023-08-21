@@ -171,7 +171,7 @@ the extent to which metaphysics might count as a science. As a secure
 science it would rest on a secure set of claims and no longer be a
 "groping among mere concepts."
 
-## The Analytic/Synthetic Distinction {#fn:the-analytic-synthetic-distinction}
+## The Analytic/Synthetic Distinction 
 
 A judgment is known (or knowable) a priori if it is known (or knowable)
 independently of experience. Kant thinks that this is not the only
@@ -338,99 +338,6 @@ including *very large* numbers (e.g. any numbers *m* and *n* which might
 yield 12). This certainly doesn't reflect our experience when
 calculating such sums, which may yield further evidence that the
 judgment isn't analytically true.[^fn:1]
-
-## References
-
-<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style>
-
-<div class="csl-bib-body">
-
-<div class="csl-entry">
-
-<a id="citeproc_bib_item_1"></a>Allison, Henry E. 1973. <i>The
-Kant-Eberhard Controversy</i>. Baltimore: The Johns Hopkins University
-Press.
-
-</div>
-
-<div class="csl-entry">
-
-<a id="citeproc_bib_item_2"></a>---------. 2004. <i>Kant's
-Transcendental Idealism: Revised and Enlarged</i>. New Haven: Yale
-University Press.
-
-</div>
-
-<div class="csl-entry">
-
-<a id="citeproc_bib_item_3"></a>Anderson, R. Lanier. 2005. "The wolffian
-paradigm and its discontents: kants containment definition of
-analyticity in historical context." <i>Archiv für Geschichte der
-Philosophie</i> 87 (7): 22--74.
-
-</div>
-
-<div class="csl-entry">
-
-<a id="citeproc_bib_item_4"></a>Beck, Lewis White. 1955. "Can Kant's
-Synthetic Judgments Be Made Analytic." <i>Kant-Studien</i> 47 (1-4):
-168--81.
-
-</div>
-
-<div class="csl-entry">
-
-<a id="citeproc_bib_item_5"></a>---------. 1956. "Kant's Theory of
-Definition." <i>The Philosophical Review</i> 65 (2): 179--91.
-
-</div>
-
-<div class="csl-entry">
-
-<a id="citeproc_bib_item_6"></a>---------. 1969. <i>Early German
-Philosophy</i>. Cambridge: Belknap Press of Harvard University Press.
-
-</div>
-
-<div class="csl-entry">
-
-<a id="citeproc_bib_item_7"></a>---------. 1978. "Analytic and Synthetic
-Judgments before Kant." In <i>Essays on Kant and Hume</i>, 82--100. New
-Haven, CT: Yale University Press.
-
-</div>
-
-<div class="csl-entry">
-
-<a id="citeproc_bib_item_8"></a>Gardner, Sebastian. 1999. <i>Kant and
-the Critique of Pure Reason</i>. London: Routledge.
-
-</div>
-
-<div class="csl-entry">
-
-<a id="citeproc_bib_item_9"></a>Hogan, Desmond. 2013. "Metaphysical
-Motives of Kant's Analytic Synthetic Distinction." <i>Journal of the
-History of Philosophy</i> 51 (2): 267--307.
-
-</div>
-
-<div class="csl-entry">
-
-<a id="citeproc_bib_item_10"></a>Proops, Ian. 2005. "Kant's Conception
-of Analytic Judgment." <i>Philosophy and Phenomenological Research</i>
-70 (3): 588--612.
-
-</div>
-
-<div class="csl-entry">
-
-<a id="citeproc_bib_item_11"></a>Van Cleve, James. 1999. <i>Problems
-from Kant</i>. Oxford: Oxford University Press.
-
-</div>
-
-</div>
 
 ## References {#references}
 
