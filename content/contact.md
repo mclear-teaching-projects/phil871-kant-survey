@@ -11,7 +11,7 @@ toc = false
 
 Dr. Colin McLear<br />
 Office: _315P Louise Pound Hall_ <br />
-Office Hours: Th 10:00-12:00 and by appointment [via Zoom](https://unl.zoom.us/j/94199866851) <br />
+Office Hours: W 1:15-3:15pm and by appointment [via Zoom](https://unl.zoom.us/j/94199866851) <br />
 Email: [mclear@unl.edu](mailto:mclear@unl.edu)
 
 Email is the best way to reach me. I answer emails as soon as I can, but
