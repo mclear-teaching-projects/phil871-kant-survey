@@ -17,11 +17,11 @@ information.
 | 1    | 8.23  | Kant&rsquo;s Critical Project                                                          |                            |
 | 2    | 8.30  | **No Class, campus closed**; video: The Ideality of Space &amp; Time                   |                            |
 | 3    | 9.6   | Transcendental Idealism I // **First passage analysis due Friday**                     |                            |
-| 4    | 9.13  | Transcendental Idealism II (**Remote Class**)                                          | Banafsheh Beizaei (Brown)  |
-| 5    | 9.20  | Transition to the Transcendental Deduction                                             |                            |
+| 4    | 9.13  | Transcendental Idealism II &amp; Transition to the Transcendental Deduction            |                            |
+| 5    | 9.20  | Defending Epistemic Readings of TI (**Remote Class**)                                  | Banafsheh Beizaei (Brown)  |
 | 6    | 9.27  | The Transcendental Deduction // **Second passage analysis due Friday**                 |                            |
 | 7    | 10.4  | The Deduction &amp; Transition to the Principles                                       |                            |
-| 8    | 10.11 | Defending Causation                                                                    |                            |
+| 8    | 10.11 | Time &amp; Causation                                                                   |                            |
 | 9    | 10.18 | Causation &amp; Skepticism (**Remote Class**) // **Third passage analysis due Friday** | Janum Sethi (Michigan)     |
 | 10   | 10.25 | The Dialectic of Reason                                                                |                            |
 | 11   | 11.1  | Reason &amp; Cognition (**Remote Class**)                                              | Rosalind Chaplin (UNC)     |
@@ -29,4 +29,4 @@ information.
 | 13   | 11.15 | Groundwork I-II (**Remote Class**) // **Paper Draft due Friday**                       | Jessica Tizzard (Tübingen) |
 | 14   | 11.22 | **No class; Thanksgiving Break**                                                       |                            |
 | 15   | 11.29 | Freedom in Groundwork III                                                              |                            |
-| 16   | 12.6  | Reason &amp; Enlightenment // **Final paper due Friday**                               |                            |
+| 16   | 12.6  | Reason &amp; Enlightenment // **Final paper due Friday**                               |
