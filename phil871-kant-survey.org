@@ -170,8 +170,46 @@ particular, the issue of "synthetic a priori" judgment.
 - What is "cognition"? 
 - What problem does Kant think metaphysics faces?
 
+*** DONE Week 2 - The Ideality of Space & Time
+SCHEDULED: <2023-08-30 Wed>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: geometry idealism intuition mathematics sensibility space time 
+:EXPORT_FILE_NAME: week2
+:END:
 
+It's volleyball day! So campus is closed and we are *not* meeting. I'll post a
+link to a video (probably this weekend) discussing Kant's conception of space
+and time as a priori and non-conceptual representations. We'll try and
+understand what it means to say that space and time are merely "forms" of
+intuition, the arguments for the view, and how it stands up to relevant
+alternatives.
 
+**** Readings
+- CPR: Transcendental Aesthetic (B33-73; [[https://www.dropbox.com/s/62c67l858hwrmeg/kant1998b_the_transcendental_aesthetic_%2528b-edition%2529.pdf?dl=0][Guyer & Wood, 172-92]]) 
+   - We'll focus primarily on Kant's discussion of /space/
+- Prolegomena: §§6-10, §13 ([[file:static/materials/readings/kant-prolegomena-6-10-13.pdf][Hatfield 32-5, 37-8]])
+   + This expands a bit on the notion of "givenness" and intuition's role in cognition, from what Kant discusses in the /Critique/. 
+- Optional: Parsons, [[https://www.dropbox.com/s/pqu2fhedpn22e3c/parsons1992.pdf?dl=0][The Transcendental Aesthetic]] 
+   - This is a classic and helpful overview of the entirety of the Transcendental Aesthetic, with a focus on space. 
+- Optional: Janiak, [[http://plato.stanford.edu/entries/kant-spacetime/][Kant's Views on Space and Time]] 
+   - Also a very helpful overview. Does a bit more than Parsons to situate Kant in the historical context of debates concerning space and time.
+- Optional: Shabel, [[https://www.dropbox.com/s/dgnpaacw4fez7ct/shabel2004.pdf?dl=0][Kant's Argument from Geometry]]
+   - A recent attempt to defend Kant against some classic objections concerning the structure of Kant's argument concerning space and Euclidean geometry.
+- Optional: Einstein, [[http://pascal.iseg.utl.pt/~ncrato/Math/Einstein.htm][Geometry and Experience]]
+   - Einstein's classic repudiation of a Kantian conception of space. The first sentence of the third paragraph is widely quoted and succictly states Einstein's differnce from Kant. 
+- Optional: Allais, [[https://www.dropbox.com/s/ogdrn3tp3s1par7/allais2010a_kant%27s_argument_for_transcendental_idealism_in_the_transcendental_aesthetic.pdf?dl=0][Kant’s Argument for Transcendental Idealism in the Transcendental Aesthetic]]
+   - A helpful way of thinking about Kant's argument for Transcendental Idealism as deriving from his conception of the role of intuition in cognition. 
+- Optional: [[https://phil871.colinmclear.net/notes/transcendental-aesthetic/][Notes on the Transcendental Aesthetic]]
+- [[file:static/materials/handouts/handout2-aesthetic.pdf][Handout]]
+  
+
+**** Questions
+- What is an "intuition"?
+- What does it mean to say that an intuition has a "pure form"?
+- What is the difference (if any) between intuition and sensation?
+- What is an "appearance"
+- What is the relationship between pure intuition and mathematics?
+  
 ** Notes
 :PROPERTIES:
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :type post
@@ -658,6 +696,7 @@ In these notes I give a more extensive overview of some of the central features
 of Immanual Kant's "Critical" philosophy" than I did in the previous notes. We'll still have only a sketch, but at least the basic parts of Kant's theory of cognition should attain some clarity. 
 
 #+INCLUDE: "~/Documents/notes/refile-notes/kants-project.org" :lines "36-"
+
 
 
 * Handouts :noexport:
@@ -5996,43 +6035,6 @@ This seems like a fair worry. Some might object that Kant promotes here a shallo
 
 This way of construing the distinction thus wouldn't allow that one was acting freely, rationally, and thus morally in the kind of private uses that you propose. Moreover, Kant can plausibly argue that we should be promoting a society that does not force such "private" uses of one's reason. 
 * Assignment Drafts :noexport:
-
-** DONE Week 2 - The Ideality of Space & Time
-SCHEDULED: <2018-08-28 Tue>
-:PROPERTIES:
-:EXPORT_HUGO_TAGS: geometry idealism intuition mathematics sensibility space time 
-:EXPORT_FILE_NAME: week2
-:END:
-
-This week we discuss Kant's idealism concerning space and time. We'll try and
-understand what it means to say that space and time are merely "forms" of
-intuition, the arguments for the view, and how it stands up to relevant
-alternatives.
-
-*** Readings
-- CPR: Transcendental Aesthetic (B33-73; [[https://www.dropbox.com/s/62c67l858hwrmeg/kant1998b_the_transcendental_aesthetic_%2528b-edition%2529.pdf?dl=0][Guyer & Wood, 172-92]]) 
-  - We'll focus primarily on Kant's discussion of /space/
-- Prolegomena: §§6-10, §13 ([[file:static/materials/readings/kant-prolegomena-6-10-13.pdf][Hatfield 32-5, 37-8]])
-- Optional: Parsons, [[https://www.dropbox.com/s/pqu2fhedpn22e3c/parsons1992.pdf?dl=0][The Transcendental Aesthetic]] 
-  - This is a class and helpful overview of the whole section, with a focus on space. 
-- Optional: Janiak, [[http://plato.stanford.edu/entries/kant-spacetime/][Kant's Views on Space and Time]] 
-  - Also a very helpful overview. Does a bit more than Parsons to situate Kant in the historical context of debates concerning space and time.
-- Optional: Shabel, [[https://www.dropbox.com/s/dgnpaacw4fez7ct/shabel2004.pdf?dl=0][Kant's Argument from Geometry]]
-  - Recent attempt to defend Kant against some classic objections concerning the structure of Kant's argument concerning space and Euclidean geometry.
-- Optional: Einstein, [[http://pascal.iseg.utl.pt/~ncrato/Math/Einstein.htm][Geometry and Experience]]
-  - Einstein's classic repudiation of a Kantian conception of space. The first sentence of the third paragraph is widely quoted and succictly states Einstein's differnce from Kant. 
-- Optional: Allais, [[https://www.dropbox.com/s/ogdrn3tp3s1par7/allais2010a_kant%27s_argument_for_transcendental_idealism_in_the_transcendental_aesthetic.pdf?dl=0][Kant’s Argument for Transcendental Idealism in the Transcendental Aesthetic]]
-  - Helpful way of thinking about Kant's argument for Transcendental Idealism as deriving from his conception of the role of intuition in cognition. 
-- Optional: [[https://phil871.colinmclear.net/notes/transcendental-aesthetic/][Notes on the Transcendental Aesthetic]]
-- [[file:static/materials/handouts/handout2-aesthetic.pdf][Handout]]
-  
-
-*** Questions
-- What is an "intuition"?
-- What does it mean to say that an intuition has a "pure form"?
-- What is the difference (if any) between intuition and sensation?
-- What is an "appearance"
-- What is the relationship between pure intuition and mathematics?
 
   
 ** DONE Week 3 - No Class
