@@ -34,7 +34,6 @@ alternatives.
 -   Optional: Allais, [Kant’s Argument for Transcendental Idealism in the Transcendental Aesthetic](https://www.dropbox.com/s/ogdrn3tp3s1par7/allais2010a_kant%27s_argument_for_transcendental_idealism_in_the_transcendental_aesthetic.pdf?dl=0)
     -   A helpful way of thinking about Kant&rsquo;s argument for Transcendental Idealism as deriving from his conception of the role of intuition in cognition.
 -   Optional: [Notes on the Transcendental Aesthetic](https://phil871.colinmclear.net/notes/transcendental-aesthetic/)
--   [Handout](/materials/handouts/handout2-aesthetic.pdf)
 
 
 ## Questions {#questions}
