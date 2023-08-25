@@ -1,6 +1,6 @@
 +++
 title = "Week 2 - The Ideality of Space & Time"
-publishDate = 2023-08-30T00:00:00-05:00
+publishDate = 2023-08-30T00:00:00-04:00
 tags = ["geometry", "idealism", "intuition", "mathematics", "sensibility", "space", "time"]
 draft = false
 weight = -100
@@ -29,7 +29,7 @@ alternatives.
     -   Also a very helpful overview. Does a bit more than Parsons to situate Kant in the historical context of debates concerning space and time.
 -   Optional: Shabel, [Kant&rsquo;s Argument from Geometry](https://www.dropbox.com/s/dgnpaacw4fez7ct/shabel2004.pdf?dl=0)
     -   A recent attempt to defend Kant against some classic objections concerning the structure of Kant&rsquo;s argument concerning space and Euclidean geometry.
--   Optional: Einstein, [Geometry and Experience](http://pascal.iseg.utl.pt/~ncrato/Math/Einstein.htm)
+-   Optional: Einstein, [Geometry and Experience](https://mathshistory.st-andrews.ac.uk/Extras/Einstein_geometry/)
     -   Einstein&rsquo;s classic repudiation of a Kantian conception of space. The first sentence of the third paragraph is widely quoted and succictly states Einstein&rsquo;s differnce from Kant.
 -   Optional: Allais, [Kant’s Argument for Transcendental Idealism in the Transcendental Aesthetic](https://www.dropbox.com/s/ogdrn3tp3s1par7/allais2010a_kant%27s_argument_for_transcendental_idealism_in_the_transcendental_aesthetic.pdf?dl=0)
     -   A helpful way of thinking about Kant&rsquo;s argument for Transcendental Idealism as deriving from his conception of the role of intuition in cognition.
