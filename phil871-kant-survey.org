@@ -1548,14 +1548,14 @@ stands in connection with it. (A6/B10)
 :EXPORT_TITLE: The Transcendental Aesthetic
 :EXPORT_FILE_NAME: ~/Work/projects/phil871-kant-survey/static/materials/handouts/handout2-aesthetic.pdf
 :END:
-# :Pandoc:
-# #+PANDOC_METADATA: "author:PHIL 4/871" "date:August 28, 2018" 
-# #+PANDOC_METADATA: "lfoot:Colin McLear | August 28, 2018"
-# #+PANDOC_METADATA: "lhead: The Transcendental Aesthetic"
-# #+PANDOC_EXTENSIONS: org+raw_tex
-# #+LANGUAGE: en
-# #+OPTIONS: ':t
-# :END:
+:Pandoc:
+#+PANDOC_METADATA: "author:PHIL 4/871" "date:August 28, 2018" 
+#+PANDOC_METADATA: "lfoot:Colin McLear | August 28, 2018"
+#+PANDOC_METADATA: "lhead: The Transcendental Aesthetic"
+#+PANDOC_EXTENSIONS: org+raw_tex
+#+LANGUAGE: en
+#+OPTIONS: ':t
+:END:
 
 - Why a "Transcendental Aesthetic"? 
   - Transcendental vs. Transcendent
