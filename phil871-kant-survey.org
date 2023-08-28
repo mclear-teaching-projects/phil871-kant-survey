@@ -184,6 +184,15 @@ understand what it means to say that space and time are merely "forms" of
 intuition, the arguments for the view, and how it stands up to relevant
 alternatives.
 
+**** Lectures
+
+I broke up discussion of the project of the synthetic a priori and its relation to the structure of the book and general and the Transcendental Aesthetic in particular into three parts. Lots more to discuss on Discord and over the next few weeks! 
+
+- [[https://www.dropbox.com/scl/fi/a5vimdgrhaw5rjug2bbsr/1-kant-aesthetic-lecture.mp4?rlkey=6hukzsru61gk1bj5bntwmgakz&dl=0][Lecture 1]]
+- [[https://www.dropbox.com/scl/fi/mdz9alcnexxocs4xe4qi2/2-kant-aesthetic-lecture.mp4?rlkey=bumo3snvs76v8143mmb60qgok&dl=0][Lecture 2]]
+- [[https://www.dropbox.com/scl/fi/05r8jmll04zw88e6ehicx/3-kant-aesthetic-lecture.mp4?rlkey=rulv3liu7jvvi4fzalw6seafp&dl=0][Lecture 3]]
+- [[file:static/materials/handouts/handout2-aesthetic.pdf][Handout]]
+
 **** Readings
 - CPR: Transcendental Aesthetic (B33-73; [[https://www.dropbox.com/s/62c67l858hwrmeg/kant1998b_the_transcendental_aesthetic_%2528b-edition%2529.pdf?dl=0][Guyer & Wood, 172-92]]) 
    - We'll focus primarily on Kant's discussion of /space/
@@ -200,7 +209,7 @@ alternatives.
 - Optional: Allais, [[https://www.dropbox.com/s/ogdrn3tp3s1par7/allais2010a_kant%27s_argument_for_transcendental_idealism_in_the_transcendental_aesthetic.pdf?dl=0][Kant’s Argument for Transcendental Idealism in the Transcendental Aesthetic]]
    - A helpful way of thinking about Kant's argument for Transcendental Idealism as deriving from his conception of the role of intuition in cognition. 
 - Optional: [[https://phil871.colinmclear.net/notes/transcendental-aesthetic/][Notes on the Transcendental Aesthetic]]
-# - [[file:static/materials/handouts/handout2-aesthetic.pdf][Handout]]
+
   
 
 **** Questions

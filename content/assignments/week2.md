@@ -17,6 +17,16 @@ intuition, the arguments for the view, and how it stands up to relevant
 alternatives.
 
 
+## Lectures {#lectures}
+
+I broke up discussion of the project of the synthetic a priori and its relation to the structure of the book and general and the Transcendental Aesthetic in particular into three parts. Lots more to discuss on Discord and over the next few weeks!
+
+-   [Lecture 1](https://www.dropbox.com/scl/fi/a5vimdgrhaw5rjug2bbsr/1-kant-aesthetic-lecture.mp4?rlkey=6hukzsru61gk1bj5bntwmgakz&dl=0)
+-   [Lecture 2](https://www.dropbox.com/scl/fi/mdz9alcnexxocs4xe4qi2/2-kant-aesthetic-lecture.mp4?rlkey=bumo3snvs76v8143mmb60qgok&dl=0)
+-   [Lecture 3](https://www.dropbox.com/scl/fi/05r8jmll04zw88e6ehicx/3-kant-aesthetic-lecture.mp4?rlkey=rulv3liu7jvvi4fzalw6seafp&dl=0)
+-   [Handout](/materials/handouts/handout2-aesthetic.pdf)
+
+
 ## Readings {#readings}
 
 -   CPR: Transcendental Aesthetic (B33-73; [Guyer &amp; Wood, 172-92](https://www.dropbox.com/s/62c67l858hwrmeg/kant1998b_the_transcendental_aesthetic_%2528b-edition%2529.pdf?dl=0))
