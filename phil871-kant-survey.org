@@ -231,11 +231,15 @@ This week we discuss further Kant's argument for construing space and time as me
 
 **** Readings
 - CPR: Transcendental Aesthetic (B59-73; [[https://www.dropbox.com/s/62c67l858hwrmeg/kant1998b_the_transcendental_aesthetic_%2528b-edition%2529.pdf?dl=0][Guyer & Wood, 185-92]]) 
-- Prolegomena, [[file:static/materials/readings/kant-prolegomena-note-III.pdf][Note III]]
-- (Optional): Allison, [[file:static/materials/readings/allison-ch2.pdf][Transcendental Idealism and Transcendental Realism]]  
+- Prolegomena, [[file:static/materials/readings/kant-prolegomena-note-III.pdf][Note III]] (Kant replying to critics of his idealism)
+- (Optional): Allison, [[file:static/materials/readings/allison-ch2.pdf][Transcendental Idealism and Transcendental Realism]]
+   + Henry Allison's now classic discussion & defense of Kant's idealism
 - (Optional): Allais, /Manifest Reality/, [[file:static/materials/readings/allais-manifest-idealism-ch1.pdf][ch. 1]]
+   + An overview of a 'moderate' metaphysical reading of Kant's idealism
 - (optional): Melemedoff-Vosters, "[[https://phil880.colinmclear.net/materials/readings/melamedoff-ground.pdf][Kant’s Argument for Transcendental Idealism in the Transcendental Aesthetic Revisited]]"  
+   + A discussion of how Kant's idealist argument fits with his contention that representation of space & time is a priori 
 - (Optional): Stang, [[https://plato.stanford.edu/entries/kant-transcendental-idealism/][Transcendental Idealism]] (SEP entry; particularly §§1-2)
+   + An excellent and thorough overview of various elements of the interpretive and philosophical debate concerning Kant's idealism 
 
 **** Questions
 - What is "Empirical Realism"?
