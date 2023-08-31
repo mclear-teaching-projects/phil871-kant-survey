@@ -234,6 +234,7 @@ This week we discuss further Kant's argument for construing space and time as me
 - Prolegomena, [[file:static/materials/readings/kant-prolegomena-note-III.pdf][Note III]]
 - (Optional): Allison, [[file:static/materials/readings/allison-ch2.pdf][Transcendental Idealism and Transcendental Realism]]  
 - (Optional): Allais, /Manifest Reality/, [[file:static/materials/readings/allais-manifest-idealism-ch1.pdf][ch. 1]]
+- (optional): Melemedoff-Vosters, "[[https://phil880.colinmclear.net/materials/readings/melamedoff-ground.pdf][Kant’s Argument for Transcendental Idealism in the Transcendental Aesthetic Revisited]]"  
 - (Optional): Stang, [[https://plato.stanford.edu/entries/kant-transcendental-idealism/][Transcendental Idealism]] (SEP entry; particularly §§1-2)
 
 **** Questions
