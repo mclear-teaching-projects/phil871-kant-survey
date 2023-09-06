@@ -256,7 +256,7 @@ SCHEDULED: <2023-09-08 Fri>
 Choose from *one* of the two provided passages. In no more than 500 words
 describe Kant's argument or point in the passage in as plain English as
 possible. The is due via [[mailto:mclear@unl.edu][email]] Friday, September 8.
-by 5 p.m.
+by 11 p.m. If you need an extension please just email me. 
 
 **** First Passage
 #+BEGIN_QUOTE

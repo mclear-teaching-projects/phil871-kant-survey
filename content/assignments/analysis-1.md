@@ -11,7 +11,7 @@ type = "post"
 Choose from **one** of the two provided passages. In no more than 500 words
 describe Kant&rsquo;s argument or point in the passage in as plain English as
 possible. The is due via [email](mailto:mclear@unl.edu) Friday, September 8.
-by 5 p.m.
+by 11 p.m. If you need an extension please just email me.
 
 
 ## First Passage {#first-passage}
