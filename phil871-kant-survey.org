@@ -11,6 +11,22 @@
 #+OPTIONS: prop:nil p:t
 
 
+* Homework
+** Precis & RR
+| Name                   | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 | Week 8 | Week 9 | Week 10 | Week 11 | Week 12 | Week 13 | Week 14 | Week 15 |
+|------------------------+--------+--------+--------+--------+--------+--------+--------+--------+--------+---------+---------+---------+---------+---------+---------|
+| Boyle, Mary-kate       | X      | X      |        |        |        |        |        |        |        |         |         |         |         |         |         |
+| Cook, Will             | X      | X      |        |        |        |        |        |        |        |         |         |         |         |         |         |
+| Park, Drew             | X      |        |        |        |        |        |        |        |        |         |         |         |         |         |         |
+| Woelm, Rose            | X      |        |        |        |        |        |        |        |        |         |         |         |         |         |         |
+| Gallagher, Drew        | X      |        |        |        |        |        |        |        |        |         |         |         |         |         |         |
+| Kain, Swarnima         | X      | X      |        |        |        |        |        |        |        |         |         |         |         |         |         |
+| Nicolas, Erica Christi | X      | X      |        |        |        |        |        |        |        |         |         |         |         |         |         |
+| Vinal, Adara Rose      | X      | X      |        |        |        |        |        |        |        |         |         |         |         |         |         |
+| Yang, Xuan             | X      | X      |        |        |        |        |        |        |        |         |         |         |         |         |         |
+| Zhao, Hans             | X      | X      |        |        |        |        |        |        |        |         |         |         |         |         |         |
+
+
 * Website
 ** Pages
 :PROPERTIES:
@@ -53,23 +69,23 @@ The course syllabus is available here: [[file:static/materials/phil871-syllabus.
 This is a tentative schedule. Check the [[http://phil871.colinmclear.net/assignments][assignments]] page for the most current
 information.
 
-| Week |  Date | Material                                                                   | Guest                      |
-|    1 |  8.23 | Kant's Critical Project                                                    |                            |
-|    2 |  8.30 | *No Class, campus closed*; video: The Ideality of Space & Time               |                            |
-|    3 |   9.6 | Transcendental Idealism I // *First passage analysis due Friday*             |                            |
-|    4 |  9.13 | Transcendental Idealism II & Transition to the Transcendental Deduction    |                            |
-|    5 |  9.20 | Defending Epistemic Readings of TI (*Remote Class*)                          | Banafsheh Beizaei (Brown)  |
-|    6 |  9.27 | The Transcendental Deduction // *Second passage analysis due Friday*         |                            |
-|    7 |  10.4 | The Deduction & Transition to the Principles                               |                            |
-|    8 | 10.11 | Time & Causation                                                           |                            |
-|    9 | 10.18 | Causation & Skepticism (*Remote Class*) // *Third passage analysis due Friday* | Janum Sethi (Michigan)     |
-|   10 | 10.25 | The Dialectic of Reason                                                    |                            |
-|   11 |  11.1 | Reason & Cognition (*Remote Class*)                                          | Rosalind Chaplin (UNC)     |
-|   12 |  11.8 | Freedom in the 3rd Antinomy // *Fourth passage analysis due Friday*          |                            |
-|   13 | 11.15 | Groundwork I-II (*Remote Class*) // *Paper Draft due Friday*                   | Jessica Tizzard (Tübingen) |
-|   14 | 11.22 | *No class; Thanksgiving Break*                                               |                            |
-|   15 | 11.29 | Freedom in Groundwork III                                                  |                            |
-|   16 |  12.6 | Reason & Enlightenment // *Final paper due Friday*                           |                            |
+| Week |  Date | Material                                                                           | Guest                      |
+|    1 |  8.23 | Kant's Critical Project                                                            |                            |
+|    2 |  8.30 | *No Class, campus closed*; video: The Ideality of Space & Time                       |                            |
+|    3 |   9.6 | Transcendental Idealism I // *First passage analysis due Friday*                     |                            |
+|    4 |  9.13 | Transcendental Idealism II                                                         |                            |
+|    5 |  9.20 | Defending Epistemic Readings of TI (*Remote Class*)                                  | Banafsheh Beizaei (Brown)  |
+|    6 |  9.27 | The Metaphysical & Transcendental Deductions // *Second passage analysis due Friday* |                            |
+|    7 |  10.4 | The Transcendental Deduction II & Transition to the Principles                     |                            |
+|    8 | 10.11 | Time & Causation                                                                   |                            |
+|    9 | 10.18 | Causation & Skepticism (*Remote Class*) // *Third passage analysis due Friday*         | Janum Sethi (Michigan)     |
+|   10 | 10.25 | The Dialectic of Reason                                                            |                            |
+|   11 |  11.1 | Reason & Cognition (*Remote Class*)                                                  | Rosalind Chaplin (UNC)     |
+|   12 |  11.8 | Freedom in the 3rd Antinomy // *Fourth passage analysis due Friday*                  |                            |
+|   13 | 11.15 | Groundwork I-II (*Remote Class*) // *Paper Draft due Friday*                           | Jessica Tizzard (Tübingen) |
+|   14 | 11.22 | *No class; Thanksgiving Break*                                                       |                            |
+|   15 | 11.29 | Freedom in Groundwork III                                                          |                            |
+|   16 |  12.6 | Reason & Enlightenment // *Final paper due Friday*                                   |                            |
 
 
 
@@ -320,6 +336,72 @@ calls such *cognitions a priori*, and distinguishes them from *empirical* ones,
 which have their sources /a posteriori/, namely in experience. (B1-2)
 #+END_QUOTE
 
+
+*** DONE Week 4 - Transcendental Idealism II
+SCHEDULED: <2023-09-13 Wed>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: idealism intuition sensibility space time 
+:EXPORT_FILE_NAME: week4
+:END:
+
+This week we continue our discussion of Kant's doctrine of Transcendental
+Idealism. We'll focus primarily on his inference from the a priori and intuitive
+status of our representation of space and time to the conclusion that space and
+time themselves are mind-dependent. We'll also look at various options for
+interpreting Kant's positions on idealism and realism.
+
+If there is time we may discuss briefly Kant's derivation of the categories and
+how this conception of the categories might provide a further basis for Kant's
+idealism (see optional reading).
+
+**** Readings
+- Same as last week
+- Kant, CPR "Transcendental idealism as the key to solving the cosmological
+  dialectic" A490-97/B518-25 (Guyer & Wood pp. 511-14)
+- (Optional) CPR: Transcendental Logic & Analytic (the Clue), B91-116 (Guyer & Wood, 201-18)
+
+**** Questions
+- What is "Empirical Realism"?
+- What is "Transcendental Idealism"?
+- Why does Kant think Transcendental Realism implies Empirical Idealism? 
+- In what sense might we consider TI to be merely "epistemic"?
+- In what sense might we consider TI to be a "metaphysical" position?
+- What is being agreed upon or disagreed upon in the interpretation of TI?
+
+*** TODO Week 6 - Which A Priori Concepts Are Fundamental?
+SCHEDULED: <2023-09-27 Wed>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: "a priori" categories concepts deduction idealism judgment logic metaphysics 
+:EXPORT_FILE_NAME: week4
+:END:
+
+
+Kant's project of defending our knowledge of true synthetic a priori judgments
+in metaphysics requires a defense of the legitimacy of the basic concepts of
+metaphysics. But which concepts are the most basic? This week we start our
+discussion of the Transcendental Analytic with a look at the section of the
+/Critique of Pure Reason/ called the "Metaphysical Deduction", in which Kant
+gives us an argument for determining which concepts are fundamental to
+metaphysics, and how they could be cognized a priori.
+
+- [[file:static/materials/handouts/handout3-metaphysical-deduction.pdf][Handout 1]]
+- [[file:static/materials/handouts/handout3-1-deduction-overview.pdf][Handout 2]]
+ 
+
+**** Readings
+- CPR: Transcendental Logic & Analytic (the Clue), B91-116 (Guyer & Wood, 201-18)
+- CPR: Analytic ch. 2, §13 & Transition, B116-29 (Guyer & Wood, 219-26) 
+- Optional: Longuenesse, [[https://www.dropbox.com/s/kyrzl9gf8lma18c/longuenesse2006a_kant_on_a_priori_concepts.pdf?dl=0]["Kant on A Priori Concepts"]]
+- Optional: Allison, [[https://www.dropbox.com/s/76hf2dh2rwf3dur/allison2004-ch6_the_intellectual_conditions_of_human_cognition.pdf?dl=0]["The Intellectual Conditions of Human Cognition"]]
+- Optional: [[https://phil871.colinmclear.net/notes/metaphysical-deduction/][Notes on the Metaphysical Deduction]]
+  
+**** Questions
+- What are the "forms of judgment"?
+- Why does Kant think that the forms of judgment provide a "clue" to the
+  categories?
+- How many forms of judgment and categories are there? 
+- What is the difference between the logical and the real use of the understanding?
+- What is "synthesis"?
 
 ** Notes
 :PROPERTIES:
@@ -5259,39 +5341,6 @@ SCHEDULED: <2018-09-04 Tue>
 No class this week. Your [[https://phil871.colinmclear.net/assignments/analysis-1][first passage analysis]] is due Friday by 5 p.m.
 
 
-** DONE Week 4 - Which A Priori Concepts Are Fundamental?
-SCHEDULED: <2018-09-11 Tue>
-:PROPERTIES:
-:EXPORT_HUGO_TAGS: "a priori" categories concepts deduction idealism judgment logic metaphysics 
-:EXPORT_FILE_NAME: week4
-:END:
-
-Kant's project of defending our knowledge of true synthetic a priori judgments
-in metaphysics requires a defense of the legitimacy of the basic concepts of
-metaphysics. But which concepts are the most basic? This week we start our
-discussion of the Transcendental Analytic with a look at the section of the
-/Critique of Pure Reason/ called the "Metaphysical Deduction", in which Kant
-gives us an argument for determining which concepts are fundamental to
-metaphysics, and how they could be cognized a priori.
-
-- [[file:static/materials/handouts/handout3-metaphysical-deduction.pdf][Handout 1]]
-- [[file:static/materials/handouts/handout3-1-deduction-overview.pdf][Handout 2]]
- 
-
-*** Readings
-- CPR: Transcendental Logic & Analytic (the Clue), B91-116 (Guyer & Wood, 201-18)
-- CPR: Analytic ch. 2, §13 & Transition, B116-29 (Guyer & Wood, 219-26) 
-- Optional: Longuenesse, [[https://www.dropbox.com/s/kyrzl9gf8lma18c/longuenesse2006a_kant_on_a_priori_concepts.pdf?dl=0]["Kant on A Priori Concepts"]]
-- Optional: Allison, [[https://www.dropbox.com/s/76hf2dh2rwf3dur/allison2004-ch6_the_intellectual_conditions_of_human_cognition.pdf?dl=0]["The Intellectual Conditions of Human Cognition"]]
-- Optional: [[https://phil871.colinmclear.net/notes/metaphysical-deduction/][Notes on the Metaphysical Deduction]]
-
-*** Questions
-- What are the "forms of judgment"?
-- Why does Kant think that the forms of judgment provide a "clue" to the
-  categories?
-- How many forms of judgment and categories are there? 
-- What is the difference between the logical and the real use of the understanding?
-- What is "synthesis"?
 
 ** DONE Week 5 - The Transcendental Deduction I
 SCHEDULED: <2018-09-18 Tue>
