@@ -15,17 +15,30 @@
 ** Precis & RR
 | Name                   | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 | Week 8 | Week 9 | Week 10 | Week 11 | Week 12 | Week 13 | Week 14 | Week 15 |
 |------------------------+--------+--------+--------+--------+--------+--------+--------+--------+--------+---------+---------+---------+---------+---------+---------|
-| Boyle, Mary-kate       | X      | X      |        |        |        |        |        |        |        |         |         |         |         |         |         |
-| Cook, Will             | X      | X      |        |        |        |        |        |        |        |         |         |         |         |         |         |
+| Boyle, Mary-kate       | X      | X      | X      | X      |        |        |        |        |        |         |         |         |         |         |         |
+| Cook, Will             | X      | X      | X      | X      |        |        |        |        |        |         |         |         |         |         |         |
 | Park, Drew             | X      |        |        |        |        |        |        |        |        |         |         |         |         |         |         |
-| Woelm, Rose            | X      |        |        |        |        |        |        |        |        |         |         |         |         |         |         |
-| Gallagher, Drew        | X      |        |        |        |        |        |        |        |        |         |         |         |         |         |         |
-| Kain, Swarnima         | X      | X      |        |        |        |        |        |        |        |         |         |         |         |         |         |
-| Nicolas, Erica Christi | X      | X      |        |        |        |        |        |        |        |         |         |         |         |         |         |
-| Vinal, Adara Rose      | X      | X      |        |        |        |        |        |        |        |         |         |         |         |         |         |
-| Yang, Xuan             | X      | X      |        |        |        |        |        |        |        |         |         |         |         |         |         |
-| Zhao, Hans             | X      | X      |        |        |        |        |        |        |        |         |         |         |         |         |         |
+| Woelm, Rose            | X      |        |        | X      |        |        |        |        |        |         |         |         |         |         |         |
+| Gallagher, Drew        | X      |        | X      | X      |        |        |        |        |        |         |         |         |         |         |         |
+| Kain, Swarnima         | X      | X      | X      | X      |        |        |        |        |        |         |         |         |         |         |         |
+| Nicolas, Erica Christi | X      | X      | X      | X      |        |        |        |        |        |         |         |         |         |         |         |
+| Vinal, Adara Rose      | X      | X      | X      | X      |        |        |        |        |        |         |         |         |         |         |         |
+| Yang, Xuan             | X      | X      | X      | X      |        |        |        |        |        |         |         |         |         |         |         |
+| Zhao, Hans             | X      | X      | X      | X      |        |        |        |        |        |         |         |         |         |         |         |
 
+** Writing Assignments
+| Name                   | PA 1  | PA 2 | PA 3 | PA 4 | Draft | Final |
+|------------------------+-------+------+------+------+-------+-------|
+| Boyle, Mary-kate       | 4/5   |      |      |      |       |       |
+| Cook, Will             | 5/5   |      |      |      |       |       |
+| Park, Drew             | 3.5/5 |      |      |      |       |       |
+| Woelm, Rose            |       |      |      |      |       |       |
+| Gallagher, Drew        |       |      |      |      |       |       |
+| Kain, Swarnima         |       |      |      |      |       |       |
+| Nicolas, Erica Christi | 4/5   |      |      |      |       |       |
+| Vinal, Adara Rose      | 3/5   |      |      |      |       |       |
+| Yang, Xuan             | 4/5   |      |      |      |       |       |
+| Zhao, Hans             | 5/5   |      |      |      |       |       |
 
 * Website
 ** Pages
@@ -367,6 +380,34 @@ idealism (see optional reading).
 - In what sense might we consider TI to be merely "epistemic"?
 - In what sense might we consider TI to be a "metaphysical" position?
 - What is being agreed upon or disagreed upon in the interpretation of TI?
+
+
+*** DONE Week 5 - Defending the Epistemic Reading of TI
+SCHEDULED: <2023-09-20 Wed>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: idealism epistemology metaphysics
+:EXPORT_FILE_NAME: week5
+:END:
+
+We're finishing our discussion of Transcendental Idealism this week by looking more closely at epistemic readings of TI. Be sure to have read the below chapters by Allison, if you haven't already. Other things to look at include Van Cleve's criticisms of Allison's reading and Nick Stang's overview of issues surrounding the interpretation of Transcendental Idealism. 
+
+Note that class on the 20th will be **remote** via zoom, with guest Banafsheh Baizaei of Brown University (https://philosophy.brown.edu/people/banafsheh-beizaei). 
+
+The zoom link is on the week 5 channel on the class discord.
+
+**** Readings
+- Allison, [[file:static/materials/readings/allison-chs1-2.pdf][Kant's Transcendental Idealism, chs. 1-2]]
+- (Recommended) Van Cleve, [[file:static/materials/readings/van-cleve-TI.pdf][Transcendental Idealism]]  
+- (Optional): Stang, [[https://plato.stanford.edu/entries/kant-transcendental-idealism/][Transcendental Idealism]] (SEP entry; particularly §§1-2)
+
+**** Questions
+
+- What distinguishes the epistemic reading from other readings of Transcendental Idealism?
+- What is an "aspect"?
+- What does it mean to consider an object "under an aspect"?  
+- What is the "discursivity thesis" for which Allison advocates?
+- What concerns does Van Cleve raise about Allison's epistemic reading?
+
 
 *** TODO Week 6 - Which A Priori Concepts Are Fundamental?
 SCHEDULED: <2023-09-27 Wed>
