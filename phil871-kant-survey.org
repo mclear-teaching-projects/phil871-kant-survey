@@ -486,6 +486,8 @@ and to raise questions for discussion.
 SCHEDULED: <2023-09-27 Wed>
 :PROPERTIES:
 :EXPORT_AUTHOR: PHIL 871
+:EXPORT_OPTIONS: author:nil num:t
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :type post
 :EXPORT_HUGO_TAGS: "a priori" categories comprehension kant metaphysics science
 :EXPORT_FILE_NAME: metaphysics-categories-comprehension
 :ID:       20230921T140835.173364

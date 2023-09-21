@@ -4,7 +4,6 @@ publishDate = 2023-09-27T00:00:00-04:00
 tags = ["a priori", "categories", "comprehension", "kant", "metaphysics", "science"]
 draft = false
 weight = 0
-toc = false
 type = "post"
 +++
 
@@ -19,7 +18,7 @@ that such cognition requires two elements, a set of sensible
 intellectual forms---the conceptual representations Kant calls the
 categories.
 
-<div class="ox-hugo-toc toc">
+<div class="ox-hugo-toc toc has-section-numbers">
 
 <div class="heading">
 
@@ -27,28 +26,36 @@ Table of Contents
 
 </div>
 
--   [What are "categories"?](#what-are-and-ldquo-categories-and-rdquo)
--   [How does Kant understand the relationship between categories and
+-   <span class="section-num">1</span> [What are
+    categories?](#what-are-categories)
+-   <span class="section-num">2</span> [How does Kant understand the
+    relationship between categories and
     metaphysics?](#how-does-kant-understand-the-relationship-between-categories-and-metaphysics)
--   [How does Kant derive the
+-   <span class="section-num">3</span> [How does Kant derive the
     categories?](#how-does-kant-derive-the-categories)
-    -   [The Pre-Critical Strategy](#the-pre-critical-strategy)
-    -   [The Critical Strategy](#the-critical-strategy)
--   [How does Kant justify their application (or
+    -   <span class="section-num">3.1</span> [The Pre-Critical
+        Strategy](#the-pre-critical-strategy)
+    -   <span class="section-num">3.2</span> [The Critical
+        Strategy](#the-critical-strategy)
+-   <span class="section-num">4</span> [How does Kant justify their
+    application (or
     applicability)?](#how-does-kant-justify-their-application--or-applicability)
-    -   [What Is a Transcendental
+    -   <span class="section-num">4.1</span> [What Is a Transcendental
         Deduction?](#what-is-a-transcendental-deduction)
-    -   [Experience & Cognition](#experience-and-cognition)
-    -   [Structure of the Deduction](#structure-of-the-deduction)
--   [What is the relation between rational comprehension &
+    -   <span class="section-num">4.2</span> [Experience &
+        Cognition](#experience-and-cognition)
+    -   <span class="section-num">4.3</span> [Structure of the
+        Deduction](#structure-of-the-deduction)
+-   <span class="section-num">5</span> [What is the relation between
+    rational comprehension &
     categories?](#what-is-the-relation-between-rational-comprehension-and-categories)
--   [References](#references)
+-   <span class="section-num">6</span> [References](#references)
 
 </div>
 
 <!--endtoc-->
 
-## What are "categories"? {#fn:what-are-and-ldquo-categories-and-rdquo}
+## <span class="section-num">1</span> What are categories?
 
 The notion of a "category" largely springs from Aristotle, and mainly
 from three texts: *Categories*, *Topics* I, and *Metaphysics* V. Exactly
@@ -107,7 +114,7 @@ category from one of each of the four groups. These are:
     -   Existence/Actuality
     -   Necessity
 
-## How does Kant understand the relationship between categories and metaphysics?
+## <span class="section-num">2</span> How does Kant understand the relationship between categories and metaphysics?
 
 Since `<object>` is the most basic concept that the intellect can employ
 in its activity, and the categories are the most basic concepts of an
@@ -154,7 +161,7 @@ categories are thus *both* the discursively fundamental ways of
 representing objects, and the ways of representing what is fundamental
 *about* objects.
 
-## How does Kant derive the categories?
+## <span class="section-num">3</span> How does Kant derive the categories?
 
 Sections 9-12 of the first chapter of the Analytic of Concepts in the
 *Critique of Pure Reason* form what is typically called the
@@ -190,7 +197,7 @@ judgment for defending his choice and explanation of categories it helps
 to look at a prior attempt Kant makes for determining the basic concepts
 of metaphysics.
 
-### The Pre-Critical Strategy
+### <span class="section-num">3.1</span> The Pre-Critical Strategy
 
 In Kant's "Inaugural Dissertation" (ID) of 1770 (whose formal title is
 "*On the Forms and Principles of the Sensible and Intelligible World*"),
@@ -268,22 +275,22 @@ there are clear texts showing that Kant denies that sensible laws
 mind/soul (see , <a href="#citeproc_bib_item_12">Dyck 2016, 330</a>).
 Second, that Kant's conception of the acquisition of the pure concepts
 of metaphysics depends on the existence of intellectual intuition of the
-mind or soul itself (see [Dyck 2016, 330--31](#ref-dyck2016)). However,
-neither of these interpretive points are particularly compelling.
-Against the first, it is relatively clear from the context of Kant's
-statements regarding immaterial substance that he denies that the
-principles of the *corporeal* world apply to such substances (ID §27,
-2:414). That would mean that principles belonging to substances
-understood as *bodies* do not apply to the mind. But this is compatible
-with the conception of the mind as nevertheless governed by other
-sensible principles, and in particular, by time. Against Dyck's second
-point, in the *Dissertation* Kant explicitly states that finite beings
-lack intellectual intuition (ID §10, 2:396-7) and that "the accidents
-which are not included in the relations of space, such as the thoughts
-of the mind" are in time (ID Corollary, 2:406). It thus seems unlikely
-that Kant holds in the *Dissertation* that metaphysical concepts are
-acquired via intellectual intuition, on pain of explicitly contradicting
-himself at multiple points.[^fn:5]
+mind or soul itself (see Dyck 2016, 330--31). However, neither of these
+interpretive points are particularly compelling. Against the first, it
+is relatively clear from the context of Kant's statements regarding
+immaterial substance that he denies that the principles of the
+*corporeal* world apply to such substances (ID §27, 2:414). That would
+mean that principles belonging to substances understood as *bodies* do
+not apply to the mind. But this is compatible with the conception of the
+mind as nevertheless governed by other sensible principles, and in
+particular, by time. Against Dyck's second point, in the *Dissertation*
+Kant explicitly states that finite beings lack intellectual intuition
+(ID §10, 2:396-7) and that "the accidents which are not included in the
+relations of space, such as the thoughts of the mind" are in time (ID
+Corollary, 2:406). It thus seems unlikely that Kant holds in the
+*Dissertation* that metaphysical concepts are acquired via intellectual
+intuition, on pain of explicitly contradicting himself at multiple
+points.[^fn:5]
 
 But even if Kant does not directly contradict himself in the
 *Dissertation*, Dyck's discussion helps point us to a clear tension, and
@@ -359,7 +366,7 @@ discuss the argument of the Transcendental Deduction. In the next
 section I talk about Kant's revision of his *Dissertation* strategy for
 the argument of the MD in the first *Critique* .
 
-### The Critical Strategy
+### <span class="section-num">3.2</span> The Critical Strategy
 
 In the *Dissertation* Kant distinguishes between what he terms the
 "logical" and the "real" uses of the understanding (ID §23, 2:410--11).
@@ -499,7 +506,7 @@ categories and their content, as well as the ways in which Kant's
 possibility of metaphysics. We'll talk about these issues in subsequent
 weeks.
 
-## How does Kant justify their application (or applicability)? {#fn:how-does-kant-justify-their-application--or-applicability}
+## <span class="section-num">4</span> How does Kant justify their application (or applicability)? {#fn:how-does-kant-justify-their-application--or-applicability}
 
 Kant thinks that possession of a particular privileged set of "pure" a
 priori concepts---i.e. the categories---is necessary for knowledge of
@@ -575,7 +582,7 @@ himself to be replying to the arguments of Descartes, Locke, Berkeley,
 and Hume about the nature of the empirical world and the nature and
 extent of our knowledge of it.
 
-### What Is a Transcendental Deduction?
+### <span class="section-num">4.1</span> What Is a Transcendental Deduction?
 
 In order to prove that there are pure a priori concepts which
 legitimately apply to the objects of experience, Kant articulates [a
@@ -618,7 +625,7 @@ presupposition or necessary condition of some relatively uncontroversial
 feature of experience is the applicability (or successful application)
 of the a priori concept(s) in question to the objects of experience.
 
-### Experience & Cognition {#fn:experience-and-cognition}
+### <span class="section-num">4.2</span> Experience & Cognition {#fn:experience-and-cognition}
 
 Kant is concerned with how we might explain and justify the application
 of a priori concepts to objects of experience. But this question, as it
@@ -736,7 +743,7 @@ appropriate activity" (A95/B128). How exactly Kant does this requires
 explication of the argumentative structure of the Transcendental
 Deduction, to which we'll now turn.
 
-### Structure of the Deduction
+### <span class="section-num">4.3</span> Structure of the Deduction
 
 I take the structure of the (B or second edition) Transcendental
 Deduction to consist of two steps; the first starts at §15 and concludes
@@ -782,7 +789,7 @@ cognition ("experience" in Kant's technical sense) then it depends on
 the categories, and that we *do* have such cognition, since mathematical
 cognition preuspposes that we cognize space and time as objects.
 
-## What is the relation between rational comprehension & categories? {#fn:what-is-the-relation-between-rational-comprehension-and-categories}
+## <span class="section-num">5</span> What is the relation between rational comprehension & categories? {#fn:what-is-the-relation-between-rational-comprehension-and-categories}
 
 We've seen from the discussion of Kant's critical project that he
 conceives of reason as a capacity for comprehending something from its
@@ -890,7 +897,7 @@ the kind of comprehension that a genuine metaphysics requires---i.e.
 that of reality from its grounds? This will be a central issue,
 especially for Hegel.
 
-## References
+## <span class="section-num">6</span> References
 
 ## References
 
