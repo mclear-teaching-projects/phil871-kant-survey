@@ -38,18 +38,16 @@ Table of Contents
     -   <span class="section-num">3.2</span> [The Critical
         Strategy](#the-critical-strategy)
 -   <span class="section-num">4</span> [How does Kant justify their
-    application (or
-    applicability)?](#how-does-kant-justify-their-application--or-applicability)
+    applicability?](#how-does-kant-justify-their-applicability)
     -   <span class="section-num">4.1</span> [What Is a Transcendental
         Deduction?](#what-is-a-transcendental-deduction)
-    -   <span class="section-num">4.2</span> [Experience &
+    -   <span class="section-num">4.2</span> [Experience and
         Cognition](#experience-and-cognition)
     -   <span class="section-num">4.3</span> [Structure of the
         Deduction](#structure-of-the-deduction)
 -   <span class="section-num">5</span> [What is the relation between
-    rational comprehension &
+    rational comprehension and
     categories?](#what-is-the-relation-between-rational-comprehension-and-categories)
--   <span class="section-num">6</span> [References](#references)
 
 </div>
 
@@ -506,7 +504,7 @@ categories and their content, as well as the ways in which Kant's
 possibility of metaphysics. We'll talk about these issues in subsequent
 weeks.
 
-## <span class="section-num">4</span> How does Kant justify their application (or applicability)? {#fn:how-does-kant-justify-their-application--or-applicability}
+## <span class="section-num">4</span> How does Kant justify their applicability?
 
 Kant thinks that possession of a particular privileged set of "pure" a
 priori concepts---i.e. the categories---is necessary for knowledge of
@@ -625,7 +623,7 @@ presupposition or necessary condition of some relatively uncontroversial
 feature of experience is the applicability (or successful application)
 of the a priori concept(s) in question to the objects of experience.
 
-### <span class="section-num">4.2</span> Experience & Cognition {#fn:experience-and-cognition}
+### <span class="section-num">4.2</span> Experience and Cognition
 
 Kant is concerned with how we might explain and justify the application
 of a priori concepts to objects of experience. But this question, as it
@@ -789,7 +787,7 @@ cognition ("experience" in Kant's technical sense) then it depends on
 the categories, and that we *do* have such cognition, since mathematical
 cognition preuspposes that we cognize space and time as objects.
 
-## <span class="section-num">5</span> What is the relation between rational comprehension & categories? {#fn:what-is-the-relation-between-rational-comprehension-and-categories}
+## <span class="section-num">5</span> What is the relation between rational comprehension and categories?
 
 We've seen from the discussion of Kant's critical project that he
 conceives of reason as a capacity for comprehending something from its
@@ -896,8 +894,6 @@ of the discursive nature of our mind foreclose the very possibility of
 the kind of comprehension that a genuine metaphysics requires---i.e.
 that of reality from its grounds? This will be a central issue,
 especially for Hegel.
-
-## <span class="section-num">6</span> References
 
 ## References
 
