@@ -494,11 +494,8 @@ SCHEDULED: <2023-09-27 Wed>
 In these notes I discuss Kant's position on the intellectual conditions of
 cognition---the categories---and their role in his conception of metaphysics. 
 
-#+toc: headlines 6
 
------
-
-#+INCLUDE: "/Users/roambot/Documents/notes/refile-notes/20211022T141222--metaphysics-categories-and-comprehension__teaching.org" :lines "7-"
+#+INCLUDE: "/Users/roambot/Documents/notes/refile-notes/20211022T141222--metaphysics-categories-and-comprehension__teaching.org" :lines "11-"
 
 
 *** DONE Kant on the Synthetic A Priori
