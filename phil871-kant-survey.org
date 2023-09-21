@@ -409,11 +409,11 @@ The zoom link is on the week 5 channel on the class discord.
 - What concerns does Van Cleve raise about Allison's epistemic reading?
 
 
-*** TODO Week 6 - Which A Priori Concepts Are Fundamental?
+*** DONE Week 6 - Which A Priori Concepts Are Fundamental?
 SCHEDULED: <2023-09-27 Wed>
 :PROPERTIES:
 :EXPORT_HUGO_TAGS: "a priori" categories concepts deduction idealism judgment logic metaphysics 
-:EXPORT_FILE_NAME: week4
+:EXPORT_FILE_NAME: week6
 :END:
 
 
@@ -425,8 +425,8 @@ discussion of the Transcendental Analytic with a look at the section of the
 gives us an argument for determining which concepts are fundamental to
 metaphysics, and how they could be cognized a priori.
 
-- [[file:static/materials/handouts/handout3-metaphysical-deduction.pdf][Handout 1]]
-- [[file:static/materials/handouts/handout3-1-deduction-overview.pdf][Handout 2]]
+# - [[file:static/materials/handouts/handout3-metaphysical-deduction.pdf][Handout 1]]
+# - [[file:static/materials/handouts/handout3-1-deduction-overview.pdf][Handout 2]]
  
 
 **** Readings
@@ -443,6 +443,28 @@ metaphysics, and how they could be cognized a priori.
 - How many forms of judgment and categories are there? 
 - What is the difference between the logical and the real use of the understanding?
 - What is "synthesis"?
+  
+
+
+*** DONE Second Passage Analysis Due 9/28
+SCHEDULED: <2023-09-29 Fri>
+:PROPERTIES:
+:EXPORT_FILE_NAME: analysis-2
+:END:
+Choose from *one* of the two provided passages. In no more than 500 words
+describe Kant's argument or point in the passage in as plain English as
+possible. For this assignment please make clear how the parts of your analysis relate to the relevant parts of the given text. The analysis is due via [[mailto:mclear@unl.edu][email]] Friday, September 29. 
+by 5 p.m.
+
+**** First Passage
+#+BEGIN_QUOTE
+There are only two possible cases in which synthetic representation and its objects can come together, necessarily relate to each other, and, as it were, meet each other: Either if the object alone makes the representation possible, or if the representation alone makes the object possible. If it is the first, then this relation is only empirical, and the representation is never possible /a priori/. And this is the case with appearance in respect of that in it which belongs to sensation. But if it is the second, then since representation in itself (for we are not here talking about its causality by means of the will) does not produce its object as far as its *existence* is concerned, the representation is still determinant of the object /a priori/ if it is possible through it alone to *cognize something as an object*. (A92/B124-5)
+#+END_QUOTE
+
+**** Second Passage
+#+BEGIN_QUOTE
+The *I think* must *be able* to accompany all my representations; for otherwise something would be represented in me that could not be thought at all, which is as much as to say that the representation would either be impossible or else at least would be nothing for me. That representation that can be given prior to all thinking is called *intuition*. Thus all manifold of intuition has a necessary relation to the *I think* in the same subject in which this manifold is to be encountered. But this representation is an act of *spontaneity*, i.e., it cannot be regarded as belonging to sensibility. I call it the *pure apperception*, in order to distinguish it from the *empirical* one, or also the *original apperception*, since it is that self-consciousness which, because it produces the representation *I think*, which must be able to accompany all others and which in all consciousness is one and the same, cannot be accompanied by any further representation. I also call its unity the *transcendental* unity of self-consciousness in order to designate the possibility of /a priori/ cognition from it. (B132)
+#+END_QUOTE
 
 ** Notes
 :PROPERTIES:
@@ -458,6 +480,25 @@ metaphysics, and how they could be cognized a priori.
 
 These are notes to supplement student reading. Their aim is to be introductory
 and to raise questions for discussion. 
+
+
+*** DONE Metaphysics, Categories, and the Scope of Comprehension
+SCHEDULED: <2023-09-27 Wed>
+:PROPERTIES:
+:EXPORT_HUGO_TAGS: "a priori" categories comprehension kant metaphysics science
+:EXPORT_FILE_NAME: metaphysics-categories-comprehension
+:ID:       20230921T140835.173364
+:END:
+
+In these notes I discuss Kant's position on the intellectual conditions of
+cognition---the categories---and their role in his conception of metaphysics. 
+
+#+toc: headlines 6
+
+-----
+
+#+INCLUDE: "/Users/roambot/Documents/notes/refile-notes/20211022T141222--metaphysics-categories-and-comprehension__teaching.org" :lines "11-"
+
 
 *** DONE Kant on the Synthetic A Priori
 SCHEDULED: <2023-08-23 Wed> 
@@ -1490,6 +1531,7 @@ counterparts, and used it to push a variety of different conclusions.
 Unfortunately it is not obvious exactly what the argument is supposed to be,
 nor how the fact of such incongruent counterparts could entail three such
 different conclusions---viz. that space is absolute, intuitive, and ideal.
+
 
 * Handouts :noexport:
 ** DONE Handout Week 1 Kant's Project                                        
@@ -5453,25 +5495,7 @@ activity of the intellect.
   
   
 
-** DONE Second Passage Analysis Due 9/28
-SCHEDULED: <2018-09-28 Fri 17:00>
-:PROPERTIES:
-:EXPORT_FILE_NAME: analysis-2
-:END:
-Choose from *one* of the two provided passages. In no more than 500 words
-describe Kant's argument or point in the passage in as plain English as
-possible. For this assignment please make clear how the parts of your analysis relate to the relevant parts of the given text. The analysis is due via [[mailto:mclear@unl.edu][email]] Friday, September 28. 
-by 5 p.m.
 
-*** First Passage
-#+BEGIN_QUOTE
-There are only two possible cases in which synthetic representation and its objects can come together, necessarily relate to each other, and, as it were, meet each other: Either if the object alone makes the representation possible, or if the representation alone makes the object possible. If it is the first, then this relation is only empirical, and the representation is never possible /a priori/. And this is the case with appearance in respect of that in it which belongs to sensation. But if it is the second, then since representation in itself (for we are not here talking about its causality by means of the will) does not produce its object as far as its *existence* is concerned, the representation is still determinant of the object /a priori/ if it is possible through it alone to *cognize something as an object*. (A92/B124-5)
-#+END_QUOTE
-
-*** Second Passage
-#+BEGIN_QUOTE
-The *I think* must *be able* to accompany all my representations; for otherwise something would be represented in me that could not be thought at all, which is as much as to say that the representation would either be impossible or else at least would be nothing for me. That representation that can be given prior to all thinking is called *intuition*. Thus all manifold of intuition has a necessary relation to the *I think* in the same subject in which this manifold is to be encountered. But this representation is an act of *spontaneity*, i.e., it cannot be regarded as belonging to sensibility. I call it the *pure apperception*, in order to distinguish it from the *empirical* one, or also the *original apperception*, since it is that self-consciousness which, because it produces the representation *I think*, which must be able to accompany all others and which in all consciousness is one and the same, cannot be accompanied by any further representation. I also call its unity the *transcendental* unity of self-consciousness in order to designate the possibility of /a priori/ cognition from it. (B132)
-#+END_QUOTE
 ** DONE Week 7 - The Deduction & Transition to the Principles
 SCHEDULED: <2018-10-02 Tue>
 :PROPERTIES:
