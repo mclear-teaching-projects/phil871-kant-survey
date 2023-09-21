@@ -485,6 +485,7 @@ and to raise questions for discussion.
 *** DONE Metaphysics, Categories, and the Scope of Comprehension
 SCHEDULED: <2023-09-27 Wed>
 :PROPERTIES:
+:EXPORT_AUTHOR: PHIL 871
 :EXPORT_HUGO_TAGS: "a priori" categories comprehension kant metaphysics science
 :EXPORT_FILE_NAME: metaphysics-categories-comprehension
 :ID:       20230921T140835.173364
@@ -497,7 +498,7 @@ cognition---the categories---and their role in his conception of metaphysics.
 
 -----
 
-#+INCLUDE: "/Users/roambot/Documents/notes/refile-notes/20211022T141222--metaphysics-categories-and-comprehension__teaching.org" :lines "11-"
+#+INCLUDE: "/Users/roambot/Documents/notes/refile-notes/20211022T141222--metaphysics-categories-and-comprehension__teaching.org" :lines "7-"
 
 
 *** DONE Kant on the Synthetic A Priori

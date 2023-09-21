@@ -78,7 +78,7 @@ Table of Contents
 
 <!--endtoc-->
 
-## What are "categories"? {#fn:what-are-and-ldquo-categories-and-rdquo}
+# What are "categories"? {#fn:what-are-and-ldquo-categories-and-rdquo}
 
 The notion of a "category" largely springs from Aristotle, and mainly
 from three texts: *Categories*, *Topics* I, and *Metaphysics* V. Exactly
@@ -137,7 +137,7 @@ category from one of each of the four groups. These are:
     -   Existence/Actuality
     -   Necessity
 
-## How does Kant understand the relationship between categories and metaphysics?
+# How does Kant understand the relationship between categories and metaphysics?
 
 Since `<object>` is the most basic concept that the intellect can employ
 in its activity, and the categories are the most basic concepts of an
@@ -184,7 +184,7 @@ categories are thus *both* the discursively fundamental ways of
 representing objects, and the ways of representing what is fundamental
 *about* objects.
 
-## How does Kant derive the categories?
+# How does Kant derive the categories?
 
 Sections 9-12 of the first chapter of the Analytic of Concepts in the
 *Critique of Pure Reason* form what is typically called the
@@ -220,7 +220,7 @@ judgment for defending his choice and explanation of categories it helps
 to look at a prior attempt Kant makes for determining the basic concepts
 of metaphysics.
 
-### The Pre-Critical Strategy
+## The Pre-Critical Strategy
 
 In Kant's "Inaugural Dissertation" (ID) of 1770 (whose formal title is
 "*On the Forms and Principles of the Sensible and Intelligible World*"),
@@ -389,7 +389,7 @@ discuss the argument of the Transcendental Deduction. In the next
 section I talk about Kant's revision of his *Dissertation* strategy for
 the argument of the MD in the first *Critique* .
 
-### The Critical Strategy
+## The Critical Strategy
 
 In the *Dissertation* Kant distinguishes between what he terms the
 "logical" and the "real" uses of the understanding (ID §23, 2:410--11).
@@ -529,7 +529,7 @@ categories and their content, as well as the ways in which Kant's
 possibility of metaphysics. We'll talk about these issues in subsequent
 weeks.
 
-## How does Kant justify their application (or applicability)? {#fn:how-does-kant-justify-their-application--or-applicability}
+# How does Kant justify their application (or applicability)? {#fn:how-does-kant-justify-their-application--or-applicability}
 
 Kant thinks that possession of a particular privileged set of "pure" a
 priori concepts---i.e. the categories---is necessary for knowledge of
@@ -605,7 +605,7 @@ himself to be replying to the arguments of Descartes, Locke, Berkeley,
 and Hume about the nature of the empirical world and the nature and
 extent of our knowledge of it.
 
-### What Is a Transcendental Deduction?
+## What Is a Transcendental Deduction?
 
 In order to prove that there are pure a priori concepts which
 legitimately apply to the objects of experience, Kant articulates [a
@@ -648,7 +648,7 @@ presupposition or necessary condition of some relatively uncontroversial
 feature of experience is the applicability (or successful application)
 of the a priori concept(s) in question to the objects of experience.
 
-### Experience & Cognition {#fn:experience-and-cognition}
+## Experience & Cognition {#fn:experience-and-cognition}
 
 Kant is concerned with how we might explain and justify the application
 of a priori concepts to objects of experience. But this question, as it
@@ -766,7 +766,7 @@ appropriate activity" (A95/B128). How exactly Kant does this requires
 explication of the argumentative structure of the Transcendental
 Deduction, to which we'll now turn.
 
-### Structure of the Deduction
+## Structure of the Deduction
 
 I take the structure of the (B or second edition) Transcendental
 Deduction to consist of two steps; the first starts at §15 and concludes
@@ -812,7 +812,7 @@ cognition ("experience" in Kant's technical sense) then it depends on
 the categories, and that we *do* have such cognition, since mathematical
 cognition preuspposes that we cognize space and time as objects.
 
-## What is the relation between rational comprehension & categories? {#fn:what-is-the-relation-between-rational-comprehension-and-categories}
+# What is the relation between rational comprehension & categories? {#fn:what-is-the-relation-between-rational-comprehension-and-categories}
 
 We've seen from the discussion of Kant's critical project that he
 conceives of reason as a capacity for comprehending something from its
@@ -920,9 +920,9 @@ the kind of comprehension that a genuine metaphysics requires---i.e.
 that of reality from its grounds? This will be a central issue,
 especially for Hegel.
 
-## References
+# References
 
-## References
+# References
 
 <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style>
 
