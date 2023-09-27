@@ -1,6 +1,6 @@
 +++
 title = "Week 6 - Which A Priori Concepts Are Fundamental?"
-publishDate = 2023-09-27T00:00:00-04:00
+publishDate = 2023-09-27T00:00:00-05:00
 tags = ["a priori", "categories", "concepts", "deduction", "idealism", "judgment", "logic", "metaphysics"]
 draft = false
 weight = -100
@@ -24,7 +24,7 @@ metaphysics, and how they could be cognized a priori.
 -   CPR: Analytic ch. 2, §13 &amp; Transition, B116-29 (Guyer &amp; Wood, 219-26)
 -   Optional: Longuenesse, [&ldquo;Kant on A Priori Concepts&rdquo;](https://www.dropbox.com/s/kyrzl9gf8lma18c/longuenesse2006a_kant_on_a_priori_concepts.pdf?dl=0)
 -   Optional: Allison, [&ldquo;The Intellectual Conditions of Human Cognition&rdquo;](https://www.dropbox.com/s/76hf2dh2rwf3dur/allison2004-ch6_the_intellectual_conditions_of_human_cognition.pdf?dl=0)
--   Optional: [Notes on the Metaphysical Deduction](https://phil871.colinmclear.net/notes/metaphysical-deduction/)
+-   Optional: [Notes on the Metaphysical Deduction](https://phil871.colinmclear.net/notes/metaphysics-categories-comprehension/)
 
 
 ## Questions {#questions}
