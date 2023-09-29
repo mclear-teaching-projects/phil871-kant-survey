@@ -466,6 +466,42 @@ There are only two possible cases in which synthetic representation and its obje
 The *I think* must *be able* to accompany all my representations; for otherwise something would be represented in me that could not be thought at all, which is as much as to say that the representation would either be impossible or else at least would be nothing for me. That representation that can be given prior to all thinking is called *intuition*. Thus all manifold of intuition has a necessary relation to the *I think* in the same subject in which this manifold is to be encountered. But this representation is an act of *spontaneity*, i.e., it cannot be regarded as belonging to sensibility. I call it the *pure apperception*, in order to distinguish it from the *empirical* one, or also the *original apperception*, since it is that self-consciousness which, because it produces the representation *I think*, which must be able to accompany all others and which in all consciousness is one and the same, cannot be accompanied by any further representation. I also call its unity the *transcendental* unity of self-consciousness in order to designate the possibility of /a priori/ cognition from it. (B132)
 #+END_QUOTE
 
+*** DONE Week 7 - The Transcendental Deduction 
+SCHEDULED: <2023-10-04 Wed>
+:PROPERTIES:
+:EXPORT_FILE_NAME: week7
+:EXPORT_HUGO_TAGS: "a priori" categories concepts deduction idealism judgment apperception self-consciousness
+:END:
+
+Once Kant has argued for which concepts should be considered the fundamental
+concepts of metaphysics (as he did in the Metaphysical Deduction), he then
+needs to argue that such concepts can legitimately be applied to what is given
+in sensibility. This is the task of the (in)famous "Transcendental Deduction
+of the Categories." This week we'll look at the overall structure of the
+Deduction, and consider the initial few sections in some detail.
+
+# - [[file:static/materials/handouts/handout4-deduction-I.pdf][Handout]]
+
+**** Readings
+- CPR: The Transcendental Deduction, B129-69 (Guyer & Wood, 245-66) 
+- Optional: Van Cleve, [[https://www.dropbox.com/s/gllkkuv0hb6qjmc/vancleve1999-ch7_Experience_and_Objects.pdf?dl=0][/Problems from Kant/, ch. 7]] 
+- Optional: Pereboom, [[https://www.dropbox.com/s/bn49z2qpffkq5uv/pereboom2006.pdf?dl=0]['Kant's Metaphysical and Transcendental Deductions']] 
+- Optional: Pereboom, [[https://www.dropbox.com/s/e8c8jq3e380a3hb/pereboom1995.pdf?dl=0]['Self-Understanding in Kant's Transcendental Deduction']] 
+- Optional: Guyer, [[https://www.dropbox.com/s/fu32owtdal7ldx9/guyer2010a.pdf?dl=0]['The Deduction of the Categories: The Metaphysical and Transcendental Deductions']]
+- Optional: Allison, "[[https://www.dropbox.com/s/wqrkfll7py1yyah/allison2015-ch9_The_B-Deduction_%282%29.pdf?dl=0][The B-Deduction (2)]]"  
+- Optional: McLear, "[[https://www.dropbox.com/s/mkc92u2flimhzp6/mclear2015_two_kinds_of_unity_in_the_icritique_of_pure_reason-i.pdf?dl=0][Two Kinds of Unity in the /Critique of Pure Reason/]]"  
+- Optional: Sellars, "[[https://www.dropbox.com/s/km40g0v6tc2kqgn/sellars2003_the_role_of_the_imagination_in_kant%27s_theory_of_experience.pdf?dl=0][The Role of the Imagination in Kant's Theory of Experience]]"  
+  
+**** Questions
+- What is a "deduction" of the categories?
+- What special difficulty do the categories face that the intuitions of space and time and their related concepts did not?
+- What is the aim of the Transcendental Deduction?
+- Does the TD need to prove that external world skepticism is false if it is
+  to succeed?
+- What does it mean to say that the TD has "two steps"?
+- What might the first step of the TD argue?
+- What is the "original synthetic unity of apperception" and why is it important?
+  
 ** Notes
 :PROPERTIES:
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :type post
@@ -5411,7 +5447,7 @@ straightforwardly hypothetical
 ** Groundwork III
 ** The Unity of Reason
 
-* Reponses :noexport:
+* Responses :noexport:
 * Assignment Drafts :noexport:
 
   
@@ -5425,42 +5461,6 @@ No class this week. Your [[https://phil871.colinmclear.net/assignments/analysis-
 
 
 
-** DONE Week 5 - The Transcendental Deduction I
-SCHEDULED: <2018-09-18 Tue>
-:PROPERTIES:
-:EXPORT_FILE_NAME: week5
-:EXPORT_HUGO_TAGS: "a priori" categories concepts deduction idealism judgment apperception self-consciousness
-:END:
-
-Once Kant has argued for which concepts should be considered the fundamental
-concepts of metaphysics (as he did in the Metaphysical Deduction), he then
-needs to argue that such concepts can legitimately be applied to what is given
-in sensibility. This is the task of the (in)famous "Transcendental Deduction
-of the Categories." This week we'll look at the overall structure of the
-Deduction, and consider the initial few sections in some detail.
-
-- [[file:static/materials/handouts/handout4-deduction-I.pdf][Handout]]
-
-
-*** Readings
-- CPR: The Transcendental Deduction, B129-69 (Guyer & Wood, 245-66) 
-  - During this class we'll focus primarily on the 'first step' of the
-    argument, §§15-20 (G&W 245-52)
-- Optional: Van Cleve, [[https://www.dropbox.com/s/gllkkuv0hb6qjmc/vancleve1999-ch7_Experience_and_Objects.pdf?dl=0][/Problems from Kant/, ch. 7]] 
-- Optional: Pereboom, [[https://www.dropbox.com/s/bn49z2qpffkq5uv/pereboom2006.pdf?dl=0]['Kant's Metaphysical and Transcendental Deductions']] 
-- Optional: Pereboom, [[https://www.dropbox.com/s/e8c8jq3e380a3hb/pereboom1995.pdf?dl=0]['Self-Understanding in Kant's Transcendental Deduction']] 
-- Optional: Guyer, [[https://www.dropbox.com/s/fu32owtdal7ldx9/guyer2010a.pdf?dl=0]['The Deduction of the Categories: The Metaphysical and Transcendental Deductions']]
-  
-
-*** Questions
-- What is a "deduction" of the categories?
-- What special difficulty do the categories face that the intuitions of space and time and their related concepts did not?
-- What is the aim of the Transcendental Deduction?
-- Does the TD need to prove that external world skepticism is false if it is
-  to succeed?
-- What does it mean to say that the TD has "two steps"?
-- What might the first step of the TD argue?
-- What is the "original synthetic unity of apperception" and why is it important?
 
 ** DONE Week 6 - The Transcendental Deduction II
 SCHEDULED: <2018-09-25 Tue>
