@@ -30,5 +30,5 @@ of experience.
 ## Questions {#questions}
 
 -   What is a &ldquo;schema&rdquo;?
--   What are schemata needed? (i.e. what is the problem of the Schematism chatpter?)
+-   Why are schemata needed? (i.e. what is the problem of the Schematism chapter?)
 -   What is a &ldquo;schematized&rdquo; category?
