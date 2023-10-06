@@ -501,6 +501,38 @@ Deduction, and consider the initial few sections in some detail.
 - What does it mean to say that the TD has "two steps"?
 - What might the first step of the TD argue?
 - What is the "original synthetic unity of apperception" and why is it important?
+
+
+
+  
+*** DONE Week 8 - The Deduction & Transition to the Principles
+SCHEDULED: <2023-10-11 Wed>
+:PROPERTIES:
+:EXPORT_FILE_NAME: week8
+:EXPORT_HUGO_TAGS: categories time schematism concepts imagination 
+:END:
+
+This week we'll wrap up our discussion of the Deduction and move on to Kant's
+discussion of the "schematism" of the categories in their role as "principles"
+of experience. 
+
+# - [[file:static/materials/handouts/handout6-schematism.pdf][Handout]]
+
+**** Readings
+- CPR: 
+  - Review the Deduction
+  - Introduction to the Analytic, B169-75 (Guyer & Wood, 267-70)
+  - The Schematism, B176-87 (Guyer & Wood, 271-77)
+  - System of Principles, B187-202 (Guyer & Wood, 278-86)
+- OPTIONAL: Watkins, [[https://www.dropbox.com/s/o3fnqe672dafpt8/watkins2010_the_system_of_principles.pdf?dl=0]["The System of Principles, §§1-2"]]
+- OPTIONAL: Guyer, [[https://www.dropbox.com/s/nkrbzkhdwzgbxmn/guyer1987-ch6_What_is_the_Schematism.pdf?dl=0]["What is the Schematism?"]]
+- OPTIONAL: Pendlebury, [[https://www.dropbox.com/s/1azal1iky0al3c3/pendlebury1995_making_sense_of_kant%2527s_schematism.pdf?dl=0]["Making Sense of Kant's Schematism"]]
+- OPTIONAL: Allison, "[[https://www.dropbox.com/s/o16iodt1blq6dks/allison2004-ch8_The_Schematism_of_the_Understanding_and_the_Power_of_Judgment.pdf?dl=0][The Schematism of the Understanding and the Power of Judgment]]"
+  
+**** Questions
+- What is a "schema"?
+- What are schemata needed? (i.e. what is the problem of the Schematism chatpter?)
+- What is a "schematized" category? 
   
 ** Notes
 :PROPERTIES:
@@ -5496,36 +5528,7 @@ activity of the intellect.
   
 
 
-** DONE Week 7 - The Deduction & Transition to the Principles
-SCHEDULED: <2018-10-02 Tue>
-:PROPERTIES:
-:EXPORT_FILE_NAME: week7
-:EXPORT_HUGO_TAGS: categories time schematism concepts imagination 
-:END:
 
-This week we'll wrap up our discussion of the Deduction and move on to Kant's
-discussion of the "schematism" of the categories in their role as "principles"
-of experience. 
-
-- [[file:static/materials/handouts/handout6-schematism.pdf][Handout]]
-
-*** Readings
-- CPR: 
-  - Review the Deduction
-  - Introduction to the Analytic, B169-75 (Guyer & Wood, 267-70)
-  - The Schematism, B176-87 (Guyer & Wood, 271-77)
-  - System of Principles, B187-202 (Guyer & Wood, 278-86)
-- OPTIONAL: Watkins, [[https://www.dropbox.com/s/o3fnqe672dafpt8/watkins2010_the_system_of_principles.pdf?dl=0]["The System of Principles, §§1-2"]]
-- OPTIONAL: Guyer, [[https://www.dropbox.com/s/nkrbzkhdwzgbxmn/guyer1987-ch6_What_is_the_Schematism.pdf?dl=0]["What is the Schematism?"]]
-- OPTIONAL: Pendlebury, [[https://www.dropbox.com/s/1azal1iky0al3c3/pendlebury1995_making_sense_of_kant%2527s_schematism.pdf?dl=0]["Making Sense of Kant's Schematism"]]
-- OPTIONAL: Allison, "[[https://www.dropbox.com/s/o16iodt1blq6dks/allison2004-ch8_The_Schematism_of_the_Understanding_and_the_Power_of_Judgment.pdf?dl=0][The Schematism of the Understanding and the Power of Judgment]]"
-  
-  
-
-*** Questions
-- What is a "schema"?
-- What are schemata needed? (i.e. what is the problem of the Schematism chatpter?)
-- What is a "schematized" category? 
 
 ** DONE Week 8 - Defending Causation
 SCHEDULED: <2018-10-09 Tue>
