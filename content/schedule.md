@@ -20,10 +20,10 @@ information.
 | 4    | 9.13  | Transcendental Idealism II                                                                 |                            |
 | 5    | 9.20  | Defending Epistemic Readings of TI (**Remote Class**)                                      | Banafsheh Beizaei (Brown)  |
 | 6    | 9.27  | The Metaphysical &amp; Transcendental Deductions // **Second passage analysis due Friday** |                            |
-| 7    | 10.4  | The Transcendental Deduction II &amp; Transition to the Principles                         |                            |
-| 8    | 10.11 | Time &amp; Causation                                                                       |                            |
-| 9    | 10.18 | Causation &amp; Skepticism (**Remote Class**) // **Third passage analysis due Friday**     | Janum Sethi (Michigan)     |
-| 10   | 10.25 | The Dialectic of Reason                                                                    |                            |
+| 7    | 10.4  | No class (canceled)                                                                        |                            |
+| 8    | 10.11 | The Transcendental Deduction II &amp; Transition to the Principles                         |                            |
+| 9    | 10.18 | Causation &amp; Skepticism (**Remote Class**)                                              | Janum Sethi (Michigan)     |
+| 10   | 10.25 | The Dialectic of Reason // **Third passage analysis due Friday**                           |                            |
 | 11   | 11.1  | Reason &amp; Cognition (**Remote Class**)                                                  | Rosalind Chaplin (UNC)     |
 | 12   | 11.8  | Freedom in the 3rd Antinomy // **Fourth passage analysis due Friday**                      |                            |
 | 13   | 11.15 | Groundwork I-II (**Remote Class**) // **Paper Draft due Friday**                           | Jessica Tizzard (Tübingen) |
