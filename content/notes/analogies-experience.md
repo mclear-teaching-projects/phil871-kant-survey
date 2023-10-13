@@ -305,6 +305,22 @@ According to Kant&rsquo;s doctrine of Transcendental Idealism, the appearance(s)
 
 Hence, Kant argues that though we are justified in applying the PSR to appearances, understood as alterations of substances (objects), we can utilize this principle only _within_ the bounds of possible experience, and the impetus of reason (as a faculty) to seek the unconditioned condition (or totality) of given conditions will never be satisfied; thus is the application of the PSR both justified and stringently limited.
 
+## References
+
+<style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+  <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Allais, Lucy. 2003. “Kant’s Transcendental Idealism and Contemporary Anti-Realism.” <i>International Journal of Philosophical Studies</i> 11 (4): 369–92.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2009. “Kant, Non-Conceptual Content and the Representation of Space.” <i>Journal of the History of Philosophy</i> 47 (3): 383–413.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Beck, Lewis White. 1978. <i>Essays on Kant and Hume</i>. New Haven: Yale University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Callanan, John J. 2008. “Kant on Analogy.” <i>British Journal for the History of Philosophy</i> 16 (4): 747–72.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Dicker, Georges. 2004. <i>Kant’s Theory of Knowledge : an Analytical Introduction</i>. Oxford: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_6"></a>Dunlop, Katherine. 2009. “The Unity of Time’s Measure’’: Kant’s Reply to Locke.” <i>Philosophers’ Imprint</i> 9 (4): 1–31.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_7"></a>Kohl, Markus. 2015. “Kant on the Inapplicability of the Categories to Things in Themselves.” <i>British Journal for the History of Philosophy</i> 23 (1): 90–114. <a href="https://doi.org/10.1080/09608788.2014.978838">https://doi.org/10.1080/09608788.2014.978838</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_8"></a>Longuenesse, Béatrice. 1998. <i>Kant and the Capacity to Judge</i>. Princeton: Princeton University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_9"></a>Stan, Marius. 2017. “Absolute Time: The Limit of Kant’s Idealism.” <i>Noûs</i>, 1–29. <a href="https://doi.org/10.1111/nous.12229">https://doi.org/10.1111/nous.12229</a>.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_10"></a>Stang, Nicholas F. 2016. <i>Kant’s Modal Metaphysics</i>. New York: Oxford University Press.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_11"></a>Watkins, Eric. 2005. <i>Kant and the Metaphysics of Causality</i>. Cambridge: Cambridge University Press.</div>
+</div>
+
 [^fn:1]: See (<a href="#citeproc_bib_item_4">Callanan 2008</a>) for extensive discussion and relevant citations concerning Kant&rsquo;s conception of an analogy.
 [^fn:2]: The fact that space has three dimensions presents an important contrast to time in this respect. Note that since I appeal only to topological rather than metric features of time here the issue of source of the determinacy of time&rsquo;s metric can, at least for now, be set to the side. See (<a href="#citeproc_bib_item_8">Longuenesse 1998</a>; <a href="#citeproc_bib_item_6">Dunlop 2009</a>; <a href="#citeproc_bib_item_9">Stan 2017</a>) for discussion.
 [^fn:3]: (<a href="#citeproc_bib_item_3">Beck 1978, chap. 8</a>).
@@ -314,19 +330,3 @@ Hence, Kant argues that though we are justified in applying the PSR to appearanc
     “merely subjectively valid for the human understanding” and “are not valid
     of objects in general” (CPJ 5:402); see also (<a href="#citeproc_bib_item_10">Stang 2016, chap. 10</a>; <a href="#citeproc_bib_item_7">Kohl 2015</a>).
 [^fn:7]: For argument that phenomena are inherently indeterminate, and thus that Kant endorses a kind of anti-realism with respect to objects of experience, see (<a href="#citeproc_bib_item_1">Allais 2003</a>).
-
-    ## References
-
-    <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
-      <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Allais, Lucy. 2003. “Kant’s Transcendental Idealism and Contemporary Anti-Realism.” <i>International Journal of Philosophical Studies</i> 11 (4): 369–92.</div>
-      <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2009. “Kant, Non-Conceptual Content and the Representation of Space.” <i>Journal of the History of Philosophy</i> 47 (3): 383–413.</div>
-      <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Beck, Lewis White. 1978. <i>Essays on Kant and Hume</i>. New Haven: Yale University Press.</div>
-      <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Callanan, John J. 2008. “Kant on Analogy.” <i>British Journal for the History of Philosophy</i> 16 (4): 747–72.</div>
-      <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Dicker, Georges. 2004. <i>Kant’s Theory of Knowledge : an Analytical Introduction</i>. Oxford: Oxford University Press.</div>
-      <div class="csl-entry"><a id="citeproc_bib_item_6"></a>Dunlop, Katherine. 2009. “The Unity of Time’s Measure’’: Kant’s Reply to Locke.” <i>Philosophers’ Imprint</i> 9 (4): 1–31.</div>
-      <div class="csl-entry"><a id="citeproc_bib_item_7"></a>Kohl, Markus. 2015. “Kant on the Inapplicability of the Categories to Things in Themselves.” <i>British Journal for the History of Philosophy</i> 23 (1): 90–114. <a href="https://doi.org/10.1080/09608788.2014.978838">https://doi.org/10.1080/09608788.2014.978838</a>.</div>
-      <div class="csl-entry"><a id="citeproc_bib_item_8"></a>Longuenesse, Béatrice. 1998. <i>Kant and the Capacity to Judge</i>. Princeton: Princeton University Press.</div>
-      <div class="csl-entry"><a id="citeproc_bib_item_9"></a>Stan, Marius. 2017. “Absolute Time: The Limit of Kant’s Idealism.” <i>Noûs</i>, 1–29. <a href="https://doi.org/10.1111/nous.12229">https://doi.org/10.1111/nous.12229</a>.</div>
-      <div class="csl-entry"><a id="citeproc_bib_item_10"></a>Stang, Nicholas F. 2016. <i>Kant’s Modal Metaphysics</i>. New York: Oxford University Press.</div>
-      <div class="csl-entry"><a id="citeproc_bib_item_11"></a>Watkins, Eric. 2005. <i>Kant and the Metaphysics of Causality</i>. Cambridge: Cambridge University Press.</div>
-    </div>
