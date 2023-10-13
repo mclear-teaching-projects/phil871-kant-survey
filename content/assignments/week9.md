@@ -30,6 +30,8 @@ Please note we are meeting at our usual time, but over **zoom** (info on the cou
 
 ## Optional Readings {#optional-readings}
 
+-   Guyer: [The Refutation of Idealism](https://www.dropbox.com/scl/fi/0zjv3g41fy4ayn993p8lr/guyer1987-refutation.pdf?rlkey=x8h6ypt0odwcefipqq0j8m87q&dl=0)
+-   Dicker: [The Refutation of Idealism](https://www.dropbox.com/scl/fi/6jhi08epfdr7e9ytj9hrn/dicker2004-refutation-of-idealism.pdf?rlkey=jorj4zc6g4xcu1rss1jiyw0qp&dl=0)
 -   CPR: Second Analogy, B232-256 (Guyer &amp; Wood, 304-316)
 -   Beck, [Six Short Pieces on the Second Analogy of Experience](https://www.dropbox.com/s/h9x5uq2aunau9ck/beck1978-ch8_Six_Short_Pieces_on_the_Second_Analogy_of_Experience.pdf?dl=0)
 -   Van Cleve, [Causation and the Second Analogy](https://www.dropbox.com/s/xjlbsm3o8rejf22/vancleve1999-ch9_causation_and_the_second_analogy.pdf?dl=0)
