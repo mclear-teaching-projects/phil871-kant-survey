@@ -534,6 +534,49 @@ of experience.
 - Why are schemata needed? (i.e. what is the problem of the Schematism chapter?)
 - What is a "schematized" category? 
   
+*** DONE Week 9 - Causation & Skepticism
+SCHEDULED: <2023-10-18 Wed>
+:PROPERTIES:
+:EXPORT_FILE_NAME: week9
+:EXPORT_HUGO_TAGS: causation time necessity hume law skepticism
+:END:
+
+Hume famously presents a challenge to conceptions of causation as a kind of
+necessitation relation. This week we look at Kant's general approach to
+necessary connection in the temporal or "schematized" application of the
+categories. In turn this leads to our central topic of discussion: the sense in
+which Kant's position on time determination and the relation between inner
+appearances and their outer cause(s) allows him to reply to the skeptical
+positions of Descartes (problematic idealism) and Berkeley (dogmatic idealism).
+We are joined for this discussion by our guest [[https://www.janumsethi.com][Janum Sethi]] (University of
+Michigan).
+
+Please note we are meeting at our usual time, but over *zoom* (info on the course discord). 
+
+# - [[file:static/materials/handouts/handout7-causation.pdf][Handout]]
+
+**** Readings
+- CPR: Analogies of Experience, B218-224 (Guyer & Wood, 295-98); Refutation of Idealism, B274-9 (G&W 326-9)
+- Sethi: "A Scandal of Philosophy" (available via the course discord)
+
+**** Optional Readings   
+- CPR: Second Analogy, B232-256 (Guyer & Wood, 304-316)
+- Beck, [[https://www.dropbox.com/s/h9x5uq2aunau9ck/beck1978-ch8_Six_Short_Pieces_on_the_Second_Analogy_of_Experience.pdf?dl=0][Six Short Pieces on the Second Analogy of Experience]]
+- Van Cleve, [[https://www.dropbox.com/s/xjlbsm3o8rejf22/vancleve1999-ch9_causation_and_the_second_analogy.pdf?dl=0][Causation and the Second Analogy]]
+- Watkins, [[https://www.dropbox.com/s/o3fnqe672dafpt8/watkins2010_the_system_of_principles.pdf?dl=0][The System of Principles, §§4-7]]
+- Watkins, [[https://www.dropbox.com/s/mpyx2km0bjx0aym/watkins2004_kant%2527s_model_of_causality.pdf?dl=0][Kant's Model of Causality]]
+- Watkins, [[https://www.dropbox.com/s/98cvaxn1g6i6r7b/watkins2005-ch3_Kant%2527s_Second_and_Third_Analogies_of_Experience.pdf?dl=0][Kant's Second and Third Analogies]]
+- Dicker, [[https://www.dropbox.com/s/z6yzbithwh83vde/dicker2004-ch7_The_Second_Analogy.pdf?dl=0][The Second Analogy]]
+  
+**** Questions
+- What is an "analogy of experience"?
+- What categories constitute the analogies of experience?
+- What is the relation between time and the analogies?
+- What role does Kant think causation plays in our ordering of our
+  representations in time?
+- What are problematic and dogmatic idealism? 
+- In what sense is Kant aiming at refuting external world skepticism?   
+  
 ** Notes
 :PROPERTIES:
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :type post
@@ -1599,6 +1642,7 @@ counterparts, and used it to push a variety of different conclusions.
 Unfortunately it is not obvious exactly what the argument is supposed to be,
 nor how the fact of such incongruent counterparts could entail three such
 different conclusions---viz. that space is absolute, intuitive, and ideal.
+
 
 
 * Handouts :noexport:
