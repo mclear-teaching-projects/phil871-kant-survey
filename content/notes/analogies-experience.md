@@ -14,10 +14,10 @@ In these notes I provide an overview of the Analogies of Experience.
 
 The aims of the Analytic of Principles are to show what basic synthetic a priori truths we can know on the basis of the application of the categories of the understanding. In general we can see the Analytic of Principles as trying to answer four questions:
 
-1.  Which concepts are a priori? (the Metaphysical Deduction)
-2.  Must the categories apply to objects of experience? (the Transcendental Deduction)
-3.  How could the categories apply to objects of experience? (the Schematism)
-4.  What synthetic a priori truths do we know as the result of their application? (the System of All Principles)
+1.  _Which_ concepts are a priori, and how do they acquire their content? (the Metaphysical Deduction)
+2.  _Must_ the categories apply to objects of experience? (the Transcendental Deduction)
+3.  _How_ could the categories apply to objects of experience? (the Schematism)
+4.  _What_ synthetic a priori truths do we know as the result of their application? (the System of All Principles)
 
 The Analytic of Principles aims to answer questions (3) and (4). A full vindication of the categories as applicable to objects of experience thus depends not only on the arguments of the Analytic of Concepts but also those of the Principles.
 
@@ -123,7 +123,7 @@ downstream.
 
 Kant&rsquo;s point here is that _given_ an objective succession of events (the ship&rsquo;s
 moving down the river from point A to point B) our perceptions of those events
-have to proceed in a particular order (see (Watkins 2005, 212)). The
+have to proceed in a particular order (see (<a href="#citeproc_bib_item_11">Watkins 2005, 212</a>)). The
 order of one&rsquo;s perceptions is thus parasitic on the objective order of the
 events. Kant then asks us to consider the following contrast case.
 
@@ -305,12 +305,28 @@ According to Kant&rsquo;s doctrine of Transcendental Idealism, the appearance(s)
 
 Hence, Kant argues that though we are justified in applying the PSR to appearances, understood as alterations of substances (objects), we can utilize this principle only _within_ the bounds of possible experience, and the impetus of reason (as a faculty) to seek the unconditioned condition (or totality) of given conditions will never be satisfied; thus is the application of the PSR both justified and stringently limited.
 
-[^fn:1]: See (Callanan 2008) for extensive discussion and relevant citations concerning Kant&rsquo;s conception of an analogy.
-[^fn:2]: The fact that space has three dimensions presents an important contrast to time in this respect. Note that since I appeal only to topological rather than metric features of time here the issue of source of the determinacy of time&rsquo;s metric can, at least for now, be set to the side. See (Longuenesse 1998; Dunlop 2009; Stan 2017) for discussion.
-[^fn:3]: (Beck 1978, chap. 8).
-[^fn:4]: (Dicker 2004, 173).
-[^fn:5]: (Allais 2009, 405).
+[^fn:1]: See (<a href="#citeproc_bib_item_4">Callanan 2008</a>) for extensive discussion and relevant citations concerning Kant&rsquo;s conception of an analogy.
+[^fn:2]: The fact that space has three dimensions presents an important contrast to time in this respect. Note that since I appeal only to topological rather than metric features of time here the issue of source of the determinacy of time&rsquo;s metric can, at least for now, be set to the side. See (<a href="#citeproc_bib_item_8">Longuenesse 1998</a>; <a href="#citeproc_bib_item_6">Dunlop 2009</a>; <a href="#citeproc_bib_item_9">Stan 2017</a>) for discussion.
+[^fn:3]: (<a href="#citeproc_bib_item_3">Beck 1978, chap. 8</a>).
+[^fn:4]: (<a href="#citeproc_bib_item_5">Dicker 2004, 173</a>).
+[^fn:5]: (<a href="#citeproc_bib_item_2">Allais 2009, 405</a>).
 [^fn:6]: The modal categories are the exception since, as Kant indicates, they are
     “merely subjectively valid for the human understanding” and “are not valid
-    of objects in general” (CPJ 5:402); see also (Stang 2016, chap. 10; Kohl 2015).
-[^fn:7]: For argument that phenomena are inherently indeterminate, and thus that Kant endorses a kind of anti-realism with respect to objects of experience, see (Allais 2003).
+    of objects in general” (CPJ 5:402); see also (<a href="#citeproc_bib_item_10">Stang 2016, chap. 10</a>; <a href="#citeproc_bib_item_7">Kohl 2015</a>).
+[^fn:7]: For argument that phenomena are inherently indeterminate, and thus that Kant endorses a kind of anti-realism with respect to objects of experience, see (<a href="#citeproc_bib_item_1">Allais 2003</a>).
+
+    ## References
+
+    <style>.csl-entry{text-indent: -1.5em; margin-left: 1.5em;}</style><div class="csl-bib-body">
+      <div class="csl-entry"><a id="citeproc_bib_item_1"></a>Allais, Lucy. 2003. “Kant’s Transcendental Idealism and Contemporary Anti-Realism.” <i>International Journal of Philosophical Studies</i> 11 (4): 369–92.</div>
+      <div class="csl-entry"><a id="citeproc_bib_item_2"></a>———. 2009. “Kant, Non-Conceptual Content and the Representation of Space.” <i>Journal of the History of Philosophy</i> 47 (3): 383–413.</div>
+      <div class="csl-entry"><a id="citeproc_bib_item_3"></a>Beck, Lewis White. 1978. <i>Essays on Kant and Hume</i>. New Haven: Yale University Press.</div>
+      <div class="csl-entry"><a id="citeproc_bib_item_4"></a>Callanan, John J. 2008. “Kant on Analogy.” <i>British Journal for the History of Philosophy</i> 16 (4): 747–72.</div>
+      <div class="csl-entry"><a id="citeproc_bib_item_5"></a>Dicker, Georges. 2004. <i>Kant’s Theory of Knowledge : an Analytical Introduction</i>. Oxford: Oxford University Press.</div>
+      <div class="csl-entry"><a id="citeproc_bib_item_6"></a>Dunlop, Katherine. 2009. “The Unity of Time’s Measure’’: Kant’s Reply to Locke.” <i>Philosophers’ Imprint</i> 9 (4): 1–31.</div>
+      <div class="csl-entry"><a id="citeproc_bib_item_7"></a>Kohl, Markus. 2015. “Kant on the Inapplicability of the Categories to Things in Themselves.” <i>British Journal for the History of Philosophy</i> 23 (1): 90–114. <a href="https://doi.org/10.1080/09608788.2014.978838">https://doi.org/10.1080/09608788.2014.978838</a>.</div>
+      <div class="csl-entry"><a id="citeproc_bib_item_8"></a>Longuenesse, Béatrice. 1998. <i>Kant and the Capacity to Judge</i>. Princeton: Princeton University Press.</div>
+      <div class="csl-entry"><a id="citeproc_bib_item_9"></a>Stan, Marius. 2017. “Absolute Time: The Limit of Kant’s Idealism.” <i>Noûs</i>, 1–29. <a href="https://doi.org/10.1111/nous.12229">https://doi.org/10.1111/nous.12229</a>.</div>
+      <div class="csl-entry"><a id="citeproc_bib_item_10"></a>Stang, Nicholas F. 2016. <i>Kant’s Modal Metaphysics</i>. New York: Oxford University Press.</div>
+      <div class="csl-entry"><a id="citeproc_bib_item_11"></a>Watkins, Eric. 2005. <i>Kant and the Metaphysics of Causality</i>. Cambridge: Cambridge University Press.</div>
+    </div>
