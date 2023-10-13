@@ -558,6 +558,7 @@ Please note we are meeting at our usual time, but over *zoom* (info on the cours
 **** Readings
 - CPR: Analogies of Experience, B218-224 (Guyer & Wood, 295-98); Refutation of Idealism, B274-9 (G&W 326-9)
 - Sethi: "A Scandal of Philosophy" (available via the course discord)
+- [[id:20231013T143135.790824][Notes on the Analogies]]  
 
 **** Optional Readings   
 - Guyer: [[https://www.dropbox.com/scl/fi/0zjv3g41fy4ayn993p8lr/guyer1987-refutation.pdf?rlkey=x8h6ypt0odwcefipqq0j8m87q&dl=0][The Refutation of Idealism]]
@@ -593,6 +594,21 @@ Please note we are meeting at our usual time, but over *zoom* (info on the cours
 
 These are notes to supplement student reading. Their aim is to be introductory
 and to raise questions for discussion. 
+
+*** The Analogies of Experience
+SCHEDULED: <2023-10-18 Wed>
+:PROPERTIES:
+:EXPORT_AUTHOR: PHIL 871
+:EXPORT_OPTIONS: author:nil num:t
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :type post
+:EXPORT_HUGO_TAGS: "a priori" categories causation hume law skepticism time
+:EXPORT_FILE_NAME: analogies-experience
+:ID:       20231013T143135.790824
+:END:
+
+In these notes I provide an overview of the Analogies of Experience. 
+
+#+INCLUDE:"/Users/roambot/Documents/notes/denotes/lecture-notes/20221011T123223--kant-and-the-analogies-of-experience__teaching.org" :lines "6-"
 
 
 *** DONE Metaphysics, Categories, and the Scope of Comprehension

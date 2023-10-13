@@ -26,6 +26,7 @@ Please note we are meeting at our usual time, but over **zoom** (info on the cou
 
 -   CPR: Analogies of Experience, B218-224 (Guyer &amp; Wood, 295-98); Refutation of Idealism, B274-9 (G&amp;W 326-9)
 -   Sethi: &ldquo;A Scandal of Philosophy&rdquo; (available via the course discord)
+-   [Notes on the Analogies]({{< relref "analogies-experience" >}})
 
 
 ## Optional Readings {#optional-readings}
