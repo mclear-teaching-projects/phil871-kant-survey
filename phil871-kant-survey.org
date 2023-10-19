@@ -580,6 +580,60 @@ Please note we are meeting at our usual time, but over *zoom* (info on the cours
 - What are problematic and dogmatic idealism? 
 - In what sense is Kant aiming at refuting external world skepticism?   
   
+
+*** DONE Week 10 - The Dialectic of Reason
+SCHEDULED: <2023-10-25 Wed>
+:PROPERTIES:
+:EXPORT_FILE_NAME: week10
+:EXPORT_HUGO_TAGS: inference reason dialectic 
+:END:
+
+With Kant's positive conception of cognition behind us, we turn this week to a
+look at two issues. First, we close out the Analytic of Principles with a
+discussion of phenomena and noumena. Second we start looking at Kant's broader
+negative argument that constitutes the "critique" of reason proper. We'll look
+at his conception of what the faculty of reason is, why it tends to lead us
+into illusion, and the form of these illusions.
+
+# - [[file:static/materials/handouts/handout8-dialectic.pdf][Handout]]
+
+**** Readings
+- CPR: Phenomena and Noumena, B294-315 (Guyer & Wood 354-365)
+- CPR: Introduction to the Dialectic, B349-B398 (Guyer & Wood, 384-410)
+- OPTIONAL: Allais, [[https://www.dropbox.com/s/hv5q3uge8bqo7gq/allais2015-ch3_Things_in_Themselves_Without_Noumena.pdf?dl=0][Things in Themselves Without Noumena]]
+- OPTIONAL: Ameriks, [[https://www.dropbox.com/s/uva8t1ssufbz35k/ameriks1992.pdf?dl=0]['The Critique of Metaphysics: Kant and Traditional Ontology']]
+- OPTIONAL: Rohlf, [[https://www.dropbox.com/s/lblcrj0k4rzpxjs/rohlf2010.pdf?dl=0]['The Ideas of Pure Reason']]
+- OPTIONAL: Williams, [[http://plato.stanford.edu/entries/kant-reason/]['Kant's Account of Reason' (SEP)]] 
+- OPTIONAL: Grier, [[http://plato.stanford.edu/entries/kant-metaphysics/]['Kant's Critique of Metaphysics' (SEP)]]
+# - [[file:%7Cfilename%7C/pdfs/phil871/phil871kant/9_KantDialectic.pdf][Handout]]
+
+  
+**** Questions
+- What is the difference between noumena in the "positive sense" and noumena in the "negative sense"? 
+- What is the faculty of reason, and what is its characteristic activity or function?
+- What is "transcendental illusion"?
+- Why does reason lead us into illusion?
+- What forms do the illusions of reason take?
+- What is the relevance of Kant's critique of reason for metaphysics?
+  
+*** DONE Third Passage Analysis Due 10/27
+SCHEDULED: <2023-10-27 Fri>
+:PROPERTIES:
+:EXPORT_FILE_NAME: analysis-3
+:END:
+In no more than 500 words describe Kant's argument or point in the passage in as plain English as possible. For this assignment please identify the argument of the passage. This means (i) identifying the conclusion or main claim of the passage; (ii) identifying the evidence Kant provides for that conclusion or claim. The analysis is due via [[mailto:mclear@unl.edu][email]] Friday, October 27 by 5 p.m.
+
+**** Passage 1
+
+#+BEGIN_QUOTE
+Understanding belongs to all experience and its possibility, and the first thing that it does for this is not to make the representation of the objects distinct, but rather to make the representation of an object possible at all. Now this happens through its conferring temporal order on the appearances and their existence by assigning to each of these, as a consequence, a place in time determined /a priori/ in regard to the preceding appearances, without which it would not agree with time itself, which determines the position of all its parts /a priori/. Now this determination of position cannot be borrowed from the relation of the appearances to absolute time (for that is not an object of perception), but, conversely, the appearances themselves must determine their positions in time for each other, and make this determination in the temporal order necessary, i.e., that which follows or happens must succeed that which was contained in the previous state in accordance with a general rule, from which arises a series of appearances, in which by means of the understanding the very same order and constant connection in the series of possible perceptions is produced and made necessary as would be encountered /a priori/ in the form of inner experience (time), in which all perceptions would have to have their place. (B244-5)
+#+END_QUOTE
+
+**** Passage 2
+#+begin_quote
+Transcendental illusion, on the other hand, does not cease even though it is uncovered and its nullity is clearly seen into by transcendental criticism (e.g. the illusion in the proposition: "The world must have a beginning in time"). The cause of this is that in our reason (considered subjectively as a human faculty of cognition) there lie fundamental rules and maxims for its use, which look entirely like objective principles, and through them it comes about that the subjective necessity of a certain connection of our concepts on behalf of the understanding is taken for an objective necessity, the determination of things in themselves. [This is] an illusion that cannot be avoided at all, just as little as we can avoid it that the sea appears higher in the middle than at the shores, since we see the former through higher rays of light than the latter, or even better, just as little as the astronomer can prevent the rising moon from appearing larger to him, even when he is not deceived by this illusion (A297/B253-54)
+#+end_quote
+
 ** Notes
 :PROPERTIES:
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :type post
@@ -5632,52 +5686,8 @@ SCHEDULED: <2018-10-16 Tue>
 
 No class this week. 
   
-** DONE Third Passage Analysis Due 10/19
-SCHEDULED: <2018-10-19 Fri 17:00>
-:PROPERTIES:
-:EXPORT_FILE_NAME: analysis-3
-:END:
-In no more than 500 words describe Kant's argument or point in the passage in as plain English as possible. For this assignment please identify the argument of the passage. This means (i) identifying the conclusion or main claim of the passage; (ii) identifying the evidence Kant provides for that conclusion or claim. The analysis is due via [[mailto:mclear@unl.edu][email]] Friday, October 19 by 5 p.m.
 
-#+BEGIN_QUOTE
-Understanding belongs to all experience and its possibility, and the first thing that it does for this is not to make the representation of the objects distinct, but rather to make the representation of an object possible at all. Now this happens through its conferring temporal order on the appearances and their existence by assigning to each of these, as a consequence, a place in time determined /a priori/ in regard to the preceding appearances, without which it would not agree with time itself, which determines the position of all its parts /a priori/. Now this determination of position cannot be borrowed from the relation of the appearances to absolute time (for that is not an object of perception), but, conversely, the appearances themselves must determine their positions in time for each other, and make this determination in the temporal order necessary, i.e., that which follows or happens must succeed that which was contained in the previous state in accordance with a general rule, from which arises a series of appearances, in which by means of the understanding the very same order and constant connection in the series of possible perceptions is produced and made necessary as would be encountered /a priori/ in the form of inner experience (time), in which all perceptions would have to have their place. (B244-5)
-#+END_QUOTE
 
-** DONE Week 10 - The Dialectic of Reason
-SCHEDULED: <2018-10-23 Tue>
-:PROPERTIES:
-:EXPORT_FILE_NAME: week10
-:EXPORT_HUGO_TAGS: inference reason dialectic 
-:END:
-
-With Kant's positive conception of cognition behind us, we turn this week to a
-look at two issues. First, we close out the Analytic of Principles with a
-discussion of phenomena and noumena. Second we start looking at Kant's broader
-negative argument that constitutes the "critique" of reason proper. We'll look
-at his conception of what the faculty of reason is, why it tends to lead us
-into illusion, and the form of these illusions.
-
-- [[file:static/materials/handouts/handout8-dialectic.pdf][Handout]]
-
-*** Readings
-- CPR: Phenomena and Noumena, B294-315 (Guyer & Wood 354-365)
-- CPR: Introduction to the Dialectic, B349-B398 (Guyer & Wood, 384-410)
-- OPTIONAL: Allais, [[https://www.dropbox.com/s/hv5q3uge8bqo7gq/allais2015-ch3_Things_in_Themselves_Without_Noumena.pdf?dl=0][Things in Themselves Without Noumena]]
-- OPTIONAL: Ameriks, [[https://www.dropbox.com/s/uva8t1ssufbz35k/ameriks1992.pdf?dl=0]['The Critique of Metaphysics: Kant and Traditional Ontology']]
-- OPTIONAL: Rohlf, [[https://www.dropbox.com/s/lblcrj0k4rzpxjs/rohlf2010.pdf?dl=0]['The Ideas of Pure Reason']]
-- OPTIONAL: Williams, [[http://plato.stanford.edu/entries/kant-reason/]['Kant's Account of Reason' (SEP)]] 
-- OPTIONAL: Grier, [[http://plato.stanford.edu/entries/kant-metaphysics/]['Kant's Critique of Metaphysics' (SEP)]]
-# - [[file:%7Cfilename%7C/pdfs/phil871/phil871kant/9_KantDialectic.pdf][Handout]]
-
-  
-*** Questions
-- What is the difference between noumena in the "positive sense" and noumena in the "negative sense"? 
-- What is the faculty of reason, and what is its characteristic activity or function?
-- What is "transcendental illusion"?
-- Why does reason lead us into illusion?
-- What forms do the illusions of reason take?
-- What is the relevance of Kant's critique of reason for metaphysics?
-  
 ** DONE Week 11 - The Paralogisms 
 SCHEDULED: <2018-10-30 Tue>
 :PROPERTIES:
@@ -6919,6 +6929,27 @@ Talk to undergrads about:
    - go over four cases as each cases exemplifying this distinction
 2. Talk about 3 propositions
 
+
+** Guest: Janum Sethi on Kant & Skepticism
+- How are we to interpret "Cartesian skepticism"?
+   + D has three different stages of doubt, and he presents replies to those stages at different points in his argument. Is Kant meaning to address just one stage or all three? 
+- What is the starting point of Kant's argument?
+- Why "consciousness" and not "cognition"?
+- Conditions of success of interpretation: An interpretation of the Refutation of Idealism that a) better maps onto the text of the published proof, and b) begins with a premise that the Cartesian skeptic is likely to grant would clearly be preferred. (p. 9)
+- The example of the dream and waking on p. 13 really seems to muddy the waters since it isn't at all clear that I perceive any real difference between the time of the dream and that of the waking. It looks like we're presupposing that for we need to argue (again might be useful to talk about Descartes on dreams here).
+- There's also Kant's A107 discussion of empirical consciousness:
+#+begin_quote
+The consciousness of ourself in accordance with the determinations of
+our state in internal perception is merely empirical, forever variable;
+it can give no standing or abiding self in this stream of inner
+appearances [/es kann kein stehendes oder bleibendes Selbst in diesem
+Flusse innrer Erscheinungen geben/], and is customarily called *inner
+sense* or *empirical apperception*. (A107)
+#+end_quote
+
+- There is no “standing” or “abiding” self that is given in inner sense. Instead, only “thoughts, feelings, inclinations or decisions” are given (A358). In the B-Deduction Kant writes that “the empirical consciousness that accompanies different representations is by itself dispersed and without relation to the identity of the subject” (B133).
+- The same point about predication and inherence holds of outer sense. In general, as I argued above, intuition does not say anything “of” anything. It simply presents, and Kant takes sensory intuition to present qualities or states, not subjects thereof.
+- Harmony and predictive power are clear epistemic criteria that folks such as Descartes, Berkeley, and Leibniz (and perhaps Kant), all endorse with respect to distinguishing real from imaginary phenomena. But are they metaphsical criteria as well? That is -- is harmony + projectability sufficient for metaphysical reality? 
 * Configuration :noexport:
 #+HUGO_BASE_DIR: ./ 
 #+STARTUP: nologdone
