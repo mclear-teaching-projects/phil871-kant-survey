@@ -616,6 +616,23 @@ into illusion, and the form of these illusions.
 - What forms do the illusions of reason take?
 - What is the relevance of Kant's critique of reason for metaphysics?
   
+*** DONE Project Overview
+SCHEDULED: <2023-10-27 Fri>
+:PROPERTIES:
+:EXPORT_FILE_NAME: overview-1
+:END:
+In lieu of a passage analysis this week, please answer the following:
+
+1. What is the question of the book?
+2. How does Kant think we go about answering it?
+3. How do 1+2 explain the structure of the book?
+
+
+There's no strict word limit, but this shouldn't really need much longer than 2-3 pages (and it could be as short as a paragraph).
+
+
+
+
 *** DONE Third Passage Analysis Due 10/27
 SCHEDULED: <2023-10-27 Fri>
 :PROPERTIES:
