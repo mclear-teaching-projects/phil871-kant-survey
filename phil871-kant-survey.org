@@ -631,6 +631,27 @@ In lieu of a passage analysis this week, please answer the following:
 There's no strict word limit, but this shouldn't really need much longer than 2-3 pages (and it could be as short as a paragraph).
 
 
+*** DONE Kant, Reason, & The PSR
+SCHEDULED: <2023-11-01 Wed>
+:PROPERTIES:
+:EXPORT_FILE_NAME: week11
+:EXPORT_HUGO_TAGS: inference reason dialectic PSR 
+:END:
+
+This week we'll continue our discussion of reason -- what is it?, why does it
+lead us into illusion?, and is "supreme principle" of reason the same as (or a
+restriction of) Leibniz's "Principle of Sufficient Reason." Guest [[http://rosalindchaplin.weebly.com][Rosalind
+Chaplin]] will help lead our discussion concerning these issues. 
+
+
+- CPR:
+   - Introduction to the Dialectic, B349-B398 (Guyer & Wood, 384-410)
+   - OPTIONAL: [[https://phil971-2022.colinmclear.net/materials/readings/kant-discipline.pdf][The Discipline Of Pure Reason]], B735/B822 (Guyer & Wood, 627-671)
+- Chaplin: Kant’s Supreme Principle of Pure Reason and the Principle of Sufficient Reason (see Discord)
+- OPTIONAL: Notes on the [[https://phil971-2022.colinmclear.net/notes/forms-of-psr/][Forms of the PSR]], [[https://phil971-2022.colinmclear.net/notes/restricting-psr/][Restricting the PSR]]
+- OPTIONAL: Rohlf, [[https://www.dropbox.com/s/lblcrj0k4rzpxjs/rohlf2010.pdf?dl=0]['The Ideas of Pure Reason']]
+- OPTIONAL: Williams, [[http://plato.stanford.edu/entries/kant-reason/]['Kant's Account of Reason' (SEP)]] 
+
 
 
 *** DONE Third Passage Analysis Due 10/27
