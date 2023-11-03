@@ -672,6 +672,41 @@ Understanding belongs to all experience and its possibility, and the first thing
 Transcendental illusion, on the other hand, does not cease even though it is uncovered and its nullity is clearly seen into by transcendental criticism (e.g. the illusion in the proposition: "The world must have a beginning in time"). The cause of this is that in our reason (considered subjectively as a human faculty of cognition) there lie fundamental rules and maxims for its use, which look entirely like objective principles, and through them it comes about that the subjective necessity of a certain connection of our concepts on behalf of the understanding is taken for an objective necessity, the determination of things in themselves. [This is] an illusion that cannot be avoided at all, just as little as we can avoid it that the sea appears higher in the middle than at the shores, since we see the former through higher rays of light than the latter, or even better, just as little as the astronomer can prevent the rising moon from appearing larger to him, even when he is not deceived by this illusion (A297/B253-54)
 #+end_quote
 
+
+
+**** DONE Week 12 - Freedom in the Third Antinomy
+SCHEDULED: <2023-11-08 Wed>
+:PROPERTIES:
+:EXPORT_FILE_NAME: week12
+:EXPORT_HUGO_TAGS: aninomies reason dialectic freedom causality responsibility morality
+:END:
+
+For our final week on the first /Critique/ we discuss Kant's Third Antinomy and
+various conceptions of freedom. In particular, we'll see how Kant aims to
+secure the logical possibility that we are what he calls "transcendentally
+free." We'll also look at how this view is developed in the /Critique of
+Practical Reason/.
+
+# - [[file:static/materials/handouts/handout10-antinomy.pdf][Handout]]
+
+***** Readings
+- CPR: Antinomy of Pure Reason and Third Antinomy, A405-25/B432-53 and 
+  A444-51/B474-9 (Guyer and Wood, 459-69 and 484-9)
+- CPR: Resolution of the cosmological idea, A532-58/B560-86 (Guyer and Wood, 532-46)
+- CPrR: 5:91-100 (/Practical Philosophy/ 213-220)
+- OPTIONAL: Wood, '[[https://www.dropbox.com/s/go2fnx4yoz8glxj/wood2010_the_antinomies_of_pure_reason.pdf?dl=0][The Antinomies of Pure Reason]]'
+- OPTIONAL: Pereboom, [[https://www.dropbox.com/s/5i3pofvwannostk/pereboom2006b.pdf?dl=0]['Kant on Transcendental Freedom']]
+- OPTIONAL: Allison, '[[https://www.dropbox.com/s/8ygvus5eqlhapzp/allison2006_Kant_on_Freedom_of_the_Will.pdf?dl=0][Kant on Freedom of the Will]]'
+  
+
+***** Questions
+- What is an "antinomy"?
+- What is the set of opposing views constituting the Third Antinomy?
+- How does Kant resolve the Third Antinomy?
+- What is practical freedom?
+- What is transcendental freedom?
+- Why does Kant think transcendental freedom is necessary for responsibility?
+
 ** Notes
 :PROPERTIES:
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :type post
@@ -5752,38 +5787,6 @@ self.
 - What is "rational psychology"?
 - What is Kant's core criticism of rational psychology?
 
-** DONE Week 12 - Freedom in the Third Antinomy
-SCHEDULED: <2018-11-06 Tue>
-:PROPERTIES:
-:EXPORT_FILE_NAME: week12
-:EXPORT_HUGO_TAGS: aninomies reason dialectic freedom causality responsibility morality
-:END:
-
-For our final week on the first /Critique/ we discuss Kant's Third Antinomy and
-various conceptions of freedom. In particular, we'll see how Kant aims to
-secure the logical possibility that we are what he calls "transcendentally
-free." We'll also look at how this view is developed in the /Critique of
-Practical Reason/.
-
-- [[file:static/materials/handouts/handout10-antinomy.pdf][Handout]]
-
-*** Readings
-- CPR: Antinomy of Pure Reason and Third Antinomy, A405-25/B432-53 and 
-  A444-51/B474-9 (Guyer and Wood, 459-69 and 484-9)
-- CPR: Resolution of the cosmological idea, A532-58/B560-86 (Guyer and Wood, 532-46)
-- CPrR: 5:91-100 (/Practical Philosophy/ 213-220)
-- OPTIONAL: Wood, '[[https://www.dropbox.com/s/go2fnx4yoz8glxj/wood2010_the_antinomies_of_pure_reason.pdf?dl=0][The Antinomies of Pure Reason]]'
-- OPTIONAL: Pereboom, [[https://www.dropbox.com/s/5i3pofvwannostk/pereboom2006b.pdf?dl=0]['Kant on Transcendental Freedom']]
-- OPTIONAL: Allison, '[[https://www.dropbox.com/s/8ygvus5eqlhapzp/allison2006_Kant_on_Freedom_of_the_Will.pdf?dl=0][Kant on Freedom of the Will]]'
-  
-
-*** Questions
-- What is an "antinomy"?
-- What is the set of opposing views constituting the Third Antinomy?
-- How does Kant resolve the Third Antinomy?
-- What is practical freedom?
-- What is transcendental freedom?
-- Why does Kant think transcendental freedom is necessary for responsibility?
 
 ** DONE Fourth Passage Analysis Due 11/09
 SCHEDULED: <2018-11-09 Fri 17:00>
@@ -6966,6 +6969,49 @@ Talk to undergrads about:
    - use chess example
    - go over four cases as each cases exemplifying this distinction
 2. Talk about 3 propositions
+
+** Guest: Rosalind Chaplin
+These were my questions from the last draft: 
+
+1. How do you see the logical maxim as fitting into all this? For example, it
+isn't clear to me, even granting a bunch of what you say, whether there is any
+tension between the logical maxim and the PSR. And if, like Karl, one thinks the
+logical maxim and the supreme principle are (in some sense) the same, then I
+wonder if we get the tension you're trying to explicate between the PSR and the
+activity of reason?
+   - I think this is still an issue 
+2. I had difficulty keeping track (and this may just be a "me problem" of how
+you were thinking of the various distinctions being made between sufficient
+reason, determining reason, necessitation, antecendent grounds, metaphysical
+explanation, ground, etc. You do a good job separating out various notions but
+then I felt like they all get mushed together again in the latter part of the
+paper.
+   - This seems better dealt with in the new version 
+3. Related to (2) I wondered why you typically characterize "the" PSR
+(incidentally I don't think there is any such thing, and it might be worth
+noting that) as an unrestricted demand for intelligibility, but also distinguish
+intelligibility from presence of determining grounds, and further, note that
+Kant never holds the unrestricted version of the PSR, either pre-critically or
+critically. So isn't the relevant point of contrast in the first /Critique/ that
+of a restricted version of the PSR and the Supreme principle? And if so then
+perhaps there is less of a tension between the two?
+   - Here I think there is the question of whether "the" PSR is really a claim
+     about exceptionless explicability. Aren't there plenty of figures who
+     endorse versions of PSR that do not look for exceptionless explicability?
+     Or do, but agree that there are entities for which such explicability is
+     not apt/appropriate?
+   - Another thing is that there seems to be a difference between explanation of
+     existence and explanation of properties of an existing thing. The latter,
+     but not the former (at least for finite beings) is plausibly given by the
+     essence/nature of a thing. Do we then still have a single sense of PSR here? 
+4. It seems like already in the OPG essay Kant distinguishes between the lack of
+an antencedently determining ground and a lack of intelligibility. He insists
+that God's existing lacks any such antecendently determining ground though he
+thinks that God's existence is a priori intelligible. But your paper seems to
+indicate that there is something about the Critical view in particular that is
+pushing for a distinction betweeen grounding and intelligibility. Can you say
+what that further Critical idea is?
+  - This is still confusing! But I'm not sure how much clarity is really going to be forthcoming here. 
 
 
 ** Guest: Janum Sethi on Kant & Skepticism
