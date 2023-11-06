@@ -95,9 +95,9 @@ information.
 |   10 | 10.25 | The Dialectic of Reason // *Third passage analysis due Friday*                       |                            |
 |   11 |  11.1 | Reason & the PSR (*Remote Class*)                                                    | Rosalind Chaplin (UNC)     |
 |   12 |  11.8 | Freedom in the 3rd Antinomy // *Fourth passage analysis due Friday*                  |                            |
-|   13 | 11.15 | Groundwork I-II (*Remote Class*) // *Paper Draft due Friday*                           | Jessica Tizzard (Tübingen) |
+|   13 | 11.15 | Freedom in Groundwork III  (*Remote Class*) // *Paper Draft due Friday*                | Jessica Tizzard (Tübingen) |
 |   14 | 11.22 | *No class; Thanksgiving Break*                                                       |                            |
-|   15 | 11.29 | Freedom in Groundwork III                                                          |                            |
+|   15 | 11.29 | Groundwork I-II                                                                    |                            |
 |   16 |  12.6 | Reason & Enlightenment // *Final paper due Friday*                                   |                            |
 
 
@@ -671,7 +671,6 @@ Understanding belongs to all experience and its possibility, and the first thing
 #+begin_quote
 Transcendental illusion, on the other hand, does not cease even though it is uncovered and its nullity is clearly seen into by transcendental criticism (e.g. the illusion in the proposition: "The world must have a beginning in time"). The cause of this is that in our reason (considered subjectively as a human faculty of cognition) there lie fundamental rules and maxims for its use, which look entirely like objective principles, and through them it comes about that the subjective necessity of a certain connection of our concepts on behalf of the understanding is taken for an objective necessity, the determination of things in themselves. [This is] an illusion that cannot be avoided at all, just as little as we can avoid it that the sea appears higher in the middle than at the shores, since we see the former through higher rays of light than the latter, or even better, just as little as the astronomer can prevent the rising moon from appearing larger to him, even when he is not deceived by this illusion (A297/B253-54)
 #+end_quote
-
 
 
 **** DONE Week 12 - Freedom in the Third Antinomy

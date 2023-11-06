@@ -26,7 +26,7 @@ information.
 | 10   | 10.25 | The Dialectic of Reason // **Third passage analysis due Friday**                           |                            |
 | 11   | 11.1  | Reason &amp; the PSR (**Remote Class**)                                                    | Rosalind Chaplin (UNC)     |
 | 12   | 11.8  | Freedom in the 3rd Antinomy // **Fourth passage analysis due Friday**                      |                            |
-| 13   | 11.15 | Groundwork I-II (**Remote Class**) // **Paper Draft due Friday**                           | Jessica Tizzard (Tübingen) |
+| 13   | 11.15 | Freedom in Groundwork III  (**Remote Class**) // **Paper Draft due Friday**                | Jessica Tizzard (Tübingen) |
 | 14   | 11.22 | **No class; Thanksgiving Break**                                                           |                            |
-| 15   | 11.29 | Freedom in Groundwork III                                                                  |                            |
+| 15   | 11.29 | Groundwork I-II                                                                            |                            |
 | 16   | 12.6  | Reason &amp; Enlightenment // **Final paper due Friday**                                   |                            |
