@@ -686,7 +686,7 @@ secure the logical possibility that we are what he calls "transcendentally
 free." We'll also look at how this view is developed in the /Critique of
 Practical Reason/.
 
-# - [[file:static/materials/handouts/handout10-antinomy.pdf][Handout]]
+- [[file:static/materials/handouts/handout10-antinomy.pdf][Handout]]
 
 ***** Readings
 - CPR: Antinomy of Pure Reason and Third Antinomy, A405-25/B432-53 and 

@@ -15,6 +15,8 @@ secure the logical possibility that we are what he calls &ldquo;transcendentally
 free.&rdquo; We&rsquo;ll also look at how this view is developed in the _Critique of
 Practical Reason_.
 
+-   [Handout](/materials/handouts/handout10-antinomy.pdf)
+
 
 ## Readings {#readings}
 
