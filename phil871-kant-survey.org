@@ -631,7 +631,7 @@ In lieu of a passage analysis this week, please answer the following:
 There's no strict word limit, but this shouldn't really need much longer than 2-3 pages (and it could be as short as a paragraph).
 
 
-*** DONE Kant, Reason, & The PSR
+*** DONE Week 11 - Kant, Reason, & The PSR
 SCHEDULED: <2023-11-01 Wed>
 :PROPERTIES:
 :EXPORT_FILE_NAME: week11
@@ -673,7 +673,7 @@ Transcendental illusion, on the other hand, does not cease even though it is unc
 #+end_quote
 
 
-**** DONE Week 12 - Freedom in the Third Antinomy
+*** DONE Week 12 - Freedom in the Third Antinomy
 SCHEDULED: <2023-11-08 Wed>
 :PROPERTIES:
 :EXPORT_FILE_NAME: week12
@@ -688,7 +688,7 @@ Practical Reason/.
 
 - [[file:static/materials/handouts/handout10-antinomy.pdf][Handout]]
 
-***** Readings
+**** Readings
 - CPR: Antinomy of Pure Reason and Third Antinomy, A405-25/B432-53 and 
   A444-51/B474-9 (Guyer and Wood, 459-69 and 484-9)
 - CPR: Resolution of the cosmological idea, A532-58/B560-86 (Guyer and Wood, 532-46)
@@ -698,13 +698,48 @@ Practical Reason/.
 - OPTIONAL: Allison, '[[https://www.dropbox.com/s/8ygvus5eqlhapzp/allison2006_Kant_on_Freedom_of_the_Will.pdf?dl=0][Kant on Freedom of the Will]]'
   
 
-***** Questions
+**** Questions
 - What is an "antinomy"?
 - What is the set of opposing views constituting the Third Antinomy?
 - How does Kant resolve the Third Antinomy?
 - What is practical freedom?
 - What is transcendental freedom?
 - Why does Kant think transcendental freedom is necessary for responsibility?
+
+  
+*** DONE Week 13 - Groundwork III 
+SCHEDULED: <2023-11-15 Wed>
+:PROPERTIES:
+:EXPORT_FILE_NAME: week13
+:EXPORT_HUGO_TAGS: autonomy cause morality reason responsibility will 
+:END:
+
+We begin our discussion of Kant's moral theory by looking at his
+argument for freedom as autonomy in the third section of the /Groundwork/
+and related passages from the /Critique of Practical Reason/. Joining us for our discussion is [[https://philpeople.org/profiles/jessica-tizzard][Jessica Tizzard]], and we'll be looking at some forthcoming work from her on these issues as well (see the Discord thread for her paper). 
+
+
+# - [[file:static/materials/handouts/handout13-groundworkIII.pdf][Handout]]
+
+**** Readings
+- /Groundwork/, section III: 4:446-63 
+- Review of Schultz (/Practical Philosophy/, 7-10)
+- CPrR: §7, 5:30-1 (/Practical Philoosphy/, 164-5)
+- CPR: Canon -- "On the ultimate end of the pure use of our reason", A797-804/B825-832 (Guyer & Wood pp. 673-76)
+- Optional: Korsgaard, '[[https://www.dropbox.com/s/1cx66fff65g3skm/korsgaard1998_Introduction.pdf?dl=0][Introduction]] third section 
+- Optional: O'Neill, [[file:%7Cfilename%7C/pdfs/phil871/phil871kant/OneilReason.pdf]['Reason and Autonomy in /Grundlegung/ III']]
+- Optional: Korsgaard, 'Morality as Freedom', ch. 6 in [[https://www.dropbox.com/s/13h4vph1n6ke5qi/korsgaard1996a_creating_the_kingdom_of_ends.pdf?dl=0][/Creating the Kingdom of Ends/]]
+# - [[file:static/materials/handouts/handout13-groundworkIII.pdf][Handout]]
+
+  
+**** Questions
+- Why is freedom a property of all rational wills?
+- What does it mean to say that the will is 'autonomous'?
+- Why think that an autonomous will must be a good will?
+- In what sense does Kant meant to provide a proof of the moral law in section III?
+- What is the circle concerning the relationship between freedom and morality?
+- How does Kant think we can break out of the circle?
+  
 
 ** Notes
 :PROPERTIES:
