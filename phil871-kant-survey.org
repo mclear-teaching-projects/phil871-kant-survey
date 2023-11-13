@@ -727,7 +727,7 @@ and related passages from the /Critique of Practical Reason/. Joining us for our
 - CPrR: §7, 5:30-1 (/Practical Philoosphy/, 164-5)
 - CPR: Canon -- "On the ultimate end of the pure use of our reason", A797-804/B825-832 (Guyer & Wood pp. 673-76)
 - Optional: Korsgaard, '[[https://www.dropbox.com/s/1cx66fff65g3skm/korsgaard1998_Introduction.pdf?dl=0][Introduction]] third section 
-- Optional: O'Neill, [[file:%7Cfilename%7C/pdfs/phil871/phil871kant/OneilReason.pdf]['Reason and Autonomy in /Grundlegung/ III']]
+- Optional: O'Neill, [[https://www.dropbox.com/scl/fi/5e0fkcnwvpp80c2tr1xs1/oneill1989_reason_and_autonomy_in_grundlegung_iii.pdf?rlkey=ovjs71pt7i8q9cewkdx0mzz7z&dl=0]['Reason and Autonomy in /Grundlegung/ III']]
 - Optional: Korsgaard, 'Morality as Freedom', ch. 6 in [[https://www.dropbox.com/s/13h4vph1n6ke5qi/korsgaard1996a_creating_the_kingdom_of_ends.pdf?dl=0][/Creating the Kingdom of Ends/]]
 # - [[file:static/materials/handouts/handout13-groundworkIII.pdf][Handout]]
 
