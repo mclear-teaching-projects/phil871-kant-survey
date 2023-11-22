@@ -749,6 +749,36 @@ SCHEDULED: <2023-11-22 Wed>
 
 No class this week. By Wednesday 11/22 at the latest, please be sure to have sent me at least an outline of your planned paper, including topic, thesis, and the general structure of your arguments. 
 
+
+*** DONE Week 15 - Groundwork I
+SCHEDULED: <2023-11-29 Wed>
+:PROPERTIES:
+:EXPORT_FILE_NAME: week15
+:EXPORT_HUGO_TAGS: duty morality obligation responsibility will 
+:END:
+
+This week we start our discussion of Kant's moral theory. We'll discuss the aims
+and structure of the /Groundwork/ and then move on to section one and Kant's
+notion of a "good will", acting in accordance with a maxim, and his related
+theory of obligation.
+
+# - [[file:static/materials/handouts/handout11-groundworkI.pdf][Handout]]
+
+**** Readings
+- /Groundwork/, Preface & section I: 4:387-405 
+- Korsgaard, '[[https://www.dropbox.com/s/1cx66fff65g3skm/korsgaard1998_Introduction.pdf?dl=0][Introduction]]', preface and first section 
+- Optional: Korsgaard, [[https://www.dropbox.com/s/0ry2ckxkj3q34is/korsgaard1989a_Kant%27s_Analysis_of_Obligation-_The_Argument_of_%22Foundations_I%22.pdf?dl=0]['Kant's Analysis of Obligation']]
+- Optional: Potter, [[https://www.dropbox.com/s/oire3a2wggk80ur/potter1998_the_argument_of_kants_groundwork%2C_chapter_i.pdf?dl=0]['The Argument of Kant's Groundwork, chapter 1']]
+# - [[file:static/materials/handouts/handout11-groundworkI.pdf][Handout]]
+
+**** Questions
+- What does Kant think the science of morality/ethics concerns?
+- Why do we need a metaphysics of morals?
+- What is the aim of the /Groundwork/?
+- What is a 'maxim'?
+- Why is a good will good?
+- What is the relationship between acting from duty/obligation and acting morally?
+
 ** Notes
 :PROPERTIES:
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :author false :type post
@@ -5845,35 +5875,7 @@ The concept of causality as /natural necessity/, as distinguished from the conce
 #+END_QUOTE
 
 
-** DONE Week 13 - Groundwork I
-SCHEDULED: <2018-11-13 Tue>
-:PROPERTIES:
-:EXPORT_FILE_NAME: week13
-:EXPORT_HUGO_TAGS: duty morality obligation responsibility will 
-:END:
 
-This week we start our discussion of Kant's moral theory. We'll discuss
-the aims and structure of the /Groundwork/ and then move on to section one
-and Kant's notion of a "good will", acting in accordance with a maxim,
-and his related theory of obligation.
-
-- [[file:static/materials/handouts/handout11-groundworkI.pdf][Handout]]
-
-*** Readings
-- /Groundwork/, Preface & section I: 4:387-405 
-- Korsgaard, '[[https://www.dropbox.com/s/1cx66fff65g3skm/korsgaard1998_Introduction.pdf?dl=0][Introduction]]', preface and first section 
-- Optional: Korsgaard, [[https://www.dropbox.com/s/0ry2ckxkj3q34is/korsgaard1989a_Kant%27s_Analysis_of_Obligation-_The_Argument_of_%22Foundations_I%22.pdf?dl=0]['Kant's Analysis of Obligation']]
-- Optional: Potter, [[https://www.dropbox.com/s/oire3a2wggk80ur/potter1998_the_argument_of_kants_groundwork%2C_chapter_i.pdf?dl=0]['The Argument of Kant's Groundwork, chapter 1']]
-- [[file:static/materials/handouts/handout11-groundworkI.pdf][Handout]]
-
-
-*** Questions
-- What does Kant think the science of morality/ethics concerns?
-- Why do we need a metaphysics of morals?
-- What is the aim of the /Groundwork/?
-- What is a 'maxim'?
-- Why is a good will good?
-- What is the relationship between acting from duty/obligation and acting morally?
 
 ** DONE Week 14 - Groundwork II
 SCHEDULED: <2018-11-20 Tue>
