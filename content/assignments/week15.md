@@ -14,6 +14,8 @@ and structure of the _Groundwork_ and then move on to section one and Kant&rsquo
 notion of a &ldquo;good will&rdquo;, acting in accordance with a maxim, and his related
 theory of obligation.
 
+-   [Handout](/materials/handouts/handout11-groundworkI.pdf)
+
 
 ## Readings {#readings}
 
