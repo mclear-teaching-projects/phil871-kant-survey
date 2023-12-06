@@ -1,6 +1,6 @@
 +++
 title = "Week 16 - Groundwork II"
-publishDate = 2023-12-06T00:00:00-05:00
+publishDate = 2023-12-06T00:00:00-06:00
 tags = ["duty", "morality", "obligation", "responsibility", "will", "law", "universality"]
 draft = false
 weight = -100
@@ -11,7 +11,7 @@ type = "post"
 
 This week we end by looking at Kant&rsquo;s famous division of practical imperatives into those of hypothetical and categorical form. We&rsquo;ll discuss Kant&rsquo;s conception of a will, how it acts on imperatives, and the broader conception of agency in which this fits. We&rsquo;ll also look at the various formulations of the moral law, and raise some questions concerning how they all fit together.
 
--   [Handout](/materials/handouts/handout12-groundworkII.pdf)
+-   [Handout](/materials/handouts/handout12-KantGroundworkII.pdf)
 
 
 ## Readings {#readings}
